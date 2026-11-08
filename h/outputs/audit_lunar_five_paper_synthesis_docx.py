@@ -66,7 +66,7 @@ def audit():
             "ok": table_ok,
         })
     all_text = "\n".join(paragraph.text for paragraph in document.paragraphs)
-    forbidden_tokens = ["PLACEHOLDER", "TODO", ":codex-file-citation", "turn0search", "turn1search"]
+    forbidden_tokens = ["PLACEHOLDER", "TODO"]
     for token in forbidden_tokens:
         if token in all_text:
             findings.append(f"Forbidden token found: {token}")

@@ -1,4 +1,4 @@
-"""Create the thread-local inline visualization for the S12 comparison PNG."""
+"""Create the S12 comparison HTML figures."""
 
 from __future__ import annotations
 
@@ -9,9 +9,7 @@ from pathlib import Path
 SCRIPT = Path(__file__).resolve()
 SUBMISSION_ROOT = SCRIPT.parents[1]
 FIGURE_DIR = SUBMISSION_ROOT / "figures" / "low_velocity"
-VIS_DIR = Path(
-    r"C:\Users\Administrator\.codex\visualizations\2026\08\14\019fff28-00c3-7a03-81d2-ccaa3cc41926"
-)
+VIS_DIR = SUBMISSION_ROOT / "reports" / "interactive"
 VISUALS = (
     (
         "Figure_S12_M1_M6_observed_three_component.png",

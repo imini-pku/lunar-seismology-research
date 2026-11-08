@@ -1,47 +1,48 @@
 # 月震数值模拟与区域散射研究
 
-本仓库保留两个原科研项目的代码、配置、分析表、图件、报告、论文及补充材料。网页可直接浏览主要文件；完整原文件按原目录结构存入 Release，包括原始与处理数据、历史成果包和大型二进制文件。这里没有用合成演示替换原项目。
+研究月表起伏、浅层结构与介质非均匀性对月震三分量波形、能量分布和持续时间的影响，并整理区域散射评估所需的观测数据、地形与参考模型。
 
-## 两个项目
+## 研究问题
 
-| 原项目 | 已有内容与状态 | 阅读入口 |
-|---|---|---|
-| **h：月震三维数值模拟与统计分析** | 使用课题组已有求解器，开展成组模型比较、三分量时序分析、特征提取、距离与空间差异检查，保留 6 种配置的分析与科研文稿。研究起于 2025-03，持续进行；论文已重新提交，二次审稿尚未完成。 | [原项目说明](h/jgr_planets_submission/README.md) · [分析代码](h/jgr_planets_submission/code) · [派生结果](h/jgr_planets_submission/data/derived) · [报告](h/jgr_planets_submission/reports) |
-| **月球散射强度评估** | 保存 Apollo 事件与台站核对、公开波形筛选、LOLA 地形、参考模型、三区域结构设计及处理结果。已有 9 个事件、21 对事件与台站、60 个实际分量的检查记录；新 CGFD3D 波场模拟与最终区域反演尚未完成。 | [原项目说明](月球散射强度评估/README.md) · [代码](月球散射强度评估/code) · [完整研究设计](月球散射强度评估/docs/研究设计总册_20261029) · [结果](月球散射强度评估/results) |
+- 成组模型之间的波形差异，能否与地形、浅层结构及非均匀介质设置相对应？
+- 峰值、包络和累计能量等指标如何随传播距离与路径变化？
+- 公开 Apollo 记录中的缺样、仪器状态和噪声，如何影响后续比较与反演的准入？
 
-原文件包含不同日期的历史方案与结果；保留原样以便追溯。判断当前状态时，先读各项目 README 顶部最新说明，不能把旧方案中的待执行清单当作已完成实验。
+## 数据与方法
 
-## 直接查看已有成果
-
-- [月球地形、分层、散射与低速层综合分析报告（M1–M6 映射修订版）](h/jgr_planets_submission/reports/月球地形_分层_散射_低速层全模型综合分析报告_证据分级终审版_M1-M6映射修订版.pdf)
-- [低速层专题分析报告（M1–M6 映射修订版）](h/jgr_planets_submission/reports/低速层模型详细数据分析报告_REL3标准_证据分级终审版_M1-M6映射修订版.pdf)
-- [科研稿件与双语版本](h/jgr_planets_submission/manuscript) · [Supporting Information](h/jgr_planets_submission/supporting_information)
-- [区域散射研究阅读指南](月球散射强度评估/docs/研究设计总册_20261029/00_阅读指南与总体方案.md)
-- [公开作者波形与代码核查](月球散射强度评估/docs/16_作者公开波形筛选与代码复现_20261103.md)
-- [作者基础预处理图册](月球散射强度评估/figures/published_waveforms_20261103/Apollo_作者基础预处理_13页.pdf)
-
-## 下载完整原项目
-
-前往 [完整文件 Release](https://github.com/imini-pku/lunar-seismology-research/releases/latest)。三个 ZIP 均为独立完整压缩包，**解压到同一个父目录**，即可合并为原有的 `h/` 与 `月球散射强度评估/` 结构，无需改名或手工搬动内部文件。
-
-| 资产 | 内容 |
+| 项目 | 数据与分析 |
 |---|---|
-| [lunar-h-original-project.zip](https://github.com/imini-pku/lunar-seismology-research/releases/latest/download/lunar-h-original-project.zip) | h 的完整研究文件：分析代码、模型配置、原始模拟数据、派生表、报告、图件、本人论文与补充材料、既有成果包。 |
-| [lunar-scattering-original-project.zip](https://github.com/imini-pku/lunar-seismology-research/releases/latest/download/lunar-scattering-original-project.zip) | 区域散射项目的完整工作文件：源码、配置、观测与处理数据、实际使用的原生 LOLA 条带/裁片、图件、研究设计、结果与原有成果包。 |
-| [lunar-scattering-original-dem.zip](https://github.com/imini-pku/lunar-seismology-research/releases/latest/download/lunar-scattering-original-dem.zip) | 原 `data/raw/dem/` 的 5 个历史文件，单独保存以保持原目录全貌。详见下方历史 DEM 说明。 |
+| [月震三维模拟与统计分析](h/jgr_planets_submission/README.md) | 6 种模型配置、575 个模拟接收点的三分量时序；使用已有求解器输出，进行滤波、包络与累计能量计算、成组比较、距离控制与敏感性分析。 |
+| [月球散射强度评估](月球散射强度评估/README.md) | 9 次人工撞击、21 对事件与台站、60 个实际观测分量；核对原始记录、仪器与处理状态，结合 LOLA 地形和文献参考模型开展区域结构设计。 |
 
-精确大小、文件数与 SHA-256 见 [发布资产清单](publication/release_assets_manifest.json) 和 [SHA256SUMS](publication/SHA256SUMS.txt)。每个 ZIP 内附自己的逐文件 SHA-256 清单。源文件内容未经改写；压缩与目录归档只改变承载方式。
+代码、参数口径、来源记录和结果表分别位于各项目的 `code/`、`config/`、`data/`、`results/` 与 `provenance/` 中。模拟接收点与真实观测台站分别统计。
 
-**历史 DEM 说明：**原 `ldem_64_float.img` 的尺寸不符合其产品标签，原研究已明确停止用它绘制新结果。本次因完整保留原文件而将它单独归档，不把它标为有效分析输入。当前使用的原生条带与裁片在主包 `data/raw/lola_impact_64/` 内，来源和读取方法见[原始说明](月球散射强度评估/data/raw/lola_impact_64/README.md)。
+## 研究成果
 
-## 使用与复现
+- [全模型综合分析报告（M1–M6 映射修订版）](h/jgr_planets_submission/reports/月球地形_分层_散射_低速层全模型综合分析报告_证据分级终审版_M1-M6映射修订版.pdf)
+- [低速层专题分析报告（M1–M6 映射修订版）](h/jgr_planets_submission/reports/低速层模型详细数据分析报告_REL3标准_证据分级终审版_M1-M6映射修订版.pdf)
+- [分析代码](h/jgr_planets_submission/code) · [派生结果表](h/jgr_planets_submission/data/derived) · [科研稿件](h/jgr_planets_submission/manuscript) · [Supporting Information](h/jgr_planets_submission/supporting_information)
+- [区域散射研究设计](月球散射强度评估/docs/研究设计总册_20261029/00_阅读指南与总体方案.md)
+- [公开波形与处理方法核查](月球散射强度评估/docs/16_作者公开波形筛选与代码复现_20261103.md) · [基础预处理图册](月球散射强度评估/figures/published_waveforms_20261103/Apollo_作者基础预处理_13页.pdf)
 
-先下载所需完整 ZIP，恢复目录后按各原项目说明安装依赖、选择对应脚本。部分历史脚本保留本地路径配置，需按自己的存放位置修改 `config` 或运行参数。仅克隆网页展示文件，不会得到大型 NetCDF、MiniSEED、NPZ 或 DEM。
+## 当前阶段
 
-这是既有科研资料的完整归档与展示，本次没有重新运行全部数值模拟，也没有把源项目尚未完成的步骤改写为完成。Git 中可浏览文件的逐文件校验见 [repository_file_manifest.json](publication/repository_file_manifest.json)。
+三维模拟分析项目始于 2025-03，持续进行；论文已重新提交，二次审稿尚未完成。区域评估已有数据检查、处理结果与结构设计，新 CGFD3D 波场模拟和最终区域反演尚未完成。逐条清洗中的图件检查属于初步检查，独立研究复核待完成。
 
-## 整理范围与来源
+不同日期的研究材料保留在各自目录。当前方案以各项目 README 顶部及对应文件日期为准，历史待执行清单不代表已经运行。
 
-仅排除本机工具/运行缓存、Office 锁文件、私密审稿往来及投稿联系信、第三方全文文献库。原始公开数据的来源说明、标签、下载记录和第三方作者声明随文件保留；不把 Apollo、LOLA 或他人公开代码写成本人原创。具体说明见 [归档排除说明](publication/排除与保留说明.md) 和 [来源与权利说明](NOTICE.md)。
+## 下载与复现
 
-科研数据处理、代码和材料整理使用过 AI 辅助工具；原始分析、历史版本与本次归档工作在文件中分别保留，不据此声称独立开发了底层波场求解器。
+完整资料见 [最新 Release](https://github.com/imini-pku/lunar-seismology-research/releases/latest)。将三个 ZIP **解压到同一个父目录**，合并得到 `h/` 与 `月球散射强度评估/` 两个目录。
+
+| 完整包 | 内容 |
+|---|---|
+| [lunar-h-original-project.zip](https://github.com/imini-pku/lunar-seismology-research/releases/latest/download/lunar-h-original-project.zip) | 三维模拟分析代码、配置、原始与派生数据、图件、完整报告、论文与补充材料。 |
+| [lunar-scattering-original-project.zip](https://github.com/imini-pku/lunar-seismology-research/releases/latest/download/lunar-scattering-original-project.zip) | 区域评估代码、观测与处理数据、当前使用的原生 LOLA 条带/裁片、图件、结果与研究设计。 |
+| [lunar-scattering-original-dem.zip](https://github.com/imini-pku/lunar-seismology-research/releases/latest/download/lunar-scattering-original-dem.zip) | `data/raw/dem/` 的历史数据文件。 |
+
+**历史 DEM：**`ldem_64_float.img` 的文件尺寸与产品标签不符，已停止用于新地图。当前有效输入在主包的 `data/raw/lola_impact_64/` 中，参见[来源与读取说明](月球散射强度评估/data/raw/lola_impact_64/README.md)。
+
+恢复目录后，按原项目说明安装依赖并调整本机路径配置，再运行对应脚本。仅克隆仓库中的可浏览文件，不包含大型 NetCDF、MiniSEED、NPZ 和 DEM。
+
+完整包的大小与校验值见 [资产清单](publication/release_assets_manifest.json) 和 [SHA256SUMS](publication/SHA256SUMS.txt)；每包内另有逐文件校验清单。[来源与权利说明](NOTICE.md)记录外部数据和代码的归属。

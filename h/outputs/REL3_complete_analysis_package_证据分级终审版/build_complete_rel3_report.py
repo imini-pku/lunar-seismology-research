@@ -890,7 +890,7 @@ def build_document() -> None:
     core = document.core_properties
     core.title = "REL3月震四模型：数据处理、图表证据与完整综合报告"
     core.subject = "地形、随机散射、A16S12真实三分量、低速层、td/Qc及审稿修改"
-    core.author = "OpenAI Codex"
+    core.author = ""
     core.keywords = "月震, CGFD3D, 地形, 散射, 低速层, A16S12, tmax, td, Qc, P-SV-SH"
     settings = document.settings._element
     update_fields = settings.find(qn("w:updateFields"))

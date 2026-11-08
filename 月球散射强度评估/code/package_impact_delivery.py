@@ -107,7 +107,7 @@ def add(p):
     elif p.is_dir(): selected.update(q for q in p.rglob('*') if q.is_file())
 for rel in ['docs/10_撞击事件台站与模拟域审计.md','docs/11_按撞击路径约束的散射模型设计.md','docs/08_区域散射参考模型与参数范围.md','docs/09_CGFD3D散射建模与波形筛选方案.md','docs/scattering_references.bib','results/impact_audit','results/scattering_models','figures/impact_audit','data/raw/impact_waveforms_darts','data/raw/impact_modern','data/raw/impact_metadata','data/processed/impact_reference','requirements_impact.txt']:
     add(ROOT/rel)
-for pattern in ['results/impact*.*','reports/impact*.*','reports/instrument_band_agent.md','code/*impact*.py','code/build_scattering_models.py','code/validate_and_plot_model_design.py','config/scattering*']:
+for pattern in ['results/impact*.*','reports/impact*.*','reports/instrument_band_audit.md','code/*impact*.py','code/build_scattering_models.py','code/validate_and_plot_model_design.py','config/scattering*']:
     for p in ROOT.glob(pattern): add(p)
 for p in OUT.iterdir():
     if p.is_file() and p.suffix.lower()!='.zip': add(p)

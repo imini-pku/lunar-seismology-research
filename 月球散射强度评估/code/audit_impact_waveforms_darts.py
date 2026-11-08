@@ -201,7 +201,7 @@ def report(rows, summary, meta):
       '- [SAC 官方格式说明](https://ds.iris.edu/files/sac-manual/manual/file_format.html)',
       '- [Nunn et al. (2022): 新 Apollo PSE 档案与通道故障处理](https://doi.org/10.3847/PSJ/ac87af)',
       '', '本报告完成实际记录下载与初步审计；未将文件存在、频谱阈值通过或统一显示滤波等同于正式可反演记录。']
-    (ROOT/'reports'/'impact_waveform_agent.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
+    (ROOT/'reports'/'impact_waveform_audit.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
 
 def figures(rows, traces):
     import matplotlib

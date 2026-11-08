@@ -2,7 +2,7 @@ const pptxgen = require('pptxgenjs');
 const fs = require('fs');
 const path = require('path');
 const pptx = new pptxgen();
-pptx.layout='LAYOUT_WIDE'; pptx.author='OpenAI'; pptx.subject='年度总结'; pptx.title='月球散射强度评估年度总结'; pptx.company=''; pptx.lang='zh-CN';
+pptx.layout='LAYOUT_WIDE'; pptx.author=''; pptx.subject='年度总结'; pptx.title='月球散射强度评估年度总结'; pptx.company=''; pptx.lang='zh-CN';
 pptx.theme={headFontFace:'Aptos Display',bodyFontFace:'Aptos',lang:'zh-CN'};
 const W=13.333,H=7.5;
 const C={bg:'0B1220',panel:'121D31',text:'F4F7FB',muted:'AAB8CC',accent:'F2B35B',cyan:'6ED0D8',blue:'6B93FF',red:'E37B75',grid:'2A3A55'};

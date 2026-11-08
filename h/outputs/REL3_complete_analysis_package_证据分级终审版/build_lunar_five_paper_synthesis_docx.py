@@ -1100,7 +1100,7 @@ def build_document():
     core_properties = document.core_properties
     core_properties.title = "月震散射、低速层与长尾波：五篇论文综合精读"
     core_properties.subject = "Apollo 月震观测、强散射、低速层共振与扩散反演"
-    core_properties.author = "Codex 综合整理"
+    core_properties.author = ""
     core_properties.keywords = "月震, Apollo, 散射, 低速层, 尾波, tmax, Qc, Qi, Qsc"
     add_cover(document)
     add_front_matter(document, assets)

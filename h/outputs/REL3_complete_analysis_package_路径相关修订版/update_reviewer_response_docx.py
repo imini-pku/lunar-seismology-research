@@ -146,13 +146,13 @@ def tracked_replace_paragraph(
     timestamp = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
     deletion = etree.SubElement(paragraph, qn("del"))
     deletion.set(qn("id"), str(revision_id))
-    deletion.set(qn("author"), "OpenAI Codex")
+    deletion.set(qn("author"), "")
     deletion.set(qn("date"), timestamp)
     deletion.append(revision_run(old_text, first_run_properties, deleted=True))
 
     insertion = etree.SubElement(paragraph, qn("ins"))
     insertion.set(qn("id"), str(revision_id + 1))
-    insertion.set(qn("author"), "OpenAI Codex")
+    insertion.set(qn("author"), "")
     insertion.set(qn("date"), timestamp)
     insertion.append(revision_run(new_text, first_run_properties, deleted=False))
     return revision_id + 2

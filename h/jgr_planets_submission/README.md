@@ -29,7 +29,6 @@ The principal conclusion is deliberately bounded: topography and shallow heterog
 - `reports/`: focused technical reports, including the half-space report, the 33-page low-velocity-layer report, and the 91-page six-model synthesis report.
 - `config/data_catalog.json`: machine-readable path inventory joining the half-space archive and the A16/S12 archive.
 - `provenance/TERRAIN_DATA_AUDIT.md`: verified terrain-grid orientation and MATLAB-equivalent sampling rule. All terrain-derived calculations use the first matrix dimension as `x` and the second as `y`, equivalent to NumPy `raw[x_index, y_index]`.
-- `JGR_PLANETS_WRITING_STANDARD.md`: current AGU/JGR requirements, recent-article writing patterns, and project-specific editing rules.
 
 ## Literature-output archive rule
 
