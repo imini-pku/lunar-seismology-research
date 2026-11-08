@@ -1,0 +1,132 @@
+{
+  "region": "S14",
+  "model_id": "M-S14",
+  "scope": "separate station-labelled effective model, not a shared W parameter vector",
+  "status": "REGIONAL_HYBRID_DESIGN_NOT_INVERTED_NOT_PRODUCTION_INPUT",
+  "station": {
+    "lat": -3.64419,
+    "lon": -17.47768,
+    "lola_height_km": -1.063
+  },
+  "planning_bounds_deg": [
+    -26.27896,
+    -10.16854,
+    -5.29308,
+    3.56989
+  ],
+  "bounds_note": "union of 50km buffered pair extents, not station-local geology boundary or validated PML extent",
+  "background": {
+    "table": "S14_背景参数.csv",
+    "sampled_profile": "S14_背景剖面采样.csv",
+    "same_fallback_as_other_regions": false,
+    "shallow_layers": [
+      {
+        "top_km": 0,
+        "bottom_km": 0.06,
+        "vp": 0.3,
+        "vs": 0.2,
+        "published_rho": 2400,
+        "adopted_rho": 2400,
+        "density_evidence": "I: sample-informed Amrouche surface approximation"
+      },
+      {
+        "top_km": 0.06,
+        "bottom_km": 0.2,
+        "vp": 2.4,
+        "vs": 1.4,
+        "published_rho": 3200,
+        "adopted_rho": 2762,
+        "density_evidence": "G: Garcia2011 mean crust fallback; intermediate fitted density lacks independent local confirmation"
+      },
+      {
+        "top_km": 0.2,
+        "bottom_km": 0.5,
+        "vp": 4.0,
+        "vs": 3.0,
+        "published_rho": 4500,
+        "adopted_rho": 2762,
+        "density_evidence": "G: Garcia2011 mean crust fallback; Amrouche fitted density not adopted"
+      }
+    ],
+    "regional_moho_local_km": 37.5,
+    "regional_moho_sd_km": 3.5,
+    "moho_reference_depth_km": 38.563,
+    "geometry": "R=1737.4 km; d=z_ref+h(x,y); shallow interfaces at d=0.06/0.12 and 0.20/0.25/0.30; splice d=0.5..1; Moho z_ref=H_station-h_station",
+    "lateral_extension": "station column assumed representative throughout its own event domain; NOT a measured 3D regional model",
+    "network_crust_vp_vs": [
+      5.2,
+      3.0
+    ],
+    "crust_density": 2762,
+    "mantle_velocity": "ISSI_MOON_M2.nd",
+    "mantle_density": "MoonGarcia_PEPI_2011.nd",
+    "Q": {
+      "Qkappa": 1000000.0,
+      "Qmu_crust": 5000,
+      "Qmu_upper_mantle": 2133,
+      "Qp": "local background Vp/Vs conversion",
+      "source": "10.3847/PSJ/ad83d2"
+    },
+    "source_constraints_sha256": "cb00274db172e1e53cd9156104929919b2cfea8c5dd80315835acb595ab0e875",
+    "limitations": [
+      "Amrouche shallow velocity models are nonunique and use unphysical-looking fitted densities that are replaced here; not an HVSR reproduction",
+      "S14 basement Vp/Vs=4/3 gives Poisson ratio -1/7; mechanically stable but weakly constrained lunar-rock interpretation",
+      "splicing changes the shallow travel-time correction used by Zhang; adopted Moho is a prior, not a jointly re-inverted hybrid solution",
+      "regional station column extension along full event corridors is an unmeasured lateral homogeneity assumption"
+    ]
+  },
+  "scattering": {
+    "parameter_id": "theta_S14",
+    "independent_of_other_station_parameters": true,
+    "family": "3D von Karman",
+    "nu": 0.5,
+    "initial": {
+      "a_km": 4.5,
+      "sigma0": 0.09,
+      "b": 0.5555555555555556,
+      "H_km": 10
+    },
+    "a_search_km": [
+      0.2,
+      0.65,
+      1.3,
+      2,
+      4.5,
+      6
+    ],
+    "sigma0_search": [
+      0.05,
+      0.09,
+      0.1,
+      0.15
+    ],
+    "b_search": [
+      0.5555555555555556,
+      0.85,
+      1
+    ],
+    "H_search_km": [
+      3.5,
+      5,
+      10,
+      20
+    ],
+    "weak_sigma": 0.01,
+    "estimated_parameters": null
+  },
+  "train": [
+    "A15SIVB",
+    "A16SIVB"
+  ],
+  "holdout": [
+    "A14LM"
+  ],
+  "pairs": [
+    "A14LM_S14",
+    "A15SIVB_S14",
+    "A16SIVB_S14"
+  ],
+  "reference_section": "A14LM_S14",
+  "local_evidence": "Amrouche2022 Fig11 + Zhang2026 TableS8; density replacement and splice explicitly project choices",
+  "version": "2026-11-05-regional-v2"
+}

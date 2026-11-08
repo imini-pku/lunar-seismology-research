@@ -1,0 +1,88 @@
+{
+  "region": "S12",
+  "model_id": "M-S12",
+  "scope": "separate station-labelled effective model, not a shared W parameter vector",
+  "status": "DESIGN_NOT_INVERTED_NOT_PRODUCTION_INPUT",
+  "station": {
+    "lat": -3.0098,
+    "lon": -23.4249,
+    "lola_height_km": -1.4285
+  },
+  "planning_bounds_deg": [
+    -29.54186,
+    -10.17014,
+    -9.82989,
+    3.56989
+  ],
+  "bounds_note": "union of 50km buffered pair extents, not station-local geology boundary or validated PML extent",
+  "background": {
+    "origin": "Garcia2011 archived by Garcia2019",
+    "table": "S12_背景参数.csv",
+    "source_sha256": "26e5719b9a96eccfb9d4657c89df0fe82e6ae5dcabecfef8b18cfa7355e77d77",
+    "same_fallback_as_other_regions": true,
+    "surface": "LOLA",
+    "interfaces": "surface depth1 km; reference depth12 and28 km",
+    "Q_interpolation": "linear between original nodes; no smoothing across repeated-depth jumps"
+  },
+  "scattering": {
+    "parameter_id": "theta_S12",
+    "independent_of_other_station_parameters": true,
+    "family": "3D von Karman",
+    "nu": 0.5,
+    "initial": {
+      "a_km": 4.5,
+      "sigma0": 0.09,
+      "b": 0.5555555555555556,
+      "H_km": 10
+    },
+    "a_search_km": [
+      0.2,
+      0.65,
+      1.3,
+      2,
+      4.5,
+      6
+    ],
+    "sigma0_search": [
+      0.05,
+      0.09,
+      0.1,
+      0.15
+    ],
+    "b_search": [
+      0.5555555555555556,
+      0.85,
+      1
+    ],
+    "H_search_km": [
+      3.5,
+      5,
+      10,
+      20
+    ],
+    "weak_sigma": 0.01,
+    "estimated_parameters": null
+  },
+  "train": [
+    "A14SIVB",
+    "A16SIVB",
+    "A15SIVB"
+  ],
+  "holdout": [
+    "A12LM",
+    "A13SIVB",
+    "A14LM",
+    "A17SIVB"
+  ],
+  "pairs": [
+    "A12LM_S12",
+    "A13SIVB_S12",
+    "A14SIVB_S12",
+    "A14LM_S12",
+    "A15SIVB_S12",
+    "A16SIVB_S12",
+    "A17SIVB_S12"
+  ],
+  "reference_section": "A16SIVB_S12",
+  "local_evidence": "Kim2025局地壳厚32.2±6.7 km、平均Vs=2.6±0.4 km/s；Onodera2022对A14/A16 SIVB→S12给出直接三维散射建模参照。"
+}

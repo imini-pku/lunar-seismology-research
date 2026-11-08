@@ -1,0 +1,33 @@
+{
+  "prepared_on": "2026-11-08",
+  "extract_to_same_parent": true,
+  "assets": [
+    {
+      "filename": "lunar-h-original-project.zip",
+      "bytes": 1730228229,
+      "sha256": "ec7bad7057f8d03a57a64566921544f8071dc5f91a92a0c38d900250276966b3",
+      "source_file_count": 1239,
+      "source_bytes": 1941881610,
+      "zip_entries": 1240,
+      "crc_check": "passed"
+    },
+    {
+      "filename": "lunar-scattering-original-dem.zip",
+      "bytes": 1005590150,
+      "sha256": "9c19bca23f82d709f4d371506bf59f1126e9611939648b345e52f248818d49d9",
+      "source_file_count": 5,
+      "source_bytes": 1113879096,
+      "zip_entries": 6,
+      "crc_check": "passed"
+    },
+    {
+      "filename": "lunar-scattering-original-project.zip",
+      "bytes": 1408229322,
+      "sha256": "2d86d0bfca48c462e1435746c5bc003beba9622c338f9ac6f324783df05a49bb",
+      "source_file_count": 1384,
+      "source_bytes": 1932421406,
+      "zip_entries": 1385,
+      "crc_check": "passed"
+    }
+  ]
+}

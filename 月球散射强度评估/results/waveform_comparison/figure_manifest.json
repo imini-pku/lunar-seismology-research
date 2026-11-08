@@ -1,0 +1,1409 @@
+[
+  {
+    "name": "A12LM_S12_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A12LM",
+      "station": "S12",
+      "distance_published_km": "73.5",
+      "distance_published_deg": "2.4",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A12LM_S12_three_stages.png",
+        "bytes": 443616,
+        "sha256": "7de27882f441e13ca812aa0fc600167c3814ac793fa0d8e8debc90c99258770f"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A12LM_S12_three_stages.pdf",
+        "bytes": 1895805,
+        "sha256": "bab8e23f7cdce5fc448b10e6dce5f81da97a79e62d921f6534a6c621ae0ff8af"
+      }
+    ]
+  },
+  {
+    "name": "A12LM_raw_archive_overview",
+    "kind": "raw_archive_overview",
+    "size_inches": [
+      15.7,
+      5.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A12LM",
+      "time_axis": "original MiniSEED nominal"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A12LM_raw_archive_overview.png",
+        "bytes": 273317,
+        "sha256": "338d072bf2a98d50983480ed5f4e83fba5729ea22e4c230518b209f434830abe"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A12LM_raw_archive_overview.pdf",
+        "bytes": 487465,
+        "sha256": "6c76f36d25dd54df9fa21418e9298d34008637258fd6814157d804e2e84c588a"
+      }
+    ]
+  },
+  {
+    "name": "A12LM_processed_03_09_overview",
+    "kind": "processed_03_09_overview",
+    "size_inches": [
+      15.7,
+      5.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A12LM",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A12LM_processed_03_09_overview.png",
+        "bytes": 217806,
+        "sha256": "1157397a2e76dc9bfc5cf95ccbaf5f262c1cbeb0e161683d6310d7ec01ff531d"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A12LM_processed_03_09_overview.pdf",
+        "bytes": 774098,
+        "sha256": "d3e4f456e6ff7c8c35606ca8faba777c234abebb90abc23d5bbc0952c80e3443"
+      }
+    ]
+  },
+  {
+    "name": "A12LM_literature_displacement_03_05_overview",
+    "kind": "literature_displacement_03_05_overview",
+    "size_inches": [
+      15.7,
+      5.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A12LM",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A12LM_literature_displacement_03_05_overview.png",
+        "bytes": 196105,
+        "sha256": "71ebe9abe226a425cdb9ac7bf485bc75b439120f2699bba05d71a7081c04f99b"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A12LM_literature_displacement_03_05_overview.pdf",
+        "bytes": 759575,
+        "sha256": "23daf4ba30804b8fddf3e65987895d0acd7407c4fc17357b678ad5ccb6e87fc2"
+      }
+    ]
+  },
+  {
+    "name": "A13SIVB_S12_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A13SIVB",
+      "station": "S12",
+      "distance_published_km": "135.9",
+      "distance_published_deg": "4.5",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A13SIVB_S12_three_stages.png",
+        "bytes": 429824,
+        "sha256": "d81e866da65a0fc857889d8e25d6fcad3add79f980cb50e8566c582a2c16c43d"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A13SIVB_S12_three_stages.pdf",
+        "bytes": 2039560,
+        "sha256": "dfffedb0a53b9168db8d9910452d9fc44c0f06ff7f23fc8924fed44db0626ced"
+      }
+    ]
+  },
+  {
+    "name": "A13SIVB_raw_archive_overview",
+    "kind": "raw_archive_overview",
+    "size_inches": [
+      15.7,
+      5.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A13SIVB",
+      "time_axis": "original MiniSEED nominal"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A13SIVB_raw_archive_overview.png",
+        "bytes": 211296,
+        "sha256": "103dc04719633c9a81b852a4938048cf6cc670e423f870327a102f505d9f908a"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A13SIVB_raw_archive_overview.pdf",
+        "bytes": 579572,
+        "sha256": "1bf8ee547dd5230fc56e4e29fdfa3c0f3fb85ae616316085084f92d6d50b1231"
+      }
+    ]
+  },
+  {
+    "name": "A13SIVB_processed_03_09_overview",
+    "kind": "processed_03_09_overview",
+    "size_inches": [
+      15.7,
+      5.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A13SIVB",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A13SIVB_processed_03_09_overview.png",
+        "bytes": 220864,
+        "sha256": "a2fbe009713f6021d8e1e3aebeb3500bfd93653e74c87c117307826a996b2dea"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A13SIVB_processed_03_09_overview.pdf",
+        "bytes": 781911,
+        "sha256": "f52a7ce7f26d314c1ee8056e97da6f19e9862c2ca3af1b748565702784a0f34c"
+      }
+    ]
+  },
+  {
+    "name": "A13SIVB_literature_displacement_03_05_overview",
+    "kind": "literature_displacement_03_05_overview",
+    "size_inches": [
+      15.7,
+      5.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A13SIVB",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A13SIVB_literature_displacement_03_05_overview.png",
+        "bytes": 239856,
+        "sha256": "573fcd78b0f8f1f4ac81a44ef0974f705a3547251e69afb72ef885eacd7c353a"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A13SIVB_literature_displacement_03_05_overview.pdf",
+        "bytes": 791832,
+        "sha256": "61eba5a965f0ffdfbfb93ba74fee35ac0bfb90372547f324f90407b11a80dc14"
+      }
+    ]
+  },
+  {
+    "name": "A14SIVB_S12_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A14SIVB",
+      "station": "S12",
+      "distance_published_km": "175.4",
+      "distance_published_deg": "5.8",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; 2022 Onodera also uses three rotated components",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A14SIVB_S12_three_stages.png",
+        "bytes": 479816,
+        "sha256": "14cf4ce698947850b204f5b4809b90db7be5fb5347ec438e55c12d82484f93d5"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A14SIVB_S12_three_stages.pdf",
+        "bytes": 2224619,
+        "sha256": "8d9dce3c7f4e9f79c05e1b0a407247801e9caaece714b8ebbd61e7784e45bc28"
+      }
+    ]
+  },
+  {
+    "name": "A14SIVB_raw_archive_overview",
+    "kind": "raw_archive_overview",
+    "size_inches": [
+      15.7,
+      5.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A14SIVB",
+      "time_axis": "original MiniSEED nominal"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A14SIVB_raw_archive_overview.png",
+        "bytes": 222016,
+        "sha256": "7c73311db1e401f06d4bedfa48e2e8cdbfff3bdcd7a538a6890d5b328fde3ef8"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A14SIVB_raw_archive_overview.pdf",
+        "bytes": 583026,
+        "sha256": "442f658571d63baaa1fc1a123ad72b02eacf2bb082b1097f7926d92f9ce848d8"
+      }
+    ]
+  },
+  {
+    "name": "A14SIVB_processed_03_09_overview",
+    "kind": "processed_03_09_overview",
+    "size_inches": [
+      15.7,
+      5.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A14SIVB",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A14SIVB_processed_03_09_overview.png",
+        "bytes": 260692,
+        "sha256": "3fade38d2f8cfd539f246a8e010a405756a3b3db8ab2445042516c9b75e8ca2c"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A14SIVB_processed_03_09_overview.pdf",
+        "bytes": 864306,
+        "sha256": "46f8b9d2521be5f1d18b75b3d6078a98cb8f045ff3899f9c886bb57210299e25"
+      }
+    ]
+  },
+  {
+    "name": "A14SIVB_literature_displacement_03_05_overview",
+    "kind": "literature_displacement_03_05_overview",
+    "size_inches": [
+      15.7,
+      5.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A14SIVB",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A14SIVB_literature_displacement_03_05_overview.png",
+        "bytes": 255729,
+        "sha256": "7c9f9284393b2a652b4c14c9bb33c68461402b8f139279c5b701b49c5742911b"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A14SIVB_literature_displacement_03_05_overview.pdf",
+        "bytes": 866175,
+        "sha256": "1299f52b5b7064c94298298490b073bb7081b2ba626320b916e5e22d5f43c6ae"
+      }
+    ]
+  },
+  {
+    "name": "A14LM_S12_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A14LM",
+      "station": "S12",
+      "distance_published_km": "115.3",
+      "distance_published_deg": "3.8",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A14LM_S12_three_stages.png",
+        "bytes": 413208,
+        "sha256": "aa6a790b6faf8151a0accf398f51e41e19274c31c4b57563f4d172adf00c5c89"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A14LM_S12_three_stages.pdf",
+        "bytes": 1979760,
+        "sha256": "1691a146baf01c04da245478a9ad9d2eca962a9f2166ae5977be21a8cf0db148"
+      }
+    ]
+  },
+  {
+    "name": "A14LM_S14_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A14LM",
+      "station": "S14",
+      "distance_published_km": "65.7",
+      "distance_published_deg": "2.2",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; 1971 artificial impact used for three-component HVSR by Amrouche 2022",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A14LM_S14_three_stages.png",
+        "bytes": 407120,
+        "sha256": "f46952a08ec228947fdc75dcb04eaf0960289b681bb6cde19c2909a80f44fdb3"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A14LM_S14_three_stages.pdf",
+        "bytes": 2053710,
+        "sha256": "db38d71c29b8ecf55654542ed8eb9b406b4a34d1b9035b328012f42aa57abd78"
+      }
+    ]
+  },
+  {
+    "name": "A14LM_raw_archive_overview",
+    "kind": "raw_archive_overview",
+    "size_inches": [
+      15.7,
+      7.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A14LM",
+      "time_axis": "original MiniSEED nominal"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A14LM_raw_archive_overview.png",
+        "bytes": 305913,
+        "sha256": "b19d62677f6b8c5d8d03b96e90d24fca0c93a1f1373d5db846418319551ff08e"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A14LM_raw_archive_overview.pdf",
+        "bytes": 973135,
+        "sha256": "e6393d0a647988dfb115f0b84c762947cc7a2367f55a2dc173e4ddc39051e65d"
+      }
+    ]
+  },
+  {
+    "name": "A14LM_processed_03_09_overview",
+    "kind": "processed_03_09_overview",
+    "size_inches": [
+      15.7,
+      7.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A14LM",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A14LM_processed_03_09_overview.png",
+        "bytes": 308107,
+        "sha256": "204dc868cb76eb43b6879e91f829b046529a59fa1f39ab72ff05b0e5ec7dd44a"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A14LM_processed_03_09_overview.pdf",
+        "bytes": 1567059,
+        "sha256": "91695fc9b7ff93ca079d173c5a6d75d8830676f86aac638ff0cb8c56615690ee"
+      }
+    ]
+  },
+  {
+    "name": "A14LM_literature_displacement_03_05_overview",
+    "kind": "literature_displacement_03_05_overview",
+    "size_inches": [
+      15.7,
+      7.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A14LM",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A14LM_literature_displacement_03_05_overview.png",
+        "bytes": 300007,
+        "sha256": "0ad40b3851daa11a63c224ce652af4d9d4efa60dc2623af34e442422d1f93fad"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A14LM_literature_displacement_03_05_overview.pdf",
+        "bytes": 1554008,
+        "sha256": "f3fca106cb6a3817ee3f7b4fa1d719f1b0704626bd826070e400cb0e4ac98f2b"
+      }
+    ]
+  },
+  {
+    "name": "A15SIVB_S12_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15SIVB",
+      "station": "S12",
+      "distance_published_km": "355.3",
+      "distance_published_deg": "11.7",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15SIVB_S12_three_stages.png",
+        "bytes": 481236,
+        "sha256": "9bb648dd8791a28ecabb0f072b785ce5b9cfcf951a27caaf3dbd46e407e2823c"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15SIVB_S12_three_stages.pdf",
+        "bytes": 2017387,
+        "sha256": "4375cfae274781ed0dfbc2ef0d86bf17253cab7621da979ba4f20ff316ccddef"
+      }
+    ]
+  },
+  {
+    "name": "A15SIVB_S14_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15SIVB",
+      "station": "S14",
+      "distance_published_km": "185.5",
+      "distance_published_deg": "6.1",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; 1971 artificial impact used for three-component HVSR by Amrouche 2022",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15SIVB_S14_three_stages.png",
+        "bytes": 449471,
+        "sha256": "b6f83450e67af9002e53a356084a07ad14eee79c2777209a8ea715bf57505177"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15SIVB_S14_three_stages.pdf",
+        "bytes": 2090753,
+        "sha256": "6b26e18973e49c6192713e546b0a63cd5e36f6cfc1979ed0fde362b3438fe5a2"
+      }
+    ]
+  },
+  {
+    "name": "A15SIVB_raw_archive_overview",
+    "kind": "raw_archive_overview",
+    "size_inches": [
+      15.7,
+      7.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15SIVB",
+      "time_axis": "original MiniSEED nominal"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15SIVB_raw_archive_overview.png",
+        "bytes": 338104,
+        "sha256": "402b9809d44b7aca6290f6883dea0b152303018dc5e79cf27bd54578b60694b9"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15SIVB_raw_archive_overview.pdf",
+        "bytes": 1115150,
+        "sha256": "f4ce13aee1f3f2ecd5c601ae1e63553907f39437bf372e7bbd5c40432016b20c"
+      }
+    ]
+  },
+  {
+    "name": "A15SIVB_processed_03_09_overview",
+    "kind": "processed_03_09_overview",
+    "size_inches": [
+      15.7,
+      7.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15SIVB",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15SIVB_processed_03_09_overview.png",
+        "bytes": 351713,
+        "sha256": "84d9b8fc0fe25e0e6f4b078caed80284a72f111f8f60c596ea7d4be513d27309"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15SIVB_processed_03_09_overview.pdf",
+        "bytes": 1539512,
+        "sha256": "7d9036eade530d0cebb900101eda978db9966d28b811059a2dea1fe82cbd1829"
+      }
+    ]
+  },
+  {
+    "name": "A15SIVB_literature_displacement_03_05_overview",
+    "kind": "literature_displacement_03_05_overview",
+    "size_inches": [
+      15.7,
+      7.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15SIVB",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15SIVB_literature_displacement_03_05_overview.png",
+        "bytes": 346337,
+        "sha256": "3f5821ec64ce316202e18e8df7f65a0e625229181e551ed92632c8843b27a5cc"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15SIVB_literature_displacement_03_05_overview.pdf",
+        "bytes": 1527131,
+        "sha256": "8fe9b75f33ebf6638060dd030dc90c37424ab6b183ef0f67be4a8c0947a77d31"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_S12_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "station": "S12",
+      "distance_published_km": "1128.9",
+      "distance_published_deg": "37.2",
+      "nunn2024_clear": "false",
+      "component_caveat": "Recorded but low SNR; omitted from Figure 1; component not stated here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 asterisk",
+      "evidence_level": "published_detection_low_snr"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S12_three_stages.png",
+        "bytes": 371008,
+        "sha256": "8d797c754d58e6dc8e27fc156e28de8e9fff351f426f73a3e3f8e9f47dbb3f15"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S12_three_stages.pdf",
+        "bytes": 1879503,
+        "sha256": "af7c14a780c88e31a981d9e98600d8572e4d7c1a1d70a7eb7b1e8364586c64fd"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_S14_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "station": "S14",
+      "distance_published_km": "1047.8",
+      "distance_published_deg": "34.6",
+      "nunn2024_clear": "false",
+      "component_caveat": "Recorded but low SNR; omitted from Figure 1; component not stated here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 asterisk",
+      "evidence_level": "published_detection_low_snr"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S14_three_stages.png",
+        "bytes": 318249,
+        "sha256": "d07b5dbc5e28145d87d331a90d69e71bf349539d3c7322767d4aaab188fe5fef"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S14_three_stages.pdf",
+        "bytes": 1819793,
+        "sha256": "9b214b22baf3850c8b27be7257f5c51d7aba6c42b6bea7c7768a46642b742ae0"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_S15_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "station": "S15",
+      "distance_published_km": "92.2",
+      "distance_published_deg": "3.0",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S15_three_stages.png",
+        "bytes": 416863,
+        "sha256": "f0287400d2706ec1cb7a395de7c305f5df7b26a5e7ce1109ebe7196e9acc7373"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S15_three_stages.pdf",
+        "bytes": 1999697,
+        "sha256": "d3a053e5302926466b8aa1effa463c7297abc257a971e9721913e59795f9137c"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_raw_archive_overview",
+    "kind": "raw_archive_overview",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "time_axis": "original MiniSEED nominal"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_raw_archive_overview.png",
+        "bytes": 363713,
+        "sha256": "3a2f4ed139952b4ffeb45af37e24e839d964f5f62ca2cd7f810c6e42c41f9d63"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_raw_archive_overview.pdf",
+        "bytes": 1305854,
+        "sha256": "f30d77c98578ff42ad3c74e0b8f216856656d628eb8541ec67b7c7884d1d8abd"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_processed_03_09_overview",
+    "kind": "processed_03_09_overview",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_processed_03_09_overview.png",
+        "bytes": 392548,
+        "sha256": "95a4e81383f5e66d0623a8ad639bc9ce7b6a9a34a58b2e1cba467dc275ad733d"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_processed_03_09_overview.pdf",
+        "bytes": 2195342,
+        "sha256": "7e132af0f4d543a921d6b36936e90cc2d7bff4f23ed3b5dd44a22ce435b355a4"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_literature_displacement_03_05_overview",
+    "kind": "literature_displacement_03_05_overview",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_literature_displacement_03_05_overview.png",
+        "bytes": 388999,
+        "sha256": "79f41dd1268e3f926c3cf620f2471a4c3ae8ef35e12222011f650fcc8938b63d"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_literature_displacement_03_05_overview.pdf",
+        "bytes": 2191426,
+        "sha256": "72c09dd956813bf5d928402f35efdf6bd5c82bc3f5951c931ab602175c664bde"
+      }
+    ]
+  },
+  {
+    "name": "A16SIVB_S12_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A16SIVB",
+      "station": "S12",
+      "distance_published_km": "153.9",
+      "distance_published_deg": "5.1",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; 2022 Onodera also uses three rotated components",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_S12_three_stages.png",
+        "bytes": 459427,
+        "sha256": "5e64a751274e927fb0c0da02d0af9698aa069786114c182c2100d94d890083fc"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_S12_three_stages.pdf",
+        "bytes": 2065472,
+        "sha256": "99a398d5729b98c3d92b2319b3d1f0d53ba42c5909998f8d7782ae244b2cbcb5"
+      }
+    ]
+  },
+  {
+    "name": "A16SIVB_S14_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A16SIVB",
+      "station": "S14",
+      "distance_published_km": "274.5",
+      "distance_published_deg": "9.1",
+      "nunn2024_clear": "true",
+      "component_caveat": "MH1 displayed; MHZ unavailable; horizontal components only",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1 caption",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_S14_three_stages.png",
+        "bytes": 379328,
+        "sha256": "b0002a243f5a8a4764d7b93112c64b3f411803ab849382cc55334f57db77a098"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_S14_three_stages.pdf",
+        "bytes": 1361380,
+        "sha256": "4f4c451ae99208108f5f022bb87a439865f4356748606f0aaefb73a12b813831"
+      }
+    ]
+  },
+  {
+    "name": "A16SIVB_S15_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A16SIVB",
+      "station": "S15",
+      "distance_published_km": "1102.9",
+      "distance_published_deg": "36.4",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_S15_three_stages.png",
+        "bytes": 430797,
+        "sha256": "6adb44c3d4e5e31bb7d8c58afd03e3fcd5ad866c8e595007878ae4d11255eb2f"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_S15_three_stages.pdf",
+        "bytes": 1928678,
+        "sha256": "72a10fb487185970cf23f9af307aa4994c7b0a966d9a22f2e2d6b333b1aeabda"
+      }
+    ]
+  },
+  {
+    "name": "A16SIVB_raw_archive_overview",
+    "kind": "raw_archive_overview",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A16SIVB",
+      "time_axis": "original MiniSEED nominal"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_raw_archive_overview.png",
+        "bytes": 441407,
+        "sha256": "6b476e6428dcefb066174f7f66a0a9512f8cf7b1c5be280a410ea302b5e36087"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_raw_archive_overview.pdf",
+        "bytes": 1443693,
+        "sha256": "8a2aa99a72b484d8d0c4ffe71257b20aef3c94f847d733b8c2d5d45c0864a988"
+      }
+    ]
+  },
+  {
+    "name": "A16SIVB_processed_03_09_overview",
+    "kind": "processed_03_09_overview",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A16SIVB",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_processed_03_09_overview.png",
+        "bytes": 483146,
+        "sha256": "51fc23c5aaf6aba8bbc3cf3a5c11d55d8c207748485aca2af9bdde4116eab3c6"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_processed_03_09_overview.pdf",
+        "bytes": 2007466,
+        "sha256": "6f5f725d54b323086cbc64e785821da106e68bc5265886596e1f1d3469736822"
+      }
+    ]
+  },
+  {
+    "name": "A16SIVB_literature_displacement_03_05_overview",
+    "kind": "literature_displacement_03_05_overview",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A16SIVB",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_literature_displacement_03_05_overview.png",
+        "bytes": 486982,
+        "sha256": "f212eede186302d2c5391121447d0e485fc4e86b5c6230a6a0ccee937c97ae41"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A16SIVB_literature_displacement_03_05_overview.pdf",
+        "bytes": 2018666,
+        "sha256": "b7a42a210d220acc4cd4d67c99ffb147e000843025ad6666edf0c678786dc930"
+      }
+    ]
+  },
+  {
+    "name": "A17SIVB_S12_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17SIVB",
+      "station": "S12",
+      "distance_published_km": "337.5",
+      "distance_published_deg": "11.1",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_S12_three_stages.png",
+        "bytes": 468811,
+        "sha256": "a1705687f9563914640e24a14bdeca3800db9bed0d186559c9fb1c5aac5b18c2"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_S12_three_stages.pdf",
+        "bytes": 2040991,
+        "sha256": "94e9ed97db4a4051e0ebd9916ab2d9527d139734b820cc542304e48f0907189a"
+      }
+    ]
+  },
+  {
+    "name": "A17SIVB_S14_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17SIVB",
+      "station": "S14",
+      "distance_published_km": "156.5",
+      "distance_published_deg": "5.2",
+      "nunn2024_clear": "false",
+      "component_caveat": "Recorded but low SNR; omitted from Figure 1; MHZ was malfunctioning during this epoch",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 asterisk; MHZ history from Amrouche 2022 section 4.2",
+      "evidence_level": "published_detection_low_snr"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_S14_three_stages.png",
+        "bytes": 384882,
+        "sha256": "5e4e8b609e843f2356f4c5a6186fb863cc3243d924594579fbe4cf0edb14d9fc"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_S14_three_stages.pdf",
+        "bytes": 1333267,
+        "sha256": "6014809cb4fb3e39ff6585a9ba8b4613f168135d8af7183c634b1997445d71e9"
+      }
+    ]
+  },
+  {
+    "name": "A17SIVB_S15_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17SIVB",
+      "station": "S15",
+      "distance_published_km": "1031.4",
+      "distance_published_deg": "34.0",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_S15_three_stages.png",
+        "bytes": 451974,
+        "sha256": "69b576e164c47cc903140a76d6fee4da99da432a81f840a420cee8240d495b5b"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_S15_three_stages.pdf",
+        "bytes": 1911272,
+        "sha256": "6d0d5be170456c6df9f8bf9f38f1d572abd5891c86a2ed9b3cf9dd068a1021ca"
+      }
+    ]
+  },
+  {
+    "name": "A17SIVB_S16_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17SIVB",
+      "station": "S16",
+      "distance_published_km": "850.3",
+      "distance_published_deg": "28.0",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_S16_three_stages.png",
+        "bytes": 454988,
+        "sha256": "f38dfe4556ce477feb5b452032c3bb7634d7e99f799c545c0bb7a3dc64a737fc"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_S16_three_stages.pdf",
+        "bytes": 1970744,
+        "sha256": "9a9d49a43b6195d90447e8a7f2219bfbe88c9d59ebcaeb461eaef143a9ca5f6d"
+      }
+    ]
+  },
+  {
+    "name": "A17SIVB_raw_archive_overview",
+    "kind": "raw_archive_overview",
+    "size_inches": [
+      15.7,
+      12.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17SIVB",
+      "time_axis": "original MiniSEED nominal"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_raw_archive_overview.png",
+        "bytes": 563639,
+        "sha256": "b0dd520f93198f003980dda7f4730e09327eddef398bb9c082d5c95377ad0959"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_raw_archive_overview.pdf",
+        "bytes": 1797024,
+        "sha256": "8ac6223aa239603c21f75ac44faee870b9289106625fb1185eda16bc6dd2adfb"
+      }
+    ]
+  },
+  {
+    "name": "A17SIVB_processed_03_09_overview",
+    "kind": "processed_03_09_overview",
+    "size_inches": [
+      15.7,
+      12.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17SIVB",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_processed_03_09_overview.png",
+        "bytes": 585585,
+        "sha256": "da197676efe0da0b6e9edce4866ddd6e2876dbb2e73dfc41cdbfb095a9ec1c97"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_processed_03_09_overview.pdf",
+        "bytes": 2733598,
+        "sha256": "33a8c70606fe8e0317af6f269c12d9d5447da582a93b78566ab443cb3c436e03"
+      }
+    ]
+  },
+  {
+    "name": "A17SIVB_literature_displacement_03_05_overview",
+    "kind": "literature_displacement_03_05_overview",
+    "size_inches": [
+      15.7,
+      12.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17SIVB",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_literature_displacement_03_05_overview.png",
+        "bytes": 591275,
+        "sha256": "5039cc54fc95c5d3e797a27ef1da78a228b85de6bef73bd76bf219462b374b14"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17SIVB_literature_displacement_03_05_overview.pdf",
+        "bytes": 2733016,
+        "sha256": "6ae142a5029db3e29ee89e83001d4729ada4217140f73885b8f5ebb473193e99"
+      }
+    ]
+  },
+  {
+    "name": "A17LM_S12_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17LM",
+      "station": "S12",
+      "distance_published_km": "1748.5",
+      "distance_published_deg": "57.7",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17LM_S12_three_stages.png",
+        "bytes": 404869,
+        "sha256": "4ac6a5405d8316e42fff5bb506344a5fb09aab4209549492a75bc2a4508d82a8"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17LM_S12_three_stages.pdf",
+        "bytes": 1920006,
+        "sha256": "8c5254d6c34ef5a10fdcc051ea37aaf5fb5dd4118df054702f4bd3cf5d644f7f"
+      }
+    ]
+  },
+  {
+    "name": "A17LM_S14_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17LM",
+      "station": "S14",
+      "distance_published_km": "1597.2",
+      "distance_published_deg": "52.7",
+      "nunn2024_clear": "false",
+      "component_caveat": "Recorded but low SNR; omitted from Figure 1; MHZ was malfunctioning during this epoch",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 asterisk; MHZ history from Amrouche 2022 section 4.2",
+      "evidence_level": "published_detection_low_snr"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17LM_S14_three_stages.png",
+        "bytes": 303631,
+        "sha256": "24a7c42f166996c9c0fa62b6ade1560fd928e6122eba6ede386945defec05efe"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17LM_S14_three_stages.pdf",
+        "bytes": 1301103,
+        "sha256": "cfc57e64459c55e16904c513142b2dba54edb1978156eddb5494cd0caa27d9b7"
+      }
+    ]
+  },
+  {
+    "name": "A17LM_S15_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17LM",
+      "station": "S15",
+      "distance_published_km": "771.1",
+      "distance_published_deg": "25.4",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17LM_S15_three_stages.png",
+        "bytes": 376204,
+        "sha256": "c6ed0fe79def9d0900f1bda51c89ec90e0d42aead840119e2b343a8bbf8a92e5"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17LM_S15_three_stages.pdf",
+        "bytes": 1923243,
+        "sha256": "6ac217241fd051cb46d1be67ff6f12ec0762ec0e6eddc1938033c916d8811223"
+      }
+    ]
+  },
+  {
+    "name": "A17LM_S16_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17LM",
+      "station": "S16",
+      "distance_published_km": "984.9",
+      "distance_published_deg": "32.5",
+      "nunn2024_clear": "false",
+      "component_caveat": "Recorded but low SNR; omitted from Figure 1; component not stated here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 asterisk",
+      "evidence_level": "published_detection_low_snr"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17LM_S16_three_stages.png",
+        "bytes": 352068,
+        "sha256": "4c03f60243f8fcdda4feda79c61051c7ecff4b1299c47a888a3a659ff68a26ec"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17LM_S16_three_stages.pdf",
+        "bytes": 1859101,
+        "sha256": "d468a9112bab0abb6225a04ef2f285f508e02b4b1e1d5f7d943fcb9e7da50ce7"
+      }
+    ]
+  },
+  {
+    "name": "A17LM_raw_archive_overview",
+    "kind": "raw_archive_overview",
+    "size_inches": [
+      15.7,
+      12.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17LM",
+      "time_axis": "original MiniSEED nominal"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17LM_raw_archive_overview.png",
+        "bytes": 471548,
+        "sha256": "16affa055bb4d500f069a31ab7579d2f9735b955b503aefc5cdc1bd5c887775c"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17LM_raw_archive_overview.pdf",
+        "bytes": 1636429,
+        "sha256": "58d2c934fc69f238389d8adc5b60ff877c24efa28d31e4ece0d2e3ef339eb9e9"
+      }
+    ]
+  },
+  {
+    "name": "A17LM_processed_03_09_overview",
+    "kind": "processed_03_09_overview",
+    "size_inches": [
+      15.7,
+      12.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17LM",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17LM_processed_03_09_overview.png",
+        "bytes": 450157,
+        "sha256": "52618b3d5065238da4b65c2759fde8381367f8af23e32ed67110a84670dcdab9"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17LM_processed_03_09_overview.pdf",
+        "bytes": 2673319,
+        "sha256": "53c825fe3364d638e03be67aaba33cfbb5681b2a482a1dcdb38fdee5495ec90c"
+      }
+    ]
+  },
+  {
+    "name": "A17LM_literature_displacement_03_05_overview",
+    "kind": "literature_displacement_03_05_overview",
+    "size_inches": [
+      15.7,
+      12.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A17LM",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A17LM_literature_displacement_03_05_overview.png",
+        "bytes": 451920,
+        "sha256": "3a2bc7c84522bbbf535bd46359a68b7380c05e3829859e0dc8197edc75de49ad"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A17LM_literature_displacement_03_05_overview.pdf",
+        "bytes": 2674039,
+        "sha256": "12bb7ac392c47bd781c1eb6171532956242cd4202a38b9204ebbcfa235b8f13d"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_S15_MHZ_gap_zoom",
+    "kind": "gap_zoom_three_stage",
+    "size_inches": [
+      13.8,
+      9.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "station": "S15",
+      "channel": "MHZ",
+      "window_ATT_s": [
+        2920,
+        3140
+      ]
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S15_MHZ_gap_zoom.png",
+        "bytes": 685729,
+        "sha256": "1a21dee46ed7b96fa5eeca06638fb34e900f684d0c29faac2ca49acce7da83d3"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S15_MHZ_gap_zoom.pdf",
+        "bytes": 96331,
+        "sha256": "dfafe1aef556c142007ef08221df97080dfe04c20f3d53a4a5308a034460ac7f"
+      }
+    ]
+  },
+  {
+    "name": "A14SIVB_S12_MHZ_gap_zoom",
+    "kind": "gap_zoom_three_stage",
+    "size_inches": [
+      13.8,
+      9.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A14SIVB",
+      "station": "S12",
+      "channel": "MHZ",
+      "window_ATT_s": [
+        -100,
+        300
+      ]
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A14SIVB_S12_MHZ_gap_zoom.png",
+        "bytes": 559997,
+        "sha256": "982c560c6a7588b8e4aac03a088b1466261cf9b2893d1ae5a15a0d7cf9ef84a4"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A14SIVB_S12_MHZ_gap_zoom.pdf",
+        "bytes": 134943,
+        "sha256": "eae416c65fcaa2fcc0221aa78871b82f4619e895e5c30ec85201283c28fc9011"
+      }
+    ]
+  }
+]

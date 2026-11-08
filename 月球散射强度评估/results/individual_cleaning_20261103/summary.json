@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-03",
+  "event_count": 9,
+  "pair_count": 21,
+  "slots": 63,
+  "actual_records": 60,
+  "missing_records": [
+    "A16SIVB_S14_MHZ",
+    "A17SIVB_S14_MHZ",
+    "A17LM_S14_MHZ"
+  ],
+  "corrected_spike_samples": 1,
+  "records_with_spike_correction": 1,
+  "subtracted_glitches": 13,
+  "unresolved_transients": 199,
+  "records_with_rails": 19,
+  "records_with_internal_clip_suspects": 9,
+  "selected_band_screen_pass_records": 4,
+  "diagnostic_only_records": 56,
+  "formal_inversion_qualified_records": 0,
+  "integrity_all_pass": true
+}

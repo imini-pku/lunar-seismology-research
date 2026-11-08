@@ -1,0 +1,53 @@
+{
+  "filepath": "docs/scattering_references.bib",
+  "total_entries": 10,
+  "valid_entries": 10,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Blanchette_Guertin_2012: Missing recommended field \"pages\"",
+      "entry": "Blanchette_Guertin_2012"
+    },
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Onodera_2021: Missing recommended field \"pages\"",
+      "entry": "Onodera_2021"
+    },
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Onodera_2022: Missing recommended field \"pages\"",
+      "entry": "Onodera_2022"
+    },
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Amrouche_2022: Missing recommended field \"pages\"",
+      "entry": "Amrouche_2022"
+    },
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Zhang_2022: Missing recommended field \"pages\"",
+      "entry": "Zhang_2022"
+    }
+  ],
+  "duplicates": [],
+  "venue_standard_checked": null,
+  "min_count_checked": 10,
+  "manuscript_results": {
+    "checked": false,
+    "manuscript_filepath": null,
+    "cited_keys": [],
+    "missing_keys": [],
+    "unused_keys": []
+  }
+}

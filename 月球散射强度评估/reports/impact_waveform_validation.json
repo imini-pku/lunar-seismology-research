@@ -1,0 +1,50 @@
+{
+  "compressed_files": 81,
+  "decompressed_files": 81,
+  "event_station_pairs": 21,
+  "headers_match_filename": true,
+  "all_finite": true,
+  "SAC_SHA256_reverified": true,
+  "representative_images": {
+    "A12LM": [
+      1600,
+      900
+    ],
+    "A13SIVB": [
+      1600,
+      900
+    ],
+    "A14LM": [
+      1600,
+      900
+    ],
+    "A14SIVB": [
+      1600,
+      900
+    ],
+    "A15LM": [
+      1600,
+      900
+    ],
+    "A15SIVB": [
+      1600,
+      900
+    ],
+    "A16SIVB": [
+      1600,
+      900
+    ],
+    "A17LM": [
+      1600,
+      900
+    ],
+    "A17SIVB": [
+      1600,
+      900
+    ]
+  },
+  "filtered_full_component_figures_visually_inspected": 9,
+  "compact_representative_figures_visually_inspected": 9,
+  "response_corrected": false,
+  "effective_physical_frequency_bands_validated": false
+}

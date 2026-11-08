@@ -1,0 +1,21 @@
+﻿dataset,background,candidate_id,candidate_class,ray,metric,contrast,distance_detrended_difference,contiguous_window_null_p,q_value
+A16/S12,no heterogeneity,A16_R3_D1,secondary,3,log_peak_ratio,inside_minus_pre,0.13851790340010994,0.78,1.0
+A16/S12,no heterogeneity,A16_R3_D1,secondary,3,log_peak_ratio,post_minus_pre,0.012576367575121594,1.0,1.0
+A16/S12,no heterogeneity,A16_R3_D1,secondary,3,log_energy_ratio,inside_minus_pre,0.4379231214976489,0.59,1.0
+A16/S12,no heterogeneity,A16_R3_D1,secondary,3,log_energy_ratio,post_minus_pre,0.18050087962931682,0.93,1.0
+A16/S12,no heterogeneity,A16_R3_D1,secondary,3,log_t90_ratio,inside_minus_pre,-0.49398703603868754,0.54,1.0
+A16/S12,no heterogeneity,A16_R3_D1,secondary,3,log_t90_ratio,post_minus_pre,-0.3818523095085269,0.86,1.0
+A16/S12,no heterogeneity,A16_R3_D1,secondary,3,peak_time_shift_s,inside_minus_pre,0.0868234826273489,0.89,1.0
+A16/S12,no heterogeneity,A16_R3_D1,secondary,3,peak_time_shift_s,post_minus_pre,2.4633785742397083,0.21,1.0
+A16/S12,no heterogeneity,A16_R3_D1,secondary,3,T_fraction_change,inside_minus_pre,0.02411171059139547,0.69,1.0
+A16/S12,no heterogeneity,A16_R3_D1,secondary,3,T_fraction_change,post_minus_pre,0.12856325941322655,0.08,0.8
+A16/S12,heterogeneous,A16_R3_D1,secondary,3,log_peak_ratio,inside_minus_pre,0.5274627603658834,0.37,0.6125
+A16/S12,heterogeneous,A16_R3_D1,secondary,3,log_peak_ratio,post_minus_pre,0.5619664260600278,0.31,0.6125
+A16/S12,heterogeneous,A16_R3_D1,secondary,3,log_energy_ratio,inside_minus_pre,0.7593711850482413,0.48,0.6125
+A16/S12,heterogeneous,A16_R3_D1,secondary,3,log_energy_ratio,post_minus_pre,0.7618983320120645,0.34,0.6125
+A16/S12,heterogeneous,A16_R3_D1,secondary,3,log_t90_ratio,inside_minus_pre,-1.1205857896342322,0.06,0.6
+A16/S12,heterogeneous,A16_R3_D1,secondary,3,log_t90_ratio,post_minus_pre,-0.7999301527270393,0.27,0.6125
+A16/S12,heterogeneous,A16_R3_D1,secondary,3,peak_time_shift_s,inside_minus_pre,0.9056760289287911,0.63,0.63
+A16/S12,heterogeneous,A16_R3_D1,secondary,3,peak_time_shift_s,post_minus_pre,1.554259994709824,0.58,0.63
+A16/S12,heterogeneous,A16_R3_D1,secondary,3,T_fraction_change,inside_minus_pre,-0.054877453069178725,0.28,0.6125
+A16/S12,heterogeneous,A16_R3_D1,secondary,3,T_fraction_change,post_minus_pre,0.05350818067713563,0.49,0.6125

@@ -1,0 +1,20 @@
+﻿{
+  "manuscript": {
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "comments_part_present": false,
+    "custom_properties_present": false,
+    "revision_session_attributes": 3,
+    "creator_blank": true,
+    "last_modified_by_blank": true
+  },
+  "supporting_information": {
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "comments_part_present": false,
+    "custom_properties_present": false,
+    "revision_session_attributes": 3,
+    "creator_blank": true,
+    "last_modified_by_blank": true
+  }
+}

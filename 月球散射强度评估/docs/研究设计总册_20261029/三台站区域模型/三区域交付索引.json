@@ -1,0 +1,49 @@
+{
+  "version": "2026-11-05-regional-v2",
+  "scope": [
+    "S12",
+    "S14",
+    "S15"
+  ],
+  "status": "REGIONAL_HYBRID_DESIGN_ONLY",
+  "parameters_shared": false,
+  "background_is_common_fallback": false,
+  "common_deep_crust_and_Q": true,
+  "planned_runs": 489,
+  "source_constraints": "data\\raw\\background_models\\regional_audit\\regional_constraints_20261105.json",
+  "regions": [
+    {
+      "station": "S12",
+      "min_K_over_rho": 1.3866666666666672,
+      "min_poisson": 0.019607843137255027,
+      "positive_finite": true,
+      "moho_local_km": 35.6,
+      "moho_reference_km": 37.0285,
+      "min_vs_km_s": 0.8,
+      "density_replacements": 2,
+      "not_simulated": true
+    },
+    {
+      "station": "S14",
+      "min_K_over_rho": 0.03666666666666665,
+      "min_poisson": -0.14285714285714285,
+      "positive_finite": true,
+      "moho_local_km": 37.5,
+      "moho_reference_km": 38.563,
+      "min_vs_km_s": 0.2,
+      "density_replacements": 2,
+      "not_simulated": true
+    },
+    {
+      "station": "S15",
+      "min_K_over_rho": 1.8766666666666652,
+      "min_poisson": 0.031135531135530813,
+      "positive_finite": true,
+      "moho_local_km": 40.8,
+      "moho_reference_km": 42.724,
+      "min_vs_km_s": 0.8,
+      "density_replacements": 2,
+      "not_simulated": true
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "A15LM_S12_MH1_G01": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.959984661727605,
+    "published_catalogue_matches": 1
+  },
+  "A15LM_S12_MH2_G01": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.974683725697867,
+    "published_catalogue_matches": 1
+  },
+  "A15LM_S14_MH1_G16": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.9676487424214069,
+    "published_catalogue_matches": 1
+  },
+  "A15LM_S14_MH1_G18": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.9806816088759512,
+    "published_catalogue_matches": 2
+  },
+  "A15LM_S14_MH2_G18": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.9531536903119319,
+    "published_catalogue_matches": 2
+  },
+  "A15LM_S14_MHZ_G03": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.9772897162938635,
+    "published_catalogue_matches": 1
+  },
+  "A15LM_S14_MHZ_G05": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.9820697313365464,
+    "published_catalogue_matches": 1
+  },
+  "A17LM_S12_MH1_G07": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.9646006653010717,
+    "published_catalogue_matches": 1
+  },
+  "A17LM_S14_MH2_G13": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.9905753275885731,
+    "published_catalogue_matches": 1
+  },
+  "A17LM_S15_MH1_G02": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.9789949087616631,
+    "published_catalogue_matches": 1
+  },
+  "A17LM_S15_MH2_G08": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.9793309776408973,
+    "published_catalogue_matches": 3
+  },
+  "A17LM_S16_MH1_G02": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.9700412794185258,
+    "published_catalogue_matches": 1
+  },
+  "A17LM_S16_MH2_G01": {
+    "action": "subtract",
+    "reviewed_by": "Codex visual inspection, 2026-11-03",
+    "evidence": "Zhang step-response morphology; Liu2025 catalogue time match within 10 s; VR>=0.95; no gaps or clipping in fit window; residual inspected",
+    "scope": "provisional model subtraction, preserve original and fitted component; not independent ground-truth verification",
+    "variance_reduction": 0.974463214548733,
+    "published_catalogue_matches": 1
+  }
+}

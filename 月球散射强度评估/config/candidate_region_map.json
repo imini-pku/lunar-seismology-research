@@ -1,0 +1,37 @@
+{
+  "map_extent": [-45, 45, -30, 45],
+  "regions": {
+    "A12_mare": {
+      "label": "A12 月海端元",
+      "bounds": [-38, -10, -18, 12],
+      "station": [-23.4216, -3.0128],
+      "terrain": "月海玄武岩"
+    },
+    "A14_fra_mauro": {
+      "label": "A14 Fra Mauro 喷出物/破碎高地",
+      "bounds": [-28, -7, -18, 10],
+      "station": [-17.4719, -3.645],
+      "terrain": "盆地喷出物与高地"
+    },
+    "A15_hadley_apennine": {
+      "label": "A15 盆地边缘–Hadley–Apennine",
+      "bounds": [-18, 14, 12, 40],
+      "station": [-3.633, 26.132],
+      "terrain": "月海、沟谷、山地与盆地边缘"
+    },
+    "A16_descartes_cayley": {
+      "label": "A16 Descartes/Cayley 高地",
+      "bounds": [1, 30, -24, 7],
+      "station": [15.501, -8.9734],
+      "terrain": "高地与陨石坑密集区"
+    }
+  },
+  "features": [
+    {"label": "Oceanus Procellarum 月海（参考范围）", "lon": -27, "lat": 1, "kind": "mare"},
+    {"label": "Fra Mauro 喷出物/破碎带（参考位置）", "lon": -17, "lat": -3, "kind": "ejecta"},
+    {"label": "Apennine 高地（参考范围）", "lon": 3, "lat": 28, "kind": "highland"},
+    {"label": "Imbrium 盆地边缘（参考范围）", "lon": -10, "lat": 34, "kind": "basin_margin"},
+    {"label": "Descartes/Cayley 高地（参考范围）", "lon": 15, "lat": -9, "kind": "highland"},
+    {"label": "陨石坑密集高地（解释性标签）", "lon": 22, "lat": -12, "kind": "crater_highland"}
+  ]
+}

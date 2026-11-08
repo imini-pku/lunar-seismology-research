@@ -1,0 +1,10 @@
+{
+  "M1_flat_no_heterogeneity": "data/raw/M1_flat_no_heterogeneity_station.nc",
+  "M2_topography_no_heterogeneity": "data/raw/M2_topography_no_heterogeneity_station.nc",
+  "M3_flat_heterogeneity": "data/raw/M3_flat_heterogeneity_station.nc",
+  "M4_topography_heterogeneity": "data/raw/M4_topography_heterogeneity_station.nc",
+  "apollo_16_at_station_12_Z": "data/raw/16s.12.BHZ.SAC",
+  "apollo_16_at_station_12_E": "data/raw/16s.12.BHE.SAC",
+  "apollo_16_at_station_12_N": "data/raw/16s.12.BHN.SAC",
+  "topography_profile": "data/raw/rel3_Z_300_1500_topo.txt"
+}

@@ -1,0 +1,7 @@
+﻿model,label,source_scale_50_245s_3c_rms,native_end_s,station,components
+M1,Flat / no heterogeneity,19.062505835409542,249.9829864501953,"S12 (first station, r1)",Z/R/T
+M2,Topography / no heterogeneity,21.843880827416847,249.989990234375,"S12 (first station, r1)",Z/R/T
+M3,Flat / heterogeneity,35.8646946566852,249.9829864501953,"S12 (first station, r1)",Z/R/T
+M4,Topography / heterogeneity,28.01977679429907,249.989990234375,"S12 (first station, r1)",Z/R/T
+M5,Flat / heterogeneity / low-V,15.094572823860064,399.98797607421875,"S12 (first station, r1)",Z/R/T
+M6,Topography / heterogeneity / low-V,16.60010744109478,399.989990234375,"S12 (first station, r1)",Z/R/T

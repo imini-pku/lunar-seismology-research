@@ -1,0 +1,69 @@
+{
+  "status": "SOURCE_NODES_LINKS_FORMULAE_AND_FIGURES_CHECKED_NOT_SIMULATED",
+  "latest_design": "07_源站路径与固定背景下的详细模拟方案.md",
+  "checks": {
+    "local_links": "passed",
+    "math_delimiters": "balanced",
+    "figures_visually_reviewed": 3,
+    "stage_A_candidates": 24,
+    "planned_event_runs": 336
+  },
+  "files": {
+    "docs\\研究设计总册_20261029\\00_阅读指南与总体方案.md": {
+      "sha256": "ec6295ae8c1809111626cf834ae4875168ed5106e7214d2f0b05e8d1a44c1cc3",
+      "bytes": 6362
+    },
+    "docs\\研究设计总册_20261029\\01_事件台站与记录图册.md": {
+      "sha256": "10f1d93c559f6ff3599e06847c05977c827917c280d51114338db1f05fbf6547",
+      "bytes": 19719
+    },
+    "docs\\研究设计总册_20261029\\02_散射模型与参数设计.md": {
+      "sha256": "00ebb469f37845e6df12485735eeb606bf55b24e8cfa4013f4a47d50eb8205c7",
+      "bytes": 24440
+    },
+    "docs\\研究设计总册_20261029\\03_波形处理与反演准入.md": {
+      "sha256": "162468e6030d481cc3487dcb245f4b1220c90d76eae864afb1d0cfdde86551bc",
+      "bytes": 15311
+    },
+    "docs\\研究设计总册_20261029\\04_CGFD3D模拟与验证流程.md": {
+      "sha256": "803b54de62aeeb06044d8a5cff509b3a650a69e2173b21deced13f0d5774851c",
+      "bytes": 16243
+    },
+    "docs\\研究设计总册_20261029\\05_文献依据与论文组织.md": {
+      "sha256": "5046addc3d5882c8cc112455542f3b647b2b5f708b8ce020225040e55dd446eb",
+      "bytes": 19119
+    },
+    "docs\\研究设计总册_20261029\\06_具体模型参数与剖面图.md": {
+      "sha256": "6c03f69f816cd552718ff314c9c1bce6a893f056283a63883a1a028aded3a633",
+      "bytes": 4558
+    },
+    "docs\\研究设计总册_20261029\\07_源站路径与固定背景下的详细模拟方案.md": {
+      "sha256": "fe0869bb412fca0ed729894e52e27a7e99dfc47e2d54cea52d2be4468e4af477",
+      "bytes": 30018
+    },
+    "docs\\研究设计总册_20261029\\附录_Zhang2025数据清洗论文综述.md": {
+      "sha256": "071701523c26ee2cb740c070d32384186f124bc14ca893b3b64502c267639cc7",
+      "bytes": 22655
+    },
+    "docs\\研究设计总册_20261029\\月球散射研究设计_完整合订本.md": {
+      "sha256": "50071a4aad99dfc50d842cb84897a0d477fefc521bc78299f25fd6ca0f312d21",
+      "bytes": 158827
+    },
+    "docs\\研究设计总册_20261029\\tables\\详细模拟方案_固定项与搜索项.json": {
+      "sha256": "4b87de80c4304cd60b03961706cfe73dd1559b48d2322a4ac847ee93c66b3768",
+      "bytes": 1475
+    },
+    "docs\\研究设计总册_20261029\\assets\\散射强度深度_详细方案.png": {
+      "sha256": "b2944119629510259a80cde775d1b428bb465b9a1ffe9813267ae4d901a382c4",
+      "bytes": 176734
+    },
+    "docs\\研究设计总册_20261029\\assets\\固定背景_速度密度Q.png": {
+      "sha256": "e05179e7b2f629a7674659d5f671231ada936bb9cf6a33405c6143b3de396238",
+      "bytes": 126358
+    },
+    "docs\\研究设计总册_20261029\\assets\\实际地形与固定分层_剖面.png": {
+      "sha256": "8c4ace3b9a210e5ee0898ab32ac97d88c8133c9817b92f52f317056a76a49389",
+      "bytes": 124066
+    }
+  }
+}

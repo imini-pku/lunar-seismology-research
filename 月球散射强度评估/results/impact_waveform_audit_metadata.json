@@ -1,0 +1,17 @@
+{
+  "retrieval_date": "2026-10-29",
+  "source": "https://data.darts.isas.jaxa.jp/pub/apollo/ai/sacs/",
+  "compressed_files": 81,
+  "SAC_files": 81,
+  "event_station_pairs": 21,
+  "events": 9,
+  "LP_files": 63,
+  "SP_files": 18,
+  "raw_downloads_sha256_in": "impact_waveform_inventory.csv",
+  "response_removed": false,
+  "physical_units_validated": false,
+  "spectral_screen_method": "Welch; -600:-60 s noise, +60:+1800 s signal; median PSD ratio >=3 and at least 60% frequency bins >=3",
+  "noise_screen_rules": "Conservative project screening, not a published universal standard: >=8 unique noise values; modal fraction <0.5; MAD>0; no >=5 s exact constant run; peak <=20 times 1.4826*MAD. Failing traces retain PSD numbers but have screen_usable=false and spectral_screen_pass=false.",
+  "screen_usable_trace_count": 5,
+  "frequency_screen_does_not_prove": "instrument response, calibration, timing, absence of artifact, or usable physical bandwidth"
+}

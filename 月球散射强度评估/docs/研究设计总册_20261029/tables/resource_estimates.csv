@@ -1,0 +1,9 @@
+﻿event_id,dx_assumed_m,depth_assumed_km,nx,ny,nz,nodes,array_count_assumed,bytes_per_value_assumed,memory_GiB_excluding_extras,status
+A12LM,100,40,1677,1283,401,862787991,32,4,102.85234344005585,illustrative_not_production_mesh
+A13SIVB,100,40,2355,1139,401,1075620345,32,4,128.22393715381622,illustrative_not_production_mesh
+A14SIVB,100,40,1797,2569,401,1851213693,32,4,220.68186914920807,illustrative_not_production_mesh
+A14LM,100,40,2804,1193,401,1341413972,32,4,159.90900659561157,illustrative_not_production_mesh
+A15SIVB,100,40,4519,1715,401,3107784085,32,4,370.47673285007477,illustrative_not_production_mesh
+A15LM,100,40,1936,1070,401,830679520,32,4,99.02471542358398,illustrative_not_production_mesh
+A16SIVB,100,40,3172,2689,401,3420332708,32,4,407.73543214797974,illustrative_not_production_mesh
+A17SIVB,100,40,4362,1352,401,2364867024,32,4,281.91411781311035,illustrative_not_production_mesh

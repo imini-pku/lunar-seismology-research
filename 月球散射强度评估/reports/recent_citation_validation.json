@@ -1,0 +1,47 @@
+{
+  "filepath": "docs/recent_lunar_references.bib",
+  "total_entries": 4,
+  "valid_entries": 4,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Kim2025: Missing recommended field \"pages\"",
+      "entry": "Kim2025"
+    },
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Kim2026: Missing recommended field \"pages\"",
+      "entry": "Kim2026"
+    },
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Keil2024: Missing recommended field \"pages\"",
+      "entry": "Keil2024"
+    },
+    {
+      "type": "page_range_format",
+      "field": "pages",
+      "value": "1109-1128",
+      "severity": "low",
+      "message": "Entry Eaton2024: Page range uses single hyphen, should use -- (en-dash)",
+      "entry": "Eaton2024"
+    }
+  ],
+  "duplicates": [],
+  "venue_standard_checked": null,
+  "min_count_checked": null,
+  "manuscript_results": {
+    "checked": false,
+    "manuscript_filepath": null,
+    "cited_keys": [],
+    "missing_keys": [],
+    "unused_keys": []
+  }
+}

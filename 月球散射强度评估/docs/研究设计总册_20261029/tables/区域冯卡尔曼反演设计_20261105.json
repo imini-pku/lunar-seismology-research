@@ -1,0 +1,124 @@
+{
+  "version": "2026-11-05",
+  "status": "SUPERSEDED_BY_DETAILED_DESIGN",
+  "goal": "infer region-specific parameters within 3D von Karman velocity perturbations",
+  "legacy_manuscript_design": {
+    "a_km": 4.5,
+    "sigma": [
+      0.09,
+      0.05
+    ],
+    "reference_layer_boundaries_km": [
+      0,
+      5,
+      10
+    ],
+    "nu": null,
+    "seed": null,
+    "vp_vs_correlation": null,
+    "density_coupling": null,
+    "attenuation_execution_verified": false,
+    "production_file_chain_verified": false
+  },
+  "new_initial_stage": {
+    "free_parameters": [
+      "a_km",
+      "sigma1"
+    ],
+    "sigma2_over_sigma1": 0.5555555555555556,
+    "h1_km": 5,
+    "H_taper_center_km": 10,
+    "taper_width_km": 1,
+    "nu": null,
+    "isotropic": true,
+    "proposed_vp_vs_common_field": true,
+    "proposed_density_perturbation": false
+  },
+  "common_search": {
+    "a_km_bounds": [
+      0.2,
+      6
+    ],
+    "a_initial": [
+      0.2,
+      0.65,
+      1.3,
+      2,
+      4.5,
+      6
+    ],
+    "sigma1_bounds": [
+      0.01,
+      0.15
+    ],
+    "sigma1_initial": [
+      0.03,
+      0.05,
+      0.09,
+      0.12,
+      0.15
+    ],
+    "H_stage2_km": [
+      10,
+      15,
+      20,
+      30
+    ],
+    "H_conditional_extension_km": [
+      50,
+      80
+    ]
+  },
+  "regions": [
+    {
+      "id": "R12",
+      "estimated_parameters": null,
+      "spatial_window": null,
+      "status": "requires data admission and identifiability"
+    },
+    {
+      "id": "R14",
+      "estimated_parameters": null,
+      "spatial_window": null,
+      "status": "requires data admission and identifiability"
+    },
+    {
+      "id": "R15",
+      "estimated_parameters": null,
+      "spatial_window": null,
+      "status": "requires data admission and identifiability"
+    },
+    {
+      "id": "R16",
+      "estimated_parameters": null,
+      "spatial_window": null,
+      "status": "requires data admission and identifiability"
+    }
+  ],
+  "evidence_classes": {
+    "legacy": "confirmed manuscript design, incomplete production chain",
+    "search_bounds": "project-designed, not measured regional intervals",
+    "predictions": "not executed"
+  },
+  "scope": "scattering_parameter_models_only",
+  "fixed_inputs": {
+    "topography": "LOLA actual terrain",
+    "regional_background_policy": "best justified regional result; complete fallback is Garcia2019 original M1 median .nd, not v2 mean velocities",
+    "background_numeric_files_ready": true,
+    "nu": "verify legacy production value then fix",
+    "source": "fixed per event",
+    "attenuation": "fixed before scattering search",
+    "regional_background_selection_complete": false,
+    "background_numeric_files_ready_scope": "author M1 fallback downloaded; regional complete profiles not finalized"
+  },
+  "excluded_scientific_comparisons": [
+    "flat_vs_topography",
+    "alternate_background_models",
+    "alternate_source_mechanisms",
+    "low_velocity_layer_on_off",
+    "density_coupling_variants",
+    "anisotropy_variants",
+    "spectral_family_variants"
+  ],
+  "superseded_by": "详细模拟方案_固定项与搜索项.json"
+}

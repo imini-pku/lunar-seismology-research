@@ -1,0 +1,14 @@
+{
+  "archive": "Apollo原始波形与处理对照_资料包.zip",
+  "bytes": 204022507,
+  "sha256": "73be30f00c3dbab714a904b0fe9e8bb751c52295ece193d1f8625c52aeb332ba",
+  "content_files": 282,
+  "local_links_checked": 135,
+  "PNG_count": 50,
+  "PDF_count": 50,
+  "original_records": 21,
+  "processed_components": 60,
+  "CRC_passed": true,
+  "all_manifest_hashes_verified_from_zip": true,
+  "formal_inversion_qualification": false
+}

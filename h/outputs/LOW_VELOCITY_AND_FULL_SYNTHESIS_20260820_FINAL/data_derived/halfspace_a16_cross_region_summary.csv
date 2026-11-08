@@ -1,0 +1,7 @@
+﻿metric,region,p10,median,p90,n
+Peak amplitude ratio,Half-space archive,0.032905558,0.116121209,0.650701926,800
+Peak amplitude ratio,A16 factorial M3/M1,0.195693004,0.792346773,1.01744504,575
+Total energy ratio,Half-space archive,0.00466071845,0.029580184,0.482964204,800
+Total energy ratio,A16 factorial M3/M1,0.111401146,0.716402741,1.09125471,575
+T90 ratio,Half-space archive,1.10009276,4.12573247,8.28,800
+T90 ratio,A16 factorial M3/M1,1.05263161,5.30853525,20.294566,575

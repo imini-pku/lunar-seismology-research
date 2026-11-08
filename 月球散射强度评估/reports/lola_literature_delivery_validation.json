@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-29",
+  "events": 9,
+  "recorded_pairs": 21,
+  "literature_clear_pairs": 16,
+  "literature_low_SNR_pairs": 5,
+  "terrain_PNG": 20,
+  "terrain_PDF": 20,
+  "model_families_with_sources": 10,
+  "model_choices_with_sources": 36,
+  "local_Markdown_links_resolved": 105,
+  "checked_Markdown_files": 10,
+  "native_LOLA_crop_sha256_verified": true,
+  "official_label_sha256_verified": true,
+  "legacy_SAC_sha256_verified": 81,
+  "modern_MiniSEED_sha256_verified": 21,
+  "modern_processed_NPZ_included": 60,
+  "new_CGFD3D_wave_runs": 0,
+  "formal_band_qualification_pending": true,
+  "terrain_figures_visually_inspected": [
+    "overview",
+    "nine-event montage",
+    "eight-local-domain montage",
+    "A12LM",
+    "A14LM",
+    "A15LM",
+    "A17LM"
+  ],
+  "excluded_large_duplicate": "171 MB full-longitude strip; native crop included for offline plotting",
+  "PPT_updated_this_revision": false
+}

@@ -1,0 +1,647 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        25
+      ]
+    ],
+    "date-time": "2026-08-25T16:20:05Z",
+    "timestamp": 1787674805631,
+    "version": "build-2784847793"
+  },
+  "reference-count": 66,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "11",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            16
+          ]
+        ],
+        "date-time": "2025-11-16T00:00:00Z",
+        "timestamp": 1763251200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 15,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            1
+          ]
+        ],
+        "date-time": "2025-11-01T00:00:00Z",
+        "timestamp": 1761955200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "agupubs.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "JGR Planets"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        11
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Mantle flow throughout the lunar evolutionary history could be constrained by shear wave splitting if it is reliably observed in the moonquake waveforms. However, despite the long‐standing availability of Apollo seismic data, it remains unclear whether the\n                    <jats:italic>S</jats:italic>\n                    ‐waves from moonquakes exhibit real splitting due to seismic anisotropy or whether apparent splitting arises instead from seismic wave propagation through isotropic heterogeneous media. To date, no systematic investigation has addressed this question. To fill this knowledge gap, we analyze direct\n                    <jats:italic>S</jats:italic>\n                    ‐wave splitting from deep moonquakes with high signal‐to‐noise ratios. Stacked waveforms from deep moonquakes show that the measurement results are inconsistent across different clusters at the same station and across different stations for the same cluster as well as across different frequency bands. Further analysis of unstacked individual events within the same cluster, differing in location by only a few kilometers, also exhibits large variability in the splitting parameters. Numerical simulations of seismic wave propagation through heterogeneous media demonstrate that the observed\n                    <jats:italic>S</jats:italic>\n                    ‐wave splitting of deep moonquakes can be explained by apparent splitting caused by scattering in addition to the potential intrinsic anisotropy. Therefore, even stacking waveforms of deep moonquakes do not improve the reliability of the splitting measurements. Our results suggest that there are no remnants of large‐scale lateral mantle flow in the lunar mantle sampled by these deep moonquakes, or any existing anisotropy is obscured by the stronger effects of structural heterogeneity.\n                  </jats:p>",
+  "DOI": "10.1029/2025je009223",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        17
+      ]
+    ],
+    "date-time": "2025-11-17T05:17:20Z",
+    "timestamp": 1763356640000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Direct\n                    <i>S</i>\n                    ‐Wave Splitting From Deep Moonquakes: Real or Apparent?"
+  ],
+  "prefix": "10.1029",
+  "volume": "130",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-1147-0975",
+      "authenticated-orcid": false,
+      "given": "Jing",
+      "family": "Shi",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "SKLab‐DeepMinE MOEKLab‐OBCE School of Earth and Space Sciences Peking University  Beijing China"
+        },
+        {
+          "name": "Frontiers Science Center for Critical Earth Material Cycling School of Earth Sciences and Engineering Nanjing University  Nanjing China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7525-5401",
+      "authenticated-orcid": false,
+      "given": "Jiaqi",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "SKLab‐DeepMinE MOEKLab‐OBCE School of Earth and Space Sciences Peking University  Beijing China"
+        },
+        {
+          "name": "NWU‐HKU Joint Center of Earth and Planetary Sciences, Department of Geology Northwest University  Xi’an China"
+        },
+        {
+          "name": "Research Institute of Extraterrestrial Material, Peking University  Beijing China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4898-4892",
+      "authenticated-orcid": false,
+      "given": "Tao",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Frontiers Science Center for Critical Earth Material Cycling School of Earth Sciences and Engineering Nanjing University  Nanjing China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "13",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        16
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_9_1_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2016RG000552"
+    },
+    {
+      "key": "e_1_2_9_1_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-94-011-3600-6"
+    },
+    {
+      "key": "e_1_2_9_1_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2015GL066151"
+    },
+    {
+      "key": "e_1_2_9_1_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2005JE002414"
+    },
+    {
+      "key": "e_1_2_9_1_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/0220160019"
+    },
+    {
+      "key": "e_1_2_9_1_7_1",
+      "article-title": "Shear‐wave splitting and moonquakes",
+      "author": "Dimech J.‐L.",
+      "year": "2017",
+      "journal-title": "Presented at the American Geophysical Union, Fall Meeting 2017, New Orleans Ernest N. Morial Convention Center"
+    },
+    {
+      "key": "e_1_2_9_1_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/97JB01858"
+    },
+    {
+      "key": "e_1_2_9_1_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/371149a0"
+    },
+    {
+      "key": "e_1_2_9_1_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2011.06.015"
+    },
+    {
+      "key": "e_1_2_9_1_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11214‐019‐0613‐y"
+    },
+    {
+      "key": "e_1_2_9_1_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2016.11.001"
+    },
+    {
+      "key": "e_1_2_9_1_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.epsl.2023.118495"
+    },
+    {
+      "key": "e_1_2_9_1_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3847/PSJ/ac0f82"
+    },
+    {
+      "key": "e_1_2_9_1_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2011GL046804"
+    },
+    {
+      "key": "e_1_2_9_1_16_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Hunter J. D.(2007).Matplotlib: A 2D graphics environment[Software].Computing in Science and Engineering 9(3) 90–95.https://doi.org/10.1109/MCSE.2007.55",
+      "DOI": "10.1109/MCSE.2007.55"
+    },
+    {
+      "key": "e_1_2_9_1_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pss.2012.08.019"
+    },
+    {
+      "key": "e_1_2_9_1_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/sciadv.abm8475"
+    },
+    {
+      "key": "e_1_2_9_1_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tecto.2013.02.024"
+    },
+    {
+      "key": "e_1_2_9_1_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2015JE004862"
+    },
+    {
+      "key": "e_1_2_9_1_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/jgre.20103"
+    },
+    {
+      "key": "e_1_2_9_1_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.167.3918.455"
+    },
+    {
+      "key": "e_1_2_9_1_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0012‐821X(03)00172‐9"
+    },
+    {
+      "key": "e_1_2_9_1_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/B978-0-444-53802-4.00167-6"
+    },
+    {
+      "key": "e_1_2_9_1_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.epsl.2010.06.036"
+    },
+    {
+      "key": "e_1_2_9_1_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10712‐009‐9075‐1"
+    },
+    {
+      "key": "e_1_2_9_1_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2014GL059875"
+    },
+    {
+      "key": "e_1_2_9_1_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s40623‐017‐0687‐2"
+    },
+    {
+      "key": "e_1_2_9_1_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/97GL03274"
+    },
+    {
+      "key": "e_1_2_9_1_30_1",
+      "first-page": "3589",
+      "volume-title": "Presented at the lunar and planetary science conference proceedings, 9th, Houston, tex",
+      "author": "Nakamura Y.",
+      "year": "1978"
+    },
+    {
+      "key": "e_1_2_9_1_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2003.07.017"
+    },
+    {
+      "key": "e_1_2_9_1_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2004JE002332"
+    },
+    {
+      "key": "e_1_2_9_1_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB087iS01p0A117"
+    },
+    {
+      "key": "e_1_2_9_1_34_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Nunn C.(1969).Apollo passive seismic experiments[Dataset].International Federation of Digital Seismograph Networks.https://doi.org/10.7914/SN/XA_1969",
+      "DOI": "10.7914/SN/XA_1969"
+    },
+    {
+      "key": "e_1_2_9_1_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3847/PSJ/ad83d2"
+    },
+    {
+      "key": "e_1_2_9_1_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11214‐020‐00709‐3"
+    },
+    {
+      "key": "e_1_2_9_1_37_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Nunn C. Garcia R. F. Nakamura Y. Marusiak A. G. Kawamura T. Sun D. et al. (2020b).Lunar seismology: A data and instrumentation review ‐ Electronic supplement[Dataset].Zenodo.https://doi.org/10.5281/zenodo.7787610",
+      "DOI": "10.5281/zenodo.7787610"
+    },
+    {
+      "key": "e_1_2_9_1_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3847/PSJ/ac87af"
+    },
+    {
+      "key": "e_1_2_9_1_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020JE006406"
+    },
+    {
+      "key": "e_1_2_9_1_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2022JE007558"
+    },
+    {
+      "key": "e_1_2_9_1_41_1",
+      "article-title": "Farside seismic suite (FSS): Surviving the lunar night and delivering the first seismic data from the farside of the moon",
+      "volume": "2678",
+      "author": "Panning M.",
+      "year": "2021",
+      "journal-title": "53rd Lunar and Planetary Science Conference"
+    },
+    {
+      "key": "e_1_2_9_1_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2017JB014394"
+    },
+    {
+      "key": "e_1_2_9_1_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2018JE005592"
+    },
+    {
+      "key": "e_1_2_9_1_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-23029-5"
+    },
+    {
+      "key": "e_1_2_9_1_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/98RG02075"
+    },
+    {
+      "key": "e_1_2_9_1_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2747/0020‐6814.44.10.913"
+    },
+    {
+      "key": "e_1_2_9_1_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.epsl.2024.119047"
+    },
+    {
+      "key": "e_1_2_9_1_48_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Shi J. Li J. &Wang T.(2025).Direct S‐wave splitting from deep moonquakes: Real or apparent?[Dataset and Code].Zenodo.https://doi.org/10.5281/zenodo.16809589",
+      "DOI": "10.5281/zenodo.16809589"
+    },
+    {
+      "key": "e_1_2_9_1_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2022JE007676"
+    },
+    {
+      "key": "e_1_2_9_1_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/91JB00899"
+    },
+    {
+      "key": "e_1_2_9_1_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tecto.2015.12.003"
+    },
+    {
+      "key": "e_1_2_9_1_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/0120030123"
+    },
+    {
+      "key": "e_1_2_9_1_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/RG012i004p00539"
+    },
+    {
+      "key": "e_1_2_9_1_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0012‐821X(98)00081‐8"
+    },
+    {
+      "key": "e_1_2_9_1_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/0120120090"
+    },
+    {
+      "key": "e_1_2_9_1_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2022JE007364"
+    },
+    {
+      "key": "e_1_2_9_1_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tecto.2008.01.021"
+    },
+    {
+      "key": "e_1_2_9_1_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2008JE003286"
+    },
+    {
+      "key": "e_1_2_9_1_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/CBO9781107300668.013"
+    },
+    {
+      "key": "e_1_2_9_1_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1199375"
+    },
+    {
+      "key": "e_1_2_9_1_61_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2138/rmg.2006.60.3"
+    },
+    {
+      "key": "e_1_2_9_1_62_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/gji/ggab347"
+    },
+    {
+      "key": "e_1_2_9_1_63_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41561‐021‐00872‐4"
+    },
+    {
+      "key": "e_1_2_9_1_64_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2022JE007222"
+    },
+    {
+      "key": "e_1_2_9_1_65_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0012‐821X(00)00041‐8"
+    },
+    {
+      "issue": "2020",
+      "key": "e_1_2_9_1_66_1",
+      "article-title": "Overview of china’s upcoming chang’e series and the scientific objectives and payloads for chang’e 7 mission",
+      "author": "Zou Y.",
+      "year": "2020",
+      "journal-title": "51st Lunar and Planetary Science Conference"
+    },
+    {
+      "key": "e_1_2_9_2_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.21105/joss.01818"
+    }
+  ],
+  "container-title": [
+    "Journal of Geophysical Research: Planets"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JE009223",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/full-xml/10.1029/2025JE009223",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JE009223",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        25
+      ]
+    ],
+    "date-time": "2026-08-25T15:27:05Z",
+    "timestamp": 1787671625000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JE009223"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11
+      ]
+    ]
+  },
+  "references-count": 66,
+  "journal-issue": {
+    "issue": "11",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1029/2025JE009223"
+  ],
+  "URL": "https://doi.org/10.1029/2025je009223",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {
+    "has-preprint": [
+      {
+        "id-type": "doi",
+        "id": "10.22541/essoar.174951606.69178734/v1",
+        "asserted-by": "object"
+      }
+    ]
+  },
+  "ISSN": [
+    "2169-9097",
+    "2169-9100"
+  ],
+  "issn-type": [
+    {
+      "value": "2169-9097",
+      "type": "print"
+    },
+    {
+      "value": "2169-9100",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2025-05-29",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-10-27",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-11-16",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "e2025JE009223"
+}

@@ -1,0 +1,14 @@
+{
+  "input": "data\\processed\\metrics_long.csv",
+  "status": "missing",
+  "rows": 0,
+  "events": 0,
+  "stations": 0,
+  "frequencies": [],
+  "regions": [],
+  "path_columns": [],
+  "errors": [
+    "input file does not exist: data\\processed\\metrics_long.csv"
+  ],
+  "warnings": []
+}

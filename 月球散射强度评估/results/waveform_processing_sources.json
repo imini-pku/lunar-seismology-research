@@ -1,0 +1,81 @@
+{
+  "checked_date": "2026-10-29",
+  "purpose": "Primary-source evidence for showing archive-original Apollo impact waveforms before processed waveforms",
+  "records": [
+    {
+      "id": "Nunn2022_archive",
+      "doi": "10.3847/PSJ/ac87af",
+      "url": "https://doi.org/10.3847/PSJ/ac87af",
+      "locator": "Section 4; Figure 7; nominal responses and gain-command paragraphs",
+      "access": "Publisher search-index full-text passages verified; direct DOI access blocked",
+      "verified": ["Waveform tracks are raw DU; missing samples use -1", "ATT stores seconds since 1970; valid 1969 timestamps are negative", "Metadata responses are nominal and use highest gain; other gain states require record checks"],
+      "limits": ["Archive-original does not mean uncorrected tape binary", "Nominal response correction alone does not establish correct absolute amplitude"]
+    },
+    {
+      "id": "PDART_getting_started",
+      "url": "https://github.com/cerinunn/pdart/blob/master/getting_started.ipynb",
+      "raw_url": "https://raw.githubusercontent.com/cerinunn/pdart/master/getting_started.ipynb",
+      "locator": "Users should note points 1-5; view_Apollo response-removal cell",
+      "access": "Author repository raw notebook verified online",
+      "verified": ["Save original mask, temporarily interpolate, remove response, restore mask", "MP pre_filt [0.1,0.3,0.9,1.1] Hz; output DISP; water_level None", "SP pre_filt [1,2,11,13] Hz"],
+      "limits": ["Tutorial does not demonstrate scientifically safe interpolation for arbitrary long gaps", "Four-corner response prefilter is distinct from final analysis band"]
+    },
+    {
+      "id": "PDART_util",
+      "url": "https://github.com/cerinunn/pdart/blob/master/util.py",
+      "raw_url": "https://raw.githubusercontent.com/cerinunn/pdart/master/util.py",
+      "locator": "timing_correction lines 32-109; linear_interpolation lines 214-241 in checked version",
+      "access": "Author raw source verified online",
+      "verified": ["timing_correction shifts starttime to agree with ATT at a selected correction time", "linear_interpolation returns the original mask"],
+      "limits": ["A single shift is not a complete time-varying sampling-drift correction", "Code branch may change; pin a revision for exact reproduction"]
+    },
+    {
+      "id": "Nunn2024_artificial_impacts",
+      "doi": "10.3847/PSJ/ad83d2",
+      "url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "locator": "Section 2; Figure 1; Figures 14-16 and adjacent coda-analysis paragraphs",
+      "access": "Publisher full-text passages verified through search; direct access blocked",
+      "verified": ["Figure 1: response removed, displacement, 0.3-0.5 Hz, approximately 25 s smoothing, per-trace normalization", "Selected observations generally good SNR at 0.3-0.9 Hz; upper 0.5 Hz used for comparison to simulations", "Figure 16: velocity-based envelopes, 0.4-0.5 Hz, approximately 445 s smoothing, peak time from event origin"],
+      "limits": ["Not every channel or event passes the same SNR criteria", "Do not mix Figure 1 display settings with Figure 16 rise-time measurements", "A16 S-IVB at S14 uses MH1 because vertical channel unavailable"]
+    },
+    {
+      "id": "Onodera2021",
+      "doi": "10.1029/2020JE006406",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006406",
+      "locator": "Section 2.4; Figure 5",
+      "access": "Publisher full text verified",
+      "verified": ["DU converted to velocity; fourth-order Butterworth 0.2-1.5 Hz on observations and synthetics", "7.5 s smoothing window for growth-stage rise-time"],
+      "limits": ["Two S12 paths: A14 and A16 S-IVB", "Not evidence for a universal all-station usable frequency band"]
+    },
+    {
+      "id": "Onodera2022",
+      "doi": "10.1029/2022JE007558",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JE007558",
+      "locator": "Sections 2.6.1, 2.6.2 and 2.6.3",
+      "access": "Publisher full text verified",
+      "verified": ["Detrend; fourth-order Butterworth 0.05-3.0 Hz; Tukey window with lobe width 3% of record; peaked LP response to velocity; post-filter 0.3-1.5 Hz", "200-point approximately 30 s smoothing and plus/minus 15 s rise-time uncertainty", "Rise-time referenced to first arrival and growth reaching a plateau"],
+      "limits": ["Same two S12 impact paths", "Tukey lobe width must not be blindly translated into library alpha", "No universal gap-interpolation or edge-crop seconds specified"]
+    },
+    {
+      "id": "Zhang2025_cleaning",
+      "doi": "10.1029/2025EA004710",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025EA004710",
+      "locator": "Sections 2.1, 3.1, 3.2, 4; Figure 10; Data Availability Statement",
+      "access": "Publisher full text verified",
+      "verified": ["Glitches, acquisition distortions, spikes and calibration signals are separate artifact classes", "Glitch fitting is performed on raw DU via step-response models", "S14 distortion correction cannot guarantee exact waveform recovery; severe clipping remains problematic", "Public partially processed sample consists of 116 largest events selected from 1743 meteoroid impacts; only vertical components treated"],
+      "limits": ["No universal safe short-gap interpolation duration stated", "Natural-impact dataset is not a cleaned substitute for the nine artificial impacts", "Complex deglitching has not been executed by this literature task"]
+    },
+    {
+      "id": "Zhang2025_public_dataset",
+      "doi": "10.18715/IPGP.2024.lsc22f10",
+      "url": "https://doi.org/10.18715/IPGP.2024.lsc22f10",
+      "landing_url": "https://dataverse.ipgp.fr/dataset.xhtml?persistentId=doi:10.18715/IPGP.2024.lsc22f10",
+      "locator": "Public repository Description and file index, V1 published 2025-12-19",
+      "access": "Repository search index verified; direct web requests timed out; direct API TLS EOF",
+      "verified": ["Partially processed JAXA data in miniSEED", "Whole archive approximately 2.0 GB, 16 files", "Readme.txt; README_deglitch_code.md; Apollo_deglitch_single.m; station glitch index tables available"],
+      "limits": ["Author waveform files and README contents not downloaded or compared in this task", "Exact unit and timestamp conventions require reading dataset README before use"],
+      "download_status": "not_downloaded_by_literature_subtask"
+    }
+  ],
+  "project_recommendations_not_literature_constants": ["Preserve original DU samples and gap masks", "Show raw and processed traces on matched time windows", "Separate display-oriented processing from inversion-qualified records", "Choose interpolation and edge exclusion using artificial-gap sensitivity tests rather than universal seconds", "Do not claim automatic deglitching when only filtering and response correction were performed"]
+}

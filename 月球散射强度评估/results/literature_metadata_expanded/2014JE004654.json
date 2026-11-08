@@ -1,0 +1,467 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        25
+      ]
+    ],
+    "date-time": "2026-09-25T12:03:33Z",
+    "timestamp": 1790337813021,
+    "version": "4.1.0"
+  },
+  "reference-count": 34,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            3,
+            24
+          ]
+        ],
+        "date-time": "2015-03-24T00:00:00Z",
+        "timestamp": 1427155200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 23,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100000038",
+      "name": "Natural Sciences and Engineering Research Council of Canada",
+      "doi-asserted-by": "crossref",
+      "id": [
+        {
+          "id": "10.13039/501100000038",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100000104",
+      "name": "NASA",
+      "doi-asserted-by": "crossref",
+      "award": [
+        "NNX11AB55G"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "NNX11AB55G"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000104",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "JGR Planets"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        3
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Meteoroid impacts over millions to billions of years can produce a highly fractured and heterogeneous megaregolith layer on planetary bodies such as the Moon that lack effective surface recycling mechanisms. The energy from seismic events on these bodies undergoes scattering in the fractured layer(s) and generates extensive coda wave trains that follow major seismic wave arrivals. The decay properties of these codas are affected by the planetary body's interior structure. To understand the propagation of seismic waves in such media, we model the transmission of seismic energy in highly scattering environments using an adapted phonon method. In this Monte Carlo simulation approach, we track a large number of seismic wavelets as they leave a source and we record the resulting ground deformation each time a wavelet reaches a surface receiver. Our method provides the first numerical global modeling of 3‐D scattering, with user‐defined power law distributions of scatterer length scales and frequency‐dependent intrinsic attenuation, under the assumption of 1‐D background velocity models. We model synthetic signals for simple, but highly scattering interior models and vary the model parameters independently to assess their individual effects on the coda. Results show that the magnitude of the decay times is most affected by the background velocity model, in particular the presence of shallow low‐velocity layers, the event source depth, and the intrinsic attenuation level. The decay times are also controlled to a lesser extent by the size‐frequency distribution of scatterers, the thickness of the scattering layer, and the impedance contrast at the scatterers.</jats:p>",
+  "DOI": "10.1002/2014je004654",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        2,
+        13
+      ]
+    ],
+    "date-time": "2015-02-13T04:53:00Z",
+    "timestamp": 1423803180000
+  },
+  "page": "515-537",
+  "source": "Crossref",
+  "is-referenced-by-count": 14,
+  "title": [
+    "Modeling seismic energy propagation in highly scattering environments"
+  ],
+  "prefix": "10.1029",
+  "volume": "120",
+  "author": [
+    {
+      "given": "J.‐F.",
+      "family": "Blanchette‐Guertin",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Equipe Planétologie et Sciences Spatiales Université Paris Diderot, Sorbonne Paris Cité Institut de Physique du Globe de Paris, UMR 7154, CNRS  Paris France"
+        },
+        {
+          "name": "Department of Earth, Ocean and Atmospheric Sciences University of British Columbia  Vancouver British Columbia Canada"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C. L.",
+      "family": "Johnson",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Earth, Ocean and Atmospheric Sciences University of British Columbia  Vancouver British Columbia Canada"
+        },
+        {
+          "name": "Planetary Science Institute  Tucson Arizona USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J. F.",
+      "family": "Lawrence",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Geophysics Stanford University  Stanford California USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "13",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        3,
+        24
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_8_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB074i002p00615"
+    },
+    {
+      "key": "e_1_2_8_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB080i023p03322"
+    },
+    {
+      "key": "e_1_2_8_4_1",
+      "volume-title": "Quantitative Seismology",
+      "author": "Aki K.",
+      "year": "2009"
+    },
+    {
+      "key": "e_1_2_8_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-1-4612-5856-8"
+    },
+    {
+      "key": "e_1_2_8_6_1",
+      "first-page": "31",
+      "article-title": "Exact solutions of the equation for the free torsional oscillations of an inhomogeneous sphere",
+      "volume": "62",
+      "author": "Bhattacharya S.",
+      "year": "1972",
+      "journal-title": "Bull. Seismol. Soc. Am."
+    },
+    {
+      "key": "e_1_2_8_7_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "1979",
+      "DOI": "10.1785/BSSA0860061979",
+      "article-title": "Earth flattening transformation for P‐SV waves",
+      "volume": "86",
+      "author": "Bhattacharya S.",
+      "year": "1996",
+      "journal-title": "Bull. Seismol. Soc. Am."
+    },
+    {
+      "key": "e_1_2_8_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2005GL024152"
+    },
+    {
+      "key": "e_1_2_8_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2011JE004042"
+    },
+    {
+      "issue": "2",
+      "key": "e_1_2_8_10_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "361",
+      "DOI": "10.1785/BSSA0740020361",
+      "article-title": "The partition of radiated energy between P and S waves",
+      "volume": "74",
+      "author": "Boatwright J.",
+      "year": "1984",
+      "journal-title": "Bull. Seismol. Soc. Am."
+    },
+    {
+      "key": "e_1_2_8_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-246X.2005.02682.x"
+    },
+    {
+      "key": "e_1_2_8_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4294/jpe1952.16.Special_27"
+    },
+    {
+      "key": "e_1_2_8_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-246X.1971.tb01834.x"
+    },
+    {
+      "key": "e_1_2_8_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2011.06.015"
+    },
+    {
+      "key": "e_1_2_8_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0031-9201(87)90130-0"
+    },
+    {
+      "key": "e_1_2_8_16_1",
+      "first-page": "62",
+      "volume-title": "The Lunar Sourcebook",
+      "author": "Hörz F.",
+      "year": "1991"
+    },
+    {
+      "key": "e_1_2_8_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/94GL02718"
+    },
+    {
+      "key": "e_1_2_8_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB094iB10p00665"
+    },
+    {
+      "key": "e_1_2_8_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/gssrl.75.6.726"
+    },
+    {
+      "key": "e_1_2_8_20_1",
+      "first-page": "39",
+      "volume-title": "Apollo 12 Preliminary Science Rep. NASA SP‐235",
+      "author": "Latham G. V.",
+      "year": "1970"
+    },
+    {
+      "key": "e_1_2_8_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.167.3918.455"
+    },
+    {
+      "key": "e_1_2_8_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-246X.1998.tb07142.x"
+    },
+    {
+      "key": "e_1_2_8_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/1999JB900359"
+    },
+    {
+      "key": "e_1_2_8_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/91JB03094"
+    },
+    {
+      "key": "e_1_2_8_25_1",
+      "first-page": "389",
+      "article-title": "Seismic energy transmission in an intensively scattering environment",
+      "volume": "43",
+      "author": "Nakamura Y.",
+      "year": "1977",
+      "journal-title": "J. Geophys."
+    },
+    {
+      "key": "e_1_2_8_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB081i026p04818"
+    },
+    {
+      "key": "e_1_2_8_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0734-743X(87)90064-9"
+    },
+    {
+      "key": "e_1_2_8_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-246X.2009.04204.x"
+    },
+    {
+      "key": "e_1_2_8_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4294/jpe1952.25.163"
+    },
+    {
+      "key": "e_1_2_8_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-23029-5"
+    },
+    {
+      "key": "e_1_2_8_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-246X.2004.02378.x"
+    },
+    {
+      "key": "e_1_2_8_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1199375"
+    },
+    {
+      "key": "e_1_2_8_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1231530"
+    },
+    {
+      "key": "e_1_2_8_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/1999JB900437"
+    },
+    {
+      "key": "e_1_2_8_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0065-2687(08)00010-1"
+    }
+  ],
+  "container-title": [
+    "Journal of Geophysical Research: Planets"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2014JE004654",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2014JE004654",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2014JE004654",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        16
+      ]
+    ],
+    "date-time": "2023-09-16T10:44:07Z",
+    "timestamp": 1694861047000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014JE004654"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        3
+      ]
+    ]
+  },
+  "references-count": 34,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1002/2014JE004654"
+  ],
+  "URL": "https://doi.org/10.1002/2014je004654",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "2169-9097",
+    "2169-9100"
+  ],
+  "issn-type": [
+    {
+      "value": "2169-9097",
+      "type": "print"
+    },
+    {
+      "value": "2169-9100",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2015,
+        3
+      ]
+    ]
+  }
+}

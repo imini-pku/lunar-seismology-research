@@ -1,0 +1,542 @@
+[
+  {
+    "record": "A12LM_S12_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A12LM_S12_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A12LM_S12_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A13SIVB_S12_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A13SIVB_S12_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A13SIVB_S12_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A14SIVB_S12_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A14SIVB_S12_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A14SIVB_S12_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A14LM_S12_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A14LM_S12_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A14LM_S12_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A14LM_S14_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A14LM_S14_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A14LM_S14_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15SIVB_S12_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15SIVB_S12_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15SIVB_S12_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15SIVB_S14_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15SIVB_S14_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15SIVB_S14_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15LM_S12_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15LM_S12_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15LM_S12_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15LM_S14_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15LM_S14_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15LM_S14_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15LM_S15_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15LM_S15_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A15LM_S15_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A16SIVB_S12_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A16SIVB_S12_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A16SIVB_S12_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A16SIVB_S14_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A16SIVB_S14_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A16SIVB_S15_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A16SIVB_S15_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A16SIVB_S15_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S12_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S12_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S12_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S14_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S14_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S15_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S15_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S15_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S16_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S16_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17SIVB_S16_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S12_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S12_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S12_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S14_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S14_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S15_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S15_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S15_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S16_MHZ",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S16_MH1",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  },
+  {
+    "record": "A17LM_S16_MH2",
+    "raw_exact_archive": true,
+    "source_hash_unchanged": true,
+    "changes_exactly_logged": true,
+    "original_gaps_preserved": true,
+    "excluded_samples_nan": true,
+    "failed_segments": 0
+  }
+]

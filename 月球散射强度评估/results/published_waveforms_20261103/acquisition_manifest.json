@@ -1,0 +1,470 @@
+[
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/__pycache__/util.cpython-311.pyc",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/__pycache__/util.cpython-311.pyc",
+    "size": 4130,
+    "sha256": "9bfbe0b6c26dcd79f201eec9c39b6144048a99b8ecd19fa5b502489e9a72ae0c",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/CITATION.cff",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/CITATION.cff",
+    "size": 283,
+    "sha256": "dcd9702c18bd5316e29a26a6b965a38d6c34e043d850687d62a5009e285c8bfb",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A12_LM_S12.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A12_LM_S12.MSEED",
+    "size": 614400,
+    "sha256": "5c8362d7e6f428616151726bf24f358be2bbdb843bea56a688bf1d816d610e72",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A13_S-IVB_S12.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A13_S-IVB_S12.MSEED",
+    "size": 585728,
+    "sha256": "b30888154c840d9e929db58b0b1e7129ac1f9be61e472d167723a5374e092bde",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A14_LM_S12.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A14_LM_S12.MSEED",
+    "size": 610304,
+    "sha256": "945a5b18fcbbe27d354269daa86a43ac389056b217512051c3e29fff75927c52",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A14_LM_S14.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A14_LM_S14.MSEED",
+    "size": 577536,
+    "sha256": "c93f3981455313f5ecce261b7bd1ee41d59128bfba5d9075a2e0c0a323d73dbf",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A14_S-IVB_S12.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A14_S-IVB_S12.MSEED",
+    "size": 471040,
+    "sha256": "dea5d5e09847f3b4f03afce23c1fc30e1f792f03c8102621d1db63ab09c1433f",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A15_LM_S12.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A15_LM_S12.MSEED",
+    "size": 614400,
+    "sha256": "f1e1d3c5e0f6f0d89072f2887b9fc6f6a0aebea2027ded8c2b081c598cc99f29",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A15_LM_S14.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A15_LM_S14.MSEED",
+    "size": 561152,
+    "sha256": "e6a589cd37b49c9dd8371aaf79659f778f180da387bb33e2b8c97a19925ae0d2",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A15_LM_S15.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A15_LM_S15.MSEED",
+    "size": 720896,
+    "sha256": "8cf6e5901e5b09212d8b501fe99c8495b4cd44fae3a8ec39e5a662dd70580651",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A15_S-IVB_S12.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A15_S-IVB_S12.MSEED",
+    "size": 208896,
+    "sha256": "dad8f4c0fe51c096f9f86728ea36cdc7af5b1d34fa66c24c29c7447c124f4997",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A15_S-IVB_S14.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A15_S-IVB_S14.MSEED",
+    "size": 606208,
+    "sha256": "7f0760b626ca8b94cb957d027781995b6e6d7843974ee909974b5a287c7ff92e",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A16_S-IVB_S12.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A16_S-IVB_S12.MSEED",
+    "size": 233472,
+    "sha256": "36b006b142e32b6dfdeb51d663f7c7a9d04f3a0724e0ada98a6a8022aeddf7af",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A16_S-IVB_S14.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A16_S-IVB_S14.MSEED",
+    "size": 557056,
+    "sha256": "e359a4e13460292637791d11aa2c60380309f59bfb986cf4d6eeab95512d39f1",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A16_S-IVB_S15.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A16_S-IVB_S15.MSEED",
+    "size": 626688,
+    "sha256": "0f318096656a88a3ca87b1108e0c9eb55cc108be4170ea8c12aeb0ff1e401961",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A17_LM_S12.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A17_LM_S12.MSEED",
+    "size": 196608,
+    "sha256": "3f0307cbb6ceaef605c3bcca33c7dab63dddecd4784c4cf6ae2667e28cdd2846",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A17_LM_S14.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A17_LM_S14.MSEED",
+    "size": 528384,
+    "sha256": "fb38e93529015816024159c685eec02ba439392c85b7e71a8d4cb25405111a4d",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A17_LM_S15.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A17_LM_S15.MSEED",
+    "size": 716800,
+    "sha256": "92d753dc6ff57b3ef3a92bcd7917ea81f4cedc603a3bac533692d203e7a53b26",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A17_LM_S16.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A17_LM_S16.MSEED",
+    "size": 569344,
+    "sha256": "0c43f4c36865078a92dcf789d72255d2d913eefaef781de4d55371a65f8c1410",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A17_S-IVB_S12.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A17_S-IVB_S12.MSEED",
+    "size": 208896,
+    "sha256": "20d4f391526c68d69f46508607991c12b13c799b643b33c749e1092201a05fbd",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A17_S-IVB_S14.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A17_S-IVB_S14.MSEED",
+    "size": 524288,
+    "sha256": "2352b1cd3b82976961dd737e5b93661077d043ed7fb679d57b4ef4dc64c3cb18",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A17_S-IVB_S15.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A17_S-IVB_S15.MSEED",
+    "size": 634880,
+    "sha256": "3c949d91695175c1fb811027c4488750a30a20c1d0212d5617b0a520552546d0",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/A17_S-IVB_S16.MSEED",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/A17_S-IVB_S16.MSEED",
+    "size": 565248,
+    "sha256": "1b9b278f898b224a90758f2c88704a918ce4cf077a26cf24e7a18846ec984206",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/input_files/local_MSEED/inventory.xml",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/input_files/local_MSEED/inventory.xml",
+    "size": 367684,
+    "sha256": "0eaccea80c388af5a02bb93bb912523f5ae7a9ba7d5b1ee286bff32de5d43e9b",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/postprocessing_observations.ipynb",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/postprocessing_observations.ipynb",
+    "size": 6784017,
+    "sha256": "f37c6a95076de4dc73bb6c634165a65e7a57b32dc95b0f9230e9c4151757677e",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/postprocessing_util.py",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/postprocessing_util.py",
+    "size": 105815,
+    "sha256": "adbf8587a6c21ba36883c08bf303d70b98a2943a7c394906deac21642f9e9a21",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/postprocessing_util_observations.py",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/postprocessing_util_observations.py",
+    "size": 17491,
+    "sha256": "1bff4696ef0736ce16bcf01f1f1b0fed578e875ecbf9da28829906aa466d97dc",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/README.md",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/README.md",
+    "size": 3059,
+    "sha256": "fa6de3da6882daf287048a865c820974c2808454f01118b0baa60a7a38e7e071",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/util.py",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/util.py",
+    "size": 3186,
+    "sha256": "8fa5a2a7da7ddb14dc0ee2c703f872b33f5c9c100308eae03c60530d03fda5bf",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/view_artificial_observations.ipynb",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/view_artificial_observations.ipynb",
+    "size": 1309,
+    "sha256": "16027251c9324cc63898e1b90cb833d6dd67c31be24939bbb48645ba545a89ef",
+    "git_lfs_object": false
+  },
+  {
+    "source": "cerinunn_impact_simulations",
+    "fixed_tree_sha": "225fc9ba55eba53a4af0564bacf5679e9af7af7e",
+    "url": "https://raw.githubusercontent.com/cerinunn/impact_simulations/225fc9ba55eba53a4af0564bacf5679e9af7af7e/write_local_data.helper.py",
+    "path": "data/raw/published_waveform_sources/cerinunn_impact_simulations/write_local_data.helper.py",
+    "size": 2341,
+    "sha256": "395cb0e4bddcd92138e8361b0638ddd7a6a79841da411fe1d17bc4e9b517bf27",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/AutoProcessWorkflow/custom_layers.py",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/AutoProcessWorkflow/custom_layers.py",
+    "size": 17527,
+    "sha256": "54fd2cc55914780e631b442f97afdba45bfe091c88b95917e3252fdf5ea684bf",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/AutoProcessWorkflow/detect_example_script.py",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/AutoProcessWorkflow/detect_example_script.py",
+    "size": 6706,
+    "sha256": "48b9e6fde741312e1b0d29a02f9ca9aeed8230ba0da499b3f8b9abfb530ff5e5",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/AutoProcessWorkflow/PickNet.py",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/AutoProcessWorkflow/PickNet.py",
+    "size": 4997,
+    "sha256": "56e50f12e40eaf40ff8a310957fd9414f90a2f306ebacfb17f0aae5b695407ae",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/MannalAnnotateInterface/Apollo_annotator.py",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/MannalAnnotateInterface/Apollo_annotator.py",
+    "size": 22748,
+    "sha256": "f5ff347d2ccd35da0165b34dbb0c0f9f7bbd3c024ce135020551d585725d1da6",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/README.md",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/README.md",
+    "size": 3158,
+    "sha256": "6e5382387ee2a5bd505985cf4fee9ff88439993494719a25f6211683e14081bd",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/19711020.MHZ.npy",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/19711020.MHZ.npy",
+    "size": 132,
+    "sha256": "a615c9654e800fb2b8d3d470dd181640bbb816da77863172be34c6cc3e715b42",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/19720116.MH1.npy",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/19720116.MH1.npy",
+    "size": 132,
+    "sha256": "40ac588d7bfac4f3fcdca9fc6e8e4da31b41c0d7618cb4853185837ff8fccf87",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/19720214.MH1.npy",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/19720214.MH1.npy",
+    "size": 132,
+    "sha256": "d12348d048e10a3621991bf29afcf89aab6528591605e13a372ad7239aa6f6f1",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/19720417.MH2.npy",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/19720417.MH2.npy",
+    "size": 132,
+    "sha256": "95d2715e6b9d095d85b4a37e50703a0162c9203ef80152d94e6b36869d32371d",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/disturbance_data_for_random_sample_usage.npy",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/disturbance_data_for_random_sample_usage.npy",
+    "size": 134,
+    "sha256": "f5632c89e63d9dbc53d3519c425d7703f095da3672cb27690b402c890ccc1440",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://media.githubusercontent.com/media/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/EV_13_S4B_IMP.npy",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/EV_13_S4B_IMP.npy",
+    "size": 91627733,
+    "sha256": "89eecd1049d4bf73dbb070ba7f634f8d0f023d9e2582956b684993492415ce79",
+    "git_lfs_object": true
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://media.githubusercontent.com/media/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/EV_14_S4B_IMP.npy",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/EV_14_S4B_IMP.npy",
+    "size": 91627463,
+    "sha256": "6960462cf4544d277d2528a80aa7d43abbfcbb1aa0a0b07cb2e5ce989fc96ee1",
+    "git_lfs_object": true
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://media.githubusercontent.com/media/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/EV_15_S4B_IMP.npy",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/EV_15_S4B_IMP.npy",
+    "size": 91614052,
+    "sha256": "9c807c75c996228f59f3a07f46c854a04f26e709e22f14d78bfd0c72ec31aaf2",
+    "git_lfs_object": true
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://media.githubusercontent.com/media/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/EV_16_S4B_IMP.npy",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/EV_16_S4B_IMP.npy",
+    "size": 91608161,
+    "sha256": "ae386d2eba9953fa79f62d47cfbed83c8da1eba80fde1cc5c28b7a7b229a4287",
+    "git_lfs_object": true
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://media.githubusercontent.com/media/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/EV_17_S4B_IMP.npy",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/EV_17_S4B_IMP.npy",
+    "size": 91607807,
+    "sha256": "6b2a75821d71e8e41d7d72018fc7ba386c05b7502fed06b36d699dfbe7207915",
+    "git_lfs_object": true
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/Reproduce_Figure_1.ipynb",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/Reproduce_Figure_1.ipynb",
+    "size": 1150015,
+    "sha256": "19bd702053b591ccd10273c82cf7fed3179e1d0d4f7ca0597349d01e3e401646",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/Reproduce_Figure_2.ipynb",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/Reproduce_Figure_2.ipynb",
+    "size": 478767,
+    "sha256": "0aef92dea2a63b36b44c5509a3895eb57618f83053762598db1f47579aff197a",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/Reproduce_Figure_3.ipynb",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/Reproduce_Figure_3.ipynb",
+    "size": 164532,
+    "sha256": "2a5767ae60b9552fcfece894d4eedc70d800f13de351e9d582af8cf7e6c70e16",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/Reproduce_Figures5_S20-22.ipynb",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/Reproduce_Figures5_S20-22.ipynb",
+    "size": 16146,
+    "sha256": "877b45f71bf8aac42936693e535fe8e9ef94ae590c9e6a8e5713785352d927bf",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/Reproduce_Figures6_7_S23_S30.ipynb",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/Reproduce_Figures6_7_S23_S30.ipynb",
+    "size": 19632,
+    "sha256": "58d9b7755c06b237c723b79198a9e017df5201f4907b3e29f39f2a17aa59bd17",
+    "git_lfs_object": false
+  },
+  {
+    "source": "MrXiaoXiao_Apollo_Disturbance_Detection",
+    "fixed_tree_sha": "16e5c1c9aacd27cc57d1b49906deb4d7614b02fb",
+    "url": "https://raw.githubusercontent.com/MrXiaoXiao/Apollo_Disturbance_Detection/16e5c1c9aacd27cc57d1b49906deb4d7614b02fb/Reproduce_figures_in_the_manuscript/Reproduce_Figures_4_and_S2_to_S19.ipynb",
+    "path": "data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/Reproduce_figures_in_the_manuscript/Reproduce_Figures_4_and_S2_to_S19.ipynb",
+    "size": 20858,
+    "sha256": "f552325c94952b1e33654919eb00e9aa2ff718898976d137f6ccc131d6083605",
+    "git_lfs_object": false
+  }
+]

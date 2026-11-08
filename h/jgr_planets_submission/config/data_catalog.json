@@ -1,0 +1,211 @@
+{
+  "catalog_version": "2026-09-14.1",
+  "model_background_update_2026_09_13": {
+    "authoritative_note": "provenance/MODEL_BACKGROUND_2026-09-13.md",
+    "archived_sources": "source_archive/model_design_2026-09-13/",
+    "parameters": "source_archive/model_design_2026-09-13/当前参数与适用边界.json",
+    "low_velocity_layer": {"thickness_km": 1.0, "vp_km_s": 1.38, "vs_km_s": 0.9, "density_kg_m3": 2600, "uniform": true, "follows_local_surface": true},
+    "selected_model": "simple_four_layer",
+    "author_selection_corrected_on": "2026-09-14",
+    "medium_reference_doi": "10.1029/2022JE007558",
+    "medium_reference_scope": "Author-stated background medium source only, not random velocity perturbations",
+    "domain_km": [300, 300, 40],
+    "design_grid_points": [1500, 1500, 200],
+    "flat_interface_depths_km": [0, 5, 10, 30, 40],
+    "random_velocity": {"source": "this study's design memo and author confirmation; NOT Onodera 2022 results", "autocorrelation": "3D von Karman", "relative_standard_deviation": [0.09, 0.05], "reference_depth_intervals_km": [[0, 5], [5, 10]], "correlation_length_km": 4.5},
+    "peak_smoothing_s": 20,
+    "figure7b_metrics": ["tmax", "T90"]
+  },
+  "purpose": "Machine-readable inventory linking the half-space experiments and the A16/S12 experiment used by this project.",
+  "terrain_reading_convention": {
+    "status": "verified",
+    "reference_matlab_script": "D:\\software\\CGFD3D_v26.03\\revise\\usefiles\\newfigure6_part3_1.m",
+    "reference_operation": "dem = load(file); dem = dem'; dem = dem(:); elev = dem(sub2ind([ny,nx], y_idx, x_idx));",
+    "matrix_orientation": "first matrix dimension is x; second matrix dimension is y",
+    "equivalent_numpy_index": "raw[x_index, y_index]",
+    "coordinate_mapping": {
+      "half_space_domain_km": [100.0, 100.0],
+      "a16_domain_km": [300.0, 300.0],
+      "index_formula": "round(coordinate_km / domain_km * (n - 1)) + 1 in MATLAB; use zero-based index after conversion in Python",
+      "rounding": "MATLAB round to the nearest grid node; for the positive coordinates used here, floor(value + 0.5) is equivalent",
+      "half_space_source_xy_km": [50.0, 50.0],
+      "half_space_azimuth_deg_from_positive_x": 75.0
+    },
+    "interpolation_policy": "The audited MATLAB half-space profile uses nearest-grid sampling. Bilinear interpolation is allowed only for explicitly labeled A16 path-profile diagnostics and must preserve the same x-first/y-second orientation.",
+    "applies_to": [
+      "half_space topography-switch and topographic-resolution grids",
+      "A16/S12 packaged and external topography grids",
+      "all derived elevation, slope, path-relief, depression, and terrain-correlation calculations"
+    ],
+    "provenance_document": "provenance/TERRAIN_DATA_AUDIT.md",
+    "orientation_fix_record": "投稿文件/地形读取复查_2026-09-07/地形读取复查报告.md",
+    "figure_specific_validation_2026_09_09": {
+      "Figure3_v04": "Use the corrected half-space terrain profile confirmed by the user.",
+      "Figure6_v05": "Use the pre-orientation-fix archived A16/S12 terrain profile confirmed by the user, including the Path 2 depression at approximately 75–110 km.",
+      "rule": "Figure 3 and Figure 6 are figure-specific workflows with different terrain-reading/data-generation conventions. Do not apply the Figure 3 sampler globally to A16/S12 or overwrite the restored Figure 6 before_orientation_fix tables.",
+      "restoration_record": "TERRAIN_RESTORATION_2026-09-09.md"
+    }
+  },
+  "signal_processing_default": {
+    "components": ["Vx", "Vy", "Vz"],
+    "bandpass_hz": [0.3, 0.9],
+    "filter": "fourth-order zero-phase Butterworth",
+    "comparison_window_s": [0.0, 99.9]
+  },
+  "half_space": {
+    "topography_switch": {
+      "with_topography_station_nc": "E:\\project_use1_topo_0.125\\output\\station.nc",
+      "without_topography_station_nc": "E:\\project_use1_layer\\output\\station.nc",
+      "with_topography_project_station_file": "E:\\project_use1_topo_0.125\\test.station",
+      "without_topography_project_station_file": "E:\\project_use1_layer\\test.station",
+      "receiver_geometry_matlab_reference": "D:\\software\\CGFD3D_v26.03\\revise\\usefiles\\newfigure6_part3_3.m",
+      "receiver_geometry_run_script": "D:\\software\\CGFD3D_v26.03\\revise\\cgfd3d.revise.use1.topo.0.125.Q.sh",
+      "receiver_geometry": {
+        "station_count": 800,
+        "station_index_first": 1,
+        "station_index_last": 800,
+        "source_x_m": 50000.0,
+        "source_y_m": 50000.0,
+        "azimuth_deg_from_positive_x": 75.0,
+        "station_spacing_m": 50.0,
+        "distance_formula": "distance_km = station_index * 50 / 1000",
+        "x_formula": "x_m = 50000 + station_index * 50 * cosd(75)",
+        "y_formula": "y_m = 50000 + station_index * 50 * sind(75)",
+        "preferred_distance_analysis_station_range": [20, 760]
+      },
+      "topography_txt": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\new2_Z_4000_topo.txt",
+      "terrain_sampling_rule": {
+        "source_domain_km": [100.0, 100.0],
+        "grid_shape": [4006, 4006],
+        "source_xy_km": [50.0, 50.0],
+        "azimuth_deg_from_positive_x": 75.0,
+        "index_rule": "Load text grid; MATLAB transpose plus column-major flatten plus sub2ind([ny,nx], y_idx, x_idx), equivalent to raw[x_idx, y_idx] in NumPy for this square grid",
+        "rounding": "Nearest grid node using MATLAB round; do not use bilinear interpolation for the audited profile"
+      },
+      "audit_note": "Both NetCDF files contain r1-r800. The current 216-receiver project test.station files are not the geometry of this archive and must not be used for these records. The exact 800-receiver line is recovered from newfigure6_part3_3.m and the run script: source (50000,50000) m, azimuth 75 degrees, 50 m spacing, r1=0.05 km through r800=40 km."
+    },
+    "topographic_resolution": [
+      {
+        "resolution_m": 250,
+        "sampling_count_per_100km": 400,
+        "project_folder": "E:\\project_use1_topo_400",
+        "station_nc": "E:\\project_use1_topo_400\\output\\station.nc",
+        "station_file": "E:\\project_use1_topo_400\\test.station",
+        "topography_txt": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\new2_Z_4000_400_topo.txt"
+      },
+      {
+        "resolution_m": 500,
+        "sampling_count_per_100km": 200,
+        "project_folder": "E:\\project_use1_topo_200",
+        "station_nc": "E:\\project_use1_topo_200\\output\\station.nc",
+        "station_file": "E:\\project_use1_topo_200\\test.station",
+        "topography_txt": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\new2_Z_4000_200_topo.txt"
+      },
+      {
+        "resolution_m": 125,
+        "sampling_count_per_100km": 800,
+        "project_folder": "E:\\project_use1_topo_0.125_old",
+        "station_nc": "E:\\project_use1_topo_0.125_old\\output\\station.nc",
+        "station_file": "E:\\project_use1_topo_0.125\\test.station",
+        "topography_txt": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\new2_Z_4000_topo.txt",
+        "audit_note": "The archived _old folder contains only output; the 216-receiver station file is retained in E:\\project_use1_topo_0.125."
+      },
+      {
+        "resolution_m": 1000,
+        "sampling_count_per_100km": 100,
+        "project_folder": "E:\\project_use1_topo_1",
+        "station_nc": "E:\\project_use1_topo_1\\output\\station.nc",
+        "station_file": "E:\\project_use1_topo_1\\test.station",
+        "topography_txt": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\new2_Z_4000_100_topo.txt"
+      },
+      {
+        "resolution_m": 2500,
+        "sampling_count_per_100km": 40,
+        "project_folder": "E:\\project_use1_topo_40",
+        "station_nc": "E:\\project_use1_topo_40\\output\\station.nc",
+        "station_file": "E:\\project_use1_topo_40\\test.station",
+        "topography_txt": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\new2_Z_4000_40_topo.txt"
+      },
+      {
+        "resolution_m": 4000,
+        "sampling_count_per_100km": 25,
+        "project_folder": "E:\\project_use1_topo_25",
+        "station_nc": "E:\\project_use1_topo_25\\output\\station.nc",
+        "station_file": "E:\\project_use1_topo_25\\test.station",
+        "topography_txt": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\new2_Z_4000_25_topo.txt"
+      },
+      {
+        "resolution_m": 6250,
+        "sampling_count_per_100km": 16,
+        "project_folder": "E:\\project_use1_topo_16",
+        "station_nc": "E:\\project_use1_topo_16\\output\\station.nc",
+        "station_file": "E:\\project_use1_topo_16\\test.station",
+        "topography_txt": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\new2_Z_4000_16_topo.txt"
+      },
+      {
+        "resolution_m": 10000,
+        "sampling_count_per_100km": 10,
+        "project_folder": "E:\\project_use1_topo_10",
+        "station_nc": "E:\\project_use1_topo_10\\output\\station.nc",
+        "station_file": "E:\\project_use1_topo_10\\test.station",
+        "topography_txt": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\new2_Z_4000_10_topo.txt"
+      }
+    ],
+    "layering_switch": {
+      "uniform_half_space_station_nc": "E:\\project_use1_topo_0.125_old\\output\\station.nc",
+      "layered_station_nc": "E:\\project_use2_topo_800\\output\\station.nc",
+      "shared_station_file": "E:\\project_use2_topo_800\\test.station",
+      "topography_txt": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\new2_Z_4000_topo.txt"
+    }
+  },
+  "a16_s12": {
+    "external_simulations": {
+      "M1_flat_no_heterogeneity": "E:\\project_releasy_flat_noscatter\\output\\station.nc",
+      "M2_topography_no_heterogeneity": "E:\\project_releasy_topo_noscatter\\output\\station.nc",
+      "M3_flat_heterogeneity": "E:\\project_releasy_flat_scatter\\output\\station.nc",
+      "M4_topography_heterogeneity": "E:\\project_releasy_topo_scatter\\output\\station.nc",
+      "M5_flat_heterogeneity_low_velocity": "E:\\project_releasy_flat_scatter_low\\output\\station.nc",
+      "M6_topography_heterogeneity_low_velocity": "E:\\project_releasy_topo_scatter_low\\output\\station.nc"
+    },
+    "packaged_simulations": {
+      "M1_flat_no_heterogeneity": "data/raw/M1_flat_no_heterogeneity_station.nc",
+      "M2_topography_no_heterogeneity": "data/raw/M2_topography_no_heterogeneity_station.nc",
+      "M3_flat_heterogeneity": "data/raw/M3_flat_heterogeneity_station.nc",
+      "M4_topography_heterogeneity": "data/raw/M4_topography_heterogeneity_station.nc",
+      "M5_flat_heterogeneity_low_velocity": "data/raw/M5_flat_heterogeneity_low_velocity_station.nc",
+      "M6_topography_heterogeneity_low_velocity": "data/raw/M6_topography_heterogeneity_low_velocity_station.nc"
+    },
+    "low_velocity_extension": {
+      "fixed_factor": "random heterogeneity is present in both low-velocity models",
+      "available_contrasts": {
+        "low_velocity_effect_flat": "M5/M3",
+        "low_velocity_effect_topography": "M6/M4",
+        "topography_effect_without_low_velocity": "M4/M3",
+        "topography_effect_with_low_velocity": "M6/M5",
+        "topography_by_low_velocity_interaction": "log(M6/M5)-log(M4/M3) for positive metrics; (M6-M5)-(M4-M3) for time or fraction metrics"
+      },
+      "common_comparison_window_s": [50.0, 245.0],
+      "extended_low_velocity_window_s": [50.0, 395.0],
+      "audit_note": "M5 and M6 contain the same r1-r606 names and sequence numbers as M1-M4. Their records extend to approximately 400 s, whereas M1-M4 end at approximately 250 s. Cross-generation effects must use the common 50-245 s window; 245-395 s diagnostics are descriptive only for M5/M6. No run-local model manifest accompanied the two output-only folders, so exact low-velocity-layer parameters and source identity remain to be confirmed before parameter inversion. Low-velocity/no-heterogeneity cells are unavailable, so a full topography x heterogeneity x low-velocity factorial design and a low-velocity x heterogeneity interaction cannot be estimated."
+    },
+    "observation_external": {
+      "Z": "D:\\software\\CGFD3D_v26.03\\revise\\usefiles\\16s.12.BHZ.txt",
+      "E": "D:\\software\\CGFD3D_v26.03\\revise\\usefiles\\16s.12.BHE.sac",
+      "N": "D:\\software\\CGFD3D_v26.03\\revise\\usefiles\\16s.12.BHN.sac"
+    },
+    "observation_packaged": {
+      "Z": "data/raw/16s.12.BHZ.SAC",
+      "E": "data/raw/16s.12.BHE.SAC",
+      "N": "data/raw/16s.12.BHN.SAC"
+    },
+    "topography_external": "D:\\software\\CGFD3D_v26.03\\revise\\prep_medium\\rel3_Z_300_1500_topo.txt",
+    "topography_packaged": "data/raw/rel3_Z_300_1500_topo.txt",
+    "terrain_sampling_rule": {
+      "source_domain_km": [300.0, 300.0],
+      "grid_orientation": "first matrix dimension x, second matrix dimension y",
+      "index_rule": "MATLAB transpose/linear-index equivalent raw[x_idx, y_idx]",
+      "rounding": "Nearest grid node using MATLAB round"
+    },
+    "receiver_geometry": "Generated exactly by code/verified_legacy/plot_releasy_waveform_comparison.py::build_station_geometry (606 receivers); no run-local test.station was found in the four external project folders."
+  }
+}

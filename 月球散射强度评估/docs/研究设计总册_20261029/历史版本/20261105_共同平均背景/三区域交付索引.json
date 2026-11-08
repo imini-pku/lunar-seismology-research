@@ -1,0 +1,52 @@
+{
+  "scope": [
+    "S12",
+    "S14",
+    "S15"
+  ],
+  "status": "DESIGN_ONLY",
+  "parameters_shared": false,
+  "background_is_common_fallback": true,
+  "regions": [
+    {
+      "station": "S12",
+      "pairs": 7,
+      "train": 3,
+      "holdout": 4,
+      "height": -1.4285,
+      "bounds": [
+        -29.54186,
+        -10.17014,
+        -9.82989,
+        3.56989
+      ]
+    },
+    {
+      "station": "S14",
+      "pairs": 3,
+      "train": 2,
+      "holdout": 1,
+      "height": -1.063,
+      "bounds": [
+        -26.27896,
+        -10.16854,
+        -5.29308,
+        3.56989
+      ]
+    },
+    {
+      "station": "S15",
+      "pairs": 1,
+      "train": 1,
+      "holdout": 0,
+      "height": -1.924,
+      "bounds": [
+        -1.61764,
+        5.49755,
+        24.48517,
+        28.00889
+      ]
+    }
+  ],
+  "planned_runs": 489
+}

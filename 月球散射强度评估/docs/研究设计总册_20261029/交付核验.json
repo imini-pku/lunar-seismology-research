@@ -1,0 +1,2018 @@
+{
+  "date": "2026-10-29",
+  "checks": {
+    "all_local_links_exist": true,
+    "all_local_links_portable": true,
+    "no_unfilled_table_placeholders": true,
+    "72_pngs_decode": true,
+    "9_events_21_pairs": true,
+    "60_components_3_absent": true,
+    "16_literature_clear_5_low": true,
+    "station_counts_9_6_4_2": true,
+    "64_unique_planned_jobs": true,
+    "16_first_stage_subset": true,
+    "8_event_domains": true,
+    "11_recorded_clear_local_targets": true,
+    "auxiliary_S14_is_explicit": true,
+    "new_baseline_density_control_zero": true,
+    "28_reference_ids": true,
+    "189_unqualified_template_rows": true,
+    "240_historical_band_rows": true,
+    "21_original_archives_hash_unchanged": true,
+    "cited_evidence_ids_resolve": true
+  },
+  "all_passed": true,
+  "links_checked": 257,
+  "links": [
+    {
+      "from": "00_阅读指南与总体方案.md",
+      "target": "月球散射研究设计_完整合订本.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "00_阅读指南与总体方案.md",
+      "target": "01_事件台站与记录图册.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "00_阅读指南与总体方案.md",
+      "target": "02_散射模型与参数设计.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "00_阅读指南与总体方案.md",
+      "target": "03_波形处理与反演准入.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "00_阅读指南与总体方案.md",
+      "target": "04_CGFD3D模拟与验证流程.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "00_阅读指南与总体方案.md",
+      "target": "05_文献依据与论文组织.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "00_阅读指南与总体方案.md",
+      "target": "附录_Zhang2025数据清洗论文综述.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/event_station_coverage_matrix.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "tables/events_and_domains.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "sources/lola_data_provenance.json",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/impact_station_terrain_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/nine_event_terrain_domains.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/local_candidate_terrain_domains.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A12LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A13SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_S16_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_S16_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "tables/trace_stage_comparison.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A12LM_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A12LM_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A12LM_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A12LM_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A12LM_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A12LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A13SIVB_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A13SIVB_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A13SIVB_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A13SIVB_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A13SIVB_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A13SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14SIVB_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14SIVB_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14SIVB_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14SIVB_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14SIVB_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14LM_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14LM_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14LM_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14LM_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14LM_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A14LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15SIVB_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15SIVB_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15SIVB_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15SIVB_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15SIVB_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A15LM_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A16SIVB_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17SIVB_S16_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "assets/A17LM_S16_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "01_事件台站与记录图册.md",
+      "target": "tables/pair_record_summary_current.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "02_散射模型与参数设计.md",
+      "target": "05_文献依据与论文组织.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "02_散射模型与参数设计.md",
+      "target": "tables/model_choice_provenance.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "02_散射模型与参数设计.md",
+      "target": "assets/model_reference_profiles.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "02_散射模型与参数设计.md",
+      "target": "04_CGFD3D模拟与验证流程.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "03_波形处理与反演准入.md",
+      "target": "01_事件台站与记录图册.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "03_波形处理与反演准入.md",
+      "target": "05_文献依据与论文组织.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "03_波形处理与反演准入.md",
+      "target": "assets/A14SIVB_S12_MHZ_gap_zoom.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "03_波形处理与反演准入.md",
+      "target": "assets/A15LM_S15_MHZ_gap_zoom.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "03_波形处理与反演准入.md",
+      "target": "tables/trace_stage_comparison.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "03_波形处理与反演准入.md",
+      "target": "tables/impact_modern_band_screen.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "03_波形处理与反演准入.md",
+      "target": "附录_Zhang2025数据清洗论文综述.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "03_波形处理与反演准入.md",
+      "target": "tables/qualification_template.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "04_CGFD3D模拟与验证流程.md",
+      "target": "tables/event_baseline_jobs_v3.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "05_文献依据与论文组织.md",
+      "target": "附录_Zhang2025数据清洗论文综述.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "05_文献依据与论文组织.md",
+      "target": "references/README.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "月球散射研究设计_完整合订本.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "01_事件台站与记录图册.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "02_散射模型与参数设计.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "03_波形处理与反演准入.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "04_CGFD3D模拟与验证流程.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "05_文献依据与论文组织.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "附录_Zhang2025数据清洗论文综述.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/event_station_coverage_matrix.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "tables/events_and_domains.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "sources/lola_data_provenance.json",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/impact_station_terrain_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/nine_event_terrain_domains.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/local_candidate_terrain_domains.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A12LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A13SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_S16_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_S16_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "tables/trace_stage_comparison.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A12LM_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A12LM_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A12LM_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A12LM_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A12LM_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A12LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A13SIVB_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A13SIVB_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A13SIVB_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A13SIVB_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A13SIVB_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A13SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14SIVB_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14SIVB_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14SIVB_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14SIVB_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14SIVB_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14LM_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14LM_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14LM_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14LM_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14LM_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15SIVB_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15SIVB_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15SIVB_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15SIVB_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15SIVB_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A16SIVB_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_local_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17SIVB_S16_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_terrain_domain.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_raw_archive_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_processed_03_09_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_literature_displacement_03_05_overview.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_S12_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_S14_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_S15_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A17LM_S16_three_stages.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "tables/pair_record_summary_current.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "05_文献依据与论文组织.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "tables/model_choice_provenance.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/model_reference_profiles.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "04_CGFD3D模拟与验证流程.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "01_事件台站与记录图册.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "05_文献依据与论文组织.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A14SIVB_S12_MHZ_gap_zoom.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "assets/A15LM_S15_MHZ_gap_zoom.png",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "tables/trace_stage_comparison.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "tables/impact_modern_band_screen.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "附录_Zhang2025数据清洗论文综述.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "tables/qualification_template.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "tables/event_baseline_jobs_v3.csv",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "附录_Zhang2025数据清洗论文综述.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "references/README.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "references/waveform_cleaning_reference.bib",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "sources/publisher_pdf_web_extracted.txt",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "sources/acquisition_status.json",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "sources/crossref_metadata.json",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "03_波形处理与反演准入.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "references/waveform_cleaning_reference.bib",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "sources/zhang2025_methods_evidence.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "03_波形处理与反演准入.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "sources/waveform_processing_literature_review.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "月球散射研究设计_完整合订本.md",
+      "target": "sources/waveform_raw_integrity_audit.json",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "附录_Zhang2025数据清洗论文综述.md",
+      "target": "references/waveform_cleaning_reference.bib",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "附录_Zhang2025数据清洗论文综述.md",
+      "target": "sources/publisher_pdf_web_extracted.txt",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "附录_Zhang2025数据清洗论文综述.md",
+      "target": "sources/acquisition_status.json",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "附录_Zhang2025数据清洗论文综述.md",
+      "target": "sources/crossref_metadata.json",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "附录_Zhang2025数据清洗论文综述.md",
+      "target": "03_波形处理与反演准入.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "附录_Zhang2025数据清洗论文综述.md",
+      "target": "references/waveform_cleaning_reference.bib",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "附录_Zhang2025数据清洗论文综述.md",
+      "target": "sources/zhang2025_methods_evidence.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "附录_Zhang2025数据清洗论文综述.md",
+      "target": "03_波形处理与反演准入.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "附录_Zhang2025数据清洗论文综述.md",
+      "target": "sources/waveform_processing_literature_review.md",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "附录_Zhang2025数据清洗论文综述.md",
+      "target": "sources/waveform_raw_integrity_audit.json",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "references/README.md",
+      "target": "expanded_lunar_references.bib",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "references/README.md",
+      "target": "recent_lunar_references.bib",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "references/README.md",
+      "target": "scattering_references.bib",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "references/README.md",
+      "target": "waveform_cleaning_reference.bib",
+      "exists": true,
+      "inside_package": true
+    },
+    {
+      "from": "sources/zhang2025_methods_evidence.md",
+      "target": "../tables/events_and_domains.csv",
+      "exists": true,
+      "inside_package": true
+    }
+  ],
+  "figures": [
+    {
+      "file": "assets/A12LM_literature_displacement_03_05_overview.png",
+      "width": 3140,
+      "height": 1000,
+      "sha256": "71ebe9abe226a425cdb9ac7bf485bc75b439120f2699bba05d71a7081c04f99b"
+    },
+    {
+      "file": "assets/A12LM_local_terrain_domain.png",
+      "width": 1800,
+      "height": 1350,
+      "sha256": "8273c23b44f6c5bb9ba77d5d93802f32aaee8141137ea9809b061bd9d8ee71c5"
+    },
+    {
+      "file": "assets/A12LM_processed_03_09_overview.png",
+      "width": 3140,
+      "height": 1000,
+      "sha256": "1157397a2e76dc9bfc5cf95ccbaf5f262c1cbeb0e161683d6310d7ec01ff531d"
+    },
+    {
+      "file": "assets/A12LM_raw_archive_overview.png",
+      "width": 3140,
+      "height": 1000,
+      "sha256": "338d072bf2a98d50983480ed5f4e83fba5729ea22e4c230518b209f434830abe"
+    },
+    {
+      "file": "assets/A12LM_S12_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "7de27882f441e13ca812aa0fc600167c3814ac793fa0d8e8debc90c99258770f"
+    },
+    {
+      "file": "assets/A12LM_terrain_domain.png",
+      "width": 2070,
+      "height": 1530,
+      "sha256": "e0a47a98a0568f1eedf19f103502bbff75eb50b78cd55e0260733175d2cb5587"
+    },
+    {
+      "file": "assets/A13SIVB_literature_displacement_03_05_overview.png",
+      "width": 3140,
+      "height": 1000,
+      "sha256": "573fcd78b0f8f1f4ac81a44ef0974f705a3547251e69afb72ef885eacd7c353a"
+    },
+    {
+      "file": "assets/A13SIVB_local_terrain_domain.png",
+      "width": 1800,
+      "height": 1350,
+      "sha256": "3c973fc33780ad1868a0174d56c92bf860c9732855e30c06ec6bc1414645f56b"
+    },
+    {
+      "file": "assets/A13SIVB_processed_03_09_overview.png",
+      "width": 3140,
+      "height": 1000,
+      "sha256": "a2fbe009713f6021d8e1e3aebeb3500bfd93653e74c87c117307826a996b2dea"
+    },
+    {
+      "file": "assets/A13SIVB_raw_archive_overview.png",
+      "width": 3140,
+      "height": 1000,
+      "sha256": "103dc04719633c9a81b852a4938048cf6cc670e423f870327a102f505d9f908a"
+    },
+    {
+      "file": "assets/A13SIVB_S12_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "d81e866da65a0fc857889d8e25d6fcad3add79f980cb50e8566c582a2c16c43d"
+    },
+    {
+      "file": "assets/A13SIVB_terrain_domain.png",
+      "width": 2070,
+      "height": 1530,
+      "sha256": "cb59fedff0ff9ab2cd7dff68d349bb31790f8b96f5b0f8ecf23c025cd3e02e0d"
+    },
+    {
+      "file": "assets/A14LM_literature_displacement_03_05_overview.png",
+      "width": 3140,
+      "height": 1500,
+      "sha256": "0ad40b3851daa11a63c224ce652af4d9d4efa60dc2623af34e442422d1f93fad"
+    },
+    {
+      "file": "assets/A14LM_local_terrain_domain.png",
+      "width": 1800,
+      "height": 1350,
+      "sha256": "d20a7dd360d52bfd003d0e001956ad0854accf9d1390a977abc91ffc961efb3e"
+    },
+    {
+      "file": "assets/A14LM_processed_03_09_overview.png",
+      "width": 3140,
+      "height": 1500,
+      "sha256": "204dc868cb76eb43b6879e91f829b046529a59fa1f39ab72ff05b0e5ec7dd44a"
+    },
+    {
+      "file": "assets/A14LM_raw_archive_overview.png",
+      "width": 3140,
+      "height": 1500,
+      "sha256": "b19d62677f6b8c5d8d03b96e90d24fca0c93a1f1373d5db846418319551ff08e"
+    },
+    {
+      "file": "assets/A14LM_S12_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "aa6a790b6faf8151a0accf398f51e41e19274c31c4b57563f4d172adf00c5c89"
+    },
+    {
+      "file": "assets/A14LM_S14_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "f46952a08ec228947fdc75dcb04eaf0960289b681bb6cde19c2909a80f44fdb3"
+    },
+    {
+      "file": "assets/A14LM_terrain_domain.png",
+      "width": 2070,
+      "height": 1530,
+      "sha256": "6f8a7cc7113838797ca82b5dae63ebaf51595c789ba1741075233d6e6f3738e1"
+    },
+    {
+      "file": "assets/A14SIVB_literature_displacement_03_05_overview.png",
+      "width": 3140,
+      "height": 1000,
+      "sha256": "7c9f9284393b2a652b4c14c9bb33c68461402b8f139279c5b701b49c5742911b"
+    },
+    {
+      "file": "assets/A14SIVB_local_terrain_domain.png",
+      "width": 1800,
+      "height": 1350,
+      "sha256": "17dad30ba4fc28b298f05b2193d694406d58f0d2137a51b787081c11bdb92419"
+    },
+    {
+      "file": "assets/A14SIVB_processed_03_09_overview.png",
+      "width": 3140,
+      "height": 1000,
+      "sha256": "3fade38d2f8cfd539f246a8e010a405756a3b3db8ab2445042516c9b75e8ca2c"
+    },
+    {
+      "file": "assets/A14SIVB_raw_archive_overview.png",
+      "width": 3140,
+      "height": 1000,
+      "sha256": "7c73311db1e401f06d4bedfa48e2e8cdbfff3bdcd7a538a6890d5b328fde3ef8"
+    },
+    {
+      "file": "assets/A14SIVB_S12_MHZ_gap_zoom.png",
+      "width": 2760,
+      "height": 1900,
+      "sha256": "982c560c6a7588b8e4aac03a088b1466261cf9b2893d1ae5a15a0d7cf9ef84a4"
+    },
+    {
+      "file": "assets/A14SIVB_S12_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "14cf4ce698947850b204f5b4809b90db7be5fb5347ec438e55c12d82484f93d5"
+    },
+    {
+      "file": "assets/A14SIVB_terrain_domain.png",
+      "width": 2070,
+      "height": 1530,
+      "sha256": "7aa7c9ac17ca04790f52b241eef1f45b978834e35f9b8aec5dc0d7d7fe641ffd"
+    },
+    {
+      "file": "assets/A15LM_literature_displacement_03_05_overview.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "79f41dd1268e3f926c3cf620f2471a4c3ae8ef35e12222011f650fcc8938b63d"
+    },
+    {
+      "file": "assets/A15LM_local_terrain_domain.png",
+      "width": 1800,
+      "height": 1350,
+      "sha256": "5b7927cb28f03dad2455c985642566f9b773a18d96e7871d48cf8733aa808b9c"
+    },
+    {
+      "file": "assets/A15LM_processed_03_09_overview.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "95a4e81383f5e66d0623a8ad639bc9ce7b6a9a34a58b2e1cba467dc275ad733d"
+    },
+    {
+      "file": "assets/A15LM_raw_archive_overview.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "3a2f4ed139952b4ffeb45af37e24e839d964f5f62ca2cd7f810c6e42c41f9d63"
+    },
+    {
+      "file": "assets/A15LM_S12_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "8d797c754d58e6dc8e27fc156e28de8e9fff351f426f73a3e3f8e9f47dbb3f15"
+    },
+    {
+      "file": "assets/A15LM_S14_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "d07b5dbc5e28145d87d331a90d69e71bf349539d3c7322767d4aaab188fe5fef"
+    },
+    {
+      "file": "assets/A15LM_S15_MHZ_gap_zoom.png",
+      "width": 2760,
+      "height": 1900,
+      "sha256": "1a21dee46ed7b96fa5eeca06638fb34e900f684d0c29faac2ca49acce7da83d3"
+    },
+    {
+      "file": "assets/A15LM_S15_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "f0287400d2706ec1cb7a395de7c305f5df7b26a5e7ce1109ebe7196e9acc7373"
+    },
+    {
+      "file": "assets/A15LM_terrain_domain.png",
+      "width": 2070,
+      "height": 1530,
+      "sha256": "40771836da187a2af6ef4cd222a2716b51d5979c78741b1f2d2b04564ac47673"
+    },
+    {
+      "file": "assets/A15SIVB_literature_displacement_03_05_overview.png",
+      "width": 3140,
+      "height": 1500,
+      "sha256": "3f5821ec64ce316202e18e8df7f65a0e625229181e551ed92632c8843b27a5cc"
+    },
+    {
+      "file": "assets/A15SIVB_local_terrain_domain.png",
+      "width": 1800,
+      "height": 1350,
+      "sha256": "29a99ec38e58fc93406a6372ea539d80baff0c6fabb719cb5edd42cc79779842"
+    },
+    {
+      "file": "assets/A15SIVB_processed_03_09_overview.png",
+      "width": 3140,
+      "height": 1500,
+      "sha256": "84d9b8fc0fe25e0e6f4b078caed80284a72f111f8f60c596ea7d4be513d27309"
+    },
+    {
+      "file": "assets/A15SIVB_raw_archive_overview.png",
+      "width": 3140,
+      "height": 1500,
+      "sha256": "402b9809d44b7aca6290f6883dea0b152303018dc5e79cf27bd54578b60694b9"
+    },
+    {
+      "file": "assets/A15SIVB_S12_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "9bb648dd8791a28ecabb0f072b785ce5b9cfcf951a27caaf3dbd46e407e2823c"
+    },
+    {
+      "file": "assets/A15SIVB_S14_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "b6f83450e67af9002e53a356084a07ad14eee79c2777209a8ea715bf57505177"
+    },
+    {
+      "file": "assets/A15SIVB_terrain_domain.png",
+      "width": 2070,
+      "height": 1530,
+      "sha256": "2ddd4f802e1bbf67f6a3aa2931895c22b472ce446bab69c82f1d2d96bbeccfdd"
+    },
+    {
+      "file": "assets/A16SIVB_literature_displacement_03_05_overview.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "f212eede186302d2c5391121447d0e485fc4e86b5c6230a6a0ccee937c97ae41"
+    },
+    {
+      "file": "assets/A16SIVB_local_terrain_domain.png",
+      "width": 1800,
+      "height": 1350,
+      "sha256": "39d3fb1daff0eb636b1cdfefe03fe8c2adbdfea43a52077c2d799507aadb69ab"
+    },
+    {
+      "file": "assets/A16SIVB_processed_03_09_overview.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "51fc23c5aaf6aba8bbc3cf3a5c11d55d8c207748485aca2af9bdde4116eab3c6"
+    },
+    {
+      "file": "assets/A16SIVB_raw_archive_overview.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "6b476e6428dcefb066174f7f66a0a9512f8cf7b1c5be280a410ea302b5e36087"
+    },
+    {
+      "file": "assets/A16SIVB_S12_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "5e64a751274e927fb0c0da02d0af9698aa069786114c182c2100d94d890083fc"
+    },
+    {
+      "file": "assets/A16SIVB_S14_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "b0002a243f5a8a4764d7b93112c64b3f411803ab849382cc55334f57db77a098"
+    },
+    {
+      "file": "assets/A16SIVB_S15_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "6adb44c3d4e5e31bb7d8c58afd03e3fcd5ad866c8e595007878ae4d11255eb2f"
+    },
+    {
+      "file": "assets/A16SIVB_terrain_domain.png",
+      "width": 2070,
+      "height": 1530,
+      "sha256": "ccdeb5607cf23f5b431726cbfec9b737ce1b94abf09a6aa96d93109cec649a85"
+    },
+    {
+      "file": "assets/A17LM_literature_displacement_03_05_overview.png",
+      "width": 3140,
+      "height": 2500,
+      "sha256": "3a2bc7c84522bbbf535bd46359a68b7380c05e3829859e0dc8197edc75de49ad"
+    },
+    {
+      "file": "assets/A17LM_processed_03_09_overview.png",
+      "width": 3140,
+      "height": 2500,
+      "sha256": "52618b3d5065238da4b65c2759fde8381367f8af23e32ed67110a84670dcdab9"
+    },
+    {
+      "file": "assets/A17LM_raw_archive_overview.png",
+      "width": 3140,
+      "height": 2500,
+      "sha256": "16affa055bb4d500f069a31ab7579d2f9735b955b503aefc5cdc1bd5c887775c"
+    },
+    {
+      "file": "assets/A17LM_S12_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "4ac6a5405d8316e42fff5bb506344a5fb09aab4209549492a75bc2a4508d82a8"
+    },
+    {
+      "file": "assets/A17LM_S14_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "24a7c42f166996c9c0fa62b6ade1560fd928e6122eba6ede386945defec05efe"
+    },
+    {
+      "file": "assets/A17LM_S15_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "c6ed0fe79def9d0900f1bda51c89ec90e0d42aead840119e2b343a8bbf8a92e5"
+    },
+    {
+      "file": "assets/A17LM_S16_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "4c03f60243f8fcdda4feda79c61051c7ecff4b1299c47a888a3a659ff68a26ec"
+    },
+    {
+      "file": "assets/A17LM_terrain_domain.png",
+      "width": 2070,
+      "height": 1530,
+      "sha256": "455ec057312c46502c412afc6db8cc52ebe2ad9cb2a38dcae21dfc83e06debea"
+    },
+    {
+      "file": "assets/A17SIVB_literature_displacement_03_05_overview.png",
+      "width": 3140,
+      "height": 2500,
+      "sha256": "5039cc54fc95c5d3e797a27ef1da78a228b85de6bef73bd76bf219462b374b14"
+    },
+    {
+      "file": "assets/A17SIVB_local_terrain_domain.png",
+      "width": 1800,
+      "height": 1350,
+      "sha256": "18901f56627b92c0f5fd55418085b60f1dd78045b82d0fa02eb4ab6ec5d9e1b7"
+    },
+    {
+      "file": "assets/A17SIVB_processed_03_09_overview.png",
+      "width": 3140,
+      "height": 2500,
+      "sha256": "da197676efe0da0b6e9edce4866ddd6e2876dbb2e73dfc41cdbfb095a9ec1c97"
+    },
+    {
+      "file": "assets/A17SIVB_raw_archive_overview.png",
+      "width": 3140,
+      "height": 2500,
+      "sha256": "b0dd520f93198f003980dda7f4730e09327eddef398bb9c082d5c95377ad0959"
+    },
+    {
+      "file": "assets/A17SIVB_S12_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "a1705687f9563914640e24a14bdeca3800db9bed0d186559c9fb1c5aac5b18c2"
+    },
+    {
+      "file": "assets/A17SIVB_S14_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "5e4e8b609e843f2356f4c5a6186fb863cc3243d924594579fbe4cf0edb14d9fc"
+    },
+    {
+      "file": "assets/A17SIVB_S15_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "69b576e164c47cc903140a76d6fee4da99da432a81f840a420cee8240d495b5b"
+    },
+    {
+      "file": "assets/A17SIVB_S16_three_stages.png",
+      "width": 3140,
+      "height": 2000,
+      "sha256": "f38dfe4556ce477feb5b452032c3bb7634d7e99f799c545c0bb7a3dc64a737fc"
+    },
+    {
+      "file": "assets/A17SIVB_terrain_domain.png",
+      "width": 2070,
+      "height": 1530,
+      "sha256": "36b06f7bc069ea4aedb9f3cf2ad47e6995b17bd640903df8d9b0d6fff2453c6c"
+    },
+    {
+      "file": "assets/event_station_coverage_matrix.png",
+      "width": 1955,
+      "height": 1530,
+      "sha256": "a63a6eea866031c3bc23cf0f23fbfd1e50e823ea118dcf1fb484ea55234d6fbf"
+    },
+    {
+      "file": "assets/impact_station_terrain_overview.png",
+      "width": 2880,
+      "height": 1800,
+      "sha256": "4bd06055112e3c55a55849bd826bc61e5842089a8a3403dafddbb5b20984d642"
+    },
+    {
+      "file": "assets/local_candidate_terrain_domains.png",
+      "width": 2340,
+      "height": 2880,
+      "sha256": "f94649e0ad2fccae959ba0a338cbd6e40b797a32f5e4d6116b4718b222ac608c"
+    },
+    {
+      "file": "assets/model_reference_profiles.png",
+      "width": 2380,
+      "height": 1071,
+      "sha256": "bfd78759425c7e7be0cdb56bb9d50ed1a44d1a7deec913ce501ba6d8c61cd601"
+    },
+    {
+      "file": "assets/nine_event_terrain_domains.png",
+      "width": 3060,
+      "height": 2520,
+      "sha256": "8ed7fd39ff7ec32ba3829b2c494c084726089bf556d61652b61151073462cbfd"
+    }
+  ],
+  "historical_band_status_counts": {
+    "not_qualified_by_screen": 210,
+    "passes_provisional_screen": 30
+  },
+  "manual_visual_review": [
+    "new event_station_coverage_matrix after caption fix",
+    "new model_reference_profiles after unit fix",
+    "LOLA source-station overview",
+    "representative raw/processed waveforms"
+  ],
+  "review_scope": "Counts, links, provenance, planned-job scope, decodable images and selected visual inspection. Not a numerical convergence or scientific inversion validation.",
+  "propagation_runs_executed": 0,
+  "unknown_evidence_ids": [],
+  "combined_characters": 57709
+}

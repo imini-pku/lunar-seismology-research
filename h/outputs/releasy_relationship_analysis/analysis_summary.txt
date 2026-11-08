@@ -1,0 +1,82 @@
+REL3 waveform relationship analysis
+===================================
+
+Primary analysis excludes the first and last five stations of each ray.
+Cubic distance trends are removed independently within each ray and residuals
+are standardized by ray. Primary Spearman correlations use non-overlapping
+10-station spatial-block means. q values use Benjamini-Hochberg FDR.
+
+S12 raw dominant frequencies:
+- Model 1: Flat, no scatter: 0.644090 Hz
+- Model 2: Flat, scatter: 0.704098 Hz
+- Model 3: Topography, no scatter: 0.692014 Hz
+- Model 4: Topography, scatter: 0.664014 Hz
+
+Median factorial effects across trimmed stations:
+- Scatter effect, flat:
+  peak_time_s: median=2.546, IQR=[-0.0949993, 7.353]
+  log_peak_amplitude: median=-1.22695, IQR=[-1.53107, -0.531332]
+  log_total_energy: median=-1.35112, IQR=[-1.7193, -0.587881]
+  log_duration_90_s: median=2.8998, IQR=[1.35477, 3.2011]
+  coda_fraction: median=0.130495, IQR=[0.0335579, 0.236626]
+  dominant_frequency_hz: median=-0.0400056, IQR=[-0.120017, 0.0520073]
+- Scatter effect, topography:
+  peak_time_s: median=1.65, IQR=[0.36, 5.67]
+  log_peak_amplitude: median=-0.376875, IQR=[-0.766256, 0.0223824]
+  log_total_energy: median=-0.142871, IQR=[-0.540371, 0.367429]
+  log_duration_90_s: median=0.779915, IQR=[0.339185, 1.51884]
+  coda_fraction: median=0.0850936, IQR=[0.0231947, 0.170494]
+  dominant_frequency_hz: median=-0.0240005, IQR=[-0.138003, 0.102002]
+- Topography effect, no scatter:
+  peak_time_s: median=0.0890045, IQR=[0.0360022, 2.827]
+  log_peak_amplitude: median=-0.232756, IQR=[-1.32789, -0.0420411]
+  log_total_energy: median=-0.333513, IQR=[-1.81923, -0.0298738]
+  log_duration_90_s: median=1.66932, IQR=[0.448638, 2.69047]
+  coda_fraction: median=0.0423447, IQR=[0.0219671, 0.0806327]
+  dominant_frequency_hz: median=-0.0161185, IQR=[-0.112102, 0.0799049]
+- Topography effect, scatter:
+  peak_time_s: median=0.798, IQR=[-1.025, 2.9415]
+  log_peak_amplitude: median=0.0114816, IQR=[-0.422097, 0.444931]
+  log_total_energy: median=0.059165, IQR=[-0.601297, 0.869426]
+  log_duration_90_s: median=0.150567, IQR=[-0.179349, 0.597436]
+  coda_fraction: median=0.0215277, IQR=[-0.0312646, 0.0962613]
+  dominant_frequency_hz: median=0.00391576, IQR=[-0.108102, 0.131921]
+- Topography × scatter interaction:
+  peak_time_s: median=0.306, IQR=[-3.39, 2.412]
+  log_peak_amplitude: median=0.731781, IQR=[0.284548, 1.11184]
+  log_total_energy: median=1.17094, IQR=[0.598797, 1.71125]
+  log_duration_90_s: median=-1.71976, IQR=[-2.32564, -0.563292]
+  coda_fraction: median=-0.0176159, IQR=[-0.0900386, 0.0226241]
+  dominant_frequency_hz: median=0.0239957, IQR=[-0.13601, 0.154001]
+
+Strongest distance-controlled terrain relationships:
+- topography_no_scatter__log_peak_amplitude vs path_relief_range_km: rho=-0.7363, q=8.463e-09, block_n=57, point_rho=-0.5550, untrimmed_rho=-0.6225, ray_rho=(-0.130, -0.753, -0.802)
+- topography_no_scatter__log_total_energy vs path_relief_range_km: rho=-0.7309, q=8.463e-09, block_n=57, point_rho=-0.5694, untrimmed_rho=-0.6321, ray_rho=(-0.095, -0.824, -0.801)
+- topography_no_scatter__log_rms vs path_relief_range_km: rho=-0.7309, q=8.463e-09, block_n=57, point_rho=-0.5694, untrimmed_rho=-0.6321, ray_rho=(-0.095, -0.824, -0.801)
+- topography_scatter__log_duration_90_s vs path_relief_range_km: rho=0.7218, q=1.383e-08, block_n=57, point_rho=0.5739, untrimmed_rho=0.5755, ray_rho=(0.537, 0.683, 0.478)
+- topography_scatter__log_peak_amplitude vs path_relief_range_km: rho=-0.7105, q=2.796e-08, block_n=57, point_rho=-0.5565, untrimmed_rho=-0.5708, ray_rho=(-0.391, -0.710, -0.553)
+- topography_scatter__log_total_energy vs path_relief_range_km: rho=-0.6904, q=9.386e-08, block_n=57, point_rho=-0.5309, untrimmed_rho=-0.5477, ray_rho=(-0.422, -0.697, -0.438)
+- topography_scatter__log_rms vs path_relief_range_km: rho=-0.6904, q=9.386e-08, block_n=57, point_rho=-0.5309, untrimmed_rho=-0.5477, ray_rho=(-0.422, -0.697, -0.438)
+- topography_no_scatter__log_duration_90_s vs path_relief_range_km: rho=0.6792, q=1.856e-07, block_n=57, point_rho=0.5266, untrimmed_rho=0.5720, ray_rho=(0.044, 0.745, 0.792)
+- topography_no_scatter__log_total_energy vs path_mean_absolute_slope: rho=-0.6320, q=3.154e-06, block_n=57, point_rho=-0.5144, untrimmed_rho=-0.6030, ray_rho=(0.024, -0.762, -0.733)
+- topography_no_scatter__log_rms vs path_mean_absolute_slope: rho=-0.6320, q=3.154e-06, block_n=57, point_rho=-0.5144, untrimmed_rho=-0.6030, ray_rho=(0.024, -0.762, -0.733)
+- topography_scatter__log_duration_90_s vs path_mean_absolute_slope: rho=0.6290, q=3.419e-06, block_n=57, point_rho=0.4420, untrimmed_rho=0.4594, ray_rho=(0.209, 0.618, 0.477)
+- topography_no_scatter__log_duration_90_s vs path_mean_absolute_slope: rho=0.6239, q=4.222e-06, block_n=57, point_rho=0.4785, untrimmed_rho=0.5250, ray_rho=(0.000, 0.694, 0.662)
+- topography_scatter__log_peak_amplitude vs path_mean_absolute_slope: rho=-0.6213, q=4.523e-06, block_n=57, point_rho=-0.4479, untrimmed_rho=-0.4895, ray_rho=(-0.076, -0.680, -0.508)
+- topography_no_scatter__dominant_frequency_hz vs path_mean_absolute_slope: rho=0.6120, q=7.071e-06, block_n=57, point_rho=0.3020, untrimmed_rho=0.2697, ray_rho=(0.102, 0.518, 0.182)
+- topography_no_scatter__log_peak_amplitude vs path_mean_absolute_slope: rho=-0.5995, q=1.299e-05, block_n=57, point_rho=-0.4928, untrimmed_rho=-0.5765, ray_rho=(-0.032, -0.710, -0.695)
+- topography_no_scatter__log_peak_amplitude vs path_mean_elevation_km: rho=0.5834, q=2.8e-05, block_n=57, point_rho=0.4156, untrimmed_rho=0.4658, ray_rho=(0.078, 0.632, 0.530)
+- topography_scatter__log_total_energy vs path_mean_absolute_slope: rho=-0.5744, q=3.874e-05, block_n=57, point_rho=-0.3972, untrimmed_rho=-0.4418, ray_rho=(-0.038, -0.623, -0.480)
+- topography_scatter__log_rms vs path_mean_absolute_slope: rho=-0.5744, q=3.874e-05, block_n=57, point_rho=-0.3972, untrimmed_rho=-0.4418, ray_rho=(-0.038, -0.623, -0.480)
+- topography_scatter__log_peak_amplitude vs path_mean_elevation_km: rho=0.5519, q=0.0001056, block_n=57, point_rho=0.4534, untrimmed_rho=0.4562, ray_rho=(0.540, 0.571, 0.173)
+- topography_no_scatter__log_total_energy vs path_mean_elevation_km: rho=0.5415, q=0.0001468, block_n=57, point_rho=0.3920, untrimmed_rho=0.4461, ray_rho=(0.043, 0.640, 0.484)
+- topography_no_scatter__log_rms vs path_mean_elevation_km: rho=0.5415, q=0.0001468, block_n=57, point_rho=0.3920, untrimmed_rho=0.4461, ray_rho=(0.043, 0.640, 0.484)
+- topography_no_scatter__coda_fraction vs path_relief_range_km: rho=0.5412, q=0.0001468, block_n=57, point_rho=0.3726, untrimmed_rho=0.4418, ray_rho=(0.142, 0.405, 0.712)
+- topography_scatter__coda_fraction vs path_relief_range_km: rho=0.5359, q=0.0001768, block_n=57, point_rho=0.3248, untrimmed_rho=0.3437, ray_rho=(0.289, 0.421, 0.195)
+- scatter_flat__log_duration_90_s vs path_mean_elevation_km: rho=0.5298, q=0.0002197, block_n=57, point_rho=0.4361, untrimmed_rho=0.4011, ray_rho=(0.662, 0.687, -0.246)
+- topography_scatter__log_duration_90_s vs path_mean_elevation_km: rho=-0.5240, q=0.0002685, block_n=57, point_rho=-0.4435, untrimmed_rho=-0.4592, ray_rho=(-0.648, -0.479, -0.120)
+- topography_scatter__log_total_energy vs path_mean_elevation_km: rho=0.5205, q=0.0002872, block_n=57, point_rho=0.4036, untrimmed_rho=0.4048, ray_rho=(0.527, 0.495, 0.110)
+- topography_scatter__log_rms vs path_mean_elevation_km: rho=0.5205, q=0.0002872, block_n=57, point_rho=0.4036, untrimmed_rho=0.4048, ray_rho=(0.527, 0.495, 0.110)
+- topography_no_scatter__dominant_frequency_hz vs path_relief_range_km: rho=0.5146, q=0.0003518, block_n=57, point_rho=0.2426, untrimmed_rho=0.2084, ray_rho=(0.014, 0.517, 0.244)
+- topography_no_scatter__waveform_dissimilarity vs path_mean_absolute_slope: rho=0.5131, q=0.0003616, block_n=57, point_rho=0.4241, untrimmed_rho=0.4557, ray_rho=(0.174, 0.730, 0.202)
+- topography_no_scatter__coda_fraction vs path_mean_absolute_slope: rho=0.5117, q=0.0003691, block_n=57, point_rho=0.3245, untrimmed_rho=0.3728, ray_rho=(0.089, 0.431, 0.519)

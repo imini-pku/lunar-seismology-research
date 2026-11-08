@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-29",
+  "n_events": 9,
+  "n_pairs": 21,
+  "n_local_candidate_domains": 8,
+  "old_float_rejected": true,
+  "native_grid_shape": [
+    3712,
+    4992
+  ],
+  "native_grid_spacing_deg": 0.015625,
+  "image_encoding": "common elevation color scale [-5,+5] km; 315deg/45deg hillshade factor 0.65 to 1.00; vertical exaggeration 1",
+  "within_color_limits_fraction": 1.0,
+  "source_station_pixel_samples": [
+    {
+      "site": "S12",
+      "lat": -3.0098,
+      "lon": -23.4249,
+      "native_pixel_height_m": -1428.5,
+      "neighbourhood_3x3_median_m": -1426.5
+    },
+    {
+      "site": "S14",
+      "lat": -3.64419,
+      "lon": -17.47768,
+      "native_pixel_height_m": -1063.0,
+      "neighbourhood_3x3_median_m": -1062.5
+    },
+    {
+      "site": "S15",
+      "lat": 26.13406,
+      "lon": 3.62991,
+      "native_pixel_height_m": -1924.0,
+      "neighbourhood_3x3_median_m": -1924.0
+    },
+    {
+      "site": "S16",
+      "lat": -8.9759,
+      "lon": 15.4986,
+      "native_pixel_height_m": 2.0,
+      "neighbourhood_3x3_median_m": 2.0
+    },
+    {
+      "site": "Mare_Imbrium_interior",
+      "lat": 32,
+      "lon": -17,
+      "native_pixel_height_m": -2293.0,
+      "neighbourhood_3x3_median_m": -2292.5
+    },
+    {
+      "site": "Apennine_ridge_context",
+      "lat": 24.5,
+      "lon": 4.5,
+      "native_pixel_height_m": 37.5,
+      "neighbourhood_3x3_median_m": 37.5
+    },
+    {
+      "site": "Ptolemaeus_crater_floor",
+      "lat": -9.2,
+      "lon": -1.8,
+      "native_pixel_height_m": -658.0,
+      "neighbourhood_3x3_median_m": -657.5
+    }
+  ],
+  "domain_checks": [
+    {
+      "event": "A12LM",
+      "all_recorded_paths_inside_blue_frame": true
+    },
+    {
+      "event": "A13SIVB",
+      "all_recorded_paths_inside_blue_frame": true
+    },
+    {
+      "event": "A14SIVB",
+      "all_recorded_paths_inside_blue_frame": true
+    },
+    {
+      "event": "A14LM",
+      "all_recorded_paths_inside_blue_frame": true
+    },
+    {
+      "event": "A15SIVB",
+      "all_recorded_paths_inside_blue_frame": true
+    },
+    {
+      "event": "A15LM",
+      "all_recorded_paths_inside_blue_frame": true
+    },
+    {
+      "event": "A16SIVB",
+      "all_recorded_paths_inside_blue_frame": true
+    },
+    {
+      "event": "A17SIVB",
+      "all_recorded_paths_inside_blue_frame": true
+    },
+    {
+      "event": "A17LM",
+      "all_recorded_paths_inside_blue_frame": true
+    }
+  ],
+  "png_files": [
+    "A12LM_local_terrain_domain.png",
+    "A12LM_terrain_domain.png",
+    "A13SIVB_local_terrain_domain.png",
+    "A13SIVB_terrain_domain.png",
+    "A14LM_local_terrain_domain.png",
+    "A14LM_terrain_domain.png",
+    "A14SIVB_local_terrain_domain.png",
+    "A14SIVB_terrain_domain.png",
+    "A15LM_local_terrain_domain.png",
+    "A15LM_terrain_domain.png",
+    "A15SIVB_local_terrain_domain.png",
+    "A15SIVB_terrain_domain.png",
+    "A16SIVB_local_terrain_domain.png",
+    "A16SIVB_terrain_domain.png",
+    "A17LM_terrain_domain.png",
+    "A17SIVB_local_terrain_domain.png",
+    "A17SIVB_terrain_domain.png",
+    "impact_station_terrain_overview.png",
+    "local_candidate_terrain_domains.png",
+    "nine_event_terrain_domains.png"
+  ],
+  "no_sub_2km_feature_labels": true,
+  "not_established": "calculation-domain convergence, local scattering strength or detailed geological-unit boundaries",
+  "render_QA": {
+    "all_png_decode_ok": true,
+    "png_count": 20,
+    "pdf_count": 20,
+    "visual_review": "overview; nine-event all panels; local-candidate all panels; individual A12LM A14SIVB A15SIVB A15LM A16SIVB A17SIVB and A15LM local at full display. Corrected legend overlap, edge event labels and colorbar clipping range.",
+    "scope": "render and encoding checks; not validation of future CGFD3D model or geological unit boundaries"
+  }
+}

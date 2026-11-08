@@ -1,0 +1,21 @@
+{
+  "analysis_date": "2026-09-07",
+  "filter_band_hz": [
+    0.3,
+    0.9
+  ],
+  "a16_detection": {
+    "smoothing": "Savitzky-Golay, 11 km, polynomial order 2",
+    "minimum_prominence_km": 0.5,
+    "accepted_width_km": [
+      5,
+      60
+    ],
+    "boundary_definition": "80% inverted-profile peak width",
+    "candidate_count": 1,
+    "major_candidate_count": 0
+  },
+  "distance_control": "cubic trend fitted separately within each ray",
+  "spatial_test": "contiguous-window moving null; BH q-value",
+  "interpretation_limit": "one-dimensional path depressions are crater-like candidates until verified against a two-dimensional crater catalog"
+}

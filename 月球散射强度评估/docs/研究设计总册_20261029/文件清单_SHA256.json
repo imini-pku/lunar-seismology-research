@@ -1,0 +1,932 @@
+[
+  {
+    "path": "00_阅读指南与总体方案.md",
+    "bytes": 4627,
+    "sha256": "4a44fc6f114e22452fd902f826cf23f7bceb9b0733fb1756fbbffc7836d266e7"
+  },
+  {
+    "path": "01_事件台站与记录图册.md",
+    "bytes": 19719,
+    "sha256": "10f1d93c559f6ff3599e06847c05977c827917c280d51114338db1f05fbf6547"
+  },
+  {
+    "path": "02_散射模型与参数设计.md",
+    "bytes": 24606,
+    "sha256": "53b25e28ef5c9e714dac01b4cc266f48c3600e6466cfadf3b541a419bd59a44f"
+  },
+  {
+    "path": "03_波形处理与反演准入.md",
+    "bytes": 15311,
+    "sha256": "162468e6030d481cc3487dcb245f4b1220c90d76eae864afb1d0cfdde86551bc"
+  },
+  {
+    "path": "04_CGFD3D模拟与验证流程.md",
+    "bytes": 16786,
+    "sha256": "50abafb9ee1b524c1f8532887645a5801470e4b9ce37c61bb5693dd458306325"
+  },
+  {
+    "path": "05_文献依据与论文组织.md",
+    "bytes": 19119,
+    "sha256": "5046addc3d5882c8cc112455542f3b647b2b5f708b8ce020225040e55dd446eb"
+  },
+  {
+    "path": "06_具体模型参数与剖面图.md",
+    "bytes": 4724,
+    "sha256": "2059532b4f5543a31e4ca6197f55d87e6f8a2870915390323d6b8848c2105f2c"
+  },
+  {
+    "path": "07_源站路径与固定背景下的详细模拟方案.md",
+    "bytes": 30561,
+    "sha256": "76646dfbdc684bbe2f35a489442784ec0244d58ad89d7aceb90784f9b2a442be"
+  },
+  {
+    "path": "08_S12_S14_S15三个区域模型.md",
+    "bytes": 7138,
+    "sha256": "5b0fa323348ba8c23f342921de3f49c0a23d1a7a44f9dedb375cf26b6bb6d307"
+  },
+  {
+    "path": "09_三区域结构文献核对与背景更新.md",
+    "bytes": 15903,
+    "sha256": "e224571f4da3d1eff92eac9494b32cccdc2e55def038fefd3d438b29c7ace383"
+  },
+  {
+    "path": "assets/A12LM_literature_displacement_03_05_overview.png",
+    "bytes": 196105,
+    "sha256": "71ebe9abe226a425cdb9ac7bf485bc75b439120f2699bba05d71a7081c04f99b"
+  },
+  {
+    "path": "assets/A12LM_local_terrain_domain.png",
+    "bytes": 275706,
+    "sha256": "8273c23b44f6c5bb9ba77d5d93802f32aaee8141137ea9809b061bd9d8ee71c5"
+  },
+  {
+    "path": "assets/A12LM_processed_03_09_overview.png",
+    "bytes": 217806,
+    "sha256": "1157397a2e76dc9bfc5cf95ccbaf5f262c1cbeb0e161683d6310d7ec01ff531d"
+  },
+  {
+    "path": "assets/A12LM_raw_archive_overview.png",
+    "bytes": 273317,
+    "sha256": "338d072bf2a98d50983480ed5f4e83fba5729ea22e4c230518b209f434830abe"
+  },
+  {
+    "path": "assets/A12LM_S12_three_stages.png",
+    "bytes": 443616,
+    "sha256": "7de27882f441e13ca812aa0fc600167c3814ac793fa0d8e8debc90c99258770f"
+  },
+  {
+    "path": "assets/A12LM_terrain_domain.png",
+    "bytes": 302859,
+    "sha256": "e0a47a98a0568f1eedf19f103502bbff75eb50b78cd55e0260733175d2cb5587"
+  },
+  {
+    "path": "assets/A13SIVB_literature_displacement_03_05_overview.png",
+    "bytes": 239856,
+    "sha256": "573fcd78b0f8f1f4ac81a44ef0974f705a3547251e69afb72ef885eacd7c353a"
+  },
+  {
+    "path": "assets/A13SIVB_local_terrain_domain.png",
+    "bytes": 289502,
+    "sha256": "3c973fc33780ad1868a0174d56c92bf860c9732855e30c06ec6bc1414645f56b"
+  },
+  {
+    "path": "assets/A13SIVB_processed_03_09_overview.png",
+    "bytes": 220864,
+    "sha256": "a2fbe009713f6021d8e1e3aebeb3500bfd93653e74c87c117307826a996b2dea"
+  },
+  {
+    "path": "assets/A13SIVB_raw_archive_overview.png",
+    "bytes": 211296,
+    "sha256": "103dc04719633c9a81b852a4938048cf6cc670e423f870327a102f505d9f908a"
+  },
+  {
+    "path": "assets/A13SIVB_S12_three_stages.png",
+    "bytes": 429824,
+    "sha256": "d81e866da65a0fc857889d8e25d6fcad3add79f980cb50e8566c582a2c16c43d"
+  },
+  {
+    "path": "assets/A13SIVB_terrain_domain.png",
+    "bytes": 336773,
+    "sha256": "cb59fedff0ff9ab2cd7dff68d349bb31790f8b96f5b0f8ecf23c025cd3e02e0d"
+  },
+  {
+    "path": "assets/A14LM_literature_displacement_03_05_overview.png",
+    "bytes": 300007,
+    "sha256": "0ad40b3851daa11a63c224ce652af4d9d4efa60dc2623af34e442422d1f93fad"
+  },
+  {
+    "path": "assets/A14LM_local_terrain_domain.png",
+    "bytes": 365026,
+    "sha256": "d20a7dd360d52bfd003d0e001956ad0854accf9d1390a977abc91ffc961efb3e"
+  },
+  {
+    "path": "assets/A14LM_processed_03_09_overview.png",
+    "bytes": 308107,
+    "sha256": "204dc868cb76eb43b6879e91f829b046529a59fa1f39ab72ff05b0e5ec7dd44a"
+  },
+  {
+    "path": "assets/A14LM_raw_archive_overview.png",
+    "bytes": 305913,
+    "sha256": "b19d62677f6b8c5d8d03b96e90d24fca0c93a1f1373d5db846418319551ff08e"
+  },
+  {
+    "path": "assets/A14LM_S12_three_stages.png",
+    "bytes": 413208,
+    "sha256": "aa6a790b6faf8151a0accf398f51e41e19274c31c4b57563f4d172adf00c5c89"
+  },
+  {
+    "path": "assets/A14LM_S14_three_stages.png",
+    "bytes": 407120,
+    "sha256": "f46952a08ec228947fdc75dcb04eaf0960289b681bb6cde19c2909a80f44fdb3"
+  },
+  {
+    "path": "assets/A14LM_terrain_domain.png",
+    "bytes": 393603,
+    "sha256": "6f8a7cc7113838797ca82b5dae63ebaf51595c789ba1741075233d6e6f3738e1"
+  },
+  {
+    "path": "assets/A14SIVB_literature_displacement_03_05_overview.png",
+    "bytes": 255729,
+    "sha256": "7c9f9284393b2a652b4c14c9bb33c68461402b8f139279c5b701b49c5742911b"
+  },
+  {
+    "path": "assets/A14SIVB_local_terrain_domain.png",
+    "bytes": 382923,
+    "sha256": "17dad30ba4fc28b298f05b2193d694406d58f0d2137a51b787081c11bdb92419"
+  },
+  {
+    "path": "assets/A14SIVB_processed_03_09_overview.png",
+    "bytes": 260692,
+    "sha256": "3fade38d2f8cfd539f246a8e010a405756a3b3db8ab2445042516c9b75e8ca2c"
+  },
+  {
+    "path": "assets/A14SIVB_raw_archive_overview.png",
+    "bytes": 222016,
+    "sha256": "7c73311db1e401f06d4bedfa48e2e8cdbfff3bdcd7a538a6890d5b328fde3ef8"
+  },
+  {
+    "path": "assets/A14SIVB_S12_MHZ_gap_zoom.png",
+    "bytes": 559997,
+    "sha256": "982c560c6a7588b8e4aac03a088b1466261cf9b2893d1ae5a15a0d7cf9ef84a4"
+  },
+  {
+    "path": "assets/A14SIVB_S12_three_stages.png",
+    "bytes": 479816,
+    "sha256": "14cf4ce698947850b204f5b4809b90db7be5fb5347ec438e55c12d82484f93d5"
+  },
+  {
+    "path": "assets/A14SIVB_terrain_domain.png",
+    "bytes": 423818,
+    "sha256": "7aa7c9ac17ca04790f52b241eef1f45b978834e35f9b8aec5dc0d7d7fe641ffd"
+  },
+  {
+    "path": "assets/A15LM_literature_displacement_03_05_overview.png",
+    "bytes": 388999,
+    "sha256": "79f41dd1268e3f926c3cf620f2471a4c3ae8ef35e12222011f650fcc8938b63d"
+  },
+  {
+    "path": "assets/A15LM_local_terrain_domain.png",
+    "bytes": 383230,
+    "sha256": "5b7927cb28f03dad2455c985642566f9b773a18d96e7871d48cf8733aa808b9c"
+  },
+  {
+    "path": "assets/A15LM_processed_03_09_overview.png",
+    "bytes": 392548,
+    "sha256": "95a4e81383f5e66d0623a8ad639bc9ce7b6a9a34a58b2e1cba467dc275ad733d"
+  },
+  {
+    "path": "assets/A15LM_raw_archive_overview.png",
+    "bytes": 363713,
+    "sha256": "3a2f4ed139952b4ffeb45af37e24e839d964f5f62ca2cd7f810c6e42c41f9d63"
+  },
+  {
+    "path": "assets/A15LM_S12_three_stages.png",
+    "bytes": 371008,
+    "sha256": "8d797c754d58e6dc8e27fc156e28de8e9fff351f426f73a3e3f8e9f47dbb3f15"
+  },
+  {
+    "path": "assets/A15LM_S14_three_stages.png",
+    "bytes": 318249,
+    "sha256": "d07b5dbc5e28145d87d331a90d69e71bf349539d3c7322767d4aaab188fe5fef"
+  },
+  {
+    "path": "assets/A15LM_S15_MHZ_gap_zoom.png",
+    "bytes": 685729,
+    "sha256": "1a21dee46ed7b96fa5eeca06638fb34e900f684d0c29faac2ca49acce7da83d3"
+  },
+  {
+    "path": "assets/A15LM_S15_three_stages.png",
+    "bytes": 416863,
+    "sha256": "f0287400d2706ec1cb7a395de7c305f5df7b26a5e7ce1109ebe7196e9acc7373"
+  },
+  {
+    "path": "assets/A15LM_terrain_domain.png",
+    "bytes": 1383793,
+    "sha256": "40771836da187a2af6ef4cd222a2716b51d5979c78741b1f2d2b04564ac47673"
+  },
+  {
+    "path": "assets/A15SIVB_literature_displacement_03_05_overview.png",
+    "bytes": 346337,
+    "sha256": "3f5821ec64ce316202e18e8df7f65a0e625229181e551ed92632c8843b27a5cc"
+  },
+  {
+    "path": "assets/A15SIVB_local_terrain_domain.png",
+    "bytes": 547954,
+    "sha256": "29a99ec38e58fc93406a6372ea539d80baff0c6fabb719cb5edd42cc79779842"
+  },
+  {
+    "path": "assets/A15SIVB_processed_03_09_overview.png",
+    "bytes": 351713,
+    "sha256": "84d9b8fc0fe25e0e6f4b078caed80284a72f111f8f60c596ea7d4be513d27309"
+  },
+  {
+    "path": "assets/A15SIVB_raw_archive_overview.png",
+    "bytes": 338104,
+    "sha256": "402b9809d44b7aca6290f6883dea0b152303018dc5e79cf27bd54578b60694b9"
+  },
+  {
+    "path": "assets/A15SIVB_S12_three_stages.png",
+    "bytes": 481236,
+    "sha256": "9bb648dd8791a28ecabb0f072b785ce5b9cfcf951a27caaf3dbd46e407e2823c"
+  },
+  {
+    "path": "assets/A15SIVB_S14_three_stages.png",
+    "bytes": 449471,
+    "sha256": "b6f83450e67af9002e53a356084a07ad14eee79c2777209a8ea715bf57505177"
+  },
+  {
+    "path": "assets/A15SIVB_terrain_domain.png",
+    "bytes": 620156,
+    "sha256": "2ddd4f802e1bbf67f6a3aa2931895c22b472ce446bab69c82f1d2d96bbeccfdd"
+  },
+  {
+    "path": "assets/A16SIVB_literature_displacement_03_05_overview.png",
+    "bytes": 486982,
+    "sha256": "f212eede186302d2c5391121447d0e485fc4e86b5c6230a6a0ccee937c97ae41"
+  },
+  {
+    "path": "assets/A16SIVB_local_terrain_domain.png",
+    "bytes": 712175,
+    "sha256": "39d3fb1daff0eb636b1cdfefe03fe8c2adbdfea43a52077c2d799507aadb69ab"
+  },
+  {
+    "path": "assets/A16SIVB_processed_03_09_overview.png",
+    "bytes": 483146,
+    "sha256": "51fc23c5aaf6aba8bbc3cf3a5c11d55d8c207748485aca2af9bdde4116eab3c6"
+  },
+  {
+    "path": "assets/A16SIVB_raw_archive_overview.png",
+    "bytes": 441407,
+    "sha256": "6b476e6428dcefb066174f7f66a0a9512f8cf7b1c5be280a410ea302b5e36087"
+  },
+  {
+    "path": "assets/A16SIVB_S12_three_stages.png",
+    "bytes": 459427,
+    "sha256": "5e64a751274e927fb0c0da02d0af9698aa069786114c182c2100d94d890083fc"
+  },
+  {
+    "path": "assets/A16SIVB_S14_three_stages.png",
+    "bytes": 379328,
+    "sha256": "b0002a243f5a8a4764d7b93112c64b3f411803ab849382cc55334f57db77a098"
+  },
+  {
+    "path": "assets/A16SIVB_S15_three_stages.png",
+    "bytes": 430797,
+    "sha256": "6adb44c3d4e5e31bb7d8c58afd03e3fcd5ad866c8e595007878ae4d11255eb2f"
+  },
+  {
+    "path": "assets/A16SIVB_terrain_domain.png",
+    "bytes": 1422714,
+    "sha256": "ccdeb5607cf23f5b431726cbfec9b737ce1b94abf09a6aa96d93109cec649a85"
+  },
+  {
+    "path": "assets/A17LM_literature_displacement_03_05_overview.png",
+    "bytes": 451920,
+    "sha256": "3a2bc7c84522bbbf535bd46359a68b7380c05e3829859e0dc8197edc75de49ad"
+  },
+  {
+    "path": "assets/A17LM_processed_03_09_overview.png",
+    "bytes": 450157,
+    "sha256": "52618b3d5065238da4b65c2759fde8381367f8af23e32ed67110a84670dcdab9"
+  },
+  {
+    "path": "assets/A17LM_raw_archive_overview.png",
+    "bytes": 471548,
+    "sha256": "16affa055bb4d500f069a31ab7579d2f9735b955b503aefc5cdc1bd5c887775c"
+  },
+  {
+    "path": "assets/A17LM_S12_three_stages.png",
+    "bytes": 404869,
+    "sha256": "4ac6a5405d8316e42fff5bb506344a5fb09aab4209549492a75bc2a4508d82a8"
+  },
+  {
+    "path": "assets/A17LM_S14_three_stages.png",
+    "bytes": 303631,
+    "sha256": "24a7c42f166996c9c0fa62b6ade1560fd928e6122eba6ede386945defec05efe"
+  },
+  {
+    "path": "assets/A17LM_S15_three_stages.png",
+    "bytes": 376204,
+    "sha256": "c6ed0fe79def9d0900f1bda51c89ec90e0d42aead840119e2b343a8bbf8a92e5"
+  },
+  {
+    "path": "assets/A17LM_S16_three_stages.png",
+    "bytes": 352068,
+    "sha256": "4c03f60243f8fcdda4feda79c61051c7ecff4b1299c47a888a3a659ff68a26ec"
+  },
+  {
+    "path": "assets/A17LM_terrain_domain.png",
+    "bytes": 1886102,
+    "sha256": "455ec057312c46502c412afc6db8cc52ebe2ad9cb2a38dcae21dfc83e06debea"
+  },
+  {
+    "path": "assets/A17SIVB_literature_displacement_03_05_overview.png",
+    "bytes": 591275,
+    "sha256": "5039cc54fc95c5d3e797a27ef1da78a228b85de6bef73bd76bf219462b374b14"
+  },
+  {
+    "path": "assets/A17SIVB_local_terrain_domain.png",
+    "bytes": 457848,
+    "sha256": "18901f56627b92c0f5fd55418085b60f1dd78045b82d0fa02eb4ab6ec5d9e1b7"
+  },
+  {
+    "path": "assets/A17SIVB_processed_03_09_overview.png",
+    "bytes": 585585,
+    "sha256": "da197676efe0da0b6e9edce4866ddd6e2876dbb2e73dfc41cdbfb095a9ec1c97"
+  },
+  {
+    "path": "assets/A17SIVB_raw_archive_overview.png",
+    "bytes": 563639,
+    "sha256": "b0dd520f93198f003980dda7f4730e09327eddef398bb9c082d5c95377ad0959"
+  },
+  {
+    "path": "assets/A17SIVB_S12_three_stages.png",
+    "bytes": 468811,
+    "sha256": "a1705687f9563914640e24a14bdeca3800db9bed0d186559c9fb1c5aac5b18c2"
+  },
+  {
+    "path": "assets/A17SIVB_S14_three_stages.png",
+    "bytes": 384882,
+    "sha256": "5e4e8b609e843f2356f4c5a6186fb863cc3243d924594579fbe4cf0edb14d9fc"
+  },
+  {
+    "path": "assets/A17SIVB_S15_three_stages.png",
+    "bytes": 451974,
+    "sha256": "69b576e164c47cc903140a76d6fee4da99da432a81f840a420cee8240d495b5b"
+  },
+  {
+    "path": "assets/A17SIVB_S16_three_stages.png",
+    "bytes": 454988,
+    "sha256": "f38dfe4556ce477feb5b452032c3bb7634d7e99f799c545c0bb7a3dc64a737fc"
+  },
+  {
+    "path": "assets/A17SIVB_terrain_domain.png",
+    "bytes": 1652757,
+    "sha256": "36b06f7bc069ea4aedb9f3cf2ad47e6995b17bd640903df8d9b0d6fff2453c6c"
+  },
+  {
+    "path": "assets/event_station_coverage_matrix.png",
+    "bytes": 188013,
+    "sha256": "a63a6eea866031c3bc23cf0f23fbfd1e50e823ea118dcf1fb484ea55234d6fbf"
+  },
+  {
+    "path": "assets/impact_station_terrain_overview.png",
+    "bytes": 3202121,
+    "sha256": "4bd06055112e3c55a55849bd826bc61e5842089a8a3403dafddbb5b20984d642"
+  },
+  {
+    "path": "assets/local_candidate_terrain_domains.png",
+    "bytes": 1738205,
+    "sha256": "f94649e0ad2fccae959ba0a338cbd6e40b797a32f5e4d6116b4718b222ac608c"
+  },
+  {
+    "path": "assets/model_reference_profiles.png",
+    "bytes": 190316,
+    "sha256": "bfd78759425c7e7be0cdb56bb9d50ed1a44d1a7deec913ce501ba6d8c61cd601"
+  },
+  {
+    "path": "assets/nine_event_terrain_domains.png",
+    "bytes": 2662982,
+    "sha256": "8ed7fd39ff7ec32ba3829b2c494c084726089bf556d61652b61151073462cbfd"
+  },
+  {
+    "path": "assets/具体背景模型_M1.png",
+    "bytes": 193900,
+    "sha256": "805954cd00d28dc4a9854bb6e6d0f1af25c5e2500ee8b3769ace948b7ed86ff0"
+  },
+  {
+    "path": "assets/区域约束与散射参数.png",
+    "bytes": 123639,
+    "sha256": "aabceb61f80b74efbd0589fa2786ee3168bbed3ae476d182733aac7040d983da"
+  },
+  {
+    "path": "assets/固定背景_速度密度Q.png",
+    "bytes": 126358,
+    "sha256": "e05179e7b2f629a7674659d5f671231ada936bb9cf6a33405c6143b3de396238"
+  },
+  {
+    "path": "assets/实际地形与固定分层_剖面.png",
+    "bytes": 124066,
+    "sha256": "8c4ace3b9a210e5ee0898ab32ac97d88c8133c9817b92f52f317056a76a49389"
+  },
+  {
+    "path": "assets/散射强度深度_详细方案.png",
+    "bytes": 176734,
+    "sha256": "b2944119629510259a80cde775d1b428bb465b9a1ffe9813267ae4d901a382c4"
+  },
+  {
+    "path": "references/expanded_lunar_references.bib",
+    "bytes": 3661,
+    "sha256": "fd7bee6a1806b9a14e5a9b775d1505af8d1b6630ad0beee7c36a2c31ab6a502b"
+  },
+  {
+    "path": "references/README.md",
+    "bytes": 455,
+    "sha256": "6868ba288915c7b2c48ef338d727cd842e7445e610c850f1fdb63170f26f263e"
+  },
+  {
+    "path": "references/recent_lunar_references.bib",
+    "bytes": 1769,
+    "sha256": "d87c4a3f678d05709654f0eb20d5421eb5d3655796fd294288e8fae7b1e1eaf6"
+  },
+  {
+    "path": "references/scattering_references.bib",
+    "bytes": 4637,
+    "sha256": "7555dfdee243dbb6cda6659988957335d732c139237c9f23b45808ea0a4359af"
+  },
+  {
+    "path": "references/waveform_cleaning_reference.bib",
+    "bytes": 506,
+    "sha256": "9e42c528bc07989cdd7ef0a8d1a772dfa51fb43bfeedc9a44b86245df63c75d5"
+  },
+  {
+    "path": "sources/02_20261105_收敛研究范围前.md",
+    "bytes": 19413,
+    "sha256": "f1a96381e6cae62c0158c00b4a8cdd03bffea202c5c6108a535f37f3a6dbe8d8"
+  },
+  {
+    "path": "sources/02_散射模型与参数设计_20261029历史版.md",
+    "bytes": 18848,
+    "sha256": "34089b8b2011dc10e088906123b72f4a8812cf9d83004fe31f97719ffec72f3d"
+  },
+  {
+    "path": "sources/02_散射模型与参数设计_20261105修订源.md",
+    "bytes": 19215,
+    "sha256": "3ae1c4ece795f51e48091526f8956d5e72862b7826cc5b6d6ab34d83fb546e9d"
+  },
+  {
+    "path": "sources/acquisition_status.json",
+    "bytes": 3941,
+    "sha256": "9b4fe80ba4102fd60466809764d5ad3e8d48adeeee3c0f558772c7e0eee616ef"
+  },
+  {
+    "path": "sources/crossref_metadata.json",
+    "bytes": 14414,
+    "sha256": "78575f2ccc4abe689d179edc5825cf0030881fcae3b3f067169eb4a35988d073"
+  },
+  {
+    "path": "sources/input_source_manifest.json",
+    "bytes": 3383,
+    "sha256": "a24cce5e0d382ca3eaa3e44392f2927b623ac8892e30f2373f53d2f6944586fa"
+  },
+  {
+    "path": "sources/lola_data_provenance.json",
+    "bytes": 7961,
+    "sha256": "0273445e9514e8787c8eb32f3ac3592fc0fca5bf1b363b91ba6589563cff4065"
+  },
+  {
+    "path": "sources/numerical_validation.json",
+    "bytes": 38894,
+    "sha256": "273713bfdf05ae0cea2b8a8ebe227fc015768da94185eaeebbb03162ae2c0e53"
+  },
+  {
+    "path": "sources/publisher_pdf_web_extracted.txt",
+    "bytes": 76150,
+    "sha256": "455a4ec4208679fd04e0b9bd12acf093a9dd6628d0bc0349ab2cf8dba5cf7b6a"
+  },
+  {
+    "path": "sources/scattering_model_design_v2_annotated.json",
+    "bytes": 8552,
+    "sha256": "9c59345f191608dcfbcd7ed124e8d92f32d52ddfc86c896b759d2a36c65bf45e"
+  },
+  {
+    "path": "sources/summary.json",
+    "bytes": 4745,
+    "sha256": "af08b584594ca67ec63c08c442b67cdbedd0ee70086ff4118efe322c126ba39c"
+  },
+  {
+    "path": "sources/waveform_processing_literature_review.md",
+    "bytes": 10026,
+    "sha256": "f6633f2b46ee437b2761a69b70b9fd5aba8e8cc5fd7392701b85ac78e8062be4"
+  },
+  {
+    "path": "sources/waveform_raw_integrity_audit.json",
+    "bytes": 129444,
+    "sha256": "e52adb0b561cd12a89f31732a0639a61cb4d13f4688603490214e24648a61d03"
+  },
+  {
+    "path": "sources/zhang2025_methods_evidence.md",
+    "bytes": 14268,
+    "sha256": "dbc16514330482a6413bed11924787ade32764d7c2ab07b85f9becbc5455dc45"
+  },
+  {
+    "path": "sources/zhang2025_review_validation.json",
+    "bytes": 2251,
+    "sha256": "d0f92f93bd3aba320419fe985b756adf9d6ac533196e1aaa44815ead11330fc0"
+  },
+  {
+    "path": "tables/A16SIVB_S12_地形剖面.csv",
+    "bytes": 32974,
+    "sha256": "a856d54be853618818321456ec2f964405c7f1429bd153a1787a982d480c000a"
+  },
+  {
+    "path": "tables/combined_event_station_audit.csv",
+    "bytes": 12830,
+    "sha256": "18ec16071d19ba7ee200eb7bb0cb4d7e816224b179e311232db31b7687a0ec62"
+  },
+  {
+    "path": "tables/consolidated_model_spec_v3.json",
+    "bytes": 898,
+    "sha256": "5febfcaa3cc13b8b909f85d918de5738c4048853dea235bd2eeec1e242625708"
+  },
+  {
+    "path": "tables/event_baseline_jobs_v3.csv",
+    "bytes": 21596,
+    "sha256": "274a6348fb3db2d1d2bd6ddbbc54f5f8c8447a4360168e02faf80db81ca4542d"
+  },
+  {
+    "path": "tables/events_and_domains.csv",
+    "bytes": 3453,
+    "sha256": "ed05f53f5222b07aa37037770ad9bfd954eaa68caeec4175ebf8161ad6da3219"
+  },
+  {
+    "path": "tables/impact_modern_band_screen.csv",
+    "bytes": 68013,
+    "sha256": "d66bf8bde65eafe0666c29052ead2fbdc55e99fc587f37d5d888742548791b8a"
+  },
+  {
+    "path": "tables/impact_modern_trace_audit.csv",
+    "bytes": 20969,
+    "sha256": "c9059a64b5c83c326fcc2d287726908f28b7c3f1e521c2df4f329215d32c6fc7"
+  },
+  {
+    "path": "tables/local_simulation_candidates.csv",
+    "bytes": 1710,
+    "sha256": "f914c537ec0dcb5c31d60f6f6e11bf568fe3583b512b81438f50a5311e8c073a"
+  },
+  {
+    "path": "tables/M1_mean_velocity_0_100km.csv",
+    "bytes": 862,
+    "sha256": "724534429d084ce261ed6a04a032807ce91b4048e20f00de8efa43f7c7f85f9b"
+  },
+  {
+    "path": "tables/M1_median_0_100km.csv",
+    "bytes": 1858,
+    "sha256": "b1ffebb46e7645f30556b2ceee9736acc4eecd4cd161dc477e31d90fe833b325"
+  },
+  {
+    "path": "tables/model_choice_provenance.csv",
+    "bytes": 10173,
+    "sha256": "dcb3319d61a2710396b381912964c1713d72715780c58f4a4d0bf8bb1678cbe8"
+  },
+  {
+    "path": "tables/model_family_sources.csv",
+    "bytes": 2986,
+    "sha256": "cc2fa8d5194bb915ce257c0ffffda9aa0beab863e91be48d9f593717823962cb"
+  },
+  {
+    "path": "tables/modern_band_by_pair.csv",
+    "bytes": 2795,
+    "sha256": "b460d14edc5d889bd93f0dcffbf3483ad96c0b227e0a28f227720ef70e9027ed"
+  },
+  {
+    "path": "tables/pair_record_summary_current.csv",
+    "bytes": 5072,
+    "sha256": "16a1c5c12fd0c917d653734292da5e41975fc82f6b80fc35c75bafa7b36a96c3"
+  },
+  {
+    "path": "tables/qualification_template.csv",
+    "bytes": 11617,
+    "sha256": "1a83226a52b2bb1f81be9c3e389a3762cb91ba9fa44d4348b35f037db6c6ac52"
+  },
+  {
+    "path": "tables/reference_catalog.csv",
+    "bytes": 4821,
+    "sha256": "38b23930b22be0cb7835b628b9a6722e2eceb00227e44fc820b515699727d14c"
+  },
+  {
+    "path": "tables/resource_estimates.csv",
+    "bytes": 912,
+    "sha256": "29bd820ee9e2c2a29cd3e3d7bfe67e48169cf7fdf4aa834b71b6ec4db6492655"
+  },
+  {
+    "path": "tables/scattering_run_manifest.csv",
+    "bytes": 11842,
+    "sha256": "92757308b77161de6f83cfdcfab1026ee498d14007409a6cfa7c0cef165dc09e"
+  },
+  {
+    "path": "tables/site_height_checks.csv",
+    "bytes": 349,
+    "sha256": "3e05ebd2c48cd6c36629ffca1e83731f58511540d9af7b4cac7051f610d039be"
+  },
+  {
+    "path": "tables/stations.csv",
+    "bytes": 364,
+    "sha256": "7cdbe83668ab63be902dfe934b5225398a3cee75b2238b613d0e389497711455"
+  },
+  {
+    "path": "tables/trace_stage_comparison.csv",
+    "bytes": 37220,
+    "sha256": "60a54bde255f44c46dcdfe55bf746f263384a6fd5fc599e630c1159815a1d979"
+  },
+  {
+    "path": "tables/区域冯卡尔曼反演设计_20261105.json",
+    "bytes": 3222,
+    "sha256": "214aad33ba214456e5d000b1adfea75bfa70549333f0acc590994208c62233da"
+  },
+  {
+    "path": "tables/固定背景_Garcia2011_原始节点_0_110km.csv",
+    "bytes": 423,
+    "sha256": "b85bca20413435d4d47572d15c85c60f3cc83fd8e83a739f64a9a6c19d3591a1"
+  },
+  {
+    "path": "tables/散射深度函数_示例.csv",
+    "bytes": 24810,
+    "sha256": "9315c073117aa03f3af7da6abe0805e2684bff211c7087783b7f510acf643677"
+  },
+  {
+    "path": "tables/新版首轮24组散射参数.csv",
+    "bytes": 1547,
+    "sha256": "32d8928b3c2d9f1d4644f023692d8b7c1f24e931d659e9a2f923d6462cb7bfe7"
+  },
+  {
+    "path": "tables/详细模拟方案_固定项与搜索项.json",
+    "bytes": 1543,
+    "sha256": "f4493683662f32d5ac01abddf51fc694ab813aaa9ad7f3928d052d1f9197bb68"
+  },
+  {
+    "path": "tables/首轮30组散射候选参数.csv",
+    "bytes": 2452,
+    "sha256": "f4080d7c67e518c2a63c10a03308016ddf5be21a21c68e76d386d25c90d2e153"
+  },
+  {
+    "path": "三台站区域模型/S12_代表路径地形.csv",
+    "bytes": 23705,
+    "sha256": "bf8e676660751e6ed373be20f7eb276b6985fa3ba32fa1cd95765373f2c417b6"
+  },
+  {
+    "path": "三台站区域模型/S12_区域模型总图.png",
+    "bytes": 484695,
+    "sha256": "dd27f885aab92d0e962303bd575283a613019059e7ed02a025ccfa0cc18e7592"
+  },
+  {
+    "path": "三台站区域模型/S12_区域模型总图.svg",
+    "bytes": 247472,
+    "sha256": "0ada57aac7de35bd797c33086adc9e383c3cf570f111c1bb41c02b864175e53c"
+  },
+  {
+    "path": "三台站区域模型/S12_区域模型说明.md",
+    "bytes": 7627,
+    "sha256": "3689a59713f9452073c42fa417c418269fc942f0656c592bc09eb72d39470ac4"
+  },
+  {
+    "path": "三台站区域模型/S12_散射深度候选.png",
+    "bytes": 62156,
+    "sha256": "c34d4d8993459412fa7b9fea390ec4280a67a05169914794ba0ff296499748e9"
+  },
+  {
+    "path": "三台站区域模型/S12_模型定义.json",
+    "bytes": 4130,
+    "sha256": "fa002250df27551dc84cbedf627425fc6f0e1782021ecc4059474fb9737fc7d8"
+  },
+  {
+    "path": "三台站区域模型/S12_背景剖面采样.csv",
+    "bytes": 74509,
+    "sha256": "0ea4c6d3faeaefe33cda7fc44a4cce167dd2a0569f849de5407c615db1eea276"
+  },
+  {
+    "path": "三台站区域模型/S12_背景参数.csv",
+    "bytes": 18319,
+    "sha256": "b5153a090ad88225b4a290cb1be198428df6db927df5929e44f169dba06c8287"
+  },
+  {
+    "path": "三台站区域模型/S14_代表路径地形.csv",
+    "bytes": 23421,
+    "sha256": "dd508c78fdfccc568be256a0fb440daf065f7b83f34f0e50f064c0da3dd7697a"
+  },
+  {
+    "path": "三台站区域模型/S14_区域模型总图.png",
+    "bytes": 427850,
+    "sha256": "16ead0cebc79bffefc01a6126a760394b99e29a3bc6dd95f91f975a51f0011a9"
+  },
+  {
+    "path": "三台站区域模型/S14_区域模型总图.svg",
+    "bytes": 235278,
+    "sha256": "0250ea8c44a3aa61326aea885b18b8b8b016c2f9fd7c92de2930d354d14e2147"
+  },
+  {
+    "path": "三台站区域模型/S14_区域模型说明.md",
+    "bytes": 7509,
+    "sha256": "7ecb20ca4153890f58bf31ef26685309725dfd78a945ef16e6a1ba03225f655f"
+  },
+  {
+    "path": "三台站区域模型/S14_散射深度候选.png",
+    "bytes": 61799,
+    "sha256": "da19b90d07833c12c5c9d5c66186c6481c7de386bfc2904dcf7c8a4a9a2927f9"
+  },
+  {
+    "path": "三台站区域模型/S14_模型定义.json",
+    "bytes": 4015,
+    "sha256": "5a30beff168fdd3484acf0ea61112972c24f30355fe977b1073650202d52e3db"
+  },
+  {
+    "path": "三台站区域模型/S14_背景剖面采样.csv",
+    "bytes": 69506,
+    "sha256": "08482c131d07b1318d53f823e96f89609664fbf67ea4dcebeb09caf64c08b9f4"
+  },
+  {
+    "path": "三台站区域模型/S14_背景参数.csv",
+    "bytes": 17928,
+    "sha256": "647669617bf388129a8bbb2f44dc2bdcf39d5b238b6185c03ff3f4f21b2ea9d1"
+  },
+  {
+    "path": "三台站区域模型/S15_代表路径地形.csv",
+    "bytes": 23068,
+    "sha256": "784f7ab6a1dd0ac50f9773ed743e6a43726354fbd7bf1fa7ecf3e5f78c57e45d"
+  },
+  {
+    "path": "三台站区域模型/S15_区域模型总图.png",
+    "bytes": 375866,
+    "sha256": "b5fbc3ef3edd9f19354bfa534aa11896c9e7814f9585b17f8c2b9197e134bd49"
+  },
+  {
+    "path": "三台站区域模型/S15_区域模型总图.svg",
+    "bytes": 175279,
+    "sha256": "1461327cf7db1cb60f723b8a1c3a06d43ec55880aabb5ed7ac32b0d01c60381f"
+  },
+  {
+    "path": "三台站区域模型/S15_区域模型说明.md",
+    "bytes": 7268,
+    "sha256": "a3841b3193ecbbd4ec15d8953ca6e02e6c5d664907c26222fadbe7dd7a826c78"
+  },
+  {
+    "path": "三台站区域模型/S15_散射深度候选.png",
+    "bytes": 61093,
+    "sha256": "5e7cbaab7bc620a55ccfd8cdbfa4bfe897a79c1333de4f7b87f2204fda811581"
+  },
+  {
+    "path": "三台站区域模型/S15_模型定义.json",
+    "bytes": 3907,
+    "sha256": "759ad673869a9a42dd26590783d5b8af41c3af3aaed0c6f05b6af4f03ed43e9c"
+  },
+  {
+    "path": "三台站区域模型/S15_背景剖面采样.csv",
+    "bytes": 74224,
+    "sha256": "fb221d815b914e0fc368c679612ce6b47b4106af5606c8f2d8acd575b77fc6fe"
+  },
+  {
+    "path": "三台站区域模型/S15_背景参数.csv",
+    "bytes": 16920,
+    "sha256": "33ee3b3e863ddb6dc52785f5f0bb0610a240d3e50b5764f9981ab01ff2ac3c11"
+  },
+  {
+    "path": "三台站区域模型/三区域交付索引.json",
+    "bytes": 1359,
+    "sha256": "7b85a3510242263875dab3f6886395f630c8af646c0867f2d4c58026f63a4fa0"
+  },
+  {
+    "path": "三台站区域模型/三台站区域结构对比.png",
+    "bytes": 254661,
+    "sha256": "1f27f74f792fee5071c525fa851c15a9e9787b3494b2d0492306c778a3e92e30"
+  },
+  {
+    "path": "三台站区域模型/三台站区域结构对比.svg",
+    "bytes": 85464,
+    "sha256": "16f9fbdb4d048a388d5ff31da1508368e3c76b5e23c3d2b4c43b5964a8ac0661"
+  },
+  {
+    "path": "三台站区域模型/区域结构数值核验.json",
+    "bytes": 1131,
+    "sha256": "09e64c7d45e3a3f3050055c3d279456ae6f1a4ce52ca12298928ae1e32dc1895"
+  },
+  {
+    "path": "三台站模型核验.json",
+    "bytes": 3678,
+    "sha256": "b640b4458b7e0a8cd951a189e75fcd606e0a82993953c4c32a57f2e4a2a62bc7"
+  },
+  {
+    "path": "交付核验.json",
+    "bytes": 63099,
+    "sha256": "1d1838c9fe17b12d2e2046ac27c2be151e1f0f557a0ce7b0cbb3065c7a80367f"
+  },
+  {
+    "path": "修订核验_20261105.json",
+    "bytes": 2736,
+    "sha256": "0876bc612072dfb315b133c79a50c31309dc434055c01e5c475efd6aad542f99"
+  },
+  {
+    "path": "区域结构更新核验_20261105.json",
+    "bytes": 3549,
+    "sha256": "7af81546e512a291a8fc371f18e3d54ab489f366c9fa6129a0bb34f03d5d3547"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/08_S12_S14_S15三个区域模型.md",
+    "bytes": 3266,
+    "sha256": "b1e869a12f0ad093f1b715ae9cc917d8ac3761a2eafad7d21998017492a4bbd0"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S12_代表路径地形.csv",
+    "bytes": 23705,
+    "sha256": "bf8e676660751e6ed373be20f7eb276b6985fa3ba32fa1cd95765373f2c417b6"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S12_区域模型总图.png",
+    "bytes": 451562,
+    "sha256": "e503508c49da034a296a305067d306194b8b06865113901517efb8898d1ce100"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S12_区域模型说明.md",
+    "bytes": 5799,
+    "sha256": "c2b6fee151ace1949732d779d5be0fd1db888ac327e47433bc2e8f9b75d9c6cc"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S12_模型定义.json",
+    "bytes": 2106,
+    "sha256": "f286b5800ddafdf69bded5f06b724fa0321f14cb9c16cfeefd4ba0a65070df77"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S12_背景参数.csv",
+    "bytes": 448,
+    "sha256": "70602912e554438213f321639ecbe7d30940b1ef8a26db5a641c18716df2844c"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S14_代表路径地形.csv",
+    "bytes": 23421,
+    "sha256": "dd508c78fdfccc568be256a0fb440daf065f7b83f34f0e50f064c0da3dd7697a"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S14_区域模型总图.png",
+    "bytes": 412131,
+    "sha256": "688cbaa80beed8d80a7139742b90dc7e8b1405287fe2ca6c23e5184811e44350"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S14_区域模型说明.md",
+    "bytes": 5457,
+    "sha256": "d223486c85d0b9a7af94aec2513bb96dee3eba205df7d8cafed166089987aedc"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S14_模型定义.json",
+    "bytes": 1959,
+    "sha256": "54ce49ea6140c31e96f71c815808e580c87d15af11f2fd7e6c2fe20cc1998bd2"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S14_背景参数.csv",
+    "bytes": 448,
+    "sha256": "70602912e554438213f321639ecbe7d30940b1ef8a26db5a641c18716df2844c"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S15_代表路径地形.csv",
+    "bytes": 23068,
+    "sha256": "784f7ab6a1dd0ac50f9773ed743e6a43726354fbd7bf1fa7ecf3e5f78c57e45d"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S15_区域模型总图.png",
+    "bytes": 350112,
+    "sha256": "9f337b4ee164bdf82c1ac0836ccc7f3d007e6cc7b48f631dc5829729b3d69dd5"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S15_区域模型说明.md",
+    "bytes": 5322,
+    "sha256": "aa3e27e16d3c12dfe3dd6d91c236a2a1ea7b5f65b20b1e38ef26d0257ce65392"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S15_模型定义.json",
+    "bytes": 1869,
+    "sha256": "db012cb7c17275e28972a9ff645c6288c49142d8ca5d54bae50e3ed261b79adc"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/S15_背景参数.csv",
+    "bytes": 448,
+    "sha256": "70602912e554438213f321639ecbe7d30940b1ef8a26db5a641c18716df2844c"
+  },
+  {
+    "path": "历史版本/20261105_共同平均背景/三区域交付索引.json",
+    "bytes": 887,
+    "sha256": "5a98cc8ef2ad91f8824fe5bac038a76beb0047da6e8114a3675f863dc008637c"
+  },
+  {
+    "path": "月球散射研究设计_完整合订本.md",
+    "bytes": 181756,
+    "sha256": "8d27499b7a54af92f58059c424b54177ed318eeb1be08f3bbca4a24cb4fef9cf"
+  },
+  {
+    "path": "详细方案核验_20261105.json",
+    "bytes": 3179,
+    "sha256": "eccf8149efeca2a6e789341dcc2412d323af4e0b4514dd6c13312b01366d79d8"
+  },
+  {
+    "path": "附录_Zhang2025数据清洗论文综述.md",
+    "bytes": 22655,
+    "sha256": "071701523c26ee2cb740c070d32384186f124bc14ca893b3b64502c267639cc7"
+  }
+]

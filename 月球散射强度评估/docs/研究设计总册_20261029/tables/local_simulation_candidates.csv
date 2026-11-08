@@ -1,0 +1,9 @@
+﻿event_id,receivers,domain_role,west_degE,east_degE,south_degN,north_degN,width_at_midlat_km,height_km,planning_buffer_km,boundary_status
+A12LM,S12,local_model_candidate_pending_waveform_QC_and_domain_convergence,-25.08167,-19.54323,-5.58889,-1.36091,167.6,128.2,50,geographic planning envelope; PML/late-coda domain not validated
+A13SIVB,S12,local_model_candidate_pending_waveform_QC_and_domain_convergence,-29.54186,-21.77054,-4.65869,-0.90611,235.4,113.8,50,geographic planning envelope; PML/late-coda domain not validated
+A14SIVB,S12,local_model_candidate_pending_waveform_QC_and_domain_convergence,-27.70396,-21.75144,-9.82989,-1.36091,179.6,256.8,50,geographic planning envelope; PML/late-coda domain not validated
+A14LM,S12;S14,local_model_candidate_pending_waveform_QC_and_domain_convergence,-25.08086,-15.82172,-5.29308,-1.36091,280.3,119.2,50,geographic planning envelope; PML/late-coda domain not validated
+A15SIVB,S12;S14,local_model_candidate_pending_waveform_QC_and_domain_convergence,-25.08086,-10.16854,-5.29308,0.35919,451.8,171.4,50,geographic planning envelope; PML/late-coda domain not validated
+A15LM,S15,local_model_candidate_pending_waveform_QC_and_domain_convergence,-1.61764,5.49755,24.48517,28.00889,193.5,106.9,50,geographic planning envelope; PML/late-coda domain not validated
+A16SIVB,S12;S14,local_model_candidate_pending_waveform_QC_and_domain_convergence,-26.27896,-15.82172,-5.29308,3.56989,317.1,268.8,50,geographic planning envelope; PML/late-coda domain not validated
+A17SIVB,S12,local_model_candidate_pending_waveform_QC_and_domain_convergence,-25.08233,-10.67327,-5.81699,-1.36091,436.1,135.1,50,geographic planning envelope; PML/late-coda domain not validated

@@ -1,0 +1,5 @@
+region,station,located_events,located_DMQ,located_SMQ,located_AI,located_NI,distance_min_deg,distance_median_deg,distance_max_deg,waveform_event_rows,waveform_LP_rows,waveform_SP_rows
+A12,A12,7,3,0,3,0,2.4,5.7,13.19,2651,2651,0
+A14,A14,13,4,0,3,4,2.21,7.65,14.65,6151,5593,1826
+A15,A15,9,4,1,1,2,1.62,10.23,14.45,2790,2492,717
+A16,A16,9,7,0,0,1,1.88,6.67,10.39,3570,3531,312

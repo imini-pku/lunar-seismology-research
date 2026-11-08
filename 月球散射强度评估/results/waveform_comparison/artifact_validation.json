@@ -1,0 +1,1292 @@
+{
+  "figure_groups": 50,
+  "png_count": 50,
+  "pdf_count": 50,
+  "all_figure_hashes_match": true,
+  "all_pngs_decode": true,
+  "all_pdfs_have_valid_header": true,
+  "all_60_previous_npz_unchanged": true,
+  "all_21_source_mseed_unchanged": true,
+  "human_visual_review": "Authoring agent inspected A15LM S15 three-stage example, A14SIVB S12 gap zoom, A17LM original overview; root agent reviews additional outputs.",
+  "not_a_publication_or_calibration_certification": true,
+  "files": [
+    {
+      "path": "figures\\waveform_comparison\\A12LM_S12_three_stages.png",
+      "sha_matches": true,
+      "bytes": 443616,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A12LM_S12_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1895805,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A12LM_raw_archive_overview.png",
+      "sha_matches": true,
+      "bytes": 273317,
+      "width_px": 3140,
+      "height_px": 1000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A12LM_raw_archive_overview.pdf",
+      "sha_matches": true,
+      "bytes": 487465,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A12LM_processed_03_09_overview.png",
+      "sha_matches": true,
+      "bytes": 217806,
+      "width_px": 3140,
+      "height_px": 1000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A12LM_processed_03_09_overview.pdf",
+      "sha_matches": true,
+      "bytes": 774098,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A12LM_literature_displacement_03_05_overview.png",
+      "sha_matches": true,
+      "bytes": 196105,
+      "width_px": 3140,
+      "height_px": 1000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A12LM_literature_displacement_03_05_overview.pdf",
+      "sha_matches": true,
+      "bytes": 759575,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A13SIVB_S12_three_stages.png",
+      "sha_matches": true,
+      "bytes": 429824,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A13SIVB_S12_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 2039560,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A13SIVB_raw_archive_overview.png",
+      "sha_matches": true,
+      "bytes": 211296,
+      "width_px": 3140,
+      "height_px": 1000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A13SIVB_raw_archive_overview.pdf",
+      "sha_matches": true,
+      "bytes": 579572,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A13SIVB_processed_03_09_overview.png",
+      "sha_matches": true,
+      "bytes": 220864,
+      "width_px": 3140,
+      "height_px": 1000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A13SIVB_processed_03_09_overview.pdf",
+      "sha_matches": true,
+      "bytes": 781911,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A13SIVB_literature_displacement_03_05_overview.png",
+      "sha_matches": true,
+      "bytes": 239856,
+      "width_px": 3140,
+      "height_px": 1000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A13SIVB_literature_displacement_03_05_overview.pdf",
+      "sha_matches": true,
+      "bytes": 791832,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14SIVB_S12_three_stages.png",
+      "sha_matches": true,
+      "bytes": 479816,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14SIVB_S12_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 2224619,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14SIVB_raw_archive_overview.png",
+      "sha_matches": true,
+      "bytes": 222016,
+      "width_px": 3140,
+      "height_px": 1000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14SIVB_raw_archive_overview.pdf",
+      "sha_matches": true,
+      "bytes": 583026,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14SIVB_processed_03_09_overview.png",
+      "sha_matches": true,
+      "bytes": 260692,
+      "width_px": 3140,
+      "height_px": 1000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14SIVB_processed_03_09_overview.pdf",
+      "sha_matches": true,
+      "bytes": 864306,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14SIVB_literature_displacement_03_05_overview.png",
+      "sha_matches": true,
+      "bytes": 255729,
+      "width_px": 3140,
+      "height_px": 1000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14SIVB_literature_displacement_03_05_overview.pdf",
+      "sha_matches": true,
+      "bytes": 866175,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14LM_S12_three_stages.png",
+      "sha_matches": true,
+      "bytes": 413208,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14LM_S12_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1979760,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14LM_S14_three_stages.png",
+      "sha_matches": true,
+      "bytes": 407120,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14LM_S14_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 2053710,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14LM_raw_archive_overview.png",
+      "sha_matches": true,
+      "bytes": 305913,
+      "width_px": 3140,
+      "height_px": 1500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14LM_raw_archive_overview.pdf",
+      "sha_matches": true,
+      "bytes": 973135,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14LM_processed_03_09_overview.png",
+      "sha_matches": true,
+      "bytes": 308107,
+      "width_px": 3140,
+      "height_px": 1500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14LM_processed_03_09_overview.pdf",
+      "sha_matches": true,
+      "bytes": 1567059,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14LM_literature_displacement_03_05_overview.png",
+      "sha_matches": true,
+      "bytes": 300007,
+      "width_px": 3140,
+      "height_px": 1500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14LM_literature_displacement_03_05_overview.pdf",
+      "sha_matches": true,
+      "bytes": 1554008,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15SIVB_S12_three_stages.png",
+      "sha_matches": true,
+      "bytes": 481236,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15SIVB_S12_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 2017387,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15SIVB_S14_three_stages.png",
+      "sha_matches": true,
+      "bytes": 449471,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15SIVB_S14_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 2090753,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15SIVB_raw_archive_overview.png",
+      "sha_matches": true,
+      "bytes": 338104,
+      "width_px": 3140,
+      "height_px": 1500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15SIVB_raw_archive_overview.pdf",
+      "sha_matches": true,
+      "bytes": 1115150,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15SIVB_processed_03_09_overview.png",
+      "sha_matches": true,
+      "bytes": 351713,
+      "width_px": 3140,
+      "height_px": 1500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15SIVB_processed_03_09_overview.pdf",
+      "sha_matches": true,
+      "bytes": 1539512,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15SIVB_literature_displacement_03_05_overview.png",
+      "sha_matches": true,
+      "bytes": 346337,
+      "width_px": 3140,
+      "height_px": 1500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15SIVB_literature_displacement_03_05_overview.pdf",
+      "sha_matches": true,
+      "bytes": 1527131,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_S12_three_stages.png",
+      "sha_matches": true,
+      "bytes": 371008,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_S12_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1879503,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_S14_three_stages.png",
+      "sha_matches": true,
+      "bytes": 318249,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_S14_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1819793,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_S15_three_stages.png",
+      "sha_matches": true,
+      "bytes": 416863,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_S15_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1999697,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_raw_archive_overview.png",
+      "sha_matches": true,
+      "bytes": 363713,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_raw_archive_overview.pdf",
+      "sha_matches": true,
+      "bytes": 1305854,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_processed_03_09_overview.png",
+      "sha_matches": true,
+      "bytes": 392548,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_processed_03_09_overview.pdf",
+      "sha_matches": true,
+      "bytes": 2195342,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_literature_displacement_03_05_overview.png",
+      "sha_matches": true,
+      "bytes": 388999,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_literature_displacement_03_05_overview.pdf",
+      "sha_matches": true,
+      "bytes": 2191426,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_S12_three_stages.png",
+      "sha_matches": true,
+      "bytes": 459427,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_S12_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 2065472,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_S14_three_stages.png",
+      "sha_matches": true,
+      "bytes": 379328,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_S14_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1361380,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_S15_three_stages.png",
+      "sha_matches": true,
+      "bytes": 430797,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_S15_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1928678,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_raw_archive_overview.png",
+      "sha_matches": true,
+      "bytes": 441407,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_raw_archive_overview.pdf",
+      "sha_matches": true,
+      "bytes": 1443693,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_processed_03_09_overview.png",
+      "sha_matches": true,
+      "bytes": 483146,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_processed_03_09_overview.pdf",
+      "sha_matches": true,
+      "bytes": 2007466,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_literature_displacement_03_05_overview.png",
+      "sha_matches": true,
+      "bytes": 486982,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A16SIVB_literature_displacement_03_05_overview.pdf",
+      "sha_matches": true,
+      "bytes": 2018666,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_S12_three_stages.png",
+      "sha_matches": true,
+      "bytes": 468811,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_S12_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 2040991,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_S14_three_stages.png",
+      "sha_matches": true,
+      "bytes": 384882,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_S14_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1333267,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_S15_three_stages.png",
+      "sha_matches": true,
+      "bytes": 451974,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_S15_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1911272,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_S16_three_stages.png",
+      "sha_matches": true,
+      "bytes": 454988,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_S16_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1970744,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_raw_archive_overview.png",
+      "sha_matches": true,
+      "bytes": 563639,
+      "width_px": 3140,
+      "height_px": 2500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_raw_archive_overview.pdf",
+      "sha_matches": true,
+      "bytes": 1797024,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_processed_03_09_overview.png",
+      "sha_matches": true,
+      "bytes": 585585,
+      "width_px": 3140,
+      "height_px": 2500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_processed_03_09_overview.pdf",
+      "sha_matches": true,
+      "bytes": 2733598,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_literature_displacement_03_05_overview.png",
+      "sha_matches": true,
+      "bytes": 591275,
+      "width_px": 3140,
+      "height_px": 2500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17SIVB_literature_displacement_03_05_overview.pdf",
+      "sha_matches": true,
+      "bytes": 2733016,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_S12_three_stages.png",
+      "sha_matches": true,
+      "bytes": 404869,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_S12_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1920006,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_S14_three_stages.png",
+      "sha_matches": true,
+      "bytes": 303631,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_S14_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1301103,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_S15_three_stages.png",
+      "sha_matches": true,
+      "bytes": 376204,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_S15_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1923243,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_S16_three_stages.png",
+      "sha_matches": true,
+      "bytes": 352068,
+      "width_px": 3140,
+      "height_px": 2000,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_S16_three_stages.pdf",
+      "sha_matches": true,
+      "bytes": 1859101,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_raw_archive_overview.png",
+      "sha_matches": true,
+      "bytes": 471548,
+      "width_px": 3140,
+      "height_px": 2500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_raw_archive_overview.pdf",
+      "sha_matches": true,
+      "bytes": 1636429,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_processed_03_09_overview.png",
+      "sha_matches": true,
+      "bytes": 450157,
+      "width_px": 3140,
+      "height_px": 2500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_processed_03_09_overview.pdf",
+      "sha_matches": true,
+      "bytes": 2673319,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_literature_displacement_03_05_overview.png",
+      "sha_matches": true,
+      "bytes": 451920,
+      "width_px": 3140,
+      "height_px": 2500,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A17LM_literature_displacement_03_05_overview.pdf",
+      "sha_matches": true,
+      "bytes": 2674039,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_S15_MHZ_gap_zoom.png",
+      "sha_matches": true,
+      "bytes": 685729,
+      "width_px": 2760,
+      "height_px": 1900,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A15LM_S15_MHZ_gap_zoom.pdf",
+      "sha_matches": true,
+      "bytes": 96331,
+      "pdf_header_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14SIVB_S12_MHZ_gap_zoom.png",
+      "sha_matches": true,
+      "bytes": 559997,
+      "width_px": 2760,
+      "height_px": 1900,
+      "mode": "RGBA",
+      "dpi": [
+        199.9996,
+        199.9996
+      ],
+      "decode_valid": true
+    },
+    {
+      "path": "figures\\waveform_comparison\\A14SIVB_S12_MHZ_gap_zoom.pdf",
+      "sha_matches": true,
+      "bytes": 134943,
+      "pdf_header_valid": true
+    }
+  ],
+  "old_npz_checks": [
+    {
+      "path": "data\\processed\\impact_reference\\A12LM_S12_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A12LM_S12_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A12LM_S12_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A13SIVB_S12_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A13SIVB_S12_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A13SIVB_S12_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A14LM_S12_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A14LM_S12_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A14LM_S12_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A14LM_S14_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A14LM_S14_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A14LM_S14_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A14SIVB_S12_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A14SIVB_S12_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A14SIVB_S12_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15LM_S12_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15LM_S12_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15LM_S12_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15LM_S14_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15LM_S14_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15LM_S14_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15LM_S15_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15LM_S15_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15LM_S15_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15SIVB_S12_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15SIVB_S12_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15SIVB_S12_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15SIVB_S14_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15SIVB_S14_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A15SIVB_S14_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A16SIVB_S12_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A16SIVB_S12_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A16SIVB_S12_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A16SIVB_S14_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A16SIVB_S14_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A16SIVB_S15_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A16SIVB_S15_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A16SIVB_S15_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S12_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S12_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S12_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S14_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S14_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S15_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S15_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S15_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S16_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S16_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17LM_S16_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S12_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S12_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S12_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S14_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S14_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S15_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S15_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S15_MHZ.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S16_MH1.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S16_MH2.npz",
+      "unchanged": true
+    },
+    {
+      "path": "data\\processed\\impact_reference\\A17SIVB_S16_MHZ.npz",
+      "unchanged": true
+    }
+  ],
+  "archive_checks": [
+    {
+      "path": "data\\raw\\impact_modern\\A12LM_S12_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A13SIVB_S12_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A14LM_S12_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A14LM_S14_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A14SIVB_S12_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A15LM_S12_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A15LM_S14_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A15LM_S15_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A15SIVB_S12_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A15SIVB_S14_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A16SIVB_S12_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A16SIVB_S14_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A16SIVB_S15_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17LM_S12_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17LM_S14_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17LM_S15_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17LM_S16_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17SIVB_S12_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17SIVB_S14_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17SIVB_S15_MP_ATT.mseed",
+      "unchanged": true
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17SIVB_S16_MP_ATT.mseed",
+      "unchanged": true
+    }
+  ]
+}

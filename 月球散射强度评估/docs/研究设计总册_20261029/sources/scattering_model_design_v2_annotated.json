@@ -1,0 +1,250 @@
+{
+  "version": "2026-10-29-literature-terrain-revision-v2",
+  "solver": "CGFD3D",
+  "status": "scientific_design_not_solver_input",
+  "formal_waveform_runs_executed": 0,
+  "supersedes_for_planning": "config/scattering_model_design.json",
+  "legacy_material_previews": "Existing R1/R2/R4 NetCDFs retain their old parameters; this file does not regenerate them.",
+  "units": {
+    "length": "m",
+    "velocity": "m/s",
+    "density": "kg/m3",
+    "sigma": "fractional_standard_deviation"
+  },
+  "modelling_unit": "event + actual receiving stations + geographic domain; terrain labels are interpretation only",
+  "reference": {
+    "family": "R1",
+    "a_m": 650,
+    "sigma_v_standard_deviation": 0.1,
+    "H_m": 10000,
+    "nu": 0.5,
+    "primary_doi": "10.1029/2022JE007558",
+    "scope": "A14 and A16 SIVB impacts received at S12",
+    "fidelity": "inspired starting model, not exact reproduction"
+  },
+  "frequency": {
+    "common_initial_hz": [
+      0.3,
+      0.5
+    ],
+    "first_extension_hz": [
+      0.5,
+      0.9
+    ],
+    "conditional_higher_extension_hz": [
+      0.9,
+      1.5
+    ],
+    "sources": [
+      "10.3847/PSJ/ad83d2",
+      "10.1029/2022JE007558"
+    ],
+    "admission": "per event, component and time window; nominal response previews not finally certified"
+  },
+  "main_search": {
+    "a_m": [
+      200,
+      2000
+    ],
+    "sigma_v": [
+      0.02,
+      0.15
+    ],
+    "H_m": [
+      3500,
+      20000
+    ],
+    "classification": "project_search_envelope_not_regional_confidence_interval",
+    "source_inspiration": [
+      "10.1029/2022JE007558",
+      "10.1029/2020JE006406"
+    ]
+  },
+  "initial_values": {
+    "a_m": [
+      300,
+      650,
+      1300
+    ],
+    "sigma_v": [
+      0.05,
+      0.1,
+      0.15
+    ],
+    "H_m": [
+      3500,
+      10000,
+      20000
+    ],
+    "classification": "project_design_around_literature_reference"
+  },
+  "families": [
+    {
+      "id": "R0",
+      "name": "背景与地形控制",
+      "parameters": "无随机扰动；平坦/真实地形各一组",
+      "purpose": "有多少波形可由背景、界面和地形解释",
+      "source": [
+        "10.3847/PSJ/ad83d2"
+      ],
+      "locator": "无随机背景及地形比较；本项目四组归因设计",
+      "status": "第一优先",
+      "classification": "project_control_informed_by_lunar_simulation"
+    },
+    {
+      "id": "R1",
+      "name": "浅层各向同性指数场",
+      "parameters": "a=.65 km，σv=.10，H=10 km，ν=.5；H边缘1 km余弦渐变",
+      "purpose": "作为两条S12路径的三维起点",
+      "source": [
+        "10.1029/2022JE007558"
+      ],
+      "locator": "§2.2–2.4/§3.3；1 km余弦不是原文反演值",
+      "status": "第一优先",
+      "classification": "lunar_path_reference_plus_project_taper"
+    },
+    {
+      "id": "R2",
+      "name": "连续随深度渐弱",
+      "parameters": "σv(z)=.10exp(−z/5 km)，23–24 km归零",
+      "purpose": "检验有无明确强层底界的差别",
+      "source": [
+        "10.1016/j.pepi.2016.11.001"
+      ],
+      "locator": "深度趋势有依据；5 km衰减长度及24 km截断均为项目假设",
+      "status": "基准通过后",
+      "classification": "project_hypothesis_no_direct_numeric_lunar_constraint"
+    },
+    {
+      "id": "R3",
+      "name": "两尺度分层",
+      "parameters": "上/下a=.2/.6 km，7.5 km层界，总深10/20 km；若用σ=.10/.05须另标项目版本",
+      "purpose": "检验层化与南北路径差异",
+      "source": [
+        "10.1029/2020JE006406"
+      ],
+      "locator": "Table2–3；原文28/14%为上限式表述，不能换成项目RMS",
+      "status": "基准通过后",
+      "classification": "two_dimensional_reference_requires_three_dimensional_retest"
+    },
+    {
+      "id": "R4",
+      "name": "统计各向异性",
+      "parameters": "ah=1.3 km，az=.65 km，其余同R1",
+      "purpose": "检验水平延伸非均质的效果",
+      "source": [
+        "10.1093/gji/ggy319"
+      ],
+      "locator": "谱形式的一般理论；该尺度比是项目选择，不是月球测值",
+      "status": "后置探索",
+      "classification": "general_theory_plus_project_ratio"
+    },
+    {
+      "id": "R5",
+      "name": "高对比深层分支",
+      "parameters": "有界最大±.5，线性减到20/50/80 km为零",
+      "purpose": "检验更厚破碎层与长路径波形",
+      "source": [
+        "10.3847/PSJ/ad83d2",
+        "10.1029/2022JE007222"
+      ],
+      "locator": "Nunn Table2/§5；Zhang只实际计算至最大50%，未独立控制a",
+      "status": "独立竞争；先数值检查",
+      "classification": "bounded_contrast_not_RMS_and_grid_scale_requires_control"
+    },
+    {
+      "id": "R6",
+      "name": "弱扰动长尺度",
+      "parameters": "a=2 km，σ=.03/.05，H=15 km；von Kármán谱形待原文细节复核",
+      "purpose": "检验不同a–σ组合能否解释相同观测",
+      "source": [
+        "10.6038/cjg20150519"
+      ],
+      "locator": "§2–4/Table3–4；原观测0.05–0.4 Hz、二维、自然月震",
+      "status": "独立竞争；三维迁移试验",
+      "classification": "other_lunar_events_model_transfer_not_direct_impact_prior"
+    },
+    {
+      "id": "R7",
+      "name": "横向层厚与源/站侧分离",
+      "parameters": "H(x,y)；先固定σ与a，分开源侧、接收侧和全路径扰动",
+      "purpose": "检验盆缘与跨地质单元路径",
+      "source": [
+        "10.1002/2015GL066151"
+      ],
+      "locator": "§1–4/Fig1–3；实际分区须有独立依据，不由DEM颜色阈值决定",
+      "status": "优先于完全自由各向异性",
+      "classification": "lunar_mechanism_model_project_geometry_to_define"
+    },
+    {
+      "id": "R8",
+      "name": "较长尺度较强扰动",
+      "parameters": "a=1/4 km、ε=.1/.2等，H=10/20 km",
+      "purpose": "结合接收函数/相干性排除包络等效模型",
+      "source": [
+        "10.1029/2022JE007676"
+      ],
+      "locator": "§2–4/Fig4,6–8；ε实现归一化待核，不直接写σ",
+      "status": "参数定义核实后",
+      "classification": "receiver_function_evidence_not_path_RMS_inversion"
+    },
+    {
+      "id": "S",
+      "name": "独立浅层场地分支",
+      "parameters": "近站低速分层及浅表随机反差；不把米级a推广到全路径",
+      "purpose": "检查是否将场地共振误归为深部散射",
+      "source": [
+        "10.1029/2022JE007396",
+        "10.1002/2016GL070883",
+        "10.1029/2024EA003742"
+      ],
+      "locator": "Amrouche§6；Sollberger§3–5；Keil AppendixA",
+      "status": "单独网格/场地敏感性",
+      "classification": "near_surface_evidence_separate_scale"
+    }
+  ],
+  "controls": {
+    "density_beta_legacy_preview": 0.8,
+    "density_beta_initial_comparison": [
+      0,
+      0.8
+    ],
+    "density_beta_classification": "project_hypothesis_no_direct_lunar_0.8_measurement",
+    "vp_vs_field_correlation": 1,
+    "vp_vs_correlation_classification": "project_dimension_reduction",
+    "initial_seed_ids": [
+      20261029,
+      20261030,
+      20261031
+    ],
+    "seed_count_status": "screening_budget_only_expand_until_stable",
+    "R1_taper_width_m": 1000,
+    "taper_classification": "project_smoothing_choice",
+    "geographic_buffer_km": 50,
+    "buffer_status": "not_proven_propagation_boundary",
+    "terrain": [
+      "flat",
+      "LOLA_real_height"
+    ],
+    "terrain_source": "LOLA LDEM_64 V3.1 native 64 pix/degree"
+  },
+  "background_branches": {
+    "S12_reference": "10.1029/2022JE007558 section2.3",
+    "independent_models": [
+      "10.1007/s11214-019-0613-y",
+      "10.5281/zenodo.21476963",
+      "10.1016/j.pepi.2012.03.009"
+    ],
+    "new_v2_numerical_tables_downloaded": false,
+    "note": "Do not treat background ±1SD as short-scale sigma_v or a joint sample."
+  },
+  "duration": {
+    "debug_s": 600,
+    "conditional_target_s": 3600,
+    "requires": "observed late window + domain/grid/PML convergence",
+    "classification": "project_target_not_completed_simulation"
+  },
+  "scope_of_legacy_88_jobs": "two S12 reference paths only; not full regional program",
+  "decision_ledger": "results/model_choice_provenance.csv",
+  "report": "docs/12_LOLA地形底图与散射模型文献依据.md"
+}

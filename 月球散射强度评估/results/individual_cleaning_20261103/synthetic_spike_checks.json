@@ -1,0 +1,9 @@
+{
+  "injected_spikes": 123,
+  "correctly_recovered": 122,
+  "injected_changed": 122,
+  "false_changes_outside_injected": 0,
+  "uncorrupted_noise_false_changes": 0,
+  "oscillatory_wave_false_changes": 0,
+  "limitation": "Synthetic sanity checks only; not a measured real-data precision or recall."
+}

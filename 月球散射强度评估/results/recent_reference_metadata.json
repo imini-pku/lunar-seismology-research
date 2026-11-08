@@ -1,0 +1,410 @@
+[
+  {
+    "doi": "10.1029/2024GL114506",
+    "url": "https://api.crossref.org/works/10.1029/2024GL114506",
+    "title": [
+      "A New Lunar Crustal Thickness Model Constrained by Converted Seismic Waves Detected Beneath the Apollo Seismic Network"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4594-2336",
+        "authenticated-orcid": false,
+        "given": "D.",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Earth Science and Engineering Imperial College London  London UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3548-272X",
+        "authenticated-orcid": false,
+        "given": "V.",
+        "family": "Lekić",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Geology University of Maryland  College Park MD USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7007-4222",
+        "authenticated-orcid": false,
+        "given": "M. A.",
+        "family": "Wieczorek",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institut de physique du globe de Paris Université Paris Cité CNRS  Paris France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3256-1262",
+        "authenticated-orcid": false,
+        "given": "N. C.",
+        "family": "Schmerr",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Geology University of Maryland  College Park MD USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6087-6149",
+        "authenticated-orcid": false,
+        "given": "G. S.",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Earth Science and Engineering Imperial College London  London UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2041-3190",
+        "authenticated-orcid": false,
+        "given": "M. P.",
+        "family": "Panning",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Jet Propulsion Laboratory California Institute of Technology  Pasadena CA USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Geophysical Research Letters"
+    ],
+    "volume": "52",
+    "issue": "13",
+    "page": null,
+    "article_number": "e2024GL114506",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          3
+        ]
+      ]
+    },
+    "bib_sha256": "3d5cff2ea038aa5dd6ce8d0c1f92c8a0e888acfe1228e50badb325f8dcf26a42"
+  },
+  {
+    "doi": "10.1029/2026GL122962",
+    "url": "https://api.crossref.org/works/10.1029/2026GL122962",
+    "title": [
+      "Locating Moonquakes With Single‐Station Seismology"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4594-2336",
+        "authenticated-orcid": false,
+        "given": "Doyeon",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Earth Science and Engineering Imperial College London  London UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3496-4436",
+        "authenticated-orcid": false,
+        "given": "Jung‐Hun",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Earth Science and Engineering Imperial College London  London UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3256-1262",
+        "authenticated-orcid": false,
+        "given": "Nicholas C.",
+        "family": "Schmerr",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Geological, Environmental, and Planetary Sciences University of Maryland  College Park MD USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Geophysical Research Letters"
+    ],
+    "volume": "53",
+    "issue": "16",
+    "page": null,
+    "article_number": "e2026GL122962",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          24
+        ]
+      ]
+    },
+    "bib_sha256": "ae40d7791aca307517bbe799807ba52c6612b95f7926f19390d9b27ea0e7ffe8"
+  },
+  {
+    "doi": "10.1029/2024EA003742",
+    "url": "https://api.crossref.org/works/10.1029/2024EA003742",
+    "title": [
+      "Investigating Subsurface Properties of the Shallow Lunar Crust Using Seismic Interferometry on Synthetic and Recorded Data"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0503-2020",
+        "authenticated-orcid": false,
+        "given": "S.",
+        "family": "Keil",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Ludwig‐Maximilians‐Universität München  Munich Germany"
+          },
+          {
+            "name": "Geosciences Barcelona—CSIC  Barcelona Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "H.",
+        "family": "Igel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ludwig‐Maximilians‐Universität München  Munich Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2601-4462",
+        "authenticated-orcid": false,
+        "given": "M.",
+        "family": "Schimmel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Geosciences Barcelona—CSIC  Barcelona Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Lindner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ludwig‐Maximilians‐Universität München  Munich Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Bernauer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ludwig‐Maximilians‐Universität München  Munich Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Earth and Space Science"
+    ],
+    "volume": "11",
+    "issue": "10",
+    "page": null,
+    "article_number": "e2024EA003742",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          10
+        ]
+      ]
+    },
+    "bib_sha256": "40ff831d73f477d90872b9668af4ddb7fa6fd2a21a26bae25227f6b27579e704"
+  },
+  {
+    "doi": "10.1093/gji/ggae098",
+    "url": "https://api.crossref.org/works/10.1093/gji/ggae098",
+    "title": [
+      "Seismic scattering regimes from multiscale entropy and frequency correlations"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9213-0256",
+        "authenticated-orcid": false,
+        "given": "Will",
+        "family": "Eaton",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Geosciences, Princeton University , Princeton, NJ 08544 , USA"
+          },
+          {
+            "name": "Department of Earth Sciences, University of Oxford , Oxford, OX1 3AN , United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Claudia",
+        "family": "Haindl",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Earth Sciences, University of Oxford , Oxford, OX1 3AN , United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tarje",
+        "family": "Nissen-Meyer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Earth Sciences, University of Oxford , Oxford, OX1 3AN , United Kingdom"
+          },
+          {
+            "name": "Department of Mathematics and Statistics, University of Exeter , Exeter, EX4 4QE , United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Geophysical Journal International"
+    ],
+    "volume": "237",
+    "issue": "2",
+    "page": "1109-1128",
+    "article_number": null,
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          7
+        ]
+      ]
+    },
+    "bib_sha256": "de60845b5244e8f9c5ff230d10e532720732bc232d3a041eba416c63f097b172"
+  }
+]

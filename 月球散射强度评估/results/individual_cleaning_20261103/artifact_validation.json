@@ -1,0 +1,728 @@
+{
+  "record_count": 60,
+  "all_record_checks_passed": true,
+  "record_checks": [
+    {
+      "record": "A12LM_S12_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27735,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A12LM_S12_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27739,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A12LM_S12_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27780,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A13SIVB_S12_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 26862,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A13SIVB_S12_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 26816,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A13SIVB_S12_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 26839,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A14LM_S12_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 25918,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A14LM_S12_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 25964,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A14LM_S12_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 25982,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A14LM_S14_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27182,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A14LM_S14_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 26491,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A14LM_S14_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27512,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A14SIVB_S12_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 22527,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A14SIVB_S12_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 20575,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A14SIVB_S12_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 19631,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15LM_S12_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27825,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15LM_S12_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27825,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15LM_S12_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27825,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15LM_S14_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27431,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15LM_S14_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27750,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15LM_S14_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27822,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15LM_S15_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27481,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15LM_S15_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27401,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15LM_S15_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27720,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15SIVB_S12_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27469,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15SIVB_S12_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27463,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15SIVB_S12_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27450,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15SIVB_S14_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 24303,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15SIVB_S14_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 24555,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A15SIVB_S14_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27224,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A16SIVB_S12_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27148,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A16SIVB_S12_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 26539,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A16SIVB_S12_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27029,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A16SIVB_S14_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 26622,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A16SIVB_S14_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27224,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A16SIVB_S15_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27787,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A16SIVB_S15_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27752,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A16SIVB_S15_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27825,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S12_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27817,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S12_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27816,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S12_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27816,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S14_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 22203,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S14_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 24475,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S15_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27820,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S15_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27819,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S15_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27821,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S16_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27822,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S16_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27824,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17LM_S16_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27825,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S12_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27449,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S12_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27487,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S12_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27460,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S14_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 19027,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S14_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 17730,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S15_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27816,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S15_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27769,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S15_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27825,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S16_MH1",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27689,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S16_MH2",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27825,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    },
+    {
+      "record": "A17SIVB_S16_MHZ",
+      "raw_preserved": true,
+      "gap_preserved": true,
+      "time_preserved": true,
+      "selected_finite_samples": 27824,
+      "plotted_time_range_contains_all": true,
+      "excluded_stays_missing": true
+    }
+  ],
+  "png_manifest": [
+    {
+      "file": "figures\\individual_cleaning_20261103\\A12LM_原始与独立处理.png",
+      "width_px": 3450,
+      "height_px": 922,
+      "bytes": 402634,
+      "sha256": "6e78cb8a0982929f8850763e3a879f20a592ed2c7f14862f5c522ef372db258e"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\A13SIVB_原始与独立处理.png",
+      "width_px": 3450,
+      "height_px": 922,
+      "bytes": 422539,
+      "sha256": "1ac52044cbd7f4678de9f1ca182674129141dca877963e7875ae35a3d07062a1"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\A14LM_原始与独立处理.png",
+      "width_px": 3450,
+      "height_px": 1440,
+      "bytes": 631288,
+      "sha256": "86bea0c81555325819e36978ca9ea8710b85dd36e9504e1c08c932015b7e0d06"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\A14SIVB_原始与独立处理.png",
+      "width_px": 3450,
+      "height_px": 922,
+      "bytes": 443020,
+      "sha256": "cf56b9965bc727d51db33398d7b16153c5052fae9f426a79cddc9a66d668cd97"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\A15LM_原始与独立处理.png",
+      "width_px": 3450,
+      "height_px": 1957,
+      "bytes": 812895,
+      "sha256": "a33f238c0917d06dcb4c3060d917802b75f9eb74d35fde693f87717b8480e798"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\A15SIVB_原始与独立处理.png",
+      "width_px": 3450,
+      "height_px": 1440,
+      "bytes": 699281,
+      "sha256": "3f7a58afdb6380664429a8476e189b53d25d09196c97c3af5eda86b0be011d3f"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\A16SIVB_原始与独立处理.png",
+      "width_px": 3450,
+      "height_px": 1957,
+      "bytes": 940800,
+      "sha256": "0ae7550869171379900b200a082a936a891af772b74136720b40620a641cb7fa"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\A17LM_原始与独立处理.png",
+      "width_px": 3450,
+      "height_px": 2475,
+      "bytes": 937191,
+      "sha256": "781b9e7edf12f4e8914afc42d61b981ec5bae61c8630e4c75930534e5bc64a65"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\A17SIVB_原始与独立处理.png",
+      "width_px": 3450,
+      "height_px": 2475,
+      "bytes": 1200573,
+      "sha256": "f3fcd34012f36c5473122250a4e1bc978624b8b945d76410db37116fb39b3866"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\Apollo_全部原始与独立处理波形_总图.png",
+      "width_px": 3450,
+      "height_px": 11272,
+      "bytes": 5331839,
+      "sha256": "add33c60821f4d4948e65469c0849ae27963af1bd2e866041091aaef45e8c48f"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_01.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 627335,
+      "sha256": "e30e19e68c301b97f253b7d108e7d6ea8d3699729b40b191568a2387b45caac8"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_02.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 561832,
+      "sha256": "032d343eec530c5e4e536774aa434a850eda30299881f1b8d4c6e570f4de89f8"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_03.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 573386,
+      "sha256": "273dd9e1962747ad0d670e87072845accfe16b5af92b9ec0856693a51e3f2ac7"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_04.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 736206,
+      "sha256": "8666d04c9d4d00de1c363ad07ae14bf1f54e1dc0f77a2b880a10464ce79acad5"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_05.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 769286,
+      "sha256": "504dda5d1814b50bde60ea3261a955c98b7621cbf98ea5e6daabd7f6596b0518"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_06.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 678044,
+      "sha256": "5017f7f6ff4e317be92e5e2bd070e078c64574a7196fbf7c29ed78cc399c6d0f"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_07.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 835763,
+      "sha256": "732ab4abdf66e978bbdce0661dfb565ee7d6a2680622454d935e0616a425d849"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_08.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 759835,
+      "sha256": "4fd7730652a7b188595bfc7144793f585dbeced84896bb4cab1c9af86e8e5368"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_09.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 907816,
+      "sha256": "527b53a0738cbd87f57af964d7d7bb1b6e629f7f51242c4a08ed5e8b8772d676"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_10.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 751831,
+      "sha256": "459f4b6a17148f2f782ce9564b19c90375fe67c7e5da12252825d0b6c6276547"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_11.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 835073,
+      "sha256": "84c0cd3d2f573aa1e0bda669814d5e0514990053331e4598cfd679145fef7ac4"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\glitch_fit_review_12.png",
+      "width_px": 2210,
+      "height_px": 2340,
+      "bytes": 385646,
+      "sha256": "afcad85033212c270ab9c64952b1d71ee9dd663aea7864ed92217357cce7d4e3"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\单点尖峰修正_局部复核.png",
+      "width_px": 1500,
+      "height_px": 600,
+      "bytes": 80496,
+      "sha256": "2a8e181bb5f4e12bb757958e7794a1f4fc40d356e2d314e131f6139231975f92"
+    },
+    {
+      "file": "figures\\individual_cleaning_20261103\\已减除13处瞬变_局部复核.png",
+      "width_px": 2700,
+      "height_px": 3000,
+      "bytes": 824349,
+      "sha256": "797e38db0bced2df2b0e358ae7df3d09e0c4e5786f2a68dbe35b27836fef105a"
+    }
+  ],
+  "markdown_local_link_count": 28,
+  "markdown_links_all_exist": true,
+  "visual_inspection": "Full atlas top/middle/bottom and A15LM event sheet inspected; accepted 13 fit windows inspected before subtraction.",
+  "limitation": "File, provenance, and plotting checks do not certify artifact-free or inversion-ready observations.",
+  "pdf_validation": {
+    "pages": 1,
+    "width_points": 1656.0,
+    "height_points": 5410.7998046875,
+    "out_of_page_text_blocks": 0,
+    "missing_waveform_panels": 9,
+    "all_events_and_stations_present": true
+  }
+}

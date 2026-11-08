@@ -1,0 +1,10 @@
+{
+  "created_utc": "2026-10-16T04:19:31.920615Z",
+  "region_definition": "nearest Apollo 12/14/15/16 station within 15 degrees",
+  "waveform_source": "levent.1008weber.csv trace availability columns",
+  "frequency_bands": {
+    "LP": "0.1-3 Hz",
+    "SP": "1-10 Hz"
+  },
+  "caveat": "preliminary station-window audit; not a final geology-polygon or waveform-QC result"
+}

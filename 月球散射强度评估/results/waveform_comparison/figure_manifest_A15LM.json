@@ -1,0 +1,203 @@
+[
+  {
+    "name": "A15LM_S12_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "station": "S12",
+      "distance_published_km": "1128.9",
+      "distance_published_deg": "37.2",
+      "nunn2024_clear": "false",
+      "component_caveat": "Recorded but low SNR; omitted from Figure 1; component not stated here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 asterisk",
+      "evidence_level": "published_detection_low_snr"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S12_three_stages.png",
+        "bytes": 372206,
+        "sha256": "6c859f95ec5a390686bbebbb567282f4817e32d9dc27d159e7ba14af960bb6e5"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S12_three_stages.pdf",
+        "bytes": 1936519,
+        "sha256": "0dcc1e07811e40fa041a5bd778755f5d37231b05abf117fd14979f1fdf209083"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_S14_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "station": "S14",
+      "distance_published_km": "1047.8",
+      "distance_published_deg": "34.6",
+      "nunn2024_clear": "false",
+      "component_caveat": "Recorded but low SNR; omitted from Figure 1; component not stated here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 asterisk",
+      "evidence_level": "published_detection_low_snr"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S14_three_stages.png",
+        "bytes": 319549,
+        "sha256": "0d5550c98145e43fab95cacb98e62af625354e622962ac9c1a1315d77368caae"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S14_three_stages.pdf",
+        "bytes": 1876101,
+        "sha256": "b97f294b7edfb761c0cdbcc5c4fc24844b10956955bda47381b18f31064858dc"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_S15_three_stages",
+    "kind": "three_stage_pair_ATT_time",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "station": "S15",
+      "distance_published_km": "92.2",
+      "distance_published_deg": "3.0",
+      "nunn2024_clear": "true",
+      "component_caveat": "MHZ displayed; other components not audited here",
+      "source_url": "https://doi.org/10.3847/PSJ/ad83d2",
+      "source_locator": "Table 1 and Figure 1",
+      "evidence_level": "published_waveform"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S15_three_stages.png",
+        "bytes": 416668,
+        "sha256": "f279d6b158f1553a87e87fa949ac2a3274547a20a89814e7500782bf34298f8f"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S15_three_stages.pdf",
+        "bytes": 2025526,
+        "sha256": "2c4762097d422004f206ca0d82befcce518d442a231f36be0cbc1225b2274092"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_raw_archive_overview",
+    "kind": "raw_archive_overview",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "time_axis": "original MiniSEED nominal"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_raw_archive_overview.png",
+        "bytes": 363421,
+        "sha256": "f3d721b51e78172a2a3fff9d283603ddf23baddb4f9937493d0717a2941a5cfc"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_raw_archive_overview.pdf",
+        "bytes": 1307152,
+        "sha256": "2c625d19405173dd44d1f5d8517621eeaec7feb294440c2c896ce78a154770d5"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_processed_03_09_overview",
+    "kind": "processed_03_09_overview",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_processed_03_09_overview.png",
+        "bytes": 392532,
+        "sha256": "e2b1b7055b84ec99f083d2a1005f1e4c942c40e8ac11cde6fe355e262943f4fb"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_processed_03_09_overview.pdf",
+        "bytes": 2262981,
+        "sha256": "a2501e9703f5e16ac22de24ab406f114ae636926b2e8294875804fa8c9119728"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_literature_displacement_03_05_overview",
+    "kind": "literature_displacement_03_05_overview",
+    "size_inches": [
+      15.7,
+      10.0
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "time_axis": "ATT corrected"
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_literature_displacement_03_05_overview.png",
+        "bytes": 389047,
+        "sha256": "23fcd4a4b5e05f072556347872ed98f317eeb9fc2d91631af03532679ffb700a"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_literature_displacement_03_05_overview.pdf",
+        "bytes": 2258779,
+        "sha256": "5fe9df77b61e11d16e1277d2dfe314bba519954b45ddf31fc07329650f4102a3"
+      }
+    ]
+  },
+  {
+    "name": "A15LM_S15_MHZ_gap_zoom",
+    "kind": "gap_zoom_three_stage",
+    "size_inches": [
+      13.8,
+      9.5
+    ],
+    "dpi_png": 200,
+    "provenance": {
+      "event_id": "A15LM",
+      "station": "S15",
+      "channel": "MHZ",
+      "window_ATT_s": [
+        2920,
+        3140
+      ]
+    },
+    "outputs": [
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S15_MHZ_gap_zoom.png",
+        "bytes": 645498,
+        "sha256": "ea19d36962379ff84de364c8e1043f1b4859ca3a0ec9c753c4baa5cd6eb820d6"
+      },
+      {
+        "path": "figures\\waveform_comparison\\A15LM_S15_MHZ_gap_zoom.pdf",
+        "bytes": 104520,
+        "sha256": "7e4696fd8e52b15dce9c4b7d1b1576e751eeba25c952c958ce1ebb1f6e69980c"
+      }
+    ]
+  }
+]

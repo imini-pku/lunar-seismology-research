@@ -1,0 +1,5876 @@
+[
+  {
+    "doi": "10.1007/BF00565388",
+    "status": "metadata_verified_crossref",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            6
+          ]
+        ],
+        "date-time": "2026-10-06T14:45:33Z",
+        "timestamp": 1791297933069,
+        "version": "4.1.0"
+      },
+      "reference-count": 31,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1-2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1974,
+                1,
+                1
+              ]
+            ],
+            "date-time": "1974-01-01T00:00:00Z",
+            "timestamp": 126230400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "The Moon"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1974
+          ]
+        ]
+      },
+      "DOI": "10.1007/bf00565388",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2004,
+            11,
+            20
+          ]
+        ],
+        "date-time": "2004-11-20T13:56:39Z",
+        "timestamp": 1100958999000
+      },
+      "page": "11-29",
+      "source": "Crossref",
+      "is-referenced-by-count": 122,
+      "title": [
+        "Seismic scattering and shallow structure of the moon in oceanus procellarum"
+      ],
+      "prefix": "10.1007",
+      "volume": "9",
+      "author": [
+        {
+          "given": "Anton M.",
+          "family": "Dainty",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M. Nafi",
+          "family": "Toks�z",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kenneth R.",
+          "family": "Anderson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "P. Jacques",
+          "family": "Pines",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Nakamura",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "G.",
+          "family": "Latham",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "reference": [
+        {
+          "key": "CR1",
+          "unstructured": "Abramowitz, M. and Stegun, I. A.: 1965,Handbook of Mathematical Functions, Dover Publications, Inc."
+        },
+        {
+          "key": "CR2",
+          "doi-asserted-by": "crossref",
+          "first-page": "615",
+          "DOI": "10.1029/JB074i002p00615",
+          "volume": "74",
+          "author": "K. Aki",
+          "year": "1969",
+          "unstructured": "Aki, K.: 1969,J. Geophys. Res. 74, 615?631.",
+          "journal-title": "J. Geophys. Res."
+        },
+        {
+          "key": "CR3",
+          "first-page": "523",
+          "volume": "36",
+          "author": "H. Berckhemer",
+          "year": "1970",
+          "unstructured": "Berckhemer, H.: 1970,Z. Geophys. 36, 523?529.",
+          "journal-title": "Z. Geophys."
+        },
+        {
+          "key": "CR4",
+          "unstructured": "Carslaw, H. S. and Jaeger, J. C.: 1959,Conduction of Heat in Solids, 2nd ed., Oxford University Press."
+        },
+        {
+          "key": "CR5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chernov, L. A.: 1960,Wave Propagation in a Random Medium, McGraw-Hill, Inc.",
+          "DOI": "10.1063/1.3056748"
+        },
+        {
+          "key": "CR6",
+          "first-page": "1973",
+          "volume": "3",
+          "author": "N. C. Costes",
+          "year": "1971",
+          "unstructured": "Costes, N. C., Cohron, G. T., and Moss, D. C.: 1971,Proc. 2nd Lunar Sci. Conf. 3, 1973?1987.",
+          "journal-title": "Proc. 2nd Lunar Sci. Conf."
+        },
+        {
+          "key": "CR7",
+          "doi-asserted-by": "crossref",
+          "first-page": "1071",
+          "DOI": "10.1126/science.169.3950.1071",
+          "volume": "169",
+          "author": "T. Gold",
+          "year": "1970",
+          "unstructured": "Gold, T. and Soter, S.: 1970,Science 169, 1071?1075.",
+          "journal-title": "Science"
+        },
+        {
+          "key": "CR8",
+          "unstructured": "Grant, F. S. and West, G. F.: 1965,Interpretation Theory in Applied Geophysics, McGraw-Hill, Inc."
+        },
+        {
+          "key": "CR9",
+          "first-page": "2323",
+          "volume": "3",
+          "author": "H. Kanamori",
+          "year": "1971",
+          "unstructured": "Kanamori, H., Mizutani, H., and Hamano, Y.: 1971,Proc. 2nd Lunar Sci. Conf. 3, 2323?2326.",
+          "journal-title": "Proc. 2nd Lunar Sci. Conf."
+        },
+        {
+          "key": "CR10",
+          "unstructured": "Kovach, R. L. and Watkins, J. S.: 1972,Rev. Abs. 3rd Lunar Sci. Conf., 461-462."
+        },
+        {
+          "key": "CR11",
+          "doi-asserted-by": "crossref",
+          "first-page": "455",
+          "DOI": "10.1126/science.167.3918.455",
+          "volume": "167",
+          "author": "G. V. Latham",
+          "year": "1970",
+          "unstructured": "Latham, G. V., Ewing, M., Press, F., Sutton, G., Dorman, J., Nakamura, Y., Toksöz, N., Wiggins, R., Derr, J., and Duennebier, F.: 1970a,Science 167, 455?457.",
+          "journal-title": "Science"
+        },
+        {
+          "key": "CR12",
+          "first-page": "2309",
+          "volume": "3",
+          "author": "G. V. Latham",
+          "year": "1970",
+          "unstructured": "Latham, G. V., Ewing, M., Press, F., Sutton, G., Dorman, J., Nakamura, Y., Toks?z, N., Wiggins, R., Derr, J., and Duennebier, F.: 1970b,Proc. Apollo 11 Lunar Sci. Conf. 3, 2309?2320.",
+          "journal-title": "Proc. Apollo 11 Lunar Sci. Conf."
+        },
+        {
+          "key": "CR13",
+          "unstructured": "Latham, G. V., Ewing, M., Press, F., Sutton, G., Dorman, J., Nakamura, Y., Toks?z, N., Wiggins, R., and Kovach, R.: 1970c,Apollo 12 Preliminary Science Report, NASA SP-235, 39?53."
+        },
+        {
+          "key": "CR14",
+          "doi-asserted-by": "crossref",
+          "first-page": "620",
+          "DOI": "10.1126/science.170.3958.620",
+          "volume": "170",
+          "author": "G. Latham",
+          "year": "1970",
+          "unstructured": "Latham, G., Ewing, M., Dorman, J., Press, F., Toks?z, N., Sutton, G., Meissner, R., Duennebier, F., Nakamura, Y., Kovach, R., and Yates, M.: 1970d,Science 170, 620?626.",
+          "journal-title": "Science"
+        },
+        {
+          "key": "CR15",
+          "unstructured": "Latham, G. V., Ewing, M., Press, F., Sutton, G., Dorman, J., Nakamura, Y., Toksöz, N., Duennebier, F., and Lammlein, D.: 1971a,Apollo 14 Preliminary Science Report, NASA SP-272, 133?161."
+        },
+        {
+          "key": "CR16",
+          "doi-asserted-by": "crossref",
+          "first-page": "687",
+          "DOI": "10.1126/science.174.4010.687",
+          "volume": "174",
+          "author": "G. V. Latham",
+          "year": "1971",
+          "unstructured": "Latham, G. V., Ewing, M., Dorman, J., Lammlein, D., Press, F., Toksöz, N., Sutton, G., Duennebier, F., and Nakamura, Y.: 1971b,Science 174, 687?692.",
+          "journal-title": "Science"
+        },
+        {
+          "key": "CR17",
+          "unstructured": "Latham, G. V., Ewing, M., Press, F., Sutton, G., Dorman, J., Nakamura, Y., Toks?z, N., Lammlein, D., and Duennebier, F.: 1971c,Apollo 15 Preliminary Science Report, NASA SP-289, 8-1-8-25."
+        },
+        {
+          "key": "CR18",
+          "unstructured": "Latham, G., Ewing, M., Press, F., Sutton, G., Dorman, J., Nakamura, Y., Toksöz, N., Lammlein, D., and Duennebier, F.: 1973,Apollo 16 Preliminary Science Report, NASA Special Publication, in press."
+        },
+        {
+          "key": "CR19",
+          "unstructured": "Morse, P. M. and Feshbach, H.: 1953,Methods of Theoretical Physics, McGraw-Hill, Inc."
+        },
+        {
+          "key": "CR20",
+          "first-page": "776",
+          "volume": "51",
+          "author": "Y. Nakamura",
+          "year": "1970",
+          "unstructured": "Nakamura, Y., Latham, G. V., Ewing, M., and Dorman, J.: 1970,EOS 51, 776 (Abs.).",
+          "journal-title": "EOS"
+        },
+        {
+          "key": "CR21",
+          "unstructured": "Nakamura, Y., Lammlein, D., Latham, G., Ewing, M., and Dorman, J.: 1973,The Moon, this issue."
+        },
+        {
+          "key": "CR22",
+          "unstructured": "Sommerfeld, A.: 1964,Partial Differential Equations in Physics, Academic Press."
+        },
+        {
+          "key": "CR23",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.1103/PhysRevLett.24.381",
+          "volume": "24",
+          "author": "R. G. Steg",
+          "year": "1970",
+          "unstructured": "Steg, R. G. and Klemens, P. G.: 1970,Phys. Rev. Letters 24, 381?383.",
+          "journal-title": "Phys. Rev. Letters"
+        },
+        {
+          "key": "CR24",
+          "first-page": "643",
+          "volume": "36",
+          "author": "K. Strobach",
+          "year": "1970",
+          "unstructured": "Strobach, K.: 1970,Z. Geophys. 36, 643?645.",
+          "journal-title": "Z. Geophys."
+        },
+        {
+          "key": "CR25",
+          "doi-asserted-by": "crossref",
+          "first-page": "490",
+          "DOI": "10.1007/BF00562013",
+          "volume": "4",
+          "author": "M. N. Toksöz",
+          "year": "1972",
+          "unstructured": "Toksöz, M. N., Press, F., Anderson, K., Dainty, A., Latham, G., Ewing, M., Dorman, J., Lammlein, D., Nakamura, Y., Sutton, G., and Duennebier, F.: 1972a,The Moon 4, 490?504.",
+          "journal-title": "The Moon"
+        },
+        {
+          "key": "CR26",
+          "doi-asserted-by": "crossref",
+          "first-page": "1012",
+          "DOI": "10.1126/science.176.4038.1012",
+          "volume": "176",
+          "author": "M. N. Toksöz",
+          "year": "1972",
+          "unstructured": "Toksöz, M. N., Press, F., Anderson, K., Dainty, A., Latham, G., Ewing, M., Dorman, J., Lammlein, D., Sutton, G., Duennebier, F., and Nakamura, Y.: 1972b,Science 176, 1012?1016.",
+          "journal-title": "Science"
+        },
+        {
+          "key": "CR27",
+          "first-page": "2527",
+          "volume": "3",
+          "author": "M. N. Toksöz",
+          "year": "1972",
+          "unstructured": "Toksöz, M. N., Press, F., Dainty, A., Anderson, K., Latham, G., Ewing, M., Dorman, J., Lammlein, D., Sutton, G., and Duennebier, F.: 1972c,Proc. 3rd Lunar Sci. Conf. 3, 2527?2544.",
+          "journal-title": "Proc. 3rd Lunar Sci. Conf."
+        },
+        {
+          "key": "CR28",
+          "first-page": "2327",
+          "volume": "3",
+          "author": "H. Wang",
+          "year": "1971",
+          "unstructured": "Wang, H., Todd, T., Weidner, D., and Simmons, G.: 1971,Proc. 2nd Lunar Sci. Conf. 3, 2327?2336.",
+          "journal-title": "Proc. 2nd Lunar Sci. Conf."
+        },
+        {
+          "key": "CR29",
+          "doi-asserted-by": "crossref",
+          "first-page": "430",
+          "DOI": "10.1007/BF00562009",
+          "volume": "4",
+          "author": "N. Warren",
+          "year": "1972",
+          "unstructured": "Warren, N.: 1972,The Moon 4, 430?441.",
+          "journal-title": "The Moon"
+        },
+        {
+          "key": "CR30",
+          "first-page": "2345",
+          "volume": "3",
+          "author": "N. Warren",
+          "year": "1971",
+          "unstructured": "Warren, N., Schreiber, E., Scholz, C., Morrison, J. A., Norton, P. R., Kumazawa, M., and Anderson, O. L.: 1971,Proc. 2nd Lunar Sci. Conf. 3, 2345?2360.",
+          "journal-title": "Proc. 2nd Lunar Sci. Conf."
+        },
+        {
+          "key": "CR31",
+          "doi-asserted-by": "crossref",
+          "first-page": "5099",
+          "DOI": "10.1029/JZ070i020p05099",
+          "volume": "70",
+          "author": "J. P. Wesley",
+          "year": "1965",
+          "unstructured": "Wesley, J. P.: 1965,J. Geophys. Res. 70, 5099?5106.",
+          "journal-title": "J. Geophys. Res."
+        }
+      ],
+      "container-title": [
+        "The Moon"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/BF00565388.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/BF00565388/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/BF00565388",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            4
+          ]
+        ],
+        "date-time": "2020-04-04T06:22:52Z",
+        "timestamp": 1585981372000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/BF00565388"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1974
+          ]
+        ]
+      },
+      "references-count": 31,
+      "journal-issue": {
+        "issue": "1-2",
+        "published-print": {
+          "date-parts": [
+            [
+              1974
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "BF00565388"
+      ],
+      "URL": "https://doi.org/10.1007/bf00565388",
+      "relation": {},
+      "ISSN": [
+        "0027-0903",
+        "1573-0794"
+      ],
+      "issn-type": [
+        {
+          "value": "0027-0903",
+          "type": "print"
+        },
+        {
+          "value": "1573-0794",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1974
+          ]
+        ]
+      }
+    },
+    "bibtex": " @article{Dainty_1974, title={Seismic scattering and shallow structure of the moon in oceanus procellarum}, volume={9}, ISSN={1573-0794}, url={http://dx.doi.org/10.1007/BF00565388}, DOI={10.1007/bf00565388}, number={1-2}, journal={The Moon}, publisher={Springer Science and Business Media LLC}, author={Dainty, Anton M. and Toks�z, M. Nafi and Anderson, Kenneth R. and Pines, P. Jacques and Nakamura, Y. and Latham, G.}, year={1974}, pages={11–29} }\n"
+  },
+  {
+    "doi": "10.1785/BSSA0660020593",
+    "status": "metadata_verified_publisher",
+    "metadata": {
+      "author": "Nakamura, Yosio",
+      "title": "Seismic energy transmission in the lunar surface zone determined from signals generated by movement of Lunar Rovers",
+      "journal": "Bulletin of the Seismological Society of America",
+      "year": "1976",
+      "volume": "66",
+      "number": "2",
+      "pages": "593--606",
+      "doi": "10.1785/BSSA0660020593",
+      "url": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/66/2/593/117549/Seismic-energy-transmission-in-the-lunar-surface?redirectedFrom=fulltext"
+    },
+    "source": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/66/2/593/117549/Seismic-energy-transmission-in-the-lunar-surface?redirectedFrom=fulltext",
+    "retrieved": "2026-10-29",
+    "note": "Publisher search-index text verified; Crossref work endpoint returned 404. BibTeX serialized from verified publisher fields.",
+    "bibtex": "@article{Nakamura_1976,\n  author = {Nakamura, Yosio},\n  title = {Seismic energy transmission in the lunar surface zone determined from signals generated by movement of Lunar Rovers},\n  journal = {Bulletin of the Seismological Society of America},\n  year = {1976},\n  volume = {66},\n  number = {2},\n  pages = {593--606},\n  doi = {10.1785/BSSA0660020593},\n  url = {https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/66/2/593/117549/Seismic-energy-transmission-in-the-lunar-surface?redirectedFrom=fulltext}\n}\n"
+  },
+  {
+    "doi": "10.1029/2011JE004042",
+    "status": "metadata_verified_crossref",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            27
+          ]
+        ],
+        "date-time": "2026-09-27T10:48:56Z",
+        "timestamp": 1790506136568,
+        "version": "4.1.0"
+      },
+      "reference-count": 43,
+      "publisher": "American Geophysical Union (AGU)",
+      "issue": "E6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                6,
+                20
+              ]
+            ],
+            "date-time": "2012-06-20T00:00:00Z",
+            "timestamp": 1340150400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 19,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "J. Geophys. Res."
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2012,
+            6
+          ]
+        ]
+      },
+      "abstract": "<jats:p>We investigate the intrinsic attenuation and scattering properties of the Moon by parameterizing the coda decay of 369 higher‐quality lunar seismograms from 72 events via their characteristic rise and decay times. We investigate any dependence of the decay times on source type, frequency, and epicentral distance. Intrinsic attenuation, scattering, and possible focusing of energy in a near‐surface, low‐velocity layer all contribute to the coda decay. Although it is not possible to quantify the exact contribution of each of these effects in the seismograms, results suggest that scattering in a near‐surface global layer dominates the records of shallow events (∼0–200 km depth), particularly at frequencies above 2 Hz, and for increasing epicentral distance. We propose that the scattering layer is the megaregolith and that energy from shallow sources encounters more scatterers as it travels longer distances in the layer, increasing the coda decay times. A size distribution of ejecta blocks that has more small‐scale than large‐scale scatterers intensifies this effect for increasing frequencies. Deep moonquakes (700–1100 km depth) exhibit no dependence of the decay time on epicentral distance. We suggest that because of their large depths and small amplitudes, deep moonquakes from any distance sample a similar region near a given receiver. Near‐station structure and geology may also control the decay times of local events, as evidenced by two natural impact records. This study provides constraints and testable hypotheses for waveform modeling of the lunar interior that includes the effects of intense scattering and shallow, low‐velocity layers.</jats:p>",
+      "DOI": "10.1029/2011je004042",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2012,
+            5,
+            11
+          ]
+        ],
+        "date-time": "2012-05-11T08:07:16Z",
+        "timestamp": 1336723636000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 48,
+      "title": [
+        "Investigation of scattering in lunar seismic coda"
+      ],
+      "prefix": "10.1029",
+      "volume": "117",
+      "author": [
+        {
+          "given": "J.‐F.",
+          "family": "Blanchette‐Guertin",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C. L.",
+          "family": "Johnson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J. F.",
+          "family": "Lawrence",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "13",
+      "published-online": {
+        "date-parts": [
+          [
+            2012,
+            6,
+            20
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_8_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB074i002p00615"
+        },
+        {
+          "key": "e_1_2_8_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB080i023p03322"
+        },
+        {
+          "key": "e_1_2_8_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2005JE002414"
+        },
+        {
+          "key": "e_1_2_8_5_1",
+          "first-page": "11",
+          "article-title": "Seismic scattering and shallow structure of the Moon in Oceanus Procellarum",
+          "volume": "9",
+          "author": "Dainty A. M.",
+          "year": "1974",
+          "journal-title": "Earth, Moon, Planets"
+        },
+        {
+          "key": "e_1_2_8_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/0120000285"
+        },
+        {
+          "key": "e_1_2_8_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2006.05.009"
+        },
+        {
+          "key": "e_1_2_8_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2011.06.015"
+        },
+        {
+          "key": "e_1_2_8_9_1",
+          "unstructured": "Goldstein P. andA.Snoke(2005) SAC availability for the IRIS community report contract W‐7405‐Eng‐48 Lawrence Livermore Natl. Lab. U.S. Dep. of Energy Livermore Calif."
+        },
+        {
+          "key": "e_1_2_8_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0074-6142(03)80284-X"
+        },
+        {
+          "key": "e_1_2_8_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0019-1035(73)90066-3"
+        },
+        {
+          "key": "e_1_2_8_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB085iB11p06572"
+        },
+        {
+          "key": "e_1_2_8_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB088iB03p02485"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_8_14_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "741",
+          "DOI": "10.1785/BSSA0780020741",
+          "article-title": "Spatial and temporal correlation between coda Q and seismicity in China",
+          "volume": "78",
+          "author": "Jin A.",
+          "year": "1988",
+          "journal-title": "Bull. Seismol. Soc. Am."
+        },
+        {
+          "key": "e_1_2_8_15_1",
+          "series-title": "NASA SP‐272",
+          "first-page": "163",
+          "volume-title": "Apollo 14 Preliminary Science Report",
+          "author": "Kovach R. L.",
+          "year": "1971"
+        },
+        {
+          "key": "e_1_2_8_16_1",
+          "series-title": "NASA SP‐235",
+          "first-page": "39",
+          "volume-title": "Apollo 12 Preliminary Science Report",
+          "author": "Latham G. V.",
+          "year": "1970"
+        },
+        {
+          "key": "e_1_2_8_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.167.3918.455"
+        },
+        {
+          "key": "e_1_2_8_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.174.4010.687"
+        },
+        {
+          "key": "e_1_2_8_19_1",
+          "first-page": "2515",
+          "article-title": "Moonquakes, meteroids, and the state of the lunar interior",
+          "volume": "4",
+          "author": "Latham G.",
+          "year": "1973",
+          "journal-title": "Proc. Lunar. Sci. Conf."
+        },
+        {
+          "key": "e_1_2_8_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0012-821X(03)00172-9"
+        },
+        {
+          "key": "e_1_2_8_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.1998.tb07142.x"
+        },
+        {
+          "key": "e_1_2_8_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1046/j.1365-246X.1999.00897.x"
+        },
+        {
+          "key": "e_1_2_8_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0012-821X(73)90162-3"
+        },
+        {
+          "key": "e_1_2_8_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/95RG02074"
+        },
+        {
+          "key": "e_1_2_8_25_1",
+          "first-page": "389",
+          "article-title": "Seismic energy transmission in an intensively scattering environment",
+          "volume": "43",
+          "author": "Nakamura Y.",
+          "year": "1977",
+          "journal-title": "J. Geophys."
+        },
+        {
+          "key": "e_1_2_8_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB088iB01p00677"
+        },
+        {
+          "key": "e_1_2_8_27_1",
+          "unstructured": "Nakamura Y.(1992) Catalog of lunar seismic data from Apollo Passive Seismic Experiment on 8‐mm video cassette (exabyte) tapes Univ. Tex. Inst. Geophys. Tech. Rep. 118 Inst. for Geophys. Univ. of Tex. at Austin Austin."
+        },
+        {
+          "key": "e_1_2_8_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2004JE002332"
+        },
+        {
+          "key": "e_1_2_8_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB087iB06p04855"
+        },
+        {
+          "key": "e_1_2_8_30_1",
+          "first-page": "57",
+          "article-title": "Shallow lunar structure determined from the Passive Seismic Experiment",
+          "volume": "13",
+          "author": "Nakamura Y.",
+          "year": "1975",
+          "journal-title": "Earth, Moon, Planets"
+        },
+        {
+          "key": "e_1_2_8_31_1",
+          "first-page": "3113",
+          "article-title": "Seismic structure of the Moon: A summary of current status",
+          "volume": "7",
+          "author": "Nakamura Y.",
+          "year": "1976",
+          "journal-title": "Proc. Lunar Sci. Conf."
+        },
+        {
+          "key": "e_1_2_8_32_1",
+          "first-page": "2299",
+          "article-title": "Shallow moonquakes: Depth, distribution and implications as to the present state of the lunar interior",
+          "volume": "10",
+          "author": "Nakamura Y.",
+          "year": "1979",
+          "journal-title": "Proc. Lunar Planet. Sci. Conf."
+        },
+        {
+          "key": "e_1_2_8_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2003JE002182"
+        },
+        {
+          "key": "e_1_2_8_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1945-5100.2008.tb01025.x"
+        },
+        {
+          "key": "e_1_2_8_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0012-821X(74)90114-9"
+        },
+        {
+          "key": "e_1_2_8_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1006/icar.1998.5915"
+        },
+        {
+          "key": "e_1_2_8_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-1-4612-2202-6"
+        },
+        {
+          "key": "e_1_2_8_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/B978-044452748-6/00021-3"
+        },
+        {
+          "key": "e_1_2_8_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1006/icar.2000.6545"
+        },
+        {
+          "key": "e_1_2_8_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1130/G25565A.1"
+        },
+        {
+          "key": "e_1_2_8_41_1",
+          "first-page": "1",
+          "article-title": "Spectral analysis of the coda waves from local earthquakes",
+          "volume": "53",
+          "author": "Tsujiura M.",
+          "year": "1978",
+          "journal-title": "Bull. Earthquake Res. Inst. Univ. Tokyo"
+        },
+        {
+          "key": "e_1_2_8_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2001GL012859"
+        },
+        {
+          "key": "e_1_2_8_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1199375"
+        },
+        {
+          "key": "e_1_2_8_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0065‐2687(08)00010‐1"
+        }
+      ],
+      "container-title": [
+        "Journal of Geophysical Research: Planets"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2011JE004042",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2011JE004042",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2023-10-30T07:56:17Z",
+        "timestamp": 1698652577000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011JE004042"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            6
+          ]
+        ]
+      },
+      "references-count": 43,
+      "journal-issue": {
+        "issue": "E6",
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1029/2011JE004042"
+      ],
+      "URL": "https://doi.org/10.1029/2011je004042",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "0148-0227"
+      ],
+      "issn-type": [
+        {
+          "value": "0148-0227",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            6
+          ]
+        ]
+      },
+      "article-number": "2011JE004042"
+    },
+    "bibtex": " @article{Blanchette_Guertin_2012, title={Investigation of scattering in lunar seismic coda}, volume={117}, ISSN={0148-0227}, url={http://dx.doi.org/10.1029/2011JE004042}, DOI={10.1029/2011je004042}, number={E6}, journal={Journal of Geophysical Research: Planets}, publisher={American Geophysical Union (AGU)}, author={Blanchette‐Guertin, J.‐F. and Johnson, C. L. and Lawrence, J. F.}, year={2012}, month=June }\n"
+  },
+  {
+    "doi": "10.1002/2014JE004654",
+    "status": "metadata_verified_crossref",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ],
+        "date-time": "2026-09-25T12:03:33Z",
+        "timestamp": 1790337813021,
+        "version": "4.1.0"
+      },
+      "reference-count": 34,
+      "publisher": "American Geophysical Union (AGU)",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                3,
+                24
+              ]
+            ],
+            "date-time": "2015-03-24T00:00:00Z",
+            "timestamp": 1427155200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 23,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100000038",
+          "name": "Natural Sciences and Engineering Research Council of Canada",
+          "doi-asserted-by": "crossref",
+          "id": [
+            {
+              "id": "10.13039/501100000038",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000104",
+          "name": "NASA",
+          "doi-asserted-by": "crossref",
+          "award": [
+            "NNX11AB55G"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "NNX11AB55G"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000104",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "JGR Planets"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            3
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Meteoroid impacts over millions to billions of years can produce a highly fractured and heterogeneous megaregolith layer on planetary bodies such as the Moon that lack effective surface recycling mechanisms. The energy from seismic events on these bodies undergoes scattering in the fractured layer(s) and generates extensive coda wave trains that follow major seismic wave arrivals. The decay properties of these codas are affected by the planetary body's interior structure. To understand the propagation of seismic waves in such media, we model the transmission of seismic energy in highly scattering environments using an adapted phonon method. In this Monte Carlo simulation approach, we track a large number of seismic wavelets as they leave a source and we record the resulting ground deformation each time a wavelet reaches a surface receiver. Our method provides the first numerical global modeling of 3‐D scattering, with user‐defined power law distributions of scatterer length scales and frequency‐dependent intrinsic attenuation, under the assumption of 1‐D background velocity models. We model synthetic signals for simple, but highly scattering interior models and vary the model parameters independently to assess their individual effects on the coda. Results show that the magnitude of the decay times is most affected by the background velocity model, in particular the presence of shallow low‐velocity layers, the event source depth, and the intrinsic attenuation level. The decay times are also controlled to a lesser extent by the size‐frequency distribution of scatterers, the thickness of the scattering layer, and the impedance contrast at the scatterers.</jats:p>",
+      "DOI": "10.1002/2014je004654",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            2,
+            13
+          ]
+        ],
+        "date-time": "2015-02-13T04:53:00Z",
+        "timestamp": 1423803180000
+      },
+      "page": "515-537",
+      "source": "Crossref",
+      "is-referenced-by-count": 14,
+      "title": [
+        "Modeling seismic energy propagation in highly scattering environments"
+      ],
+      "prefix": "10.1029",
+      "volume": "120",
+      "author": [
+        {
+          "given": "J.‐F.",
+          "family": "Blanchette‐Guertin",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Equipe Planétologie et Sciences Spatiales Université Paris Diderot, Sorbonne Paris Cité Institut de Physique du Globe de Paris, UMR 7154, CNRS  Paris France"
+            },
+            {
+              "name": "Department of Earth, Ocean and Atmospheric Sciences University of British Columbia  Vancouver British Columbia Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C. L.",
+          "family": "Johnson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Earth, Ocean and Atmospheric Sciences University of British Columbia  Vancouver British Columbia Canada"
+            },
+            {
+              "name": "Planetary Science Institute  Tucson Arizona USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J. F.",
+          "family": "Lawrence",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Geophysics Stanford University  Stanford California USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "13",
+      "published-online": {
+        "date-parts": [
+          [
+            2015,
+            3,
+            24
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_8_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB074i002p00615"
+        },
+        {
+          "key": "e_1_2_8_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB080i023p03322"
+        },
+        {
+          "key": "e_1_2_8_4_1",
+          "volume-title": "Quantitative Seismology",
+          "author": "Aki K.",
+          "year": "2009"
+        },
+        {
+          "key": "e_1_2_8_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-1-4612-5856-8"
+        },
+        {
+          "key": "e_1_2_8_6_1",
+          "first-page": "31",
+          "article-title": "Exact solutions of the equation for the free torsional oscillations of an inhomogeneous sphere",
+          "volume": "62",
+          "author": "Bhattacharya S.",
+          "year": "1972",
+          "journal-title": "Bull. Seismol. Soc. Am."
+        },
+        {
+          "key": "e_1_2_8_7_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1979",
+          "DOI": "10.1785/BSSA0860061979",
+          "article-title": "Earth flattening transformation for P‐SV waves",
+          "volume": "86",
+          "author": "Bhattacharya S.",
+          "year": "1996",
+          "journal-title": "Bull. Seismol. Soc. Am."
+        },
+        {
+          "key": "e_1_2_8_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2005GL024152"
+        },
+        {
+          "key": "e_1_2_8_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2011JE004042"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_8_10_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "361",
+          "DOI": "10.1785/BSSA0740020361",
+          "article-title": "The partition of radiated energy between P and S waves",
+          "volume": "74",
+          "author": "Boatwright J.",
+          "year": "1984",
+          "journal-title": "Bull. Seismol. Soc. Am."
+        },
+        {
+          "key": "e_1_2_8_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.2005.02682.x"
+        },
+        {
+          "key": "e_1_2_8_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4294/jpe1952.16.Special_27"
+        },
+        {
+          "key": "e_1_2_8_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.1971.tb01834.x"
+        },
+        {
+          "key": "e_1_2_8_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2011.06.015"
+        },
+        {
+          "key": "e_1_2_8_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0031-9201(87)90130-0"
+        },
+        {
+          "key": "e_1_2_8_16_1",
+          "first-page": "62",
+          "volume-title": "The Lunar Sourcebook",
+          "author": "Hörz F.",
+          "year": "1991"
+        },
+        {
+          "key": "e_1_2_8_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/94GL02718"
+        },
+        {
+          "key": "e_1_2_8_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB094iB10p00665"
+        },
+        {
+          "key": "e_1_2_8_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/gssrl.75.6.726"
+        },
+        {
+          "key": "e_1_2_8_20_1",
+          "first-page": "39",
+          "volume-title": "Apollo 12 Preliminary Science Rep. NASA SP‐235",
+          "author": "Latham G. V.",
+          "year": "1970"
+        },
+        {
+          "key": "e_1_2_8_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.167.3918.455"
+        },
+        {
+          "key": "e_1_2_8_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.1998.tb07142.x"
+        },
+        {
+          "key": "e_1_2_8_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/1999JB900359"
+        },
+        {
+          "key": "e_1_2_8_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/91JB03094"
+        },
+        {
+          "key": "e_1_2_8_25_1",
+          "first-page": "389",
+          "article-title": "Seismic energy transmission in an intensively scattering environment",
+          "volume": "43",
+          "author": "Nakamura Y.",
+          "year": "1977",
+          "journal-title": "J. Geophys."
+        },
+        {
+          "key": "e_1_2_8_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB081i026p04818"
+        },
+        {
+          "key": "e_1_2_8_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0734-743X(87)90064-9"
+        },
+        {
+          "key": "e_1_2_8_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.2009.04204.x"
+        },
+        {
+          "key": "e_1_2_8_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4294/jpe1952.25.163"
+        },
+        {
+          "key": "e_1_2_8_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-642-23029-5"
+        },
+        {
+          "key": "e_1_2_8_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.2004.02378.x"
+        },
+        {
+          "key": "e_1_2_8_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1199375"
+        },
+        {
+          "key": "e_1_2_8_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1231530"
+        },
+        {
+          "key": "e_1_2_8_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/1999JB900437"
+        },
+        {
+          "key": "e_1_2_8_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0065-2687(08)00010-1"
+        }
+      ],
+      "container-title": [
+        "Journal of Geophysical Research: Planets"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2014JE004654",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2014JE004654",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2014JE004654",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            16
+          ]
+        ],
+        "date-time": "2023-09-16T10:44:07Z",
+        "timestamp": 1694861047000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014JE004654"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            3
+          ]
+        ]
+      },
+      "references-count": 34,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1002/2014JE004654"
+      ],
+      "URL": "https://doi.org/10.1002/2014je004654",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "2169-9097",
+        "2169-9100"
+      ],
+      "issn-type": [
+        {
+          "value": "2169-9097",
+          "type": "print"
+        },
+        {
+          "value": "2169-9100",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            3
+          ]
+        ]
+      }
+    },
+    "bibtex": " @article{Blanchette_Guertin_2015, title={Modeling seismic energy propagation in highly scattering environments}, volume={120}, ISSN={2169-9100}, url={http://dx.doi.org/10.1002/2014JE004654}, DOI={10.1002/2014je004654}, number={3}, journal={Journal of Geophysical Research: Planets}, publisher={American Geophysical Union (AGU)}, author={Blanchette‐Guertin, J.‐F. and Johnson, C. L. and Lawrence, J. F.}, year={2015}, month=Mar, pages={515–537} }\n"
+  },
+  {
+    "doi": "10.1016/j.pepi.2016.11.001",
+    "status": "metadata_verified_crossref",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            29
+          ]
+        ],
+        "date-time": "2026-09-29T16:09:39Z",
+        "timestamp": 1790698179400,
+        "version": "4.1.0"
+      },
+      "reference-count": 55,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2017-01-01T00:00:00Z",
+            "timestamp": 1483228800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Physics of the Earth and Planetary Interiors"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.pepi.2016.11.001",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            11,
+            11
+          ]
+        ],
+        "date-time": "2016-11-11T21:03:00Z",
+        "timestamp": 1478898180000
+      },
+      "page": "28-40",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 69,
+      "special_numbering": "C",
+      "title": [
+        "Scattering attenuation profile of the Moon: Implications for shallow moonquakes and the structure of the megaregolith"
+      ],
+      "prefix": "10.1016",
+      "volume": "262",
+      "author": [
+        {
+          "given": "K.",
+          "family": "Gillet",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "L.",
+          "family": "Margerin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Calvet",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Monnereau",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0005",
+          "doi-asserted-by": "crossref",
+          "first-page": "3322",
+          "DOI": "10.1029/JB080i023p03322",
+          "article-title": "Origin of coda waves: source, attenuation, and scattering effects",
+          "volume": "80",
+          "author": "Aki",
+          "year": "1975",
+          "journal-title": "J. Geophys. Res."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "248501",
+          "DOI": "10.1103/PhysRevLett.102.248501",
+          "article-title": "Phase statistics of seismic coda waves",
+          "volume": "102",
+          "author": "Anache-Ménier",
+          "year": "2009",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "1889",
+          "DOI": "10.1016/j.asr.2005.06.034",
+          "article-title": "Lunar seismic search for strange quark matter",
+          "volume": "37",
+          "author": "Banerdt",
+          "year": "2006",
+          "journal-title": "Adv. Space Res."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "E06003",
+          "DOI": "10.1029/2011JE004042",
+          "article-title": "Investigation of scattering in lunar seismic coda",
+          "volume": "117",
+          "author": "Blanchette-Guertin",
+          "year": "2012",
+          "journal-title": "J. Geophys. Res. Planets"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "515",
+          "DOI": "10.1002/2014JE004654",
+          "article-title": "Modeling seismic energy propagation in highly scattering environments",
+          "volume": "120",
+          "author": "Blanchette-Guertin",
+          "year": "2015",
+          "journal-title": "J. Geophys. Res. Planets"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "10171",
+          "DOI": "10.1002/2015GL066151",
+          "article-title": "Effects of lateral variations in megaregolith thickness on predicted lunar seismic signals",
+          "volume": "42",
+          "author": "Blanchette-Guertin",
+          "year": "2015",
+          "journal-title": "Geophys. Res. Lett."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "E10003",
+          "DOI": "10.1029/2005JE002414",
+          "article-title": "New events discovered in the Apollo lunar seismic data",
+          "volume": "110",
+          "author": "Bulow",
+          "year": "2005",
+          "journal-title": "J. Geophys. Res."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "1993",
+          "DOI": "10.1785/0120120239",
+          "article-title": "Lapse-time dependence of coda q: anisotropic multiple-scattering models and application to the pyrenees",
+          "volume": "103",
+          "author": "Calvet",
+          "year": "2013",
+          "journal-title": "Bull. Seismol. Soc. Am."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0045",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.epsl.2005.12.017",
+          "article-title": "Lateral variations of lunar crustal thickness from the apollo seismic data set",
+          "volume": "243",
+          "author": "Chenet",
+          "year": "2006",
+          "journal-title": "Earth Planet. Sci. Lett."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "250",
+          "DOI": "10.1016/0031-9201(81)90029-7",
+          "article-title": "Seismic codas on the earth and the moon: a comparison",
+          "volume": "26",
+          "author": "Dainty",
+          "year": "1981",
+          "journal-title": "Phys. Earth Planet. Inter."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1007/BF00565388",
+          "article-title": "Seismic scattering and shallow structure of the Moon in Oceanus Procellarum",
+          "volume": "9",
+          "author": "Dainty",
+          "year": "1974",
+          "journal-title": "Moon"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0060",
+          "unstructured": "Dyal, P., Daily, W.D., 1979. Electrical conductivity anomalies associated with circular lunar maria. In: Lunar and Planetary Science Conference Proceedings. pp. 2291–2297."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1016/j.icarus.2006.07.002",
+          "article-title": "Possible extra-solar-system cause for certain lunar seismic events",
+          "volume": "185",
+          "author": "Frohlich",
+          "year": "2006",
+          "journal-title": "Icarus"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1016/j.pepi.2011.06.015",
+          "article-title": "Very preliminary reference Moon model",
+          "volume": "188",
+          "author": "Garcia",
+          "year": "2011",
+          "journal-title": "Phys. Earth Planet. Inter."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "378",
+          "DOI": "10.1029/JB086iB01p00378",
+          "article-title": "Seismic energy release of the Moon",
+          "volume": "86",
+          "author": "Goins",
+          "year": "1981",
+          "journal-title": "J. Geophys. Res. Solid Earth (1978–2012)"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0080",
+          "series-title": "Introduction to probability",
+          "author": "Grinstead",
+          "year": "2012"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0085",
+          "unstructured": "Hinners, N., 1972. Apollo 16 site selection. NASA SP-315."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0090",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1016/j.pss.2012.08.019",
+          "article-title": "Geology, geochemistry, and geophysics of the Moon: status of current understanding",
+          "volume": "74",
+          "author": "Jaumann",
+          "year": "2012",
+          "journal-title": "Planet. Space Sci."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "2197",
+          "DOI": "10.1002/2014JE004661",
+          "article-title": "Geophysical evidence for melt in the deep lunar interior and implications for lunar evolution",
+          "volume": "119",
+          "author": "Khan",
+          "year": "2014",
+          "journal-title": "J. Geophys. Res. Planets"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "224",
+          "DOI": "10.1016/0031-9201(77)90175-3",
+          "article-title": "Lunar seismicity and tectonics",
+          "volume": "14",
+          "author": "Lammlein",
+          "year": "1977",
+          "journal-title": "Phys. Earth Planet. Inter."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "373",
+          "DOI": "10.1007/BF00562004",
+          "article-title": "Moonquakes and lunar tectonism",
+          "volume": "4",
+          "author": "Latham",
+          "year": "1972",
+          "journal-title": "Moon"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0110",
+          "unstructured": "Latham, G., Ewing, M., Press, F., Sutton, G., Dorman, J., Nakamura, Y., Toksöz, N., Lammlein, D., Duennebier, F., 1972b. Apollo 16 Preliminary Science Report. NASA SP-315 9."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0115",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.1038/257381a0",
+          "article-title": "Electrical conductivity anomalies and continental seismicity in australia",
+          "volume": "257",
+          "author": "Lilley",
+          "year": "1975",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0120",
+          "doi-asserted-by": "crossref",
+          "first-page": "27",
+          "DOI": "10.1016/S0012-821X(03)00172-9",
+          "article-title": "A new seismic model of the Moon: implications for structure, thermal evolution and formation of the Moon",
+          "volume": "211",
+          "author": "Lognonné",
+          "year": "2003",
+          "journal-title": "Earth Planet. Sci. Lett."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "3703",
+          "DOI": "10.1002/2015JB012641",
+          "article-title": "Constraints on the heterogeneity spectrum of earth’s upper mantle",
+          "volume": "121",
+          "author": "Mancinelli",
+          "year": "2016",
+          "journal-title": "J. Geophys. Res. Solid Earth"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0130",
+          "first-page": "229",
+          "article-title": "Introduction to radiative transfer of seismic waves",
+          "volume": "157",
+          "author": "Margerin",
+          "year": "2005",
+          "journal-title": "Geophys. Monogr."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0135",
+          "doi-asserted-by": "crossref",
+          "first-page": "596",
+          "DOI": "10.1111/j.1365-246X.1998.tb07142.x",
+          "article-title": "Radiative transfer and diffusion of waves in a layered medium: new insight into coda Q",
+          "volume": "134",
+          "author": "Margerin",
+          "year": "1998",
+          "journal-title": "Geophys. J. Int."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0140",
+          "first-page": "389",
+          "article-title": "Seismic energy transmission in an intensively scattering environment",
+          "volume": "43",
+          "author": "Nakamura",
+          "year": "1977",
+          "journal-title": "J. Geophys."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0145",
+          "series-title": "Lunar and Planetary Science Conference Proceedings",
+          "first-page": "1847",
+          "article-title": "Shallow moonquakes-how they compare with earthquakes",
+          "author": "Nakamura",
+          "year": "1980"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0150",
+          "doi-asserted-by": "crossref",
+          "first-page": "E01001",
+          "DOI": "10.1029/2004JE002332",
+          "article-title": "Farside deep moonquakes and deep interior of the moon",
+          "volume": "110",
+          "author": "Nakamura",
+          "year": "2005",
+          "journal-title": "J. Geophys. Res. Planets"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0155",
+          "doi-asserted-by": "crossref",
+          "first-page": "57",
+          "DOI": "10.1007/BF00567507",
+          "article-title": "Shallow lunar structure determined from the passive seismic experiment",
+          "volume": "13",
+          "author": "Nakamura",
+          "year": "1975",
+          "journal-title": "Moon"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0160",
+          "unstructured": "Nakamura, Y., Latham, G.V., Dorman, J., Harris, J., 1981. Passive seismic experiment long-period event catalog. Galveston Geophysics Laboratory Contribution 491."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0165",
+          "series-title": "Lunar and Planetary Science Conference Proceedings",
+          "first-page": "2299",
+          "article-title": "Shallow moonquakes-depth, distribution and implications as to the present state of the lunar interior",
+          "author": "Nakamura",
+          "year": "1979"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0170",
+          "first-page": "776",
+          "article-title": "Lunar seismic energy transmission",
+          "volume": "51",
+          "author": "Nakamura",
+          "year": "1970",
+          "journal-title": "EOS"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0175",
+          "doi-asserted-by": "crossref",
+          "first-page": "315",
+          "DOI": "10.1016/0019-1035(91)90027-Q",
+          "article-title": "A search for clustering among the meteoroid impacts detected by the Apollo lunar seismic network",
+          "volume": "91",
+          "author": "Oberst",
+          "year": "1991",
+          "journal-title": "Icarus"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0180",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1145/1656395.1656397",
+          "article-title": "Pyevolve: a python open-source framework for genetic algorithms",
+          "volume": "4",
+          "author": "Perone",
+          "year": "2009",
+          "journal-title": "ACM SIGEVOlution"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0185",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Saito, T., Sato, H., Ohtake, M., 2002. Envelope broadening of spherically outgoing waves in three-dimensional random media having power law spectra. Journal of Geophysical Research: Solid Earth 107, ESE 3-1–ESE 3-15. doi:http://dx.doi.org/10.1029/2001JB000264.",
+          "DOI": "10.1029/2001JB000264"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0190",
+          "doi-asserted-by": "crossref",
+          "first-page": "17735",
+          "DOI": "10.1029/JB094iB12p17735",
+          "article-title": "Broadening of seismogram envelopes in the randomly inhomogeneous lithosphere based on the parabolic approximation: Southeastern Honshu, Japan",
+          "volume": "94",
+          "author": "Sato",
+          "year": "1989",
+          "journal-title": "J. Geophys. Res. Solid Earth"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0195",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sato, H., Fehler, M.C., Maeda, T., 2012. Seismic wave propagation and scattering in the heterogeneous earth. Springer.",
+          "DOI": "10.1007/978-3-642-23029-5"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0200",
+          "doi-asserted-by": "crossref",
+          "first-page": "045601",
+          "DOI": "10.1103/PhysRevE.78.045601",
+          "article-title": "Temporal changes in the lunar soil from correlation of diffuse vibrations",
+          "volume": "78",
+          "author": "Sens-Schönfelder",
+          "year": "2008",
+          "journal-title": "Phys. Rev. E"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0205",
+          "doi-asserted-by": "crossref",
+          "first-page": "1103",
+          "DOI": "10.1111/j.1365-246X.2004.02378.x",
+          "article-title": "The global short-period wavefield modelled with a monte carlo seismic phonon method",
+          "volume": "158",
+          "author": "Shearer",
+          "year": "2004",
+          "journal-title": "Geophys. J. Int."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0210",
+          "series-title": "Introduction to Wave Scattering Localization and Mesoscopic Phenomena",
+          "author": "Sheng",
+          "year": "2006"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0215",
+          "doi-asserted-by": "crossref",
+          "first-page": "158",
+          "DOI": "10.1126/science.182.4108.158",
+          "article-title": "The 25-km discontinuity: implications for lunar history",
+          "volume": "182",
+          "author": "Simmons",
+          "year": "1973",
+          "journal-title": "Science"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0220",
+          "series-title": "Lunar and Planetary Science Conference Proceedings",
+          "first-page": "3073",
+          "article-title": "Polarized electromagnetic response of the moon",
+          "author": "Sonett",
+          "year": "1974"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0225",
+          "series-title": "Lunar and Planetary Science Conference Proceedings",
+          "first-page": "3217",
+          "article-title": "Internal friction quality factor Q greater than or equal to 3100 achieved in lunar rock 70215, 85",
+          "author": "Tittmann",
+          "year": "1975"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0230",
+          "unstructured": "Todd, T., Richter, D.A., Simmons, G., Wang, H., 1973. Unique characterization of lunar samples by physical properties. In: Lunar and Planetary Science Conference Proceedings. p. 2639."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0235",
+          "unstructured": "Toksöz, M., Press, F., Dainty, A., Anderson, K., Latham, G., Ewing, M., Dorman, J., Lammlein, D., Sutton, G., Duennebier, F., 1972. Structure, composition, and properties of lunar crust. In: Lunar and Planetary Science Conference Proceedings. p. 2527."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0240",
+          "doi-asserted-by": "crossref",
+          "first-page": "539",
+          "DOI": "10.1029/RG012i004p00539",
+          "article-title": "Structure of the Moon",
+          "volume": "12",
+          "author": "Toksöz",
+          "year": "1974",
+          "journal-title": "Rev. Geophys."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0245",
+          "doi-asserted-by": "crossref",
+          "first-page": "988",
+          "DOI": "10.1111/j.1365-246X.2010.04657.x",
+          "article-title": "Envelope broadening characteristics of crustal earthquakes in northeastern honshu, japan",
+          "volume": "182",
+          "author": "Tripathi",
+          "year": "2010",
+          "journal-title": "Geophys. J. Int."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0250",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1016/0022-5096(90)90021-U",
+          "article-title": "Diffusivity of ultrasound in polycrystals",
+          "volume": "38",
+          "author": "Weaver",
+          "year": "1990",
+          "journal-title": "J. Mech. Phys. Solids"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0255",
+          "doi-asserted-by": "crossref",
+          "first-page": "B07303",
+          "DOI": "10.1029/2004JB003048",
+          "article-title": "Diffusion of seismic waves in a thick layer: Theory and application to vesuvius volcano",
+          "volume": "109",
+          "author": "Wegler",
+          "year": "2004",
+          "journal-title": "J. Geophys. Res. Solid Earth"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0260",
+          "doi-asserted-by": "crossref",
+          "first-page": "5099",
+          "DOI": "10.1029/JZ070i020p05099",
+          "article-title": "Diffusion of seismic energy in the near range",
+          "volume": "70",
+          "author": "Wesley",
+          "year": "1965",
+          "journal-title": "J. Geophys. Res."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0265",
+          "doi-asserted-by": "crossref",
+          "first-page": "221",
+          "DOI": "10.2138/rmg.2006.60.3",
+          "article-title": "The constitution and structure of the lunar interior",
+          "volume": "60",
+          "author": "Wieczorek",
+          "year": "2006",
+          "journal-title": "Rev. Mineral. Geochem."
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0270",
+          "doi-asserted-by": "crossref",
+          "first-page": "671",
+          "DOI": "10.1126/science.1231530",
+          "article-title": "The crust of the Moon as seen by GRAIL",
+          "volume": "339",
+          "author": "Wieczorek",
+          "year": "2013",
+          "journal-title": "Science"
+        },
+        {
+          "key": "10.1016/j.pepi.2016.11.001_b0275",
+          "doi-asserted-by": "crossref",
+          "first-page": "B07304",
+          "DOI": "10.1029/2009JB007109",
+          "article-title": "Multiple scattering and mode conversion revealed by an active seismic experiment at Asama volcano, Japan",
+          "volume": "115",
+          "author": "Yamamoto",
+          "year": "2010",
+          "journal-title": "J. Geophys. Res. Solid Earth"
+        }
+      ],
+      "container-title": [
+        "Physics of the Earth and Planetary Interiors"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0031920116301492?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0031920116301492?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            6
+          ]
+        ],
+        "date-time": "2018-09-06T15:52:19Z",
+        "timestamp": 1536249139000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0031920116301492"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            1
+          ]
+        ]
+      },
+      "references-count": 55,
+      "alternative-id": [
+        "S0031920116301492"
+      ],
+      "URL": "https://doi.org/10.1016/j.pepi.2016.11.001",
+      "relation": {},
+      "ISSN": [
+        "0031-9201"
+      ],
+      "issn-type": [
+        {
+          "value": "0031-9201",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Scattering attenuation profile of the Moon: Implications for shallow moonquakes and the structure of the megaregolith",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Physics of the Earth and Planetary Interiors",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.pepi.2016.11.001",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2016 Elsevier B.V. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    },
+    "bibtex": " @article{Gillet_2017, title={Scattering attenuation profile of the Moon: Implications for shallow moonquakes and the structure of the megaregolith}, volume={262}, ISSN={0031-9201}, url={http://dx.doi.org/10.1016/j.pepi.2016.11.001}, DOI={10.1016/j.pepi.2016.11.001}, journal={Physics of the Earth and Planetary Interiors}, publisher={Elsevier BV}, author={Gillet, K. and Margerin, L. and Calvet, M. and Monnereau, M.}, year={2017}, month=Jan, pages={28–40} }\n"
+  },
+  {
+    "doi": "10.1029/2020JE006406",
+    "status": "metadata_verified_crossref",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ],
+        "date-time": "2026-09-28T22:44:19Z",
+        "timestamp": 1790635459912,
+        "version": "4.1.0"
+      },
+      "reference-count": 50,
+      "publisher": "American Geophysical Union (AGU)",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                3,
+                9
+              ]
+            ],
+            "date-time": "2021-03-09T00:00:00Z",
+            "timestamp": 1615248000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 8,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "agupubs.onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "JGR Planets"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            3
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>One of the most critical issues associated with the analysis of lunar seismic data is the intense scattering, which prevents precise seismic phase identifications, thereby resulting in poor constraints on the internal structure of the Moon. Although some studies estimated subsurface scattering properties from analyses of the Apollo seismic data, the properties have large uncertainties and are still open issues to be resolved to improve the inner structure model of the Moon. While the previous studies tried to constrain the scattering features within the lunar crust mainly from data analysis, this study estimated them from a numerical approach. We constrained the scattering properties near Apollo 12 landing site by conducting seismic wave propagation simulations under various parameter settings and comparing the synthetics with the data. As a result, we succeeded in reproducing seismic signals excited by the Apollo artificial impacts. This led to a constraint on the scattering properties, such as typical scale and thickness of heterogeneity, around the Apollo 12 landing site. The derived structure suggests that the intense scattering structure exists down to 20 km at the northern portion of the region of the Apollo 12 landing site, and to 10 km at the southern region from the landing site. In addition, our model requires a smaller P‐ and S‐wave velocity ratio (1.2–1.4) compared with those conventionally considered (&gt;1.73). This implies a dry and porous environment consistent with laboratory measurements of terrestrial samples and reasonable with the generalized lunar environment.</jats:p>",
+      "DOI": "10.1029/2020je006406",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            10
+          ]
+        ],
+        "date-time": "2021-02-10T06:20:27Z",
+        "timestamp": 1612938027000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 19,
+      "title": [
+        "Numerical Simulation of Lunar Seismic Wave Propagation: Investigation of Subsurface Scattering Properties Near Apollo 12 Landing Site"
+      ],
+      "prefix": "10.1029",
+      "volume": "126",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4120-2437",
+          "authenticated-orcid": false,
+          "given": "K.",
+          "family": "Onodera",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institut de Physique du Globe de Paris – Université de Paris  Paris France"
+            },
+            {
+              "name": "Department of Space and Astronautical Science, School of Physical Sciences The Graduate University for Advanced Studies, SOKENDAI  Sagamihara Kanagawa Japan"
+            },
+            {
+              "name": "Institute of Space and Astronautical Science Japan Aerospace Exploration Agency  Sagamihara Kanagawa Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5246-5561",
+          "authenticated-orcid": false,
+          "given": "T.",
+          "family": "Kawamura",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institut de Physique du Globe de Paris – Université de Paris  Paris France"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4874-0417",
+          "authenticated-orcid": false,
+          "given": "S.",
+          "family": "Tanaka",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Space and Astronautical Science, School of Physical Sciences The Graduate University for Advanced Studies, SOKENDAI  Sagamihara Kanagawa Japan"
+            },
+            {
+              "name": "Institute of Space and Astronautical Science Japan Aerospace Exploration Agency  Sagamihara Kanagawa Japan"
+            },
+            {
+              "name": "Department of Complexity Science and Engineering University of Tokyo  Kashiwa Chiba Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0375-6300",
+          "authenticated-orcid": false,
+          "given": "Y.",
+          "family": "Ishihara",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "JAXA Space Exploration Center (JSEC) Japan Aerospace Exploration Agency  Sagamihara Kanagawa Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8861-4597",
+          "authenticated-orcid": false,
+          "given": "T.",
+          "family": "Maeda",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Graduate School of Science and Technology Hirosaki University  Hirosaki Aomori Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "13",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            3,
+            9
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_8_1_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/gssrl.81.3.530"
+        },
+        {
+          "key": "e_1_2_8_1_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2011JE004042"
+        },
+        {
+          "key": "e_1_2_8_1_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/2014JE004654"
+        },
+        {
+          "key": "e_1_2_8_1_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/RG012i003p00291"
+        },
+        {
+          "key": "e_1_2_8_1_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00565388"
+        },
+        {
+          "key": "e_1_2_8_1_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2020JE006382"
+        },
+        {
+          "key": "e_1_2_8_1_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11214‐018‐0562‐x"
+        },
+        {
+          "key": "e_1_2_8_1_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2006.05.009"
+        },
+        {
+          "key": "e_1_2_8_1_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2011.06.015"
+        },
+        {
+          "key": "e_1_2_8_1_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2016.11.001"
+        },
+        {
+          "key": "e_1_2_8_1_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/2016JE005008"
+        },
+        {
+          "key": "e_1_2_8_1_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.icarus.2010.10.028"
+        },
+        {
+          "key": "e_1_2_8_1_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.epsl.2015.06.037"
+        },
+        {
+          "key": "e_1_2_8_1_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/2014GL059378"
+        },
+        {
+          "key": "e_1_2_8_1_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0019‐1035(73)90066‐3"
+        },
+        {
+          "key": "e_1_2_8_1_17_1",
+          "unstructured": "Hasse I. Gläser P. Knapmeyer M. Oberst J. &Robinson M. S.(2013).Improved coordinates of the Apollo 17 lunar seismic profiling experiment (LPSE) components. In W. V. Boynton & T. J. Ahrens (Eds.) Proceedings of the Lunar and Planetary Science Conference 44th(pp.1966)."
+        },
+        {
+          "key": "e_1_2_8_1_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pss.2016.11.007"
+        },
+        {
+          "key": "e_1_2_8_1_19_1",
+          "volume-title": "Lunar sourcebook: A user's guide to the Moon",
+          "author": "Heiken G.",
+          "year": "1991"
+        },
+        {
+          "key": "e_1_2_8_1_20_1",
+          "volume-title": "Analysis of lunar seismic signals: Determination of instrumental parameters and seismic velocity distribution",
+          "author": "Horvath P.",
+          "year": "1979"
+        },
+        {
+          "key": "e_1_2_8_1_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pss.2012.08.019"
+        },
+        {
+          "key": "e_1_2_8_1_22_1",
+          "unstructured": "Kanamori H. Mizutani H. &Hamano Y.(1971).Elastic wave velocities of Apollo 12 rocks at high pressure. In A. A. Levinson (Ed.) Proceedings of the 2nd Lunar Science Conference(Vol.3 pp.2323–2326)."
+        },
+        {
+          "key": "e_1_2_8_1_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.167.3918.726"
+        },
+        {
+          "key": "e_1_2_8_1_24_1",
+          "first-page": "1",
+          "article-title": "A general formula for calculating meridian arc length and its application to coordinate conversion in the Gauss‐Krüger projection",
+          "volume": "59",
+          "author": "Kawase K.",
+          "year": "2011",
+          "journal-title": "Geological Society of India Bulletin"
+        },
+        {
+          "key": "e_1_2_8_1_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/1999GL008452"
+        },
+        {
+          "key": "e_1_2_8_1_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2010JB007718"
+        },
+        {
+          "key": "e_1_2_8_1_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.170.3958.620"
+        },
+        {
+          "key": "e_1_2_8_1_28_1",
+          "unstructured": "Latham G. Ewing M. Press F. Sutton G. Dorman J. Nakamura Y. et al. (1971).Passive seismic experiment. InApollo 14 Preliminary Science Report(pp.133–160).NASA SPpaper SP‐272."
+        },
+        {
+          "key": "e_1_2_8_1_29_1",
+          "first-page": "2197",
+          "volume-title": "Velocity ratio and its application to predicting velocities",
+          "author": "Lee M. W.",
+          "year": "2003"
+        },
+        {
+          "key": "e_1_2_8_1_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0012‐821X(03)00172‐9"
+        },
+        {
+          "key": "e_1_2_8_1_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40623‐017‐0687‐2"
+        },
+        {
+          "key": "e_1_2_8_1_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0012‐821X(73)90162‐3"
+        },
+        {
+          "key": "e_1_2_8_1_33_1",
+          "unstructured": "Melosh H. J.(1989).Impact cratering – A geological process. In11 of Oxford monographs on geology and geophysics.Oxford:Oxford University Press."
+        },
+        {
+          "key": "e_1_2_8_1_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB087iB06p04855"
+        },
+        {
+          "key": "e_1_2_8_1_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB087iS01p0A117"
+        },
+        {
+          "key": "e_1_2_8_1_36_1",
+          "volume-title": "Onodera0726/Onodera_JGR2020‐ver1.2",
+          "author": "Onodera K.",
+          "year": "2020"
+        },
+        {
+          "key": "e_1_2_8_1_37_1",
+          "unstructured": "Onodera K. Kawamura T. Ishihara Y. Maeda T. &Tanaka S.(2018).Evaluation of the effect of surface and Moho topographies on lunar seismic wave propagation. InProceedings of the Lunar and Planetary Science Conference(Vol.49 pp.1692)."
+        },
+        {
+          "key": "e_1_2_8_1_38_1",
+          "unstructured": "Onodera K. Kawamura T. Lucas A. Perrin C. Rodriguez S. Drilleau M. et al. (2020).Seismic wave modeling of a Martian dust devil constrained by multi‐observation data. InProceedings of the Lunar and Planetary Science Conference(Vol.51 pp.1279)."
+        },
+        {
+          "key": "e_1_2_8_1_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-642-23029-5"
+        },
+        {
+          "key": "e_1_2_8_1_40_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Swann G. Bailey N. Batson R. Eggleton R. Hait M. Holt H. et al. (1971).Preliminary geologic investigations of the Apollo 14 landing site InApollo 14 Preliminary Science Report(pp.39–85).NASA SPpaper SP‐272.",
+          "DOI": "10.3133/ofr71274"
+        },
+        {
+          "key": "e_1_2_8_1_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/gji/ggv038"
+        },
+        {
+          "key": "e_1_2_8_1_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2011.03.004"
+        },
+        {
+          "key": "e_1_2_8_1_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/RG012i004p00539"
+        },
+        {
+          "key": "e_1_2_8_1_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.icarus.2016.05.011"
+        },
+        {
+          "key": "e_1_2_8_1_45_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Weber R. C. Knapmeyer M. Panning M. &Schmerr N.(2015).Chapter 10. Modeling approaches in planetary seismology. InExtraterrestrial seismology(pp.140–155).Cambridge:Cambridge University Press.",
+          "DOI": "10.1017/CBO9781107300668.013"
+        },
+        {
+          "key": "e_1_2_8_1_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1199375"
+        },
+        {
+          "key": "e_1_2_8_1_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/90EO00319"
+        },
+        {
+          "key": "e_1_2_8_1_48_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1231530"
+        },
+        {
+          "key": "e_1_2_8_1_49_1",
+          "unstructured": "Yamamoto Y. Yamada R. Ishihara Y. Nakamura Y. &Ishikawa H.(2019).Apollo seismic data analysis in Python: ObsPy module and response function. InProceedings of the Lunar and Planetary Science Conference(Vol.50 pp.2492)."
+        },
+        {
+          "key": "e_1_2_8_2_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40623-017-0651-1"
+        },
+        {
+          "key": "e_1_2_8_2_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2011JE003972"
+        }
+      ],
+      "container-title": [
+        "Journal of Geophysical Research: Planets"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2020JE006406",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2020JE006406",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020JE006406",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            21
+          ]
+        ],
+        "date-time": "2023-08-21T10:28:47Z",
+        "timestamp": 1692613727000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006406"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            3
+          ]
+        ]
+      },
+      "references-count": 50,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1029/2020JE006406"
+      ],
+      "URL": "https://doi.org/10.1029/2020je006406",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "2169-9097",
+        "2169-9100"
+      ],
+      "issn-type": [
+        {
+          "value": "2169-9097",
+          "type": "print"
+        },
+        {
+          "value": "2169-9100",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            3
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2020-02-01",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2021-02-02",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2021-03-09",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "e2020JE006406"
+    },
+    "bibtex": " @article{Onodera_2021, title={Numerical Simulation of Lunar Seismic Wave Propagation: Investigation of Subsurface Scattering Properties Near Apollo 12 Landing Site}, volume={126}, ISSN={2169-9100}, url={http://dx.doi.org/10.1029/2020JE006406}, DOI={10.1029/2020je006406}, number={3}, journal={Journal of Geophysical Research: Planets}, publisher={American Geophysical Union (AGU)}, author={Onodera, K. and Kawamura, T. and Tanaka, S. and Ishihara, Y. and Maeda, T.}, year={2021}, month=Mar }\n"
+  },
+  {
+    "doi": "10.1029/2022JE007558",
+    "status": "metadata_verified_crossref",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ],
+        "date-time": "2026-09-28T22:47:10Z",
+        "timestamp": 1790635630712,
+        "version": "4.1.0"
+      },
+      "reference-count": 68,
+      "publisher": "American Geophysical Union (AGU)",
+      "issue": "12",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                12,
+                17
+              ]
+            ],
+            "date-time": "2022-12-17T00:00:00Z",
+            "timestamp": 1671235200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 16,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "agupubs.onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "JGR Planets"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The intense seismic scattering seen in Apollo lunar seismic data is one of the most characteristic features, making the seismic signals much different from those observed on the Earth. The scattering is considered to be attributed to subsurface heterogeneity. While the heterogeneous structure of the Moon reflects the past geological activities and evolution processes from the formation, the detailed description remains an open issue. Here, we present a new model of the subsurface heterogeneity within the upper lunar crust derived through a full 3D seismic wave propagation simulation. Our simulation successfully reproduced the Apollo seismic observations, leading to a significant update of the scattering properties of the Moon. The results showed that the scattering intensity of the Moon is about 10 times higher than that of the heterogeneous region on the Earth. The quantified scattering parameters could give us a constraint on the surface evolution process of the Moon and enable the comparative study for answering a fundamental question of why the seismological features are different on various planetary bodies.</jats:p>",
+      "DOI": "10.1029/2022je007558",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            10
+          ]
+        ],
+        "date-time": "2022-12-10T03:39:30Z",
+        "timestamp": 1670643570000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 24,
+      "title": [
+        "Quantitative Evaluation of the Lunar Seismic Scattering and Comparison Between the Earth, Mars, and the Moon"
+      ],
+      "prefix": "10.1029",
+      "volume": "127",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4120-2437",
+          "authenticated-orcid": false,
+          "given": "Keisuke",
+          "family": "Onodera",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Earthquake Research Institute The University of Tokyo  Tokyo Japan"
+            },
+            {
+              "name": "Université Paris Cité Institut de Physique du Globe de Paris CNRS  Paris France"
+            },
+            {
+              "name": "Department of Space and Astronautical Sciences The Graduate University for Advanced Studies, SOKENDAI  Hayama Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5246-5561",
+          "authenticated-orcid": false,
+          "given": "Taichi",
+          "family": "Kawamura",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Université Paris Cité Institut de Physique du Globe de Paris CNRS  Paris France"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4874-0417",
+          "authenticated-orcid": false,
+          "given": "Satoshi",
+          "family": "Tanaka",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Space and Astronautical Sciences The Graduate University for Advanced Studies, SOKENDAI  Hayama Japan"
+            },
+            {
+              "name": "Institute of Space and Astronautical Science Japan Aerospace Exploration Agency  Sagamihara Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0375-6300",
+          "authenticated-orcid": false,
+          "given": "Yoshiaki",
+          "family": "Ishihara",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "JAXA Space Exploration Center (JSEC) Japan Aerospace Exploration Agency  Sagamihara Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8861-4597",
+          "authenticated-orcid": false,
+          "given": "Takuto",
+          "family": "Maeda",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Graduate School of Science and Technology Hirosaki University  Hirosaki‐shi Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "13",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            17
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_8_1_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/jb074i002p00615"
+        },
+        {
+          "key": "e_1_2_8_1_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/jb080i023p03322"
+        },
+        {
+          "key": "e_1_2_8_1_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1164146"
+        },
+        {
+          "key": "e_1_2_8_1_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.icarus.2015.07.039"
+        },
+        {
+          "key": "e_1_2_8_1_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/2014GL060240"
+        },
+        {
+          "key": "e_1_2_8_1_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2011JE004042"
+        },
+        {
+          "key": "e_1_2_8_1_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/2014JE004654"
+        },
+        {
+          "key": "e_1_2_8_1_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0031-9201(81)90029-7"
+        },
+        {
+          "key": "e_1_2_8_1_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/bf00565388"
+        },
+        {
+          "key": "e_1_2_8_1_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2020JE006382"
+        },
+        {
+          "key": "e_1_2_8_1_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2006.05.009"
+        },
+        {
+          "key": "e_1_2_8_1_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2011.06.015"
+        },
+        {
+          "key": "e_1_2_8_1_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11214-019-0613-y"
+        },
+        {
+          "key": "e_1_2_8_1_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2016.11.001"
+        },
+        {
+          "key": "e_1_2_8_1_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2002JE001890"
+        },
+        {
+          "key": "e_1_2_8_1_17_1",
+          "unstructured": "InSight Mars SEIS data Service. (2019).SEIS raw data InSight mission. IPGP JPL CNES ETHZ ICL MPS ISAE‐Supaero LPG MSFC.https://doi.org/10.18715/SEIS.INSIGHT.XB_2016"
+        },
+        {
+          "key": "e_1_2_8_1_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/0120210253"
+        },
+        {
+          "key": "e_1_2_8_1_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.170.3958.620"
+        },
+        {
+          "key": "e_1_2_8_1_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41561-020-0536-y"
+        },
+        {
+          "key": "e_1_2_8_1_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0012-821X(03)00172-9"
+        },
+        {
+          "key": "e_1_2_8_1_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.3982232"
+        },
+        {
+          "key": "e_1_2_8_1_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40623-017-0687-2"
+        },
+        {
+          "key": "e_1_2_8_1_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/0120210127"
+        },
+        {
+          "key": "e_1_2_8_1_25_1",
+          "unstructured": "Mizutani H. &Osako M.(1974).Elastic‐wave velocities and thermal diffusivities of Apollo 17 rocks and their geophysical implications. InLunar and Planetary Science Conference Proceedings(Vol.5 pp.2891–2901)."
+        },
+        {
+          "key": "e_1_2_8_1_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/0120110356"
+        },
+        {
+          "key": "e_1_2_8_1_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB087iB06p04855"
+        },
+        {
+          "key": "e_1_2_8_1_28_1",
+          "volume-title": "Meteoroids near the Earth‐Moon system as inferred from temporal and spatial distribution of impacts detected by the lunar seismic network",
+          "author": "Oberst P. J.",
+          "year": "1989"
+        },
+        {
+          "key": "e_1_2_8_1_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.7151401"
+        },
+        {
+          "key": "e_1_2_8_1_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2020JE006406"
+        },
+        {
+          "key": "e_1_2_8_1_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2021EA001887"
+        },
+        {
+          "key": "e_1_2_8_1_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4294/jpe1952.25.27"
+        },
+        {
+          "key": "e_1_2_8_1_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-1-4612-2202-6"
+        },
+        {
+          "key": "e_1_2_8_1_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-642-23029-5"
+        },
+        {
+          "key": "e_1_2_8_1_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.1997.tb00987.x"
+        },
+        {
+          "key": "e_1_2_8_1_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1046/j.1365-246x.2002.01606.x"
+        },
+        {
+          "key": "e_1_2_8_1_37_1",
+          "first-page": "2147",
+          "article-title": "Compressional velocity measurements for a highly fractured lunar anorthosite",
+          "volume": "10",
+          "author": "Sondergeld C. H.",
+          "year": "1979",
+          "journal-title": "Proceedings of the Lunar and Planetary Science Conference"
+        },
+        {
+          "key": "e_1_2_8_1_38_1",
+          "first-page": "1",
+          "article-title": "Deep well logs in the Kanto‐Tokai area (in Japanese)",
+          "volume": "65",
+          "author": "Suzuki H.",
+          "year": "1981",
+          "journal-title": "Review of Research for Disaster Prevention, National Research Center for Disaster Prevention"
+        },
+        {
+          "key": "e_1_2_8_1_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2011.03.004"
+        },
+        {
+          "key": "e_1_2_8_1_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2019GC008515"
+        },
+        {
+          "key": "e_1_2_8_1_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1231530"
+        },
+        {
+          "key": "e_1_2_8_1_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2018JE005757"
+        },
+        {
+          "key": "e_1_2_8_1_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/bf01772590"
+        },
+        {
+          "key": "e_1_2_8_1_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2012GL052098"
+        },
+        {
+          "key": "e_1_2_8_1_45_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1190/1.3463431"
+        },
+        {
+          "key": "e_1_2_8_2_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/98JB01757"
+        },
+        {
+          "key": "e_1_2_8_2_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0031-9201(00)00196-5"
+        },
+        {
+          "key": "e_1_2_8_2_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.1995.tb05715.x"
+        },
+        {
+          "key": "e_1_2_8_2_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1046/j.1365-246X.2002.01696.x"
+        },
+        {
+          "key": "e_1_2_8_2_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.2005.02555.x"
+        },
+        {
+          "key": "e_1_2_8_2_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/0120030072"
+        },
+        {
+          "key": "e_1_2_8_2_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.1992.tb03470.x"
+        },
+        {
+          "key": "e_1_2_8_2_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.2006.02881.x"
+        },
+        {
+          "key": "e_1_2_8_2_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/B:JOSE.0000009511.27033.79"
+        },
+        {
+          "key": "e_1_2_8_2_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.icarus.2010.10.028"
+        },
+        {
+          "key": "e_1_2_8_2_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.epsl.2015.06.037"
+        },
+        {
+          "key": "e_1_2_8_2_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00879499"
+        },
+        {
+          "key": "e_1_2_8_2_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/93JB00347"
+        },
+        {
+          "key": "e_1_2_8_2_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/94JB01468"
+        },
+        {
+          "key": "e_1_2_8_2_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/94GL00977"
+        },
+        {
+          "key": "e_1_2_8_2_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2003GL018413"
+        },
+        {
+          "key": "e_1_2_8_2_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.epsl.2005.10.035"
+        },
+        {
+          "key": "e_1_2_8_2_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/91JB03094"
+        },
+        {
+          "key": "e_1_2_8_2_20_1",
+          "unstructured": "Orloff(2000).Apollo by the numbers: A statistical reference. NASA SP‐2000‐4029."
+        },
+        {
+          "key": "e_1_2_8_2_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/RG012i004p00539"
+        },
+        {
+          "key": "e_1_2_8_2_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-0348-8711-3_21"
+        },
+        {
+          "key": "e_1_2_8_2_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.2004.02307.x"
+        },
+        {
+          "key": "e_1_2_8_2_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2009JB007109"
+        },
+        {
+          "key": "e_1_2_8_2_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.icarus.2016.05.011"
+        }
+      ],
+      "container-title": [
+        "Journal of Geophysical Research: Planets"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2022JE007558",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2022JE007558",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022JE007558",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            17
+          ]
+        ],
+        "date-time": "2023-08-17T15:43:48Z",
+        "timestamp": 1692287028000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JE007558"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "references-count": 68,
+      "journal-issue": {
+        "issue": "12",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1029/2022JE007558"
+      ],
+      "URL": "https://doi.org/10.1029/2022je007558",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {
+        "has-preprint": [
+          {
+            "id-type": "doi",
+            "id": "10.1002/essoar.10512321.1",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.1002/essoar.10512321.2",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "ISSN": [
+        "2169-9097",
+        "2169-9100"
+      ],
+      "issn-type": [
+        {
+          "value": "2169-9097",
+          "type": "print"
+        },
+        {
+          "value": "2169-9100",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2022-09-02",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2022-12-01",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2022-12-17",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "e2022JE007558"
+    },
+    "bibtex": " @article{Onodera_2022, title={Quantitative Evaluation of the Lunar Seismic Scattering and Comparison Between the Earth, Mars, and the Moon}, volume={127}, ISSN={2169-9100}, url={http://dx.doi.org/10.1029/2022JE007558}, DOI={10.1029/2022je007558}, number={12}, journal={Journal of Geophysical Research: Planets}, publisher={American Geophysical Union (AGU)}, author={Onodera, Keisuke and Kawamura, Taichi and Tanaka, Satoshi and Ishihara, Yoshiaki and Maeda, Takuto}, year={2022}, month=Dec }\n"
+  },
+  {
+    "doi": "10.1029/2022JE007396",
+    "status": "metadata_verified_crossref",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2026-09-26T00:47:49Z",
+        "timestamp": 1790383669875,
+        "version": "4.1.0"
+      },
+      "reference-count": 104,
+      "publisher": "American Geophysical Union (AGU)",
+      "issue": "9",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                9,
+                11
+              ]
+            ],
+            "date-time": "2022-09-11T00:00:00Z",
+            "timestamp": 1662854400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 10,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "agupubs.onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "JGR Planets"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            9
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Lunar seismology has focused on exploring the Moon's seismic activity and its internal structure. However, less attention has been given to site specific, near‐surface geology‐related amplification of seismic waves on the Moon. Here, we quantified ground‐motion amplifications of seismic waves due to local site conditions at the Apollo landing sites. We analyzed Apollo Passive Seismic Experiments seismometer recordings of 30 artificial and natural impacts and estimated the mid‐period (0.1–3 Hz) ground‐motion amplification at each site. We applied techniques commonly used in engineering seismology to understand the local site effects, such as the Horizontal over Vertical Spectral Ratio (HVSR) and the Reference Site Method (RSM) on lunar seismic data. The HVSR and the RSM show convergent spectral ratios specific for each landing site. To correlate these empirical results estimated from lunar artificial and meteoroid impact events with the local site geology, we simulated ground motion amplification using 2D finite difference modeling of lunar geological models and estimated the best geological setting capable of producing a similar frequency response to those observed at each Apollo landing site. Correlation results from the empirical methods and the simulated models show similarities ranging between 79% and 92%, a correlation more than 90% between the RSM and the HVSR results, and similarity exceeding 96% between RSM estimations using different reference sites. These results demonstrate the prominence of a local site geology dependent amplification for frequencies between 0.1 and 3 Hz.</jats:p>",
+      "DOI": "10.1029/2022je007396",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            9,
+            7
+          ]
+        ],
+        "date-time": "2022-09-07T06:47:40Z",
+        "timestamp": 1662533260000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 7,
+      "title": [
+        "Effects of Lunar Near‐Surface Geology on Moonquakes Ground Motion Amplification"
+      ],
+      "prefix": "10.1029",
+      "volume": "127",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0108-6160",
+          "authenticated-orcid": false,
+          "given": "Mohamed",
+          "family": "Amrouche",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Schlumberger  Tokyo Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1649-483X",
+          "authenticated-orcid": false,
+          "given": "Renee C.",
+          "family": "Weber",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "NASA Marshall Space Flight Facility  Huntsville AL USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3256-1262",
+          "authenticated-orcid": false,
+          "given": "Nicholas",
+          "family": "Schmerr",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Geology University of Maryland  College Park MD USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7246-3723",
+          "authenticated-orcid": false,
+          "given": "Wajiha",
+          "family": "Iqbal",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Münster Institut für Planetologie  Münster Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "13",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            9,
+            11
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_11_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0040-1951(93)90262-I"
+        },
+        {
+          "key": "e_1_2_11_3_1",
+          "volume-title": "Estimation of the lunar near‐surface effects on moonquake waves amplification",
+          "author": "Amrouche M.",
+          "year": "2020"
+        },
+        {
+          "key": "e_1_2_11_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.20965/jdr.2014.p0709"
+        },
+        {
+          "key": "e_1_2_11_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/GM037p0259"
+        },
+        {
+          "key": "e_1_2_11_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/0120030028"
+        },
+        {
+          "key": "e_1_2_11_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41561-020-0544-y"
+        },
+        {
+          "key": "e_1_2_11_8_1",
+          "first-page": "305",
+          "volume-title": "Proceedings of the 10th European Conference on Earthquake Engineering",
+          "author": "Bard P. Y.",
+          "year": "1994"
+        },
+        {
+          "key": "e_1_2_11_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/BSSA0750020519"
+        },
+        {
+          "key": "e_1_2_11_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2011JE004042"
+        },
+        {
+          "key": "e_1_2_11_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/0120010235"
+        },
+        {
+          "key": "e_1_2_11_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.2006.03154.x"
+        },
+        {
+          "key": "e_1_2_11_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/BSSA0600010029"
+        },
+        {
+          "key": "e_1_2_11_14_1",
+          "first-page": "2323",
+          "volume-title": "50th Annual Lunar and Planetary Science Conference",
+          "author": "Borisov D.",
+          "year": "2019"
+        },
+        {
+          "key": "e_1_2_11_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2006JE002847"
+        },
+        {
+          "key": "e_1_2_11_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2005JE002414"
+        },
+        {
+          "key": "e_1_2_11_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1190/1.1441945"
+        },
+        {
+          "key": "e_1_2_11_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.2008.04041.x"
+        },
+        {
+          "key": "e_1_2_11_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/BSSA0670061529"
+        },
+        {
+          "key": "e_1_2_11_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/RG012i003p00291"
+        },
+        {
+          "issue": "4",
+          "key": "e_1_2_11_21_1",
+          "article-title": "Strong scattering of seismic‐waves examples from model experiments and Moon",
+          "volume": "55",
+          "author": "Dainty A. M.",
+          "year": "1974",
+          "journal-title": "Transactions – American Geophysical Union"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_11_22_1",
+          "first-page": "375",
+          "article-title": "Elastic wave‐propagation in a highly scattering medium – diffusion approach",
+          "volume": "43",
+          "author": "Dainty A. M.",
+          "year": "1977",
+          "journal-title": "Journal of Geophysics"
+        },
+        {
+          "key": "e_1_2_11_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.icarus.2015.03.017"
+        },
+        {
+          "key": "e_1_2_11_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.icarus.2015.12.013"
+        },
+        {
+          "key": "e_1_2_11_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2020JE006564"
+        },
+        {
+          "key": "e_1_2_11_26_1",
+          "first-page": "1357",
+          "volume-title": "Lunar and Planetary Science Conference",
+          "author": "Dunkin S. K.",
+          "year": "2000"
+        },
+        {
+          "key": "e_1_2_11_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41550-021-01502-0"
+        },
+        {
+          "key": "e_1_2_11_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/BSSA0850041127"
+        },
+        {
+          "key": "e_1_2_11_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11214-019-0613-y"
+        },
+        {
+          "key": "e_1_2_11_30_1",
+          "first-page": "2548",
+          "volume-title": "Lunar and Planetary Science and Conference",
+          "author": "Gebbing T.",
+          "year": "2019"
+        },
+        {
+          "key": "e_1_2_11_31_1",
+          "volume-title": "Lunar sourcebook",
+          "author": "Grant H.",
+          "year": "1991"
+        },
+        {
+          "key": "e_1_2_11_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.icarus.2010.10.028"
+        },
+        {
+          "key": "e_1_2_11_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3847/psj/ac0f82"
+        },
+        {
+          "key": "e_1_2_11_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pss.2016.11.007"
+        },
+        {
+          "key": "e_1_2_11_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pss.2021.105307"
+        },
+        {
+          "key": "e_1_2_11_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3724/SP.J.1246.2011.00037"
+        },
+        {
+          "key": "e_1_2_11_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2011JE003935"
+        },
+        {
+          "key": "e_1_2_11_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2009JE003380"
+        },
+        {
+          "key": "e_1_2_11_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2002je001985"
+        },
+        {
+          "key": "e_1_2_11_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-021-26957-7"
+        },
+        {
+          "key": "e_1_2_11_41_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hodges C. A. &Muehlberg W. R.(1981).Geology of the Apollo 16 area central lunar highlands. USGS Numbered Series 1048 Retrieved fromhttps://pubs.usgs.gov/pp/1048/report.pdf",
+          "DOI": "10.3133/pp1048"
+        },
+        {
+          "key": "e_1_2_11_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB085iB11p06572"
+        },
+        {
+          "key": "e_1_2_11_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.icarus.2020.113991"
+        },
+        {
+          "key": "e_1_2_11_44_1",
+          "first-page": "1073",
+          "volume-title": "Lunar and Planetary Science and Conference",
+          "author": "Iqbal W.",
+          "year": "2020"
+        },
+        {
+          "key": "e_1_2_11_45_1",
+          "unstructured": "JAXA. (2018).Smart Lander for investigating Moon (SLIM). Retrieved fromhttp://global.jaxa.jp/projects/sas/slim/"
+        },
+        {
+          "key": "e_1_2_11_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40623-017-0689-0"
+        },
+        {
+          "key": "e_1_2_11_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40623-015-0320-1"
+        },
+        {
+          "key": "e_1_2_11_48_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/BSSA0790051361"
+        },
+        {
+          "key": "e_1_2_11_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.tecto.2013.02.024"
+        },
+        {
+          "key": "e_1_2_11_50_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2012GL051319"
+        },
+        {
+          "key": "e_1_2_11_51_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/BSSA0880010228"
+        },
+        {
+          "key": "e_1_2_11_52_1",
+          "first-page": "163",
+          "article-title": "Active seismic experiments",
+          "author": "Kovach R. L.",
+          "year": "1971",
+          "journal-title": "Apollo 14 Prelim. Sci. Rep."
+        },
+        {
+          "key": "e_1_2_11_53_1",
+          "volume-title": "Geotechnical earthquake engineering",
+          "author": "Kramer S. L.",
+          "year": "1996"
+        },
+        {
+          "key": "e_1_2_11_54_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4294/jpe1952.42.377"
+        },
+        {
+          "key": "e_1_2_11_55_1",
+          "first-page": "9",
+          "volume-title": "Apollo 16 preliminary science report",
+          "author": "Latham G.",
+          "year": "1972"
+        },
+        {
+          "key": "e_1_2_11_56_1",
+          "first-page": "389",
+          "article-title": "Results from the Apollo passive seismic experiment",
+          "volume": "1",
+          "author": "Latham G.",
+          "year": "1977",
+          "journal-title": "The Soviet‐Am. Conf. on Cosmochem of the Moon and Planets"
+        },
+        {
+          "key": "e_1_2_11_57_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/B978-0-444-53802-4.00167-6"
+        },
+        {
+          "key": "e_1_2_11_58_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB080i035p04932"
+        },
+        {
+          "key": "e_1_2_11_59_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB074i025p05981"
+        },
+        {
+          "key": "e_1_2_11_60_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB091iB04p0D277"
+        },
+        {
+          "key": "e_1_2_11_61_1",
+          "unstructured": "Moczo P. Kristek J. &Halada L.(2004).The Finite‐Difference methods for seismologist an introduction. ISBN 80‐223‐2000‐5."
+        },
+        {
+          "key": "e_1_2_11_62_1",
+          "first-page": "389",
+          "article-title": "Seismic energy transmission in an intensely scattering environment",
+          "volume": "43",
+          "author": "Nakamura Y.",
+          "year": "1977",
+          "journal-title": "Journal of Geophysics"
+        },
+        {
+          "key": "e_1_2_11_63_1",
+          "first-page": "30",
+          "volume-title": "A method for dynamic characteristics estimation of subsurface using microtremor on the ground surface",
+          "author": "Nakamura Y.",
+          "year": "1989"
+        },
+        {
+          "key": "e_1_2_11_64_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-1-4020-9196-4_4"
+        },
+        {
+          "key": "e_1_2_11_65_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00567507"
+        },
+        {
+          "key": "e_1_2_11_66_1",
+          "volume-title": "Passive seismic experiment long‐period event catalog",
+          "author": "Nakamura Y.",
+          "year": "1981"
+        },
+        {
+          "key": "e_1_2_11_67_1",
+          "unstructured": "NASA. (1970).Apollo 12 preliminary science report: Preliminary geologic investigations of the Apollo 12 landing site: Part A: Geology of the Apollo 12 landing site 113‐156. Retrieved fromhttps://www.hq.nasa.gov/alsj/a12/as12psr.pdf"
+        },
+        {
+          "key": "e_1_2_11_68_1",
+          "unstructured": "NASA. (1971).Apollo 14 preliminary science report: Preliminary geologic investigations of the Apollo 14 landing site 39. Retrieved fromhttps://www.hq.nasa.gov/alsj/a14/as14psr.pdf"
+        },
+        {
+          "key": "e_1_2_11_69_1",
+          "unstructured": "NASA. (1972a).Apollo 15 preliminary science report: Preliminary geologic investigations of the Apollo 15 landing site 5‐1. Retrieved fromhttps://www.history.nasa.gov/alsj/a15/as15psr.pdf"
+        },
+        {
+          "key": "e_1_2_11_70_1",
+          "unstructured": "NASA. (1972b).Apollo 16 preliminary science report: Preliminary geologic investigations of the Apollo 16 landing site 6‐1. Retrieved fromhttps://www.history.nasa.gov/alsj/a16/as16psr.pdf"
+        },
+        {
+          "key": "e_1_2_11_71_1",
+          "unstructured": "NASA. (1973).Apollo 17 preliminary science report: Lunar seismic profiling experiments 10‐1. Retrieved fromhttps://www.history.nasa.gov/alsj/a17/as17psr.pdf"
+        },
+        {
+          "key": "e_1_2_11_72_1",
+          "unstructured": "Noble S.(2009).The lunar regolith. Lunar regolith simulant workshop. Retrieved fromhttps://ntrs.nasa.gov/api/citations/20090026015/downloads/20090026015.pdf"
+        },
+        {
+          "key": "e_1_2_11_73_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4294/zisin1948.24.1_26"
+        },
+        {
+          "key": "e_1_2_11_74_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11214-020-00709-3"
+        },
+        {
+          "key": "e_1_2_11_75_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB092iB02p01397"
+        },
+        {
+          "key": "e_1_2_11_76_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0019-1035(91)90027-Q"
+        },
+        {
+          "key": "e_1_2_11_77_1",
+          "first-page": "1643",
+          "volume-title": "Proceedings of the second International Conference on Recent Advances in Geotechnical Earthquake Engineering and Soil Dynamics",
+          "author": "Ohmachi T.",
+          "year": "1991"
+        },
+        {
+          "key": "e_1_2_11_78_1",
+          "volume-title": "Farside Seismic Suite (FSS): First seismic data from the farside of the Moon delivered by a commercial lander",
+          "author": "Panning M. P.",
+          "year": "2021"
+        },
+        {
+          "key": "e_1_2_11_79_1",
+          "unstructured": "Plescia J.(2011).Artificial lunar impacts: Constraints on cratering mechanics. Paper presented at the 2011 Lunar Science Forum."
+        },
+        {
+          "key": "e_1_2_11_80_1",
+          "unstructured": "Rhian H. J.(2003).Encyclopedia of physical science and technology(3rd ed.). ISBN 978‐0‐12‐227410‐7."
+        },
+        {
+          "key": "e_1_2_11_81_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/0120170118"
+        },
+        {
+          "key": "e_1_2_11_82_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/0119990149"
+        },
+        {
+          "key": "e_1_2_11_83_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.soildyn.2004.11.003"
+        },
+        {
+          "key": "e_1_2_11_84_1",
+          "first-page": "1",
+          "article-title": "Possibility of the free‐oscillations of the surface‐layer excited by the seismic‐waves",
+          "volume": "8",
+          "author": "Sezawa K.",
+          "year": "1930",
+          "journal-title": "Bulletin of the Earthquake Research Institute, Tokyo Imperial University"
+        },
+        {
+          "key": "e_1_2_11_85_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/BSSA0780020451"
+        },
+        {
+          "key": "e_1_2_11_86_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1134/S0038094614050050"
+        },
+        {
+          "key": "e_1_2_11_87_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11214-009-9512-y"
+        },
+        {
+          "key": "e_1_2_11_88_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.chemgeo.2018.02.009"
+        },
+        {
+          "key": "e_1_2_11_89_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/2016GL070883"
+        },
+        {
+          "key": "e_1_2_11_90_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/BSSA0860061733"
+        },
+        {
+          "key": "e_1_2_11_91_1",
+          "volume-title": "Geology of the Apollo 14 landing site in the Fra Mauro highlands",
+          "author": "Sutton G. H.",
+          "year": "1977"
+        },
+        {
+          "key": "e_1_2_11_92_1",
+          "unstructured": "Swann G. A. Bailey N. G. Batson R. M. Eggleton R. E. Hait M. H. Holt H. E. et al. (1977).Geology of the Apollo 14 landing site. Geological Survey Professional Paper 880 Retrieved fromhttps://pubs.usgs.gov/pp/0880/report.pdf"
+        },
+        {
+          "key": "e_1_2_11_93_1",
+          "first-page": "2577",
+          "article-title": "Elastic properties of Apollo 14 and 15 rocks",
+          "volume": "3",
+          "author": "Todd T.",
+          "year": "1972",
+          "journal-title": "Lunar and Planetary Science Conference Proceedings"
+        },
+        {
+          "key": "e_1_2_11_94_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/2017GL074120"
+        },
+        {
+          "key": "e_1_2_11_95_1",
+          "volume-title": "Lunar Active Seismic Profiler (LASP): Investigation of shallow regolith layer for resource exploration and base camp construction",
+          "author": "Tsuji T.",
+          "year": "2018"
+        },
+        {
+          "key": "e_1_2_11_96_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1190/1.1442147"
+        },
+        {
+          "key": "e_1_2_11_97_1",
+          "first-page": "80",
+          "volume-title": "Data user’s note – Apollo seismological investigations",
+          "author": "Vostreys R.",
+          "year": "1980"
+        },
+        {
+          "key": "e_1_2_11_98_1",
+          "first-page": "2327",
+          "article-title": "Elastic properties of Apollo 12 rocks",
+          "volume": "2",
+          "author": "Wang H.",
+          "year": "1971",
+          "journal-title": "Lunar and Planetary Science Conference Proceedings"
+        },
+        {
+          "key": "e_1_2_11_99_1",
+          "first-page": "2561",
+          "article-title": "Seismic investigation of the lunar regolith. Proceedings of the",
+          "volume": "4",
+          "author": "Watkins J. S.",
+          "year": "1973",
+          "journal-title": "Lunar Science Conference"
+        },
+        {
+          "key": "e_1_2_11_100_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1199375"
+        },
+        {
+          "key": "e_1_2_11_101_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40623-018-0937-y"
+        },
+        {
+          "key": "e_1_2_11_102_1",
+          "volume-title": "The geological history of the Moon",
+          "author": "Wilhelms D. E.",
+          "year": "1987"
+        },
+        {
+          "key": "e_1_2_11_103_1",
+          "volume-title": "52nd Lunar and Planetary Science Conference",
+          "author": "Xiao W.",
+          "year": "2021"
+        },
+        {
+          "key": "e_1_2_11_104_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/BSSA0830051595"
+        },
+        {
+          "key": "e_1_2_11_105_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.soildyn.2012.03.003"
+        }
+      ],
+      "container-title": [
+        "Journal of Geophysical Research: Planets"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2022JE007396",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2022JE007396",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022JE007396",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            19
+          ]
+        ],
+        "date-time": "2023-08-19T09:44:05Z",
+        "timestamp": 1692438245000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JE007396"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            9
+          ]
+        ]
+      },
+      "references-count": 104,
+      "journal-issue": {
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1029/2022JE007396"
+      ],
+      "URL": "https://doi.org/10.1029/2022je007396",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "2169-9097",
+        "2169-9100"
+      ],
+      "issn-type": [
+        {
+          "value": "2169-9097",
+          "type": "print"
+        },
+        {
+          "value": "2169-9100",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            9
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2022-05-25",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2022-08-31",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2022-09-11",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "e2022JE007396"
+    },
+    "bibtex": " @article{Amrouche_2022, title={Effects of Lunar Near‐Surface Geology on Moonquakes Ground Motion Amplification}, volume={127}, ISSN={2169-9100}, url={http://dx.doi.org/10.1029/2022JE007396}, DOI={10.1029/2022je007396}, number={9}, journal={Journal of Geophysical Research: Planets}, publisher={American Geophysical Union (AGU)}, author={Amrouche, Mohamed and Weber, Renee C. and Schmerr, Nicholas and Iqbal, Wajiha}, year={2022}, month=Sept }\n"
+  },
+  {
+    "doi": "10.1029/2022JE007222",
+    "status": "metadata_verified_crossref",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            10
+          ]
+        ],
+        "date-time": "2026-07-10T00:21:26Z",
+        "timestamp": 1783642886238,
+        "version": "3.55.0"
+      },
+      "reference-count": 61,
+      "publisher": "American Geophysical Union (AGU)",
+      "issue": "11",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                10,
+                29
+              ]
+            ],
+            "date-time": "2022-10-29T00:00:00Z",
+            "timestamp": 1667001600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100001809",
+          "name": "National Natural Science Foundation of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "41941002"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "41941002"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001809",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100001809",
+          "name": "National Natural Science Foundation of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "42204178"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "42204178"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001809",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100002858",
+          "name": "China Postdoctoral Science Foundation",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "2021M703193"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2021M703193"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100002858",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "agupubs.onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "JGR Planets"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            11
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Experiencing heavy impacting, the Moon preserves a megaregolith in its shallow subsurface with physical properties that carry implications for lunar history. A strong scattering of seismic waves associated with the heterogeneous lunar megaregolith appears to be systematic, but deriving a statistical law of the random heterogeneities has remained elusive. Apollo seismic data are characterized by ultra‐long coda waves with weak amplitude decay that provide an opportunity to explore the extent of heterogeneity in the lunar crust. We obtain by numerical simulation the appropriate parameters for seismic velocity and density perturbation of the shallow lunar crust that match Apollo seismic data. The perturbations of the shallow lunar crust identified here, which are at least 50%, are much larger than previously thought. This physical behavior thus both confirms a strongly heterogeneous surface layer as well as provides a new constraint on the structural characteristics of the megaregolith.</jats:p>",
+      "DOI": "10.1029/2022je007222",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            25
+          ]
+        ],
+        "date-time": "2022-10-25T06:34:40Z",
+        "timestamp": 1666679680000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 15,
+      "title": [
+        "Strong Heterogeneity in Shallow Lunar Subsurface Detected by Apollo Seismic Data"
+      ],
+      "prefix": "10.1029",
+      "volume": "127",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2573-2905",
+          "authenticated-orcid": false,
+          "given": "Xiang",
+          "family": "Zhang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Engineering Laboratory for Deep Resources Equipment and Technology Institute of Geology and Geophysics Chinese Academy of Sciences  Beijing China"
+            },
+            {
+              "name": "Key Laboratory of Earth and Planetary Physics Institute of Geology and Geophysics Chinese Academy of Sciences  Beijing China"
+            },
+            {
+              "name": "Now at Institut de physique du globe de Paris CNRS Université Paris Cité  Paris France"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6067-3325",
+          "authenticated-orcid": false,
+          "given": "Lei",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Engineering Laboratory for Deep Resources Equipment and Technology Institute of Geology and Geophysics Chinese Academy of Sciences  Beijing China"
+            },
+            {
+              "name": "Key Laboratory of Earth and Planetary Physics Institute of Geology and Geophysics Chinese Academy of Sciences  Beijing China"
+            },
+            {
+              "name": "Innovation Academy for Earth Science Chinese Academy of Sciences  Beijing China"
+            },
+            {
+              "name": "College of Earth and Planetary Sciences University of Chinese Academy of Sciences  Beijing China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6314-5299",
+          "authenticated-orcid": false,
+          "given": "Jinhai",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Engineering Laboratory for Deep Resources Equipment and Technology Institute of Geology and Geophysics Chinese Academy of Sciences  Beijing China"
+            },
+            {
+              "name": "Key Laboratory of Earth and Planetary Physics Institute of Geology and Geophysics Chinese Academy of Sciences  Beijing China"
+            },
+            {
+              "name": "Innovation Academy for Earth Science Chinese Academy of Sciences  Beijing China"
+            },
+            {
+              "name": "College of Earth and Planetary Sciences University of Chinese Academy of Sciences  Beijing China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ross N.",
+          "family": "Mitchell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Earth and Planetary Sciences University of Chinese Academy of Sciences  Beijing China"
+            },
+            {
+              "name": "State Key Laboratory of Lithospheric Evolution Institute of Geology and Geophysics Chinese Academy of Sciences  Beijing China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "13",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            29
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_8_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB080i023p03322"
+        },
+        {
+          "key": "e_1_2_8_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2011je004042"
+        },
+        {
+          "key": "e_1_2_8_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2006je002847"
+        },
+        {
+          "key": "e_1_2_8_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2005je002414"
+        },
+        {
+          "key": "e_1_2_8_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/jb090is02p0c811"
+        },
+        {
+          "key": "e_1_2_8_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/physrevb.36.6782"
+        },
+        {
+          "key": "e_1_2_8_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00565388"
+        },
+        {
+          "key": "e_1_2_8_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2020GL089264"
+        },
+        {
+          "key": "e_1_2_8_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0031-9201(81)90046-7"
+        },
+        {
+          "key": "e_1_2_8_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB091iB06p06465"
+        },
+        {
+          "key": "e_1_2_8_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2011.06.015"
+        },
+        {
+          "key": "e_1_2_8_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11214-019-0613-y"
+        },
+        {
+          "key": "e_1_2_8_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2016.11.001"
+        },
+        {
+          "key": "e_1_2_8_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1945-5100.2003.tb01043.x"
+        },
+        {
+          "key": "e_1_2_8_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/387145a0"
+        },
+        {
+          "key": "e_1_2_8_17_1",
+          "volume-title": "Lunar sourcebook: A user's guide to the moon",
+          "author": "Heiken G.",
+          "year": "1991"
+        },
+        {
+          "key": "e_1_2_8_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pss.2012.08.019"
+        },
+        {
+          "key": "e_1_2_8_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.6038/cjg20150519"
+        },
+        {
+          "key": "e_1_2_8_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1785/0120210253ff"
+        },
+        {
+          "key": "e_1_2_8_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2001JE001658"
+        },
+        {
+          "key": "e_1_2_8_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.167.3918.455"
+        },
+        {
+          "key": "e_1_2_8_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-021-04100-2"
+        },
+        {
+          "key": "e_1_2_8_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41561-020-0536-y"
+        },
+        {
+          "key": "e_1_2_8_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/s0012-821x(03)00172-9"
+        },
+        {
+          "key": "e_1_2_8_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.icarus.2020.113896"
+        },
+        {
+          "key": "e_1_2_8_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0065-2687(08)00001-0"
+        },
+        {
+          "key": "e_1_2_8_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.1998.tb07142.x"
+        },
+        {
+          "key": "e_1_2_8_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1130/g39375.1"
+        },
+        {
+          "key": "e_1_2_8_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.xinn.2021.100177"
+        },
+        {
+          "key": "e_1_2_8_31_1",
+          "volume-title": "Carbonate cementation in sandstones: Distribution patterns and geochemical evolution",
+          "author": "Morad S.",
+          "year": "2009"
+        },
+        {
+          "key": "e_1_2_8_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0889-5406(90)70025-8"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_8_33_1",
+          "first-page": "389",
+          "article-title": "Seismic energy transmission in an intensively scattering environment",
+          "volume": "43",
+          "author": "Nakamura Y.",
+          "year": "1977",
+          "journal-title": "Journal of Geophysics Zeitschrift Geophysik"
+        },
+        {
+          "key": "e_1_2_8_34_1",
+          "unstructured": "Nakamura Y.(1978).A1 moonquakes—Source distribution and mechanism. InLunar and planetary science conference proceedings volume 9 of lunar and planetary science conference proceedings(pp.3589–3607)."
+        },
+        {
+          "key": "e_1_2_8_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pepi.2003.07.017"
+        },
+        {
+          "key": "e_1_2_8_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00567507"
+        },
+        {
+          "key": "e_1_2_8_37_1",
+          "unstructured": "Nakamura Y. Latham G. V. Dorman H. J. Ibrahim A. &Horvath P.(1979).Shallow moonquakes: Depth distribution and implications as to the present state of the lunar interior. InLunar and planetary science conference proceedings."
+        },
+        {
+          "key": "e_1_2_8_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.2006.03123.x"
+        },
+        {
+          "key": "e_1_2_8_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5194/se-5-425-2014"
+        },
+        {
+          "key": "e_1_2_8_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-246X.2006.03121.x"
+        },
+        {
+          "key": "e_1_2_8_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.3560482"
+        },
+        {
+          "key": "e_1_2_8_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11214-020-00709-3"
+        },
+        {
+          "key": "e_1_2_8_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/gji/ggt043"
+        },
+        {
+          "key": "e_1_2_8_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/2014GL059478"
+        },
+        {
+          "key": "e_1_2_8_45_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0734-743X(87)90064-9"
+        },
+        {
+          "key": "e_1_2_8_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.epsl.2007.05.038"
+        },
+        {
+          "key": "e_1_2_8_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2020JE006406"
+        },
+        {
+          "key": "e_1_2_8_48_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-642-23029-5"
+        },
+        {
+          "key": "e_1_2_8_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-021-04119-5"
+        },
+        {
+          "key": "e_1_2_8_50_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/gji/ggs094"
+        },
+        {
+          "key": "e_1_2_8_51_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JB092iB05p03453"
+        },
+        {
+          "key": "e_1_2_8_52_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/CBO9781107300668.013"
+        },
+        {
+          "key": "e_1_2_8_53_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1199375"
+        },
+        {
+          "key": "e_1_2_8_54_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/JZ070i020p05099"
+        },
+        {
+          "key": "e_1_2_8_55_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1190/1.1441934"
+        },
+        {
+          "key": "e_1_2_8_56_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/94GL00772"
+        },
+        {
+          "key": "e_1_2_8_57_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1190/geo2012-0277.1"
+        },
+        {
+          "key": "e_1_2_8_58_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41550-020-1197-x"
+        },
+        {
+          "key": "e_1_2_8_59_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/grl.50988"
+        },
+        {
+          "key": "e_1_2_8_60_1",
+          "volume-title": "1‐D lunar velocity and density model and heterogeneities files; synthetic seismic data",
+          "author": "Zhang X.",
+          "year": "2021"
+        },
+        {
+          "key": "e_1_2_8_61_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/rs13153017"
+        },
+        {
+          "key": "e_1_2_8_62_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pss.2009.02.002"
+        }
+      ],
+      "container-title": [
+        "Journal of Geophysical Research: Planets"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2022JE007222",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2022JE007222",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022JE007222",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            27
+          ]
+        ],
+        "date-time": "2024-03-27T03:20:14Z",
+        "timestamp": 1711509614000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JE007222"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            29
+          ]
+        ]
+      },
+      "references-count": 61,
+      "journal-issue": {
+        "issue": "11",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              11
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1029/2022JE007222"
+      ],
+      "URL": "https://doi.org/10.1029/2022je007222",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "2169-9097",
+        "2169-9100"
+      ],
+      "issn-type": [
+        {
+          "value": "2169-9097",
+          "type": "print"
+        },
+        {
+          "value": "2169-9100",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            29
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2022-01-28",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2022-10-18",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2022-10-29",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "e2022JE007222"
+    },
+    "bibtex": " @article{Zhang_2022, title={Strong Heterogeneity in Shallow Lunar Subsurface Detected by Apollo Seismic Data}, volume={127}, ISSN={2169-9100}, url={http://dx.doi.org/10.1029/2022JE007222}, DOI={10.1029/2022je007222}, number={11}, journal={Journal of Geophysical Research: Planets}, publisher={American Geophysical Union (AGU)}, author={Zhang, Xiang and Zhang, Lei and Zhang, Jinhai and Mitchell, Ross N.}, year={2022}, month=Oct }\n"
+  },
+  {
+    "doi": "10.3847/PSJ/ad83d2",
+    "status": "metadata_verified_crossref",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2026-10-10T21:28:42Z",
+        "timestamp": 1791667722230,
+        "version": "4.3.4"
+      },
+      "reference-count": 56,
+      "publisher": "American Astronomical Society",
+      "issue": "11",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                15
+              ]
+            ],
+            "date-time": "2024-11-15T00:00:00Z",
+            "timestamp": 1731628800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 14,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                15
+              ]
+            ],
+            "date-time": "2024-11-15T00:00:00Z",
+            "timestamp": 1731628800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 14,
+          "URL": "https://iopscience.iop.org/info/page/text-and-data-mining"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100000104",
+          "name": "National Aeronautics and Space Administration",
+          "doi-asserted-by": "crossref",
+          "award": [
+            "811073.02.39.02.08"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "811073.02.39.02.08"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000104",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "iopscience.iop.org"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Planet. Sci. J."
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>During the Apollo missions, used spacecraft were deliberately crashed into the Moon to provide large signals for the seismic experiments. We use AxiSEM3D and a variety of 1D and 3D models to model these impacts and propagate seismic waves across the Moon in 3D. Simulations using a smoothly varying background model, which include scattering heterogeneities to 50 km depth, reproduced some of the observations, especially farther from the source. These simulations have an emergent onset and an increase and decay in the seismic envelope. However, close to the source (&lt;15°), the simulations include a large-amplitude surface wave, which is inconsistent with the observations. Traditionally, artificial and meteoroid impacts on the Moon have been considered to have P and S phases. However, a true S phase may be absent. Previous authors have treated artificial or meteoroid impacts on airless bodies as explosions. A shear wave traveling directly from the source is not expected from an explosion. Instead, the small change of the slope of the seismic envelope may be explained by either a PS phase or scattered phases of P-to-SV conversions that start to dominate the seismogram. The locations of the artificial impacts are well known in comparison with other types of events. Due to their shallow paths, they are also ideal for constraining the near-surface layers. Understanding how the seismic waves propagate within the highly complex near-surface layers will also lead to a better understanding of how the waves propagate beneath them, as well as better results from future missions.</jats:p>",
+      "DOI": "10.3847/psj/ad83d2",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            15
+          ]
+        ],
+        "date-time": "2024-11-15T18:06:26Z",
+        "timestamp": 1731693986000
+      },
+      "page": "246",
+      "update-policy": "https://doi.org/10.1088/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 8,
+      "title": [
+        "Artificial Impacts on the Moon: Modeling 3D Seismic Propagation Effects with AxiSEM3D"
+      ],
+      "prefix": "10.3847",
+      "volume": "5",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5647-8001",
+          "authenticated-orcid": true,
+          "given": "Ceri",
+          "family": "Nunn",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7321-8401",
+          "authenticated-orcid": false,
+          "given": "Benjamin A.",
+          "family": "Fernando",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2041-3190",
+          "authenticated-orcid": false,
+          "given": "Mark P.",
+          "family": "Panning",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "2208",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            15
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "psjad83d2bib1",
+          "doi-asserted-by": "publisher",
+          "first-page": "5869",
+          "DOI": "10.1029/JB083iB12p05869",
+          "volume": "83",
+          "author": "Anderson",
+          "year": "1978",
+          "journal-title": "JGR"
+        },
+        {
+          "key": "psjad83d2bib2",
+          "doi-asserted-by": "publisher",
+          "first-page": "530",
+          "DOI": "10.1785/gssrl.81.3.530",
+          "volume": "81",
+          "author": "Beyreuther",
+          "year": "2010",
+          "journal-title": "SeiRL"
+        },
+        {
+          "key": "psjad83d2bib3",
+          "doi-asserted-by": "publisher",
+          "first-page": "E06003",
+          "DOI": "10.1029/2011JE004042",
+          "volume": "117",
+          "author": "Blanchette-Guertin",
+          "year": "2012",
+          "journal-title": "JGRE"
+        },
+        {
+          "key": "psjad83d2bib4",
+          "doi-asserted-by": "publisher",
+          "first-page": "291",
+          "DOI": "10.1029/RG012i003p00291",
+          "volume": "12",
+          "author": "Cooper",
+          "year": "1974",
+          "journal-title": "RvGeo"
+        },
+        {
+          "key": "psjad83d2bib5",
+          "doi-asserted-by": "publisher",
+          "first-page": "154",
+          "DOI": "10.1785/gssrl.70.2.154",
+          "volume": "70",
+          "author": "Crotwell",
+          "year": "1999",
+          "journal-title": "SeiRL"
+        },
+        {
+          "key": "psjad83d2bib6",
+          "doi-asserted-by": "publisher",
+          "first-page": "11",
+          "DOI": "10.1007/BF00565388",
+          "volume": "9",
+          "author": "Dainty",
+          "year": "1974",
+          "journal-title": "Moon"
+        },
+        {
+          "key": "psjad83d2bib7",
+          "first-page": "3057",
+          "volume": "7",
+          "author": "Dainty",
+          "year": "1976",
+          "journal-title": "LPSC"
+        },
+        {
+          "key": "psjad83d2bib8",
+          "doi-asserted-by": "publisher",
+          "first-page": "e2023GL104601",
+          "DOI": "10.1029/2023GL104601",
+          "volume": "50",
+          "author": "Drilleau",
+          "year": "2023",
+          "journal-title": "GeoRL"
+        },
+        {
+          "key": "psjad83d2bib9",
+          "doi-asserted-by": "publisher",
+          "first-page": "1178",
+          "DOI": "10.1093/gji/ggaa248",
+          "volume": "222",
+          "author": "Fernando",
+          "year": "2020",
+          "journal-title": "GeoJI"
+        },
+        {
+          "key": "psjad83d2bib10",
+          "doi-asserted-by": "publisher",
+          "author": "Fernando",
+          "year": "2024",
+          "DOI": "10.31223/X5TH7P"
+        },
+        {
+          "key": "psjad83d2bib11",
+          "doi-asserted-by": "publisher",
+          "first-page": "156",
+          "DOI": "10.1093/gji/ggae144",
+          "volume": "238",
+          "author": "Froment",
+          "year": "2024",
+          "journal-title": "GeoJI"
+        },
+        {
+          "key": "psjad83d2bib12",
+          "first-page": "1324",
+          "volume": "55",
+          "author": "Gansler",
+          "year": "2024",
+          "journal-title": "LPSC"
+        },
+        {
+          "key": "psjad83d2bib13",
+          "doi-asserted-by": "publisher",
+          "first-page": "96",
+          "DOI": "10.1016/j.pepi.2011.06.015",
+          "volume": "188",
+          "author": "Garcia",
+          "year": "2011",
+          "journal-title": "PEPI"
+        },
+        {
+          "key": "psjad83d2bib14",
+          "doi-asserted-by": "publisher",
+          "first-page": "50",
+          "DOI": "10.1007/s11214-019-0613-y",
+          "volume": "215",
+          "author": "Garcia",
+          "year": "2019",
+          "journal-title": "SSRv"
+        },
+        {
+          "key": "psjad83d2bib15",
+          "doi-asserted-by": "publisher",
+          "first-page": "28",
+          "DOI": "10.1016/j.pepi.2016.11.001",
+          "volume": "262",
+          "author": "Gillet",
+          "year": "2017",
+          "journal-title": "PEPI"
+        },
+        {
+          "key": "psjad83d2bib16",
+          "doi-asserted-by": "publisher",
+          "first-page": "90",
+          "DOI": "10.1109/MCSE.2007.55",
+          "volume": "9",
+          "author": "Hunter",
+          "year": "2007",
+          "journal-title": "CSE"
+        },
+        {
+          "key": "psjad83d2bib17",
+          "doi-asserted-by": "publisher",
+          "first-page": "e2023GL103482",
+          "DOI": "10.1029/2023GL103482",
+          "volume": "50",
+          "author": "Kim",
+          "year": "2023",
+          "journal-title": "GeoRL"
+        },
+        {
+          "key": "psjad83d2bib18",
+          "doi-asserted-by": "publisher",
+          "first-page": "620",
+          "DOI": "10.1126/science.170.3958.620",
+          "volume": "170",
+          "author": "Latham",
+          "year": "1970a",
+          "journal-title": "Sci"
+        },
+        {
+          "key": "psjad83d2bib19",
+          "doi-asserted-by": "publisher",
+          "first-page": "396",
+          "DOI": "10.1007/BF00564643",
+          "volume": "7",
+          "author": "Latham",
+          "year": "1973",
+          "journal-title": "Moon"
+        },
+        {
+          "key": "psjad83d2bib20",
+          "doi-asserted-by": "publisher",
+          "first-page": "241",
+          "DOI": "10.1126/science.165.3890.241",
+          "volume": "165",
+          "author": "Latham",
+          "year": "1969",
+          "journal-title": "Sci"
+        },
+        {
+          "key": "psjad83d2bib21",
+          "doi-asserted-by": "publisher",
+          "first-page": "455",
+          "DOI": "10.1126/science.167.3918.455",
+          "volume": "167",
+          "author": "Latham",
+          "year": "1970b",
+          "journal-title": "Sci"
+        },
+        {
+          "key": "psjad83d2bib22",
+          "author": "Lay",
+          "year": "1995",
+          "edition": "1st ed."
+        },
+        {
+          "key": "psjad83d2bib23",
+          "doi-asserted-by": "publisher",
+          "first-page": "502",
+          "DOI": "10.1093/gji/ggaa331",
+          "volume": "223",
+          "author": "Leng",
+          "year": "2020",
+          "journal-title": "GeoJI"
+        },
+        {
+          "key": "psjad83d2bib24",
+          "doi-asserted-by": "publisher",
+          "first-page": "2125",
+          "DOI": "10.1093/gji/ggz092",
+          "volume": "217",
+          "author": "Leng",
+          "year": "2019",
+          "journal-title": "GeoJI"
+        },
+        {
+          "key": "psjad83d2bib25",
+          "doi-asserted-by": "publisher",
+          "first-page": "27",
+          "DOI": "10.1016/S0012-821X(03)00172-9",
+          "volume": "211",
+          "author": "Lognonne",
+          "year": "2003",
+          "journal-title": "E&PSL"
+        },
+        {
+          "key": "psjad83d2bib26",
+          "doi-asserted-by": "publisher",
+          "first-page": "47",
+          "DOI": "10.4401/ag-4838",
+          "volume": "54",
+          "author": "Megies",
+          "year": "2011",
+          "journal-title": "AnGp"
+        },
+        {
+          "key": "psjad83d2bib27",
+          "author": "Nakamura",
+          "year": "1981"
+        },
+        {
+          "key": "psjad83d2bib28",
+          "doi-asserted-by": "publisher",
+          "first-page": "E09005",
+          "DOI": "10.1029/2012JE004160",
+          "volume": "117",
+          "author": "Nimmo",
+          "year": "2012",
+          "journal-title": "JGRE"
+        },
+        {
+          "key": "psjad83d2bib29",
+          "volume": "DI51A–0012",
+          "author": "Nissen-Meyer",
+          "year": "2019",
+          "journal-title": "AGUFM"
+        },
+        {
+          "key": "psjad83d2bib30",
+          "doi-asserted-by": "publisher",
+          "first-page": "425",
+          "DOI": "10.5194/se-5-425-2014",
+          "volume": "5",
+          "author": "Nissen-Meyer",
+          "year": "2014",
+          "journal-title": "SolE"
+        },
+        {
+          "key": "psjad83d2bib31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7914/SN/XA_1969",
+          "author": "Nunn",
+          "year": "1969",
+          "unstructured": "Nunn C. 1969 Apollo Passive Seismic Experiments [Data set]. International Federation of Digital Seismograph Networks doi: 10.7914/SN/XA_1969"
+        },
+        {
+          "key": "psjad83d2bib32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.13821562",
+          "author": "Nunn",
+          "year": "2024",
+          "unstructured": "Nunn C. 2024 Impact_simulations, Version v1.0.0 Zenodo, doi: 10.5281/zenodo.13821562"
+        },
+        {
+          "key": "psjad83d2bib33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.13820195",
+          "author": "Nunn",
+          "year": "2024",
+          "unstructured": "Nunn C. Fernando B. A. Panning M. P. 2024 Artificial Impacts on the Moon: Modeling 3D Seismic Propagation Effects with AxiSEM3D—Electronic Supplement, v2 Zenodo, doi: 10.5281/zenodo.13820195"
+        },
+        {
+          "key": "psjad83d2bib34",
+          "doi-asserted-by": "publisher",
+          "first-page": "89",
+          "DOI": "10.1007/s11214-020-00709-3",
+          "volume": "216",
+          "author": "Nunn",
+          "year": "2020a",
+          "journal-title": "SSRv"
+        },
+        {
+          "key": "psjad83d2bib35",
+          "doi-asserted-by": "publisher",
+          "author": "Nunn",
+          "year": "2020b",
+          "DOI": "10.5281/zenodo.1463224"
+        },
+        {
+          "key": "psjad83d2bib36",
+          "doi-asserted-by": "publisher",
+          "first-page": "219",
+          "DOI": "10.3847/PSJ/ac87af",
+          "volume": "3",
+          "author": "Nunn",
+          "year": "2022",
+          "journal-title": "PSJ"
+        },
+        {
+          "key": "psjad83d2bib37",
+          "doi-asserted-by": "publisher",
+          "first-page": "e06406",
+          "DOI": "10.1029/2020JE006406",
+          "volume": "126",
+          "author": "Onodera",
+          "year": "2021",
+          "journal-title": "JGRE"
+        },
+        {
+          "key": "psjad83d2bib38",
+          "doi-asserted-by": "publisher",
+          "first-page": "e2022JE007558",
+          "DOI": "10.1029/2022JE007558",
+          "volume": "127",
+          "author": "Onodera",
+          "year": "2022",
+          "journal-title": "JGRE"
+        },
+        {
+          "key": "psjad83d2bib39",
+          "doi-asserted-by": "publisher",
+          "first-page": "e2022GL102716",
+          "DOI": "10.1029/2022GL102716",
+          "volume": "50",
+          "author": "Onodera",
+          "year": "2023",
+          "journal-title": "GeoRL"
+        },
+        {
+          "key": "psjad83d2bib40",
+          "author": "Orloff",
+          "year": "2013"
+        },
+        {
+          "key": "psjad83d2bib41",
+          "first-page": "2354",
+          "volume": "55",
+          "author": "Panning",
+          "year": "2024",
+          "journal-title": "LPSC"
+        },
+        {
+          "key": "psjad83d2bib42",
+          "doi-asserted-by": "publisher",
+          "first-page": "1107",
+          "DOI": "10.1785/BSSA0860041107",
+          "volume": "86",
+          "author": "Papanicolaou",
+          "year": "1996",
+          "journal-title": "BuSSA"
+        },
+        {
+          "key": "psjad83d2bib43",
+          "doi-asserted-by": "publisher",
+          "first-page": "15",
+          "DOI": "10.1016/j.pss.2016.01.002",
+          "volume": "124",
+          "author": "Plescia",
+          "year": "2016",
+          "journal-title": "P&SS"
+        },
+        {
+          "key": "psjad83d2bib44",
+          "volume": "6010",
+          "author": "Schmerr",
+          "year": "2024",
+          "journal-title": "Mars Interior and Geophysics after InSight"
+        },
+        {
+          "key": "psjad83d2bib45",
+          "doi-asserted-by": "publisher",
+          "first-page": "2010GL043751",
+          "DOI": "10.1029/2010GL043751",
+          "volume": "37",
+          "author": "Smith",
+          "year": "2010",
+          "journal-title": "GeoRL"
+        },
+        {
+          "key": "psjad83d2bib46",
+          "doi-asserted-by": "publisher",
+          "first-page": "10,078",
+          "DOI": "10.1002/2016GL070883",
+          "volume": "43",
+          "author": "Sollberger",
+          "year": "2016",
+          "journal-title": "GeoRL"
+        },
+        {
+          "key": "psjad83d2bib47",
+          "author": "Stein",
+          "year": "2003"
+        },
+        {
+          "key": "psjad83d2bib48",
+          "doi-asserted-by": "publisher",
+          "first-page": "98",
+          "DOI": "10.1016/j.icarus.2019.05.002",
+          "volume": "331",
+          "author": "Stooke",
+          "year": "2019",
+          "journal-title": "Icar"
+        },
+        {
+          "key": "psjad83d2bib49",
+          "doi-asserted-by": "publisher",
+          "first-page": "459",
+          "DOI": "10.1093/gji/ggv038",
+          "volume": "201",
+          "author": "Takemura",
+          "year": "2015",
+          "journal-title": "GeoJI"
+        },
+        {
+          "key": "psjad83d2bib50",
+          "doi-asserted-by": "publisher",
+          "first-page": "70",
+          "DOI": "10.1016/j.pepi.2011.03.004",
+          "volume": "186",
+          "author": "Teanby",
+          "year": "2011",
+          "journal-title": "PEPI"
+        },
+        {
+          "key": "psjad83d2bib51",
+          "doi-asserted-by": "publisher",
+          "first-page": "nwad329",
+          "DOI": "10.1093/nsr/nwad329",
+          "volume": "11",
+          "author": "Wang",
+          "year": "2024",
+          "journal-title": "NSRev"
+        },
+        {
+          "key": "psjad83d2bib52",
+          "doi-asserted-by": "publisher",
+          "first-page": "1271",
+          "DOI": "10.1093/gji/ggs094",
+          "volume": "192",
+          "author": "Wang",
+          "year": "2013",
+          "journal-title": "GeoJI"
+        },
+        {
+          "key": "psjad83d2bib53",
+          "doi-asserted-by": "publisher",
+          "first-page": "22",
+          "DOI": "10.3847/PSJ/ad1332",
+          "volume": "5",
+          "author": "Watters",
+          "year": "2024",
+          "journal-title": "PSJ"
+        },
+        {
+          "key": "psjad83d2bib54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.997347",
+          "author": "Wieczorek",
+          "year": "2017",
+          "unstructured": "Wieczorek M. 2017 GRAIL Crustal Thickness Archive Zenodo, doi: 10.5281/zenodo.997347"
+        },
+        {
+          "key": "psjad83d2bib55",
+          "doi-asserted-by": "publisher",
+          "first-page": "671",
+          "DOI": "10.1126/science.1231530",
+          "volume": "339",
+          "author": "Wieczorek",
+          "year": "2013",
+          "journal-title": "Sci"
+        },
+        {
+          "key": "psjad83d2bib56",
+          "doi-asserted-by": "publisher",
+          "first-page": "e2022JE007222",
+          "DOI": "10.1029/2022JE007222",
+          "volume": "127",
+          "author": "Zhang",
+          "year": "2022",
+          "journal-title": "JGRE"
+        }
+      ],
+      "container-title": [
+        "The Planetary Science Journal"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "https://iopscience.iop.org/article/10.3847/PSJ/ad83d2",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.3847/PSJ/ad83d2/pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.3847/PSJ/ad83d2/pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.3847/PSJ/ad83d2/pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            15
+          ]
+        ],
+        "date-time": "2024-11-15T18:06:29Z",
+        "timestamp": 1731693989000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://iopscience.iop.org/article/10.3847/PSJ/ad83d2"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            1
+          ]
+        ]
+      },
+      "references-count": 56,
+      "journal-issue": {
+        "issue": "11",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              15
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              1
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.3847/psj/ad83d2",
+      "relation": {
+        "is-supplemented-by": [
+          {
+            "id-type": "doi",
+            "id": "10.5281/zenodo.13821562",
+            "asserted-by": "subject"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5281/zenodo.13820195",
+            "asserted-by": "subject"
+          }
+        ]
+      },
+      "ISSN": [
+        "2632-3338"
+      ],
+      "issn-type": [
+        {
+          "value": "2632-3338",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Artificial Impacts on the Moon: Modeling 3D Seismic Propagation Effects with AxiSEM3D",
+          "name": "article_title",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Planetary Science Journal",
+          "name": "journal_title",
+          "label": "Journal Title"
+        },
+        {
+          "value": "paper",
+          "name": "article_type",
+          "label": "Article Type"
+        },
+        {
+          "value": "© 2024. The Author(s). Published by the American Astronomical Society.",
+          "name": "copyright_information",
+          "label": "Copyright Information"
+        },
+        {
+          "value": "2024-02-20",
+          "name": "date_received",
+          "label": "Date Received",
+          "group": {
+            "name": "publication_dates",
+            "label": "Publication dates"
+          }
+        },
+        {
+          "value": "2024-10-02",
+          "name": "date_accepted",
+          "label": "Date Accepted",
+          "group": {
+            "name": "publication_dates",
+            "label": "Publication dates"
+          }
+        },
+        {
+          "value": "2024-11-15",
+          "name": "date_epub",
+          "label": "Online publication date",
+          "group": {
+            "name": "publication_dates",
+            "label": "Publication dates"
+          }
+        }
+      ]
+    },
+    "bibtex": " @article{Nunn_2024, title={Artificial Impacts on the Moon: Modeling 3D Seismic Propagation Effects with AxiSEM3D}, volume={5}, ISSN={2632-3338}, url={http://dx.doi.org/10.3847/PSJ/ad83d2}, DOI={10.3847/psj/ad83d2}, number={11}, journal={The Planetary Science Journal}, publisher={American Astronomical Society}, author={Nunn, Ceri and Fernando, Benjamin A. and Panning, Mark P.}, year={2024}, month=Nov, pages={246} }\n"
+  }
+]

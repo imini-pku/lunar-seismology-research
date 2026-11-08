@@ -1,0 +1,25 @@
+{
+  "filepath": "docs/waveform_cleaning_reference.bib",
+  "total_entries": 1,
+  "valid_entries": 1,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Zhang2025Cleaning: Missing recommended field \"pages\"",
+      "entry": "Zhang2025Cleaning"
+    }
+  ],
+  "duplicates": [],
+  "venue_standard_checked": null,
+  "min_count_checked": null,
+  "manuscript_results": {
+    "checked": false,
+    "manuscript_filepath": null,
+    "cited_keys": [],
+    "missing_keys": [],
+    "unused_keys": []
+  }
+}

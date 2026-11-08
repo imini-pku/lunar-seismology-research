@@ -1,0 +1,51 @@
+{
+  "comparison_level": "stored input, not complete published processing output",
+  "new_filter": false,
+  "resampling": false,
+  "normalization": false,
+  "mean_removal": false,
+  "time_shift": false,
+  "missing_display": "Nunn -1 -> NaN for drawing only; genuine zeros retained",
+  "cases": [
+    [
+      "A13SIVB",
+      "S12",
+      -60,
+      600,
+      "01_A13SIVB_S12_early",
+      "近零平台在两套存储输入中均可见；不能视为 Kim 新增或已修复的证据"
+    ],
+    [
+      "A13SIVB",
+      "S12",
+      240,
+      320,
+      "02_A13SIVB_S12_plateau",
+      "局部放大：保留真实零值；Nunn 的 −1 缺样码仅以断线显示"
+    ],
+    [
+      "A14SIVB",
+      "S12",
+      -60,
+      3600,
+      "03_A14SIVB_S12_coda",
+      "同一台站的长尾波对照；两列使用同一时间范围和同一纵轴范围"
+    ],
+    [
+      "A14LM",
+      "S14",
+      -60,
+      3600,
+      "04_A14LM_S14_coda",
+      "S14 尾波与突变的存储输入对照；此图不代表完成异常清洗"
+    ],
+    [
+      "A17LM",
+      "S14",
+      -60,
+      3600,
+      "05_A17LM_S14_missingZ",
+      "Nunn 输入未包含 MHZ，Kim 的 Z 来源尚待核实；不能自动视为补回有效垂直观测"
+    ]
+  ]
+}

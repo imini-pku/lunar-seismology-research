@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-29",
+  "bib_entries": 8,
+  "crossref_requests_initial_expected": 9,
+  "crossref_records_obtained": 8,
+  "errors_retained": [
+    {
+      "doi": "10.6038/cjg20150519",
+      "status": 404,
+      "resolution": "Primary publisher metadata verified; not fabricated as Crossref record"
+    }
+  ],
+  "publisher_enrichment": [
+    {
+      "doi": "10.1002/2015GL066151",
+      "pages": "10171--10178",
+      "source": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL066151"
+    },
+    {
+      "doi": "10.1002/2016GL070883",
+      "pages": "10078--10087",
+      "source": "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016GL070883"
+    },
+    {
+      "doi": "10.1029/2011JE004042",
+      "eid": "E06003",
+      "source": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JE007558",
+      "reason": "Crossref article-number was DOI manuscript code; journal reference lists agree on E06003"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿{
+  "manuscript": {
+    "before_pages": 17,
+    "after_pages": 17,
+    "pixel_identical": true,
+    "changed_pages": []
+  },
+  "supporting_information": {
+    "before_pages": 5,
+    "after_pages": 5,
+    "pixel_identical": true,
+    "changed_pages": []
+  },
+  "cover_letter": {
+    "before_pages": 1,
+    "after_pages": 1,
+    "pixel_identical": true,
+    "changed_pages": []
+  }
+}

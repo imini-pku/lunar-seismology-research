@@ -1,0 +1,7 @@
+Abstract words: 214 (limit 250)
+Plain Language Summary words: 135 (limit 200)
+Key points: 3 (required 1-3)
+Key point 1 characters: 92 (limit 140)
+Key point 2 characters: 103 (limit 140)
+Key point 3 characters: 75 (limit 140)
+Main figures found: 7/7

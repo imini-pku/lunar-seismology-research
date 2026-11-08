@@ -1,0 +1,33 @@
+﻿conclusion_id,title,takeaway,representative_stations,card_file,atlas_page,evidence_sources
+C01,随机散射稳定推迟能量峰值，但延迟依赖平滑尺度,同一代表台站在5、10、20周期平滑下都显示M2峰值晚于M1，但峰值位置会随平滑窗移动。,r39 · 射线1 · 38.0 km,cards\C01_scatter-tmax-smoothing.png,atlas\conclusion_evidence_atlas_page_01.png,station.nc + tmax_smoothing_sensitivity.csv
+C02,随机散射最稳定的表现是波列全面展宽,代表台站中M2主脉冲变宽、上升变慢且尾波更长，展宽不是单一数值造成的视觉假象。,r437 · 射线2 · 223.0 km,cards\C02_scatter-broadening.png,atlas\conclusion_evidence_atlas_page_01.png,station.nc + station_metrics.csv
+C03,随机散射降低主波幅、总能量和脉冲性,共享振幅尺度下，M2主脉冲和累计能量均低于M1，同时晚到能量比例增加。,r431 · 射线2 · 217.0 km,cards\C03_scatter-amplitude-energy-snr.png,atlas\conclusion_evidence_atlas_page_01.png,station.nc + station_metrics.csv
+C04,起伏地形造成有限展宽，但没有形成明显弥散尾波,M3相对M1的能量窗和拟合衰减时间增大，但差异主要位于低振幅尾部；该图支持弱地形多路径效应，不足以证明强随机散射。,r159 · 射线1 · 158.0 km,cards\C04_topography-scatter-like.png,atlas\conclusion_evidence_atlas_page_01.png,station.nc + station_metrics.csv
+C05,路径累计高差是最稳定的地形控制量,近似同距离的低高差和高高差台站形成鲜明对照：高高差路径上的M3波形畸变更强。,r274 · 射线2 · 60.0 km；r518 · 射线3 · 64.0 km,cards\C05_path-relief-control.png,atlas\conclusion_evidence_atlas_page_02.png,station.nc + terrain station metrics
+C06,平均坡度更接近完整波形畸变，而非单一到时,近似同距离台站表明，路径平均坡度增大时，振幅、尾波和包络宽度会一起改变。,r142 · 射线1 · 141.0 km；r595 · 射线3 · 141.0 km,cards\C06_mean-slope-waveform.png,atlas\conclusion_evidence_atlas_page_02.png,station.nc + terrain station metrics
+C07,地形与散射存在显著饱和型非加性耦合,同一台站的增量波形显示，地形在无散射背景中的影响明显大于其在散射背景中的附加影响。,r322 · 射线2 · 108.0 km,cards\C07_nonlinear-saturation.png,atlas\conclusion_evidence_atlas_page_02.png,station.nc + factorial station metrics
+C08,脉冲性 SNR 清楚区分四种模型,四模型归一化波形的尖锐程度依次分离：M1最集中，M4最弥散。,r365 · 射线2 · 151.0 km,cards\C08_model-snr-separation.png,atlas\conclusion_evidence_atlas_page_02.png,station.nc + station_metrics.csv
+C09,散射背景中地形的总体振幅/能量效应接近中性,两个代表台站分别显示M4相对M2聚焦和散焦，局部效应方向相反，因此总体中位数接近中性。,r582 · 射线3 · 128.0 km；r128 · 射线1 · 127.0 km,cards\C09_topography-neutral-median.png,atlas\conclusion_evidence_atlas_page_03.png,station.nc + station_metrics.csv
+C10,振幅、能量和持续时间的地形空间指纹可穿过散射背景,同一高起伏台站中，M3-M1与M4-M2都留下相似的振幅和尾波改造痕迹。,r324 · 射线2 · 110.0 km,cards\C10_terrain-signature-persistence.png,atlas\conclusion_evidence_atlas_page_03.png,station.nc + signature_persistence.csv
+C11,射线2是散射和地形共同作用最强的路径,三条射线各取代表台站后，射线2的M2相对M1包络展宽和尾波增强最突出。,r178 · 射线1 · 177.0 km；r368 · 射线2 · 154.0 km；r511 · 射线3 · 57.0 km,cards\C11_ray2-strongest.png,atlas\conclusion_evidence_atlas_page_03.png,station.nc + ray-wise effects
+C12,射线1振幅损失弱，但包络仍受地形影响,共享振幅尺度下M1/M3主脉冲接近，但M3包络更宽、尾波更持久。,r142 · 射线1 · 141.0 km,cards\C12_ray1-envelope-change.png,atlas\conclusion_evidence_atlas_page_03.png,station.nc + ray1 station metrics
+C13,高频尾波按秒衰减更快，但有效 Qc 随频率升高,同一台站三个频带的对数包络和拟合线直接显示：高频衰减斜率更陡，但频率因子使有效Qc升高。,r431 · 射线2 · 217.0 km,cards\C13_frequency-dependent-coda.png,atlas\conclusion_evidence_atlas_page_04.png,station.nc + frequency metrics
+C14,平坦散射模型表现出最强尾波频谱软化,M2晚窗相对早窗的频谱曲线向高频下降最明显，且对应波形尾部高频细节最先消失。,r491 · 射线3 · 37.0 km,cards\C14_spectral-softening.png,atlas\conclusion_evidence_atlas_page_04.png,station.nc + spectral station metrics
+C15,当前有效 Qc 不能解释为内禀吸收 Qi,同一条尾波在三个移动窗口得到明显不同的衰减斜率，说明有效Qc包含窗口和散射演化。,r544 · 射线3 · 90.0 km,cards\C15_qc-not-qi.png,atlas\conclusion_evidence_atlas_page_04.png,station.nc + moving-window coda fits
+C16,三条路径没有共享单一散射层转折距离,各射线在各自统计转折点前后的代表波形变化方式不同，不能归并成统一层厚。,r121 · 射线1 · 120.0 km；r137 · 射线1 · 136.0 km；r274 · 射线2 · 60.0 km；r290 · 射线2 · 76.0 km；r572 · 射线3 · 118.0 km；r588 · 射线3 · 134.0 km,cards\C16_no-common-breakpoint.png,atlas\conclusion_evidence_atlas_page_04.png,station.nc + breakpoints.csv
+C17,当前数据无法给出唯一地形影响“泄漏距离”,三条射线按各自最佳距离偏移后，地形扰动波形仍不能稳定对齐，且所需偏移方向不一致。,r108 · 射线1 · 107.0 km；r131 · 射线1 · 130.0 km；r335 · 射线2 · 121.0 km；r353 · 射线2 · 139.0 km；r531 · 射线3 · 77.0 km；r512 · 射线3 · 58.0 km,cards\C17_no-unique-spatial-lag.png,atlas\conclusion_evidence_atlas_page_05.png,station.nc + spatial_lags.csv
+C18,最可靠判据是包络展宽 + 脉冲性 + 路径地形,同一台站的四模型波形与路径地形放在一起后，可同时判断波列展宽、脉冲性和地形背景。,r347 · 射线2 · 133.0 km,cards\C18_combined-diagnostic.png,atlas\conclusion_evidence_atlas_page_05.png,station.nc + topography profile
+C19,真实A16S12三分量主频稳定集中在约0.43 Hz,观测三分量时序和频谱峰彼此一致，而模型S12平均频谱峰整体偏高。,真实A16S12；四模型S12,cards\C19_observed-dominant-frequency.png,atlas\conclusion_evidence_atlas_page_05.png,A16S12 three-component waveforms
+C20,初始能量时间大体相容，但包络演化完全不相容,观测和模型都在约80-100秒起振；此后模型迅速衰减而观测包络继续增强。,真实A16S12；四模型S12,cards\C20_onset-versus-envelope.png,atlas\conclusion_evidence_atlas_page_05.png,A16S12 + modeled S12 waveforms
+C21,观测三分量能量峰值远晚于所有模型,归一化三分量能量包络显示，模型峰值都在百秒内，观测峰值延迟至约六百秒以后。,真实A16S12；四模型S12,cards\C21_observed-tmax-gap.png,atlas\conclusion_evidence_atlas_page_06.png,A16S12 + modeled S12 envelopes
+C22,地形和随机散射只产生小幅峰值延迟,早期放大图中四模型峰值只相差数秒；完整时间轴上这一差异远小于观测峰值延迟。,真实A16S12；四模型S12,cards\C22_small-model-delays.png,atlas\conclusion_evidence_atlas_page_06.png,A16S12 + modeled S12 envelopes
+C23,观测上升过程比模型长一个至两个数量级,从5%累计能量到包络峰值的阴影区间显示，观测跨越数百秒，模型仅跨越数秒到十余秒。,真实A16S12；四模型S12,cards\C23_rise-duration-gap.png,atlas\conclusion_evidence_atlas_page_06.png,A16S12 cumulative energy + envelopes
+C24,随机散射延长合成尾波，但强度仍不足,累积能量曲线中M2/M4晚于M1到达95%，但仍在约160秒结束，远早于观测。,真实A16S12；四模型S12,cards\C24_scatter-extends-t95.png,atlas\conclusion_evidence_atlas_page_06.png,A16S12 cumulative energy
+C25,地形单独作用的尾波延长弱于当前随机散射,合成记录累积能量曲线显示M3最接近M1，M2和M4的尾部延长更明显。,四模型S12,cards\C25_topography-weaker-than-scatter.png,atlas\conclusion_evidence_atlas_page_07.png,modeled S12 cumulative energy
+C26,真实记录前250 s仅包含约3.98%的总能量,观测波形、包络和累积能量共同显示，250秒截点只覆盖初始波列，主要能量仍在其后。,真实A16S12,cards\C26_observed-energy-fraction.png,atlas\conclusion_evidence_atlas_page_07.png,A16S12 waveform and cumulative energy
+C27,统一源能量后，早期相位波形相似性仍很低,三个分量逐一叠加后，四模型都无法跟随观测的相位和振幅起伏，差异不是单一分量造成。,真实A16S12；四模型S12,cards\C27_low-waveform-similarity.png,atlas\conclusion_evidence_atlas_page_07.png,source-matched A16S12 waveforms
+C28,早期三分量包络甚至呈负相关,观测包络在模型主脉冲衰减时仍继续增强，峰谷关系相反；小幅时移不能改变整体趋势。,真实A16S12；四模型S12,cards\C28_negative-envelope-correlation.png,atlas\conclusion_evidence_atlas_page_07.png,source-matched A16S12 envelopes
+C29,12组距离关系全部支持线性而非R²形式,波形剖面的能量脊随距离近似直线移动；线性轨迹沿脊通过，而R²轨迹系统弯离。,三条射线波形剖面；四模型拟合轨迹,cards\C29_linear-beats-diffusion.png,atlas\conclusion_evidence_atlas_page_08.png,station.nc + peak-time fits
+C30,当前模拟仍由弹道传播主导,射线2波形剖面的主脉冲形成清晰直线到时脊，扩散型曲线不能沿主能量传播。,射线2 M1波形剖面,cards\C30_ballistic-dominance.png,atlas\conclusion_evidence_atlas_page_08.png,station.nc + peak-time fits
+C31,真实S12单点不能建立观测距离幂律,合成波形提供完整距离剖面，而真实数据仅在约152千米处提供一条长尾记录，无法拟合距离趋势。,射线2合成剖面；真实S12单点,cards\C31_single-observed-anchor.png,atlas\conclusion_evidence_atlas_page_08.png,synthetic waveform section + A16S12
+C32,下一步应延长记录并重构散射层，而非只调源振幅,同一时间轴上，四模型在250秒终止而观测持续至3000秒以上，延长记录是检验长尾机制的前提。,真实A16S12；四模型S12,cards\C32_extend-synthetics.png,atlas\conclusion_evidence_atlas_page_08.png,A16S12 + modeled S12 envelopes

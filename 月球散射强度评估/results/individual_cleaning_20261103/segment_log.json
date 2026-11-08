@@ -1,0 +1,2234 @@
+[
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.858830695331,
+    "edge_each_side_s": 126.03349950154899,
+    "status": "ok",
+    "record": "A12LM_S12_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 14052,
+    "duration_s": 2120.9853113721756,
+    "edge_each_side_s": 63.69597220317805,
+    "status": "ok",
+    "record": "A12LM_S12_MH1"
+  },
+  {
+    "start_index": 14082,
+    "stop_index": 24889,
+    "duration_s": 1631.1904540278324,
+    "edge_each_side_s": 49.054954895812486,
+    "status": "ok",
+    "record": "A12LM_S12_MH1"
+  },
+  {
+    "start_index": 24949,
+    "stop_index": 27825,
+    "duration_s": 434.0986162472514,
+    "edge_each_side_s": 20.074796926594033,
+    "status": "ok",
+    "record": "A12LM_S12_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 14049,
+    "duration_s": 2120.532496404106,
+    "edge_each_side_s": 63.695972203184056,
+    "status": "ok",
+    "record": "A12LM_S12_MH2"
+  },
+  {
+    "start_index": 14079,
+    "stop_index": 24889,
+    "duration_s": 1631.643268996255,
+    "edge_each_side_s": 49.054954895817104,
+    "status": "ok",
+    "record": "A12LM_S12_MH2"
+  },
+  {
+    "start_index": 24945,
+    "stop_index": 27825,
+    "duration_s": 434.7023695383177,
+    "edge_each_side_s": 20.074796926595923,
+    "status": "ok",
+    "record": "A12LM_S12_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 4708,
+    "duration_s": 710.6122358943521,
+    "edge_each_side_s": 21.43307933241249,
+    "status": "ok",
+    "record": "A13SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 4864,
+    "stop_index": 5306,
+    "duration_s": 66.7142328515938,
+    "edge_each_side_s": 20.07464472683705,
+    "status": "ok",
+    "record": "A13SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 5814,
+    "stop_index": 27825,
+    "duration_s": 3322.278233702333,
+    "edge_each_side_s": 99.76947492059617,
+    "status": "ok",
+    "record": "A13SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 4706,
+    "duration_s": 710.3103615375576,
+    "edge_each_side_s": 21.43307933241249,
+    "status": "ok",
+    "record": "A13SIVB_S12_MH1"
+  },
+  {
+    "start_index": 4722,
+    "stop_index": 5339,
+    "duration_s": 93.12823907111624,
+    "edge_each_side_s": 20.07464472683705,
+    "status": "ok",
+    "record": "A13SIVB_S12_MH1"
+  },
+  {
+    "start_index": 5998,
+    "stop_index": 27825,
+    "duration_s": 3294.5057928772353,
+    "edge_each_side_s": 98.86385185021254,
+    "status": "ok",
+    "record": "A13SIVB_S12_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 5230,
+    "duration_s": 789.4014430177276,
+    "edge_each_side_s": 23.697137008371556,
+    "status": "ok",
+    "record": "A13SIVB_S12_MH2"
+  },
+  {
+    "start_index": 5929,
+    "stop_index": 27825,
+    "duration_s": 3304.920458186647,
+    "edge_each_side_s": 99.16572620700708,
+    "status": "ok",
+    "record": "A13SIVB_S12_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 1729,
+    "duration_s": 260.97002010585584,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 2345,
+    "stop_index": 3685,
+    "duration_s": 202.25553900627347,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 3705,
+    "stop_index": 4197,
+    "duration_s": 74.26098894857205,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 4209,
+    "stop_index": 4653,
+    "duration_s": 67.01601441700404,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 4665,
+    "stop_index": 5140,
+    "duration_s": 71.69506046864171,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 9523,
+    "stop_index": 9968,
+    "duration_s": 67.16695138641171,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 11685,
+    "stop_index": 12624,
+    "duration_s": 141.7298142737991,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 12639,
+    "stop_index": 13068,
+    "duration_s": 64.75195987588904,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 13083,
+    "stop_index": 16180,
+    "duration_s": 467.451794255544,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 16201,
+    "stop_index": 17800,
+    "duration_s": 241.34821408285916,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 17809,
+    "stop_index": 18532,
+    "duration_s": 109.12742888174307,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 18805,
+    "stop_index": 21496,
+    "duration_s": 406.17138467603127,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 21510,
+    "stop_index": 23804,
+    "duration_s": 346.24940782118756,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 23813,
+    "stop_index": 24280,
+    "duration_s": 70.48756471338038,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 24417,
+    "stop_index": 24888,
+    "duration_s": 71.09131259101105,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 25297,
+    "stop_index": 25765,
+    "duration_s": 70.63850168278805,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 25953,
+    "stop_index": 26769,
+    "duration_s": 123.16456703665608,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 26789,
+    "stop_index": 27825,
+    "duration_s": 156.37070030634277,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 1729,
+    "duration_s": 260.97002010585584,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 2345,
+    "stop_index": 3685,
+    "duration_s": 202.25553900627347,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 3705,
+    "stop_index": 4197,
+    "duration_s": 74.26098894857205,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 4209,
+    "stop_index": 4652,
+    "duration_s": 66.86507744759638,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 4665,
+    "stop_index": 5140,
+    "duration_s": 71.69506046864171,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 5699,
+    "stop_index": 6135,
+    "duration_s": 65.80851866174271,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 6151,
+    "stop_index": 6962,
+    "duration_s": 122.40988218961775,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 7223,
+    "stop_index": 7789,
+    "duration_s": 85.43032468473939,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 9286,
+    "stop_index": 9897,
+    "duration_s": 92.2224883080844,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 10469,
+    "stop_index": 11371,
+    "duration_s": 136.14514640571542,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 11685,
+    "stop_index": 16180,
+    "duration_s": 678.4616774874621,
+    "edge_each_side_s": 20.376490870035013,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 16201,
+    "stop_index": 17799,
+    "duration_s": 241.1972771134515,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 17809,
+    "stop_index": 18532,
+    "duration_s": 109.12742888174307,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 18805,
+    "stop_index": 21496,
+    "duration_s": 406.17138467603127,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 21509,
+    "stop_index": 23804,
+    "duration_s": 346.4003447905952,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 23813,
+    "stop_index": 24280,
+    "duration_s": 70.48756471338038,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 24417,
+    "stop_index": 24889,
+    "duration_s": 71.24224956041871,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 25297,
+    "stop_index": 25765,
+    "duration_s": 70.63850168278805,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 25954,
+    "stop_index": 26768,
+    "duration_s": 122.86269309784075,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 26789,
+    "stop_index": 27825,
+    "duration_s": 156.37070030634277,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 1729,
+    "duration_s": 260.97002010585584,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 2345,
+    "stop_index": 3685,
+    "duration_s": 202.25553900627347,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 3705,
+    "stop_index": 4197,
+    "duration_s": 74.26098894857205,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 4209,
+    "stop_index": 4652,
+    "duration_s": 66.86507744759638,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 4665,
+    "stop_index": 5140,
+    "duration_s": 71.69506046864171,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 5782,
+    "stop_index": 6476,
+    "duration_s": 104.75025676892074,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 9137,
+    "stop_index": 9714,
+    "duration_s": 87.09063134822372,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 10743,
+    "stop_index": 11387,
+    "duration_s": 97.2034082985374,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 11685,
+    "stop_index": 12253,
+    "duration_s": 85.73219862355472,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 12822,
+    "stop_index": 16180,
+    "duration_s": 506.846343270945,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 16202,
+    "stop_index": 17800,
+    "duration_s": 241.1972771134515,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 17809,
+    "stop_index": 18532,
+    "duration_s": 109.12742888174307,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 18805,
+    "stop_index": 21496,
+    "duration_s": 406.17138467603127,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 21509,
+    "stop_index": 23804,
+    "duration_s": 346.4003447905952,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 23813,
+    "stop_index": 24280,
+    "duration_s": 70.48756471338038,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 24417,
+    "stop_index": 24888,
+    "duration_s": 71.09131259101105,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 25297,
+    "stop_index": 25764,
+    "duration_s": 70.48756471338038,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 25953,
+    "stop_index": 26768,
+    "duration_s": 123.01363006724841,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 26789,
+    "stop_index": 27825,
+    "duration_s": 156.37070030634277,
+    "edge_each_side_s": 20.07461693121968,
+    "status": "ok",
+    "record": "A14SIVB_S12_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 4924,
+    "duration_s": 743.2206836989532,
+    "edge_each_side_s": 22.33888326308795,
+    "status": "ok",
+    "record": "A14LM_S12_MHZ"
+  },
+  {
+    "start_index": 5456,
+    "stop_index": 18100,
+    "duration_s": 1908.465134989757,
+    "edge_each_side_s": 57.356592161982576,
+    "status": "ok",
+    "record": "A14LM_S12_MHZ"
+  },
+  {
+    "start_index": 18120,
+    "stop_index": 19716,
+    "duration_s": 240.89768708032682,
+    "edge_each_side_s": 20.0748072566939,
+    "status": "ok",
+    "record": "A14LM_S12_MHZ"
+  },
+  {
+    "start_index": 19728,
+    "stop_index": 21912,
+    "duration_s": 329.64946653097354,
+    "edge_each_side_s": 20.0748072566939,
+    "status": "ok",
+    "record": "A14LM_S12_MHZ"
+  },
+  {
+    "start_index": 21928,
+    "stop_index": 22792,
+    "duration_s": 130.41077796829723,
+    "edge_each_side_s": 20.0748072566939,
+    "status": "ok",
+    "record": "A14LM_S12_MHZ"
+  },
+  {
+    "start_index": 23200,
+    "stop_index": 24156,
+    "duration_s": 144.29711080751406,
+    "edge_each_side_s": 20.0748072566939,
+    "status": "ok",
+    "record": "A14LM_S12_MHZ"
+  },
+  {
+    "start_index": 24288,
+    "stop_index": 25272,
+    "duration_s": 148.52338601944962,
+    "edge_each_side_s": 20.0748072566939,
+    "status": "ok",
+    "record": "A14LM_S12_MHZ"
+  },
+  {
+    "start_index": 25580,
+    "stop_index": 26304,
+    "duration_s": 109.27940190861943,
+    "edge_each_side_s": 20.0748072566939,
+    "status": "ok",
+    "record": "A14LM_S12_MHZ"
+  },
+  {
+    "start_index": 26312,
+    "stop_index": 26764,
+    "duration_s": 68.22415699267401,
+    "edge_each_side_s": 20.0748072566939,
+    "status": "ok",
+    "record": "A14LM_S12_MHZ"
+  },
+  {
+    "start_index": 26836,
+    "stop_index": 27528,
+    "duration_s": 104.4493730949788,
+    "edge_each_side_s": 20.0748072566939,
+    "status": "ok",
+    "record": "A14LM_S12_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 4923,
+    "duration_s": 743.0697452985969,
+    "edge_each_side_s": 22.338883263090054,
+    "status": "ok",
+    "record": "A14LM_S12_MH1"
+  },
+  {
+    "start_index": 5456,
+    "stop_index": 18099,
+    "duration_s": 1908.3141965895106,
+    "edge_each_side_s": 57.356592161987976,
+    "status": "ok",
+    "record": "A14LM_S12_MH1"
+  },
+  {
+    "start_index": 18119,
+    "stop_index": 19715,
+    "duration_s": 240.8976870803495,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH1"
+  },
+  {
+    "start_index": 19727,
+    "stop_index": 21911,
+    "duration_s": 329.6494665310046,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH1"
+  },
+  {
+    "start_index": 21927,
+    "stop_index": 22791,
+    "duration_s": 130.4107779683095,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH1"
+  },
+  {
+    "start_index": 23199,
+    "stop_index": 24154,
+    "duration_s": 144.14617240710137,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH1"
+  },
+  {
+    "start_index": 24287,
+    "stop_index": 25271,
+    "duration_s": 148.5233860194636,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH1"
+  },
+  {
+    "start_index": 25579,
+    "stop_index": 26303,
+    "duration_s": 109.27940190862972,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH1"
+  },
+  {
+    "start_index": 26311,
+    "stop_index": 26763,
+    "duration_s": 68.22415699268043,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH1"
+  },
+  {
+    "start_index": 26835,
+    "stop_index": 27527,
+    "duration_s": 104.44937309498863,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 4923,
+    "duration_s": 743.0697452985969,
+    "edge_each_side_s": 22.338883263090054,
+    "status": "ok",
+    "record": "A14LM_S12_MH2"
+  },
+  {
+    "start_index": 5456,
+    "stop_index": 18099,
+    "duration_s": 1908.3141965895106,
+    "edge_each_side_s": 57.356592161987976,
+    "status": "ok",
+    "record": "A14LM_S12_MH2"
+  },
+  {
+    "start_index": 18119,
+    "stop_index": 19715,
+    "duration_s": 240.8976870803495,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH2"
+  },
+  {
+    "start_index": 19727,
+    "stop_index": 21911,
+    "duration_s": 329.6494665310046,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH2"
+  },
+  {
+    "start_index": 21927,
+    "stop_index": 22791,
+    "duration_s": 130.4107779683095,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH2"
+  },
+  {
+    "start_index": 23199,
+    "stop_index": 24155,
+    "duration_s": 144.29711080752764,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH2"
+  },
+  {
+    "start_index": 24287,
+    "stop_index": 25271,
+    "duration_s": 148.5233860194636,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH2"
+  },
+  {
+    "start_index": 25579,
+    "stop_index": 26303,
+    "duration_s": 109.27940190862972,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH2"
+  },
+  {
+    "start_index": 26311,
+    "stop_index": 26763,
+    "duration_s": 68.22415699268043,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH2"
+  },
+  {
+    "start_index": 26835,
+    "stop_index": 27527,
+    "duration_s": 104.44937309498863,
+    "edge_each_side_s": 20.07480725669579,
+    "status": "ok",
+    "record": "A14LM_S12_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 4161,
+    "duration_s": 628.0296073934041,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MHZ"
+  },
+  {
+    "start_index": 4178,
+    "stop_index": 7929,
+    "duration_s": 566.1473341342607,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MHZ"
+  },
+  {
+    "start_index": 7938,
+    "stop_index": 27825,
+    "duration_s": 3001.5921178160606,
+    "edge_each_side_s": 90.1066271602649,
+    "status": "ok",
+    "record": "A14LM_S14_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 2118,
+    "duration_s": 319.67476771430665,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MH1"
+  },
+  {
+    "start_index": 2135,
+    "stop_index": 7929,
+    "duration_s": 874.5021738133582,
+    "edge_each_side_s": 26.26223304168525,
+    "status": "ok",
+    "record": "A14LM_S14_MH1"
+  },
+  {
+    "start_index": 7938,
+    "stop_index": 25989,
+    "duration_s": 2724.4802795141404,
+    "edge_each_side_s": 81.80534660111152,
+    "status": "ok",
+    "record": "A14LM_S14_MH1"
+  },
+  {
+    "start_index": 26006,
+    "stop_index": 26650,
+    "duration_s": 97.20044872899598,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MH1"
+  },
+  {
+    "start_index": 26676,
+    "stop_index": 27695,
+    "duration_s": 153.80008890504178,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 571,
+    "duration_s": 86.1823854413924,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MH2"
+  },
+  {
+    "start_index": 885,
+    "stop_index": 1342,
+    "duration_s": 68.97609482787448,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MH2"
+  },
+  {
+    "start_index": 1359,
+    "stop_index": 2044,
+    "duration_s": 103.38867605491032,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MH2"
+  },
+  {
+    "start_index": 2075,
+    "stop_index": 2910,
+    "duration_s": 126.02853212532862,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MH2"
+  },
+  {
+    "start_index": 2942,
+    "stop_index": 3564,
+    "duration_s": 93.87993650533463,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MH2"
+  },
+  {
+    "start_index": 3901,
+    "stop_index": 7830,
+    "duration_s": 593.0132966711571,
+    "edge_each_side_s": 20.07400571577091,
+    "status": "ok",
+    "record": "A14LM_S14_MH2"
+  },
+  {
+    "start_index": 7938,
+    "stop_index": 27825,
+    "duration_s": 3001.5921178160606,
+    "edge_each_side_s": 90.1066271602649,
+    "status": "ok",
+    "record": "A14LM_S14_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.988204047054,
+    "edge_each_side_s": 126.0373818644848,
+    "status": "ok",
+    "record": "A15SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.988204047054,
+    "edge_each_side_s": 126.0373818644848,
+    "status": "ok",
+    "record": "A15SIVB_S12_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.988204047054,
+    "edge_each_side_s": 126.0373818644848,
+    "status": "ok",
+    "record": "A15SIVB_S12_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 15299,
+    "duration_s": 2309.1351332857666,
+    "edge_each_side_s": 69.27858201046911,
+    "status": "ok",
+    "record": "A15SIVB_S14_MHZ"
+  },
+  {
+    "start_index": 15424,
+    "stop_index": 27825,
+    "duration_s": 1871.7291841216284,
+    "edge_each_side_s": 56.298281241623044,
+    "status": "ok",
+    "record": "A15SIVB_S14_MHZ"
+  },
+  {
+    "start_index": 1578,
+    "stop_index": 2858,
+    "duration_s": 193.19517423398793,
+    "edge_each_side_s": 20.074186072750308,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH1"
+  },
+  {
+    "start_index": 3208,
+    "stop_index": 4735,
+    "duration_s": 230.47580551195279,
+    "edge_each_side_s": 20.074186072750308,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH1"
+  },
+  {
+    "start_index": 5078,
+    "stop_index": 6052,
+    "duration_s": 147.0094528936752,
+    "edge_each_side_s": 20.074186072750308,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH1"
+  },
+  {
+    "start_index": 6071,
+    "stop_index": 7801,
+    "duration_s": 261.1153526756243,
+    "edge_each_side_s": 20.074186072750308,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH1"
+  },
+  {
+    "start_index": 7820,
+    "stop_index": 15300,
+    "duration_s": 1128.984299429867,
+    "edge_each_side_s": 33.96008922081819,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH1"
+  },
+  {
+    "start_index": 15424,
+    "stop_index": 22826,
+    "duration_s": 1117.2114684999833,
+    "edge_each_side_s": 33.658221761077584,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH1"
+  },
+  {
+    "start_index": 23291,
+    "stop_index": 27825,
+    "duration_s": 684.3335312319541,
+    "edge_each_side_s": 20.67792099223152,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 4506,
+    "duration_s": 680.1073867955856,
+    "edge_each_side_s": 20.526987262361217,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH2"
+  },
+  {
+    "start_index": 5355,
+    "stop_index": 5754,
+    "duration_s": 60.222558218250924,
+    "edge_each_side_s": 20.074186072750308,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH2"
+  },
+  {
+    "start_index": 6007,
+    "stop_index": 6637,
+    "duration_s": 95.08824981829093,
+    "edge_each_side_s": 20.074186072750308,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH2"
+  },
+  {
+    "start_index": 7088,
+    "stop_index": 7667,
+    "duration_s": 87.39062959490548,
+    "edge_each_side_s": 20.074186072750308,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH2"
+  },
+  {
+    "start_index": 7689,
+    "stop_index": 8155,
+    "duration_s": 70.33511811956123,
+    "edge_each_side_s": 20.074186072750308,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH2"
+  },
+  {
+    "start_index": 8601,
+    "stop_index": 15300,
+    "duration_s": 1011.1050564011603,
+    "edge_each_side_s": 30.337679703930917,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH2"
+  },
+  {
+    "start_index": 15424,
+    "stop_index": 22826,
+    "duration_s": 1117.2114684999833,
+    "edge_each_side_s": 33.658221761077584,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH2"
+  },
+  {
+    "start_index": 23387,
+    "stop_index": 27825,
+    "duration_s": 669.843893164405,
+    "edge_each_side_s": 20.22511980262061,
+    "status": "ok",
+    "record": "A15SIVB_S14_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.8681506767625,
+    "edge_each_side_s": 126.03377918472944,
+    "status": "ok",
+    "record": "A15LM_S12_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.8681506767625,
+    "edge_each_side_s": 126.03377918472944,
+    "status": "ok",
+    "record": "A15LM_S12_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.8681506767625,
+    "edge_each_side_s": 126.03377918472944,
+    "status": "ok",
+    "record": "A15LM_S12_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.7019234678855,
+    "edge_each_side_s": 126.02879087495722,
+    "status": "ok",
+    "record": "A15LM_S14_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 6742,
+    "duration_s": 1017.588153387978,
+    "edge_each_side_s": 30.63933478756445,
+    "status": "ok",
+    "record": "A15LM_S14_MH1"
+  },
+  {
+    "start_index": 7100,
+    "stop_index": 11046,
+    "duration_s": 595.5803698114745,
+    "edge_each_side_s": 20.074046929783606,
+    "status": "ok",
+    "record": "A15LM_S14_MH1"
+  },
+  {
+    "start_index": 11062,
+    "stop_index": 11638,
+    "duration_s": 86.9372258011681,
+    "edge_each_side_s": 20.074046929783606,
+    "status": "ok",
+    "record": "A15LM_S14_MH1"
+  },
+  {
+    "start_index": 11655,
+    "stop_index": 27825,
+    "duration_s": 2440.5814951473753,
+    "edge_each_side_s": 73.35328426973558,
+    "status": "ok",
+    "record": "A15LM_S14_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 7298,
+    "duration_s": 1101.5067255154943,
+    "edge_each_side_s": 33.05425772648579,
+    "status": "ok",
+    "record": "A15LM_S14_MH2"
+  },
+  {
+    "start_index": 7317,
+    "stop_index": 14687,
+    "duration_s": 1112.3738787406403,
+    "edge_each_side_s": 33.50705577753354,
+    "status": "ok",
+    "record": "A15LM_S14_MH2"
+  },
+  {
+    "start_index": 14705,
+    "stop_index": 24204,
+    "duration_s": 1433.7095623008606,
+    "edge_each_side_s": 43.0158148495363,
+    "status": "ok",
+    "record": "A15LM_S14_MH2"
+  },
+  {
+    "start_index": 24221,
+    "stop_index": 26515,
+    "duration_s": 346.23957636784655,
+    "edge_each_side_s": 20.074046929783606,
+    "status": "ok",
+    "record": "A15LM_S14_MH2"
+  },
+  {
+    "start_index": 26532,
+    "stop_index": 27825,
+    "duration_s": 195.15596000158047,
+    "edge_each_side_s": 20.074046929783606,
+    "status": "ok",
+    "record": "A15LM_S14_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 23743,
+    "duration_s": 3583.6525704578285,
+    "edge_each_side_s": 107.61674104942222,
+    "status": "ok",
+    "record": "A15LM_S15_MHZ"
+  },
+  {
+    "start_index": 23747,
+    "stop_index": 24431,
+    "duration_s": 103.23962254951584,
+    "edge_each_side_s": 20.074371051294747,
+    "status": "ok",
+    "record": "A15LM_S15_MHZ"
+  },
+  {
+    "start_index": 24467,
+    "stop_index": 27825,
+    "duration_s": 506.84013526502076,
+    "edge_each_side_s": 20.074371051294747,
+    "status": "ok",
+    "record": "A15LM_S15_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 23743,
+    "duration_s": 3583.6525704578285,
+    "edge_each_side_s": 107.61674104942222,
+    "status": "ok",
+    "record": "A15LM_S15_MH1"
+  },
+  {
+    "start_index": 23747,
+    "stop_index": 24431,
+    "duration_s": 103.23962254951584,
+    "edge_each_side_s": 20.074371051294747,
+    "status": "ok",
+    "record": "A15LM_S15_MH1"
+  },
+  {
+    "start_index": 24467,
+    "stop_index": 27825,
+    "duration_s": 506.84013526502076,
+    "edge_each_side_s": 20.074371051294747,
+    "status": "ok",
+    "record": "A15LM_S15_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 23743,
+    "duration_s": 3583.6525704578285,
+    "edge_each_side_s": 107.61674104942222,
+    "status": "ok",
+    "record": "A15LM_S15_MH2"
+  },
+  {
+    "start_index": 23747,
+    "stop_index": 24431,
+    "duration_s": 103.23962254951584,
+    "edge_each_side_s": 20.074371051294747,
+    "status": "ok",
+    "record": "A15LM_S15_MH2"
+  },
+  {
+    "start_index": 24467,
+    "stop_index": 27825,
+    "duration_s": 506.84013526502076,
+    "edge_each_side_s": 20.074371051294747,
+    "status": "ok",
+    "record": "A15LM_S15_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 7213,
+    "duration_s": 1088.7531320571393,
+    "edge_each_side_s": 32.75466929937602,
+    "status": "ok",
+    "record": "A16SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 7567,
+    "stop_index": 10798,
+    "duration_s": 487.6974032547646,
+    "edge_each_side_s": 20.07544247381111,
+    "status": "ok",
+    "record": "A16SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 10813,
+    "stop_index": 27825,
+    "duration_s": 2567.845318529884,
+    "edge_each_side_s": 77.1319631888532,
+    "status": "ok",
+    "record": "A16SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 6145,
+    "duration_s": 927.5458195606711,
+    "edge_each_side_s": 27.924487651541767,
+    "status": "ok",
+    "record": "A16SIVB_S12_MH1"
+  },
+  {
+    "start_index": 6162,
+    "stop_index": 7292,
+    "duration_s": 170.565789439147,
+    "edge_each_side_s": 20.07544247381111,
+    "status": "ok",
+    "record": "A16SIVB_S12_MH1"
+  },
+  {
+    "start_index": 7489,
+    "stop_index": 8969,
+    "duration_s": 223.39590121233414,
+    "edge_each_side_s": 20.07544247381111,
+    "status": "ok",
+    "record": "A16SIVB_S12_MH1"
+  },
+  {
+    "start_index": 8984,
+    "stop_index": 27825,
+    "duration_s": 2843.9203883389105,
+    "edge_each_side_s": 85.43383789606833,
+    "status": "ok",
+    "record": "A16SIVB_S12_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 6489,
+    "duration_s": 979.4702722748893,
+    "edge_each_side_s": 29.43391941648997,
+    "status": "ok",
+    "record": "A16SIVB_S12_MH2"
+  },
+  {
+    "start_index": 6504,
+    "stop_index": 8170,
+    "duration_s": 251.47133204037073,
+    "edge_each_side_s": 20.07544247381111,
+    "status": "ok",
+    "record": "A16SIVB_S12_MH2"
+  },
+  {
+    "start_index": 8334,
+    "stop_index": 8763,
+    "duration_s": 64.75462271627794,
+    "edge_each_side_s": 20.07544247381111,
+    "status": "ok",
+    "record": "A16SIVB_S12_MH2"
+  },
+  {
+    "start_index": 9402,
+    "stop_index": 10492,
+    "duration_s": 164.5280623793542,
+    "edge_each_side_s": 20.07544247381111,
+    "status": "ok",
+    "record": "A16SIVB_S12_MH2"
+  },
+  {
+    "start_index": 10507,
+    "stop_index": 11126,
+    "duration_s": 93.4338262502938,
+    "edge_each_side_s": 20.07544247381111,
+    "status": "ok",
+    "record": "A16SIVB_S12_MH2"
+  },
+  {
+    "start_index": 11141,
+    "stop_index": 27825,
+    "duration_s": 2518.335956639583,
+    "edge_each_side_s": 75.622531423905,
+    "status": "ok",
+    "record": "A16SIVB_S12_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 678,
+    "duration_s": 102.33348527393582,
+    "edge_each_side_s": 20.07426776022635,
+    "status": "ok",
+    "record": "A16SIVB_S14_MH1"
+  },
+  {
+    "start_index": 695,
+    "stop_index": 2002,
+    "duration_s": 197.27118768884088,
+    "edge_each_side_s": 20.07426776022635,
+    "status": "ok",
+    "record": "A16SIVB_S14_MH1"
+  },
+  {
+    "start_index": 2322,
+    "stop_index": 3662,
+    "duration_s": 202.252021042882,
+    "edge_each_side_s": 20.07426776022635,
+    "status": "ok",
+    "record": "A16SIVB_S14_MH1"
+  },
+  {
+    "start_index": 3854,
+    "stop_index": 27825,
+    "duration_s": 3618.04716150666,
+    "edge_each_side_s": 108.67272772453362,
+    "status": "ok",
+    "record": "A16SIVB_S14_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.748123521039,
+    "edge_each_side_s": 126.03017729164662,
+    "status": "ok",
+    "record": "A16SIVB_S14_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.993389634591,
+    "edge_each_side_s": 126.037537478702,
+    "status": "ok",
+    "record": "A16SIVB_S15_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.993389634591,
+    "edge_each_side_s": 126.037537478702,
+    "status": "ok",
+    "record": "A16SIVB_S15_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.993389634591,
+    "edge_each_side_s": 126.037537478702,
+    "status": "ok",
+    "record": "A16SIVB_S15_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4200.0095987530585,
+    "edge_each_side_s": 126.03802389789053,
+    "status": "ok",
+    "record": "A17SIVB_S12_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4200.0095987530585,
+    "edge_each_side_s": 126.03802389789053,
+    "status": "ok",
+    "record": "A17SIVB_S12_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4200.0095987530585,
+    "edge_each_side_s": 126.03802389789053,
+    "status": "ok",
+    "record": "A17SIVB_S12_MH2"
+  },
+  {
+    "start_index": 176,
+    "stop_index": 848,
+    "duration_s": 101.42857839463977,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 1320,
+    "stop_index": 2440,
+    "duration_s": 169.04763065773295,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 2456,
+    "stop_index": 3380,
+    "duration_s": 139.46429529262969,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 3796,
+    "stop_index": 4602,
+    "duration_s": 121.65391991976139,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 5696,
+    "stop_index": 7944,
+    "duration_s": 339.30274439159257,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 8204,
+    "stop_index": 9075,
+    "duration_s": 131.46471991329054,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 9124,
+    "stop_index": 10215,
+    "duration_s": 164.6705045067738,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 10736,
+    "stop_index": 11599,
+    "duration_s": 130.25723683716387,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 11620,
+    "stop_index": 12711,
+    "duration_s": 164.6705045067738,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 13429,
+    "stop_index": 13891,
+    "duration_s": 69.73214764631484,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 14196,
+    "stop_index": 14623,
+    "duration_s": 64.44940918826069,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 14638,
+    "stop_index": 15056,
+    "duration_s": 63.09099072761819,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 15704,
+    "stop_index": 16120,
+    "duration_s": 62.789119958586525,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 16128,
+    "stop_index": 16703,
+    "duration_s": 86.78784609660397,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 17276,
+    "stop_index": 18348,
+    "duration_s": 161.80273220097297,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 18644,
+    "stop_index": 19044,
+    "duration_s": 60.3741538063332,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 19445,
+    "stop_index": 20467,
+    "duration_s": 154.25596297518132,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 20484,
+    "stop_index": 21731,
+    "duration_s": 188.21642449124374,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 21956,
+    "stop_index": 23387,
+    "duration_s": 215.988535242157,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 24296,
+    "stop_index": 25035,
+    "duration_s": 111.54124915720058,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 25925,
+    "stop_index": 27515,
+    "duration_s": 239.98726138017446,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH1"
+  },
+  {
+    "start_index": 176,
+    "stop_index": 848,
+    "duration_s": 101.42857839463977,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 1320,
+    "stop_index": 2440,
+    "duration_s": 169.04763065773295,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 2456,
+    "stop_index": 3380,
+    "duration_s": 139.46429529262969,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 3796,
+    "stop_index": 4525,
+    "duration_s": 110.03189531204225,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 5749,
+    "stop_index": 6981,
+    "duration_s": 185.95239372350625,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 6996,
+    "stop_index": 7944,
+    "duration_s": 143.08674452100968,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 8392,
+    "stop_index": 9075,
+    "duration_s": 103.08886762431393,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 9124,
+    "stop_index": 10216,
+    "duration_s": 164.82143989128963,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 10736,
+    "stop_index": 11598,
+    "duration_s": 130.10630145264804,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 11620,
+    "stop_index": 12671,
+    "duration_s": 158.63308912614048,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 14318,
+    "stop_index": 15023,
+    "duration_s": 106.40944608366226,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 16128,
+    "stop_index": 16703,
+    "duration_s": 86.78784609660397,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 17276,
+    "stop_index": 18348,
+    "duration_s": 161.80273220097297,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 18644,
+    "stop_index": 19044,
+    "duration_s": 60.3741538063332,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 19444,
+    "stop_index": 20467,
+    "duration_s": 154.40689835969715,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 20484,
+    "stop_index": 21731,
+    "duration_s": 188.21642449124374,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 21956,
+    "stop_index": 23387,
+    "duration_s": 215.988535242157,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 24296,
+    "stop_index": 25036,
+    "duration_s": 111.69218454171641,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 25924,
+    "stop_index": 27515,
+    "duration_s": 240.1381967646903,
+    "edge_each_side_s": 20.074406140605788,
+    "status": "ok",
+    "record": "A17SIVB_S14_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.977672851452,
+    "edge_each_side_s": 126.03706583399685,
+    "status": "ok",
+    "record": "A17SIVB_S15_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.977672851452,
+    "edge_each_side_s": 126.03706583399685,
+    "status": "ok",
+    "record": "A17SIVB_S15_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.977672851452,
+    "edge_each_side_s": 126.03706583399685,
+    "status": "ok",
+    "record": "A17SIVB_S15_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.7094008435115,
+    "edge_each_side_s": 126.02901526340816,
+    "status": "ok",
+    "record": "A17SIVB_S16_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.7094008435115,
+    "edge_each_side_s": 126.02901526340816,
+    "status": "ok",
+    "record": "A17SIVB_S16_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.7094008435115,
+    "edge_each_side_s": 126.02901526340816,
+    "status": "ok",
+    "record": "A17SIVB_S16_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 25194,
+    "duration_s": 3802.8624047439744,
+    "edge_each_side_s": 114.11304191420356,
+    "status": "ok",
+    "record": "A17LM_S12_MHZ"
+  },
+  {
+    "start_index": 25202,
+    "stop_index": 27825,
+    "duration_s": 395.92395362560313,
+    "edge_each_side_s": 20.075442558980257,
+    "status": "ok",
+    "record": "A17LM_S12_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 25194,
+    "duration_s": 3802.8624047439744,
+    "edge_each_side_s": 114.11304191420356,
+    "status": "ok",
+    "record": "A17LM_S12_MH1"
+  },
+  {
+    "start_index": 25202,
+    "stop_index": 27825,
+    "duration_s": 395.92395362560313,
+    "edge_each_side_s": 20.075442558980257,
+    "status": "ok",
+    "record": "A17LM_S12_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 25194,
+    "duration_s": 3802.8624047439744,
+    "edge_each_side_s": 114.11304191420356,
+    "status": "ok",
+    "record": "A17LM_S12_MH2"
+  },
+  {
+    "start_index": 25202,
+    "stop_index": 27825,
+    "duration_s": 395.92395362560313,
+    "edge_each_side_s": 20.075442558980257,
+    "status": "ok",
+    "record": "A17LM_S12_MH2"
+  },
+  {
+    "start_index": 615,
+    "stop_index": 1370,
+    "duration_s": 113.95310198451739,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 1378,
+    "stop_index": 1971,
+    "duration_s": 89.50223771764081,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 1991,
+    "stop_index": 2732,
+    "duration_s": 111.84006433182435,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 2850,
+    "stop_index": 4503,
+    "duration_s": 249.4893742786851,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 4522,
+    "stop_index": 5422,
+    "duration_s": 135.838134815981,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 5537,
+    "stop_index": 10618,
+    "duration_s": 766.881736666666,
+    "edge_each_side_s": 23.09248291871677,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 10626,
+    "stop_index": 12986,
+    "duration_s": 356.1977757396835,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 12995,
+    "stop_index": 14254,
+    "duration_s": 190.02245748146674,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 14262,
+    "stop_index": 16474,
+    "duration_s": 333.85994912549995,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 16482,
+    "stop_index": 17308,
+    "duration_s": 124.66922150888922,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 17394,
+    "stop_index": 18218,
+    "duration_s": 124.36735898707593,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 18226,
+    "stop_index": 18722,
+    "duration_s": 74.86190540969619,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 18730,
+    "stop_index": 19494,
+    "duration_s": 115.3114833326772,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 19511,
+    "stop_index": 20150,
+    "duration_s": 96.4450757193465,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 20181,
+    "stop_index": 21014,
+    "duration_s": 125.72574033523574,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 21458,
+    "stop_index": 22006,
+    "duration_s": 82.71033097684176,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 24467,
+    "stop_index": 25355,
+    "duration_s": 134.02695968510125,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 26975,
+    "stop_index": 27825,
+    "duration_s": 128.29157177064872,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 1370,
+    "duration_s": 206.7758274421044,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 1378,
+    "stop_index": 1999,
+    "duration_s": 93.72831302302689,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 2016,
+    "stop_index": 2730,
+    "duration_s": 107.76492028734492,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 3045,
+    "stop_index": 10618,
+    "duration_s": 1143.0024388460267,
+    "edge_each_side_s": 34.412327486715185,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 10626,
+    "stop_index": 12986,
+    "duration_s": 356.1977757396835,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 12994,
+    "stop_index": 14254,
+    "duration_s": 190.1733887423734,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 14263,
+    "stop_index": 16474,
+    "duration_s": 333.7090178645933,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 16482,
+    "stop_index": 17386,
+    "duration_s": 136.44185985960758,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 17394,
+    "stop_index": 18218,
+    "duration_s": 124.36735898707593,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 18226,
+    "stop_index": 18722,
+    "duration_s": 74.86190540969619,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 18730,
+    "stop_index": 21014,
+    "duration_s": 344.72699991077843,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 21022,
+    "stop_index": 21450,
+    "duration_s": 64.5985796680443,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 21458,
+    "stop_index": 22006,
+    "duration_s": 82.71033097684176,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 22786,
+    "stop_index": 23390,
+    "duration_s": 91.16248158761391,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 23546,
+    "stop_index": 23970,
+    "duration_s": 63.99485462441771,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 24466,
+    "stop_index": 25414,
+    "duration_s": 143.08283533949998,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 26902,
+    "stop_index": 27825,
+    "duration_s": 139.30955381683384,
+    "edge_each_side_s": 20.073857700583858,
+    "status": "ok",
+    "record": "A17LM_S14_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 26223,
+    "duration_s": 3957.973825496928,
+    "edge_each_side_s": 118.78600467780507,
+    "status": "ok",
+    "record": "A17LM_S15_MHZ"
+  },
+  {
+    "start_index": 26227,
+    "stop_index": 27825,
+    "duration_s": 241.19445422507306,
+    "edge_each_side_s": 20.074381984940374,
+    "status": "ok",
+    "record": "A17LM_S15_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 26223,
+    "duration_s": 3957.973825496928,
+    "edge_each_side_s": 118.78600467780507,
+    "status": "ok",
+    "record": "A17LM_S15_MH1"
+  },
+  {
+    "start_index": 26227,
+    "stop_index": 27825,
+    "duration_s": 241.19445422507306,
+    "edge_each_side_s": 20.074381984940374,
+    "status": "ok",
+    "record": "A17LM_S15_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 26223,
+    "duration_s": 3957.973825496928,
+    "edge_each_side_s": 118.78600467780507,
+    "status": "ok",
+    "record": "A17LM_S15_MH2"
+  },
+  {
+    "start_index": 26227,
+    "stop_index": 27825,
+    "duration_s": 241.19445422507306,
+    "edge_each_side_s": 20.074381984940374,
+    "status": "ok",
+    "record": "A17LM_S15_MH2"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.692063785305,
+    "edge_each_side_s": 126.02849499589325,
+    "status": "ok",
+    "record": "A17LM_S16_MHZ"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.692063786096,
+    "edge_each_side_s": 126.02849499591699,
+    "status": "ok",
+    "record": "A17LM_S16_MH1"
+  },
+  {
+    "start_index": 0,
+    "stop_index": 27825,
+    "duration_s": 4199.692063786096,
+    "edge_each_side_s": 126.02849499591699,
+    "status": "ok",
+    "record": "A17LM_S16_MH2"
+  }
+]

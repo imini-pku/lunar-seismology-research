@@ -1,0 +1,1987 @@
+{
+  "matplotlib": "3.10.8",
+  "panels": [
+    {
+      "event": "A12LM",
+      "station": "S12",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-12\\LM-12_a12_uniform.mat",
+      "sha256": "e44370556e4f9e0e4ef6908b10c39be643bc5adcf8f5f4523eaaca0f80fe28f5",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -65.96887684594184,
+        999.8256643940866
+      ]
+    },
+    {
+      "event": "A12LM",
+      "station": "S12",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-12\\LM-12_a12_uniform.mat",
+      "sha256": "e44370556e4f9e0e4ef6908b10c39be643bc5adcf8f5f4523eaaca0f80fe28f5",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -72.39918184139123,
+        977.3889548587815
+      ]
+    },
+    {
+      "event": "A12LM",
+      "station": "S12",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-12\\LM-12_a12_uniform.mat",
+      "sha256": "e44370556e4f9e0e4ef6908b10c39be643bc5adcf8f5f4523eaaca0f80fe28f5",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -74.28,
+        1104.28
+      ]
+    },
+    {
+      "event": "A12LM",
+      "station": "S12",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-12\\LM-12_a12_uniform.mat",
+      "sha256": "e44370556e4f9e0e4ef6908b10c39be643bc5adcf8f5f4523eaaca0f80fe28f5",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -36.0229969178904,
+        595.5562853653923
+      ]
+    },
+    {
+      "event": "A12LM",
+      "station": "S12",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-12\\LM-12_a12_uniform.mat",
+      "sha256": "e44370556e4f9e0e4ef6908b10c39be643bc5adcf8f5f4523eaaca0f80fe28f5",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -65.91040871624246,
+        976.9083049976593
+      ]
+    },
+    {
+      "event": "A12LM",
+      "station": "S12",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-12\\LM-12_a12_uniform.mat",
+      "sha256": "e44370556e4f9e0e4ef6908b10c39be643bc5adcf8f5f4523eaaca0f80fe28f5",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -47.25128270122298,
+        755.1480207745153
+      ]
+    },
+    {
+      "event": "A13SIVB",
+      "station": "S12",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-13\\S4B-13_a12_uniform.mat",
+      "sha256": "72f0c35ce2886e105d1f356c5f99527c12ca87f5b1fd0fadcbeb6fb6a340d468",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A13SIVB",
+      "station": "S12",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-13\\S4B-13_a12_uniform.mat",
+      "sha256": "72f0c35ce2886e105d1f356c5f99527c12ca87f5b1fd0fadcbeb6fb6a340d468",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A13SIVB",
+      "station": "S12",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-13\\S4B-13_a12_uniform.mat",
+      "sha256": "72f0c35ce2886e105d1f356c5f99527c12ca87f5b1fd0fadcbeb6fb6a340d468",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A13SIVB",
+      "station": "S12",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-13\\S4B-13_a12_uniform.mat",
+      "sha256": "72f0c35ce2886e105d1f356c5f99527c12ca87f5b1fd0fadcbeb6fb6a340d468",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A13SIVB",
+      "station": "S12",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-13\\S4B-13_a12_uniform.mat",
+      "sha256": "72f0c35ce2886e105d1f356c5f99527c12ca87f5b1fd0fadcbeb6fb6a340d468",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A13SIVB",
+      "station": "S12",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-13\\S4B-13_a12_uniform.mat",
+      "sha256": "72f0c35ce2886e105d1f356c5f99527c12ca87f5b1fd0fadcbeb6fb6a340d468",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A14SIVB",
+      "station": "S12",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-14\\S4B-14_a12_uniform.mat",
+      "sha256": "28da4ce2a9d00dea31da41729deea94443e591e34ef170dc45de49b6f58dbafa",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A14SIVB",
+      "station": "S12",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-14\\S4B-14_a12_uniform.mat",
+      "sha256": "28da4ce2a9d00dea31da41729deea94443e591e34ef170dc45de49b6f58dbafa",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A14SIVB",
+      "station": "S12",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-14\\S4B-14_a12_uniform.mat",
+      "sha256": "28da4ce2a9d00dea31da41729deea94443e591e34ef170dc45de49b6f58dbafa",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A14SIVB",
+      "station": "S12",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-14\\S4B-14_a12_uniform.mat",
+      "sha256": "28da4ce2a9d00dea31da41729deea94443e591e34ef170dc45de49b6f58dbafa",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A14SIVB",
+      "station": "S12",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-14\\S4B-14_a12_uniform.mat",
+      "sha256": "28da4ce2a9d00dea31da41729deea94443e591e34ef170dc45de49b6f58dbafa",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A14SIVB",
+      "station": "S12",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-14\\S4B-14_a12_uniform.mat",
+      "sha256": "28da4ce2a9d00dea31da41729deea94443e591e34ef170dc45de49b6f58dbafa",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S12",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-14\\LM-14_a12_uniform.mat",
+      "sha256": "4ab905cfab3b59473cd587f5940375e2d3321cb6597710a5aec85516bf329d90",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -73.67897656305382,
+        1003.3578802098036
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S12",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-14\\LM-14_a12_uniform.mat",
+      "sha256": "4ab905cfab3b59473cd587f5940375e2d3321cb6597710a5aec85516bf329d90",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -80.6913691300776,
+        1103.8334832560477
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S12",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-14\\LM-14_a12_uniform.mat",
+      "sha256": "4ab905cfab3b59473cd587f5940375e2d3321cb6597710a5aec85516bf329d90",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -78.60307013413467,
+        1075.6498810483736
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S14",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-14\\LM-14_a14_uniform.mat",
+      "sha256": "d20dff0e02ab6e0f28c086a0f59ee9c2e3935af8599e960b8007702e2b071ec4",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S14",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-14\\LM-14_a14_uniform.mat",
+      "sha256": "d20dff0e02ab6e0f28c086a0f59ee9c2e3935af8599e960b8007702e2b071ec4",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S14",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-14\\LM-14_a14_uniform.mat",
+      "sha256": "d20dff0e02ab6e0f28c086a0f59ee9c2e3935af8599e960b8007702e2b071ec4",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S15",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 93547,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-14\\LM-14_a15_uniform.mat",
+      "sha256": "8cc7fbd2cef7a0bda0e26a4e3f16d146971b81b7717d748e6d2d3cc3e44dbc4b",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        104.88000000537906,
+        556.1199999273827
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S15",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 93547,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-14\\LM-14_a15_uniform.mat",
+      "sha256": "8cc7fbd2cef7a0bda0e26a4e3f16d146971b81b7717d748e6d2d3cc3e44dbc4b",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        89.61985190019638,
+        762.1319993473487
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S15",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 93547,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-14\\LM-14_a15_uniform.mat",
+      "sha256": "8cc7fbd2cef7a0bda0e26a4e3f16d146971b81b7717d748e6d2d3cc3e44dbc4b",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        6.167077695410441,
+        1011.9511781335059
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S12",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-14\\LM-14_a12_uniform.mat",
+      "sha256": "4ab905cfab3b59473cd587f5940375e2d3321cb6597710a5aec85516bf329d90",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        439.48703857823085,
+        575.893124833889
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S12",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-14\\LM-14_a12_uniform.mat",
+      "sha256": "4ab905cfab3b59473cd587f5940375e2d3321cb6597710a5aec85516bf329d90",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        385.975048461955,
+        571.5062876266929
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S12",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-14\\LM-14_a12_uniform.mat",
+      "sha256": "4ab905cfab3b59473cd587f5940375e2d3321cb6597710a5aec85516bf329d90",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        411.4091037877133,
+        956.4770988658704
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S14",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-14\\LM-14_a14_uniform.mat",
+      "sha256": "d20dff0e02ab6e0f28c086a0f59ee9c2e3935af8599e960b8007702e2b071ec4",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        427.4241796126898,
+        784.9362275178001
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S14",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-14\\LM-14_a14_uniform.mat",
+      "sha256": "d20dff0e02ab6e0f28c086a0f59ee9c2e3935af8599e960b8007702e2b071ec4",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        172.14278239507573,
+        1086.0264605633276
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S14",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-14\\LM-14_a14_uniform.mat",
+      "sha256": "d20dff0e02ab6e0f28c086a0f59ee9c2e3935af8599e960b8007702e2b071ec4",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        303.45435489153243,
+        923.0950827179195
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S15",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-14\\LM-14_a15_uniform.mat",
+      "sha256": "8cc7fbd2cef7a0bda0e26a4e3f16d146971b81b7717d748e6d2d3cc3e44dbc4b",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        158.49668501583952,
+        187.5976849338341
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S15",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-14\\LM-14_a15_uniform.mat",
+      "sha256": "8cc7fbd2cef7a0bda0e26a4e3f16d146971b81b7717d748e6d2d3cc3e44dbc4b",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        524.0059393114791,
+        524.0235342562308
+      ]
+    },
+    {
+      "event": "A14LM",
+      "station": "S15",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-14\\LM-14_a15_uniform.mat",
+      "sha256": "8cc7fbd2cef7a0bda0e26a4e3f16d146971b81b7717d748e6d2d3cc3e44dbc4b",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        525.3261199300779,
+        525.4220122571736
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S12",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-15\\S4B-15_a12_uniform.mat",
+      "sha256": "eb9265336abf6549f3e80cf5412fa1f9ae915a9377af582fd0246ccb5c20a188",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        317.0482712381436,
+        672.5003824213236
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S12",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-15\\S4B-15_a12_uniform.mat",
+      "sha256": "eb9265336abf6549f3e80cf5412fa1f9ae915a9377af582fd0246ccb5c20a188",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        347.07447336924946,
+        683.8840769210882
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S12",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-15\\S4B-15_a12_uniform.mat",
+      "sha256": "eb9265336abf6549f3e80cf5412fa1f9ae915a9377af582fd0246ccb5c20a188",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        289.270576917412,
+        687.0398754074992
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S14",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-15\\S4B-15_a14_uniform.mat",
+      "sha256": "76e7cd7abac68f5d8fffe48baac1c857be4728b50764bf65cca0a29642bb1980",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        13.817899643420745,
+        1012.8330096392536
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S14",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-15\\S4B-15_a14_uniform.mat",
+      "sha256": "76e7cd7abac68f5d8fffe48baac1c857be4728b50764bf65cca0a29642bb1980",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S14",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-15\\S4B-15_a14_uniform.mat",
+      "sha256": "76e7cd7abac68f5d8fffe48baac1c857be4728b50764bf65cca0a29642bb1980",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S15",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 20731,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-15\\S4B-15_a15_uniform.mat",
+      "sha256": "fc35e4878055248b9900509f2a1e18996ffc60bcf25c66e53f3dd0f320ba0e02",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        12.85901691764721,
+        901.269510859003
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S15",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 20731,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-15\\S4B-15_a15_uniform.mat",
+      "sha256": "fc35e4878055248b9900509f2a1e18996ffc60bcf25c66e53f3dd0f320ba0e02",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        75.09903000496173,
+        1023.4130947865098
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S15",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 20731,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-15\\S4B-15_a15_uniform.mat",
+      "sha256": "fc35e4878055248b9900509f2a1e18996ffc60bcf25c66e53f3dd0f320ba0e02",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -38.375960055417195,
+        902.5963951894005
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S12",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-15\\S4B-15_a12_uniform.mat",
+      "sha256": "eb9265336abf6549f3e80cf5412fa1f9ae915a9377af582fd0246ccb5c20a188",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        336.7189303692294,
+        650.9857679350152
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S12",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-15\\S4B-15_a12_uniform.mat",
+      "sha256": "eb9265336abf6549f3e80cf5412fa1f9ae915a9377af582fd0246ccb5c20a188",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        347.86870733203716,
+        673.1619184234546
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S12",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-15\\S4B-15_a12_uniform.mat",
+      "sha256": "eb9265336abf6549f3e80cf5412fa1f9ae915a9377af582fd0246ccb5c20a188",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        304.9882276780681,
+        667.6589263460805
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S14",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-15\\S4B-15_a14_uniform.mat",
+      "sha256": "76e7cd7abac68f5d8fffe48baac1c857be4728b50764bf65cca0a29642bb1980",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        13.817899643420745,
+        1012.8330096392536
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S14",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-15\\S4B-15_a14_uniform.mat",
+      "sha256": "76e7cd7abac68f5d8fffe48baac1c857be4728b50764bf65cca0a29642bb1980",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S14",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-15\\S4B-15_a14_uniform.mat",
+      "sha256": "76e7cd7abac68f5d8fffe48baac1c857be4728b50764bf65cca0a29642bb1980",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S15",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-15\\S4B-15_a15_uniform.mat",
+      "sha256": "fc35e4878055248b9900509f2a1e18996ffc60bcf25c66e53f3dd0f320ba0e02",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        612.0371087414832,
+        764.4022578014899
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S15",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-15\\S4B-15_a15_uniform.mat",
+      "sha256": "fc35e4878055248b9900509f2a1e18996ffc60bcf25c66e53f3dd0f320ba0e02",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        735.3874831226997,
+        777.053572685591
+      ]
+    },
+    {
+      "event": "A15SIVB",
+      "station": "S15",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-15\\S4B-15_a15_uniform.mat",
+      "sha256": "fc35e4878055248b9900509f2a1e18996ffc60bcf25c66e53f3dd0f320ba0e02",
+      "warning": "标签时间冲突 · 暂不采用",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        149.07287277776734,
+        337.02330336165727
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S12",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-15\\LM-15_a12_uniform.mat",
+      "sha256": "034487baf581767afdbc6fa4bf08f3beb828d47dc9fe538e017e0343fe7341ad",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -77.83971044071987,
+        1050.8360909497183
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S12",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-15\\LM-15_a12_uniform.mat",
+      "sha256": "034487baf581767afdbc6fa4bf08f3beb828d47dc9fe538e017e0343fe7341ad",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        241.4637732039531,
+        1080.8915723552627
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S12",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-15\\LM-15_a12_uniform.mat",
+      "sha256": "034487baf581767afdbc6fa4bf08f3beb828d47dc9fe538e017e0343fe7341ad",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        470.36302320189884,
+        683.7137325230594
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S14",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-15\\LM-15_a14_uniform.mat",
+      "sha256": "dd5d807acdd7d27d45377a2e56b00c0190cab573c51f83d16ffa9df3b0c5b96a",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        454.90099878648044,
+        697.1724037570583
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S14",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-15\\LM-15_a14_uniform.mat",
+      "sha256": "dd5d807acdd7d27d45377a2e56b00c0190cab573c51f83d16ffa9df3b0c5b96a",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        207.76637172376059,
+        1083.3876761686104
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S14",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-15\\LM-15_a14_uniform.mat",
+      "sha256": "dd5d807acdd7d27d45377a2e56b00c0190cab573c51f83d16ffa9df3b0c5b96a",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        263.8624326979815,
+        1079.2324123927422
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S15",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107998,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-15\\LM-15_a15_uniform.mat",
+      "sha256": "c2be2f0b913e4eeef533277c32340b2d1bdec6d02c3aea0b4cc015e7ba4b6463",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        454.5691385233327,
+        546.1994099315409
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S15",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107998,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-15\\LM-15_a15_uniform.mat",
+      "sha256": "c2be2f0b913e4eeef533277c32340b2d1bdec6d02c3aea0b4cc015e7ba4b6463",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        418.1853509336867,
+        657.0875380153923
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S15",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107998,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-15\\LM-15_a15_uniform.mat",
+      "sha256": "c2be2f0b913e4eeef533277c32340b2d1bdec6d02c3aea0b4cc015e7ba4b6463",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        354.7596419280966,
+        602.5966471390409
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S12",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-15\\LM-15_a12_uniform.mat",
+      "sha256": "034487baf581767afdbc6fa4bf08f3beb828d47dc9fe538e017e0343fe7341ad",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        510.68,
+        515.32
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S12",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-15\\LM-15_a12_uniform.mat",
+      "sha256": "034487baf581767afdbc6fa4bf08f3beb828d47dc9fe538e017e0343fe7341ad",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        513.64,
+        533.36
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S12",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-15\\LM-15_a12_uniform.mat",
+      "sha256": "034487baf581767afdbc6fa4bf08f3beb828d47dc9fe538e017e0343fe7341ad",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        508.2043352577484,
+        519.7414740203961
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S14",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-15\\LM-15_a14_uniform.mat",
+      "sha256": "dd5d807acdd7d27d45377a2e56b00c0190cab573c51f83d16ffa9df3b0c5b96a",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        512.44,
+        520.56
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S14",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-15\\LM-15_a14_uniform.mat",
+      "sha256": "dd5d807acdd7d27d45377a2e56b00c0190cab573c51f83d16ffa9df3b0c5b96a",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        437.2800578224901,
+        534.7199957168526
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S14",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-15\\LM-15_a14_uniform.mat",
+      "sha256": "dd5d807acdd7d27d45377a2e56b00c0190cab573c51f83d16ffa9df3b0c5b96a",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        382.8524795851003,
+        575.2701866973999
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S15",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-15\\LM-15_a15_uniform.mat",
+      "sha256": "c2be2f0b913e4eeef533277c32340b2d1bdec6d02c3aea0b4cc015e7ba4b6463",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        455.0020767092094,
+        540.3547444222054
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S15",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-15\\LM-15_a15_uniform.mat",
+      "sha256": "c2be2f0b913e4eeef533277c32340b2d1bdec6d02c3aea0b4cc015e7ba4b6463",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        423.73325605671255,
+        641.5714116765391
+      ]
+    },
+    {
+      "event": "A15LM",
+      "station": "S15",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-15\\LM-15_a15_uniform.mat",
+      "sha256": "c2be2f0b913e4eeef533277c32340b2d1bdec6d02c3aea0b4cc015e7ba4b6463",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        431.4042677529219,
+        577.4963806325076
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S12",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-16\\S4B-16_a12_uniform.mat",
+      "sha256": "d6d24a9567b387c942dc847b8a1fd55359093b2885b7eb75bfaa9297747ed09e",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.63958850960807,
+        1103.9304131406388
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S12",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-16\\S4B-16_a12_uniform.mat",
+      "sha256": "d6d24a9567b387c942dc847b8a1fd55359093b2885b7eb75bfaa9297747ed09e",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.65473700648555,
+        1102.3389495875547
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S12",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-16\\S4B-16_a12_uniform.mat",
+      "sha256": "d6d24a9567b387c942dc847b8a1fd55359093b2885b7eb75bfaa9297747ed09e",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S14",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-16\\S4B-16_a14_uniform.mat",
+      "sha256": "cfda3d00a3f7057cd6cf512638895c9ea0ffc43435f89df3151e9dc24314070c",
+      "warning": "Z 通道来源待核实",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -61.79950653671199,
+        968.7392979362169
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S14",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-16\\S4B-16_a14_uniform.mat",
+      "sha256": "cfda3d00a3f7057cd6cf512638895c9ea0ffc43435f89df3151e9dc24314070c",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -66.81393935781041,
+        1022.4875198117677
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S14",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-16\\S4B-16_a14_uniform.mat",
+      "sha256": "cfda3d00a3f7057cd6cf512638895c9ea0ffc43435f89df3151e9dc24314070c",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -67.8882910528971,
+        1043.7439646253808
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S15",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-16\\S4B-16_a15_uniform.mat",
+      "sha256": "14df2f6db433079c1144b7ce0aee1709e2b74b55a116b5e18f1b47b9096a0190",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        465.9730432529524,
+        513.2569854317403
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S15",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-16\\S4B-16_a15_uniform.mat",
+      "sha256": "14df2f6db433079c1144b7ce0aee1709e2b74b55a116b5e18f1b47b9096a0190",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        474.12613279504166,
+        544.8384638026205
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S15",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-16\\S4B-16_a15_uniform.mat",
+      "sha256": "14df2f6db433079c1144b7ce0aee1709e2b74b55a116b5e18f1b47b9096a0190",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        450.74669573575216,
+        549.6458163547588
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S12",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-16\\S4B-16_a12_uniform.mat",
+      "sha256": "d6d24a9567b387c942dc847b8a1fd55359093b2885b7eb75bfaa9297747ed09e",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.63958850960807,
+        1103.9304131406388
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S12",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-16\\S4B-16_a12_uniform.mat",
+      "sha256": "d6d24a9567b387c942dc847b8a1fd55359093b2885b7eb75bfaa9297747ed09e",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.10578449696777,
+        1094.928090709065
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S12",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-16\\S4B-16_a12_uniform.mat",
+      "sha256": "d6d24a9567b387c942dc847b8a1fd55359093b2885b7eb75bfaa9297747ed09e",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -75.12185264662726,
+        1016.0369996272791
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S14",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-16\\S4B-16_a14_uniform.mat",
+      "sha256": "cfda3d00a3f7057cd6cf512638895c9ea0ffc43435f89df3151e9dc24314070c",
+      "warning": "Z 通道来源待核实",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -56.12333255067246,
+        892.1109491246833
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S14",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-16\\S4B-16_a14_uniform.mat",
+      "sha256": "cfda3d00a3f7057cd6cf512638895c9ea0ffc43435f89df3151e9dc24314070c",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -66.62436548863573,
+        1019.9282725779095
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S14",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-16\\S4B-16_a14_uniform.mat",
+      "sha256": "cfda3d00a3f7057cd6cf512638895c9ea0ffc43435f89df3151e9dc24314070c",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -64.52910256433819,
+        998.3949200298352
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S15",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-16\\S4B-16_a15_uniform.mat",
+      "sha256": "14df2f6db433079c1144b7ce0aee1709e2b74b55a116b5e18f1b47b9096a0190",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        470.53042404611443,
+        506.4773326718856
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S15",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-16\\S4B-16_a15_uniform.mat",
+      "sha256": "14df2f6db433079c1144b7ce0aee1709e2b74b55a116b5e18f1b47b9096a0190",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        474.9588545942905,
+        536.2190915038918
+      ]
+    },
+    {
+      "event": "A16SIVB",
+      "station": "S15",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-16\\S4B-16_a15_uniform.mat",
+      "sha256": "14df2f6db433079c1144b7ce0aee1709e2b74b55a116b5e18f1b47b9096a0190",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        461.91434185278587,
+        537.4897787825148
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S12",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-17\\S4B-17_a12_uniform.mat",
+      "sha256": "a6440ce73e1be345412281220b59f891b2f29354ce62480a1b95561cc78f7345",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        299.755676552228,
+        701.1916621841095
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S12",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-17\\S4B-17_a12_uniform.mat",
+      "sha256": "a6440ce73e1be345412281220b59f891b2f29354ce62480a1b95561cc78f7345",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        340.2996450754518,
+        710.4680961614645
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S12",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-17\\S4B-17_a12_uniform.mat",
+      "sha256": "a6440ce73e1be345412281220b59f891b2f29354ce62480a1b95561cc78f7345",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        248.38642205959707,
+        706.8155216649993
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S14",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-17\\S4B-17_a14_uniform.mat",
+      "sha256": "b718cec1d068f04c36e6a68072c9dfd0466ce07dc26d312989f02aa598d2b46a",
+      "warning": "Z 通道来源待核实",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -67.75409214935617,
+        1097.3521549740265
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S14",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-17\\S4B-17_a14_uniform.mat",
+      "sha256": "b718cec1d068f04c36e6a68072c9dfd0466ce07dc26d312989f02aa598d2b46a",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S14",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-17\\S4B-17_a14_uniform.mat",
+      "sha256": "b718cec1d068f04c36e6a68072c9dfd0466ce07dc26d312989f02aa598d2b46a",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S15",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-17\\S4B-17_a15_uniform.mat",
+      "sha256": "8b3b3353a8ba48a14e32e0b4f774fc2ff1ab2390e13ba100ebbb2c6f9b635bbb",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        12.845313703852355,
+        957.0612186598702
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S15",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-17\\S4B-17_a15_uniform.mat",
+      "sha256": "8b3b3353a8ba48a14e32e0b4f774fc2ff1ab2390e13ba100ebbb2c6f9b635bbb",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -45.02161678860449,
+        923.4040152042915
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S15",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 108000,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-17\\S4B-17_a15_uniform.mat",
+      "sha256": "8b3b3353a8ba48a14e32e0b4f774fc2ff1ab2390e13ba100ebbb2c6f9b635bbb",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -50.462279427178345,
+        961.3223319668672
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S12",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-17\\S4B-17_a12_uniform.mat",
+      "sha256": "a6440ce73e1be345412281220b59f891b2f29354ce62480a1b95561cc78f7345",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        301.6051139060543,
+        676.2242579074544
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S12",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-17\\S4B-17_a12_uniform.mat",
+      "sha256": "a6440ce73e1be345412281220b59f891b2f29354ce62480a1b95561cc78f7345",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        340.439231687269,
+        708.5836769019318
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S12",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\S4B-17\\S4B-17_a12_uniform.mat",
+      "sha256": "a6440ce73e1be345412281220b59f891b2f29354ce62480a1b95561cc78f7345",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        284.18201101024516,
+        704.1639965575439
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S14",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-17\\S4B-17_a14_uniform.mat",
+      "sha256": "b718cec1d068f04c36e6a68072c9dfd0466ce07dc26d312989f02aa598d2b46a",
+      "warning": "Z 通道来源待核实",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        67.7334664683411,
+        902.0125066767752
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S14",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-17\\S4B-17_a14_uniform.mat",
+      "sha256": "b718cec1d068f04c36e6a68072c9dfd0466ce07dc26d312989f02aa598d2b46a",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S14",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\S4B-17\\S4B-17_a14_uniform.mat",
+      "sha256": "b718cec1d068f04c36e6a68072c9dfd0466ce07dc26d312989f02aa598d2b46a",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S15",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-17\\S4B-17_a15_uniform.mat",
+      "sha256": "8b3b3353a8ba48a14e32e0b4f774fc2ff1ab2390e13ba100ebbb2c6f9b635bbb",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        466.985544972322,
+        510.81772710444926
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S15",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-17\\S4B-17_a15_uniform.mat",
+      "sha256": "8b3b3353a8ba48a14e32e0b4f774fc2ff1ab2390e13ba100ebbb2c6f9b635bbb",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        475.00285270788527,
+        532.998403868724
+      ]
+    },
+    {
+      "event": "A17SIVB",
+      "station": "S15",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\S4B-17\\S4B-17_a15_uniform.mat",
+      "sha256": "8b3b3353a8ba48a14e32e0b4f774fc2ff1ab2390e13ba100ebbb2c6f9b635bbb",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        454.1441427243593,
+        542.7077791158013
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S12",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 100367,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-17\\LM-17_a12_uniform.mat",
+      "sha256": "275bd9b820fc8388747ea1bbb2287a23ecb8d287c50b6b12939fadd7cd050367",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        394.36,
+        693.64
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S12",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 100367,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-17\\LM-17_a12_uniform.mat",
+      "sha256": "275bd9b820fc8388747ea1bbb2287a23ecb8d287c50b6b12939fadd7cd050367",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        443.83545818038976,
+        577.1527816889326
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S12",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 100367,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-17\\LM-17_a12_uniform.mat",
+      "sha256": "275bd9b820fc8388747ea1bbb2287a23ecb8d287c50b6b12939fadd7cd050367",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        275.88732339758843,
+        628.290424467681
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S14",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107998,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-17\\LM-17_a14_uniform.mat",
+      "sha256": "a4589dd8c65eaed30bf21132779dd063ef9b4de9bfa20e9bd4008a8b4b227ba1",
+      "warning": "Z 通道来源待核实",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -29.45410443962035,
+        1099.598062530598
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S14",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107998,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-17\\LM-17_a14_uniform.mat",
+      "sha256": "a4589dd8c65eaed30bf21132779dd063ef9b4de9bfa20e9bd4008a8b4b227ba1",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.59546042913453,
+        1101.5387157933162
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S14",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107998,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-17\\LM-17_a14_uniform.mat",
+      "sha256": "a4589dd8c65eaed30bf21132779dd063ef9b4de9bfa20e9bd4008a8b4b227ba1",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -81.84,
+        1104.84
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S15",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-17\\LM-17_a15_uniform.mat",
+      "sha256": "edf6de652e7136000cc0f2266bbfd8ea4b6dffd1ac26a2f5909edc4f8413954b",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        443.9273025897002,
+        473.9814150390473
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S15",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-17\\LM-17_a15_uniform.mat",
+      "sha256": "edf6de652e7136000cc0f2266bbfd8ea4b6dffd1ac26a2f5909edc4f8413954b",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        372.073778962571,
+        694.1949987676602
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S15",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-17\\LM-17_a15_uniform.mat",
+      "sha256": "edf6de652e7136000cc0f2266bbfd8ea4b6dffd1ac26a2f5909edc4f8413954b",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        97.60130105572267,
+        770.382435747744
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S16",
+      "component": "Z",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp16\\LM-17\\LM-17_a16_uniform.mat",
+      "sha256": "75ce3bc76b0e7dc99ce08d9c6f336d8060f4a34b74299e4d4c59eea025087551",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        396.35557791409235,
+        510.8381086457242
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S16",
+      "component": "N",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp16\\LM-17\\LM-17_a16_uniform.mat",
+      "sha256": "75ce3bc76b0e7dc99ce08d9c6f336d8060f4a34b74299e4d4c59eea025087551",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        187.376028954182,
+        1040.3350620792241
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S16",
+      "component": "E",
+      "view": "full",
+      "n_plotted": 107999,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp16\\LM-17\\LM-17_a16_uniform.mat",
+      "sha256": "75ce3bc76b0e7dc99ce08d9c6f336d8060f4a34b74299e4d4c59eea025087551",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        -67.29090420220027,
+        908.4272067297037
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S12",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-17\\LM-17_a12_uniform.mat",
+      "sha256": "275bd9b820fc8388747ea1bbb2287a23ecb8d287c50b6b12939fadd7cd050367",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        490.5070643758786,
+        686.5179952314164
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S12",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-17\\LM-17_a12_uniform.mat",
+      "sha256": "275bd9b820fc8388747ea1bbb2287a23ecb8d287c50b6b12939fadd7cd050367",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        490.70990457894925,
+        524.3177848460037
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S12",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp12\\LM-17\\LM-17_a12_uniform.mat",
+      "sha256": "275bd9b820fc8388747ea1bbb2287a23ecb8d287c50b6b12939fadd7cd050367",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        417.6,
+        452.4
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S14",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-17\\LM-17_a14_uniform.mat",
+      "sha256": "a4589dd8c65eaed30bf21132779dd063ef9b4de9bfa20e9bd4008a8b4b227ba1",
+      "warning": "Z 通道来源待核实",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        493.09528157077915,
+        528.8611259576915
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S14",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-17\\LM-17_a14_uniform.mat",
+      "sha256": "a4589dd8c65eaed30bf21132779dd063ef9b4de9bfa20e9bd4008a8b4b227ba1",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        436.4468405497333,
+        647.4676525786009
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S14",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp14\\LM-17\\LM-17_a14_uniform.mat",
+      "sha256": "a4589dd8c65eaed30bf21132779dd063ef9b4de9bfa20e9bd4008a8b4b227ba1",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        8.810703571449082,
+        1078.5452458451891
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S15",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-17\\LM-17_a15_uniform.mat",
+      "sha256": "edf6de652e7136000cc0f2266bbfd8ea4b6dffd1ac26a2f5909edc4f8413954b",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        445.3965900647438,
+        469.6659844534526
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S15",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-17\\LM-17_a15_uniform.mat",
+      "sha256": "edf6de652e7136000cc0f2266bbfd8ea4b6dffd1ac26a2f5909edc4f8413954b",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        437.6422593821356,
+        689.3380742921369
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S15",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp15\\LM-17\\LM-17_a15_uniform.mat",
+      "sha256": "edf6de652e7136000cc0f2266bbfd8ea4b6dffd1ac26a2f5909edc4f8413954b",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        226.908277587031,
+        699.5695411163431
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S16",
+      "component": "Z",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp16\\LM-17\\LM-17_a16_uniform.mat",
+      "sha256": "75ce3bc76b0e7dc99ce08d9c6f336d8060f4a34b74299e4d4c59eea025087551",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        461.5543638698364,
+        470.6256026763084
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S16",
+      "component": "N",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp16\\LM-17\\LM-17_a16_uniform.mat",
+      "sha256": "75ce3bc76b0e7dc99ce08d9c6f336d8060f4a34b74299e4d4c59eea025087551",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        480.4836079979066,
+        560.4712920282614
+      ]
+    },
+    {
+      "event": "A17LM",
+      "station": "S16",
+      "component": "E",
+      "view": "detail",
+      "n_plotted": 6600,
+      "source": "data\\raw\\published_waveform_sources\\Kim2026\\AI\\lp16\\LM-17\\LM-17_a16_uniform.mat",
+      "sha256": "75ce3bc76b0e7dc99ce08d9c6f336d8060f4a34b74299e4d4c59eea025087551",
+      "warning": "",
+      "transformations": "none; detail selects -60 <= time <= 600",
+      "ylim": [
+        473.32006305056325,
+        555.6799953295879
+      ]
+    }
+  ],
+  "source_arrays_unchanged": true,
+  "pdf_pages": 18
+}

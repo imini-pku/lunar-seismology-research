@@ -1,0 +1,3783 @@
+{
+  "audit_kind": "Read-only content integrity, raw samples and ATT time-axis comparison",
+  "python": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "library_versions": {
+    "numpy": "2.3.5",
+    "scipy": "1.16.1",
+    "matplotlib": "3.10.8",
+    "obspy": "1.5.1"
+  },
+  "archive_files": [
+    {
+      "path": "data\\raw\\impact_modern\\A12LM_S12_MP_ATT.mseed",
+      "bytes": 126976,
+      "sha256": "ae353fd6163e9173c515e195715d3f2bd5f51b3b33be15a3197de6321a37132a"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A13SIVB_S12_MP_ATT.mseed",
+      "bytes": 155648,
+      "sha256": "b124500bd79881c0108ae9ac36b77ea8bc97892a9db879eb47542fedf2241c63"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A14LM_S12_MP_ATT.mseed",
+      "bytes": 122880,
+      "sha256": "faf1a5c0ae781b5d8e1d51b2eda6f8e855fdff66fb73555bd96cae7586ea24bd"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A14LM_S14_MP_ATT.mseed",
+      "bytes": 139264,
+      "sha256": "aec072cde323f1e0dd2dc7608f2ba76e2e42d014a9140b7c57f1e13160352aaa"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A14SIVB_S12_MP_ATT.mseed",
+      "bytes": 159744,
+      "sha256": "b57b96bf4678769829fdac4b6347538d7c324846c3c8322708d303fb5e46901d"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A15LM_S12_MP_ATT.mseed",
+      "bytes": 122880,
+      "sha256": "d8de2792da256b165a96a073c27102528a96dce6b7605c1aecd79193a0b413f7"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A15LM_S14_MP_ATT.mseed",
+      "bytes": 122880,
+      "sha256": "c0351fe91c06ed8deff36c6db28f76a2748c0bd10733f54ef9abc6f748d2c67a"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A15LM_S15_MP_ATT.mseed",
+      "bytes": 131072,
+      "sha256": "680a62246ee209f41cf05371e98a607317fc1c56b65ae507d033b242a54d82ca"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A15SIVB_S12_MP_ATT.mseed",
+      "bytes": 147456,
+      "sha256": "63d5e3d50e905d7ecd5ea19bd0f0b1c3f0273f6361589425aa874af095cc698b"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A15SIVB_S14_MP_ATT.mseed",
+      "bytes": 155648,
+      "sha256": "1947fe2f413a71465df6339c31d12ed514e34b878ffcc166b5d1335d65b042f6"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A16SIVB_S12_MP_ATT.mseed",
+      "bytes": 159744,
+      "sha256": "433c9bd7c423812074612e83214770ff585c7b4ff848ca64c0ddb77b3ddc013f"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A16SIVB_S14_MP_ATT.mseed",
+      "bytes": 131072,
+      "sha256": "ced950b7ee302c01f9c3c2b3bd5e3bb3f2dfa1166059265501244c6228ed8526"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A16SIVB_S15_MP_ATT.mseed",
+      "bytes": 122880,
+      "sha256": "4628dd902628d02473de8e283b02c01aaad6a7d50f9fcc56d99696d94d7d5a36"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17LM_S12_MP_ATT.mseed",
+      "bytes": 122880,
+      "sha256": "5976dd4a59017ae67225c4dd62cf47fd376a7c6cddf52a3f60bc179f0a63992b"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17LM_S14_MP_ATT.mseed",
+      "bytes": 106496,
+      "sha256": "baf67dca2a98bf87ed2477a4647f4ec135e8d253e00c95cfcd323d36e1e3db9d"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17LM_S15_MP_ATT.mseed",
+      "bytes": 122880,
+      "sha256": "528387a166590a79ef68be9091b610642e64a02b7ce45e44a775a92e2f26ca5c"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17LM_S16_MP_ATT.mseed",
+      "bytes": 122880,
+      "sha256": "46f5f8402615cd37e00df75170c5912bfe72f6b817a108c84831a18ccf967ce9"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17SIVB_S12_MP_ATT.mseed",
+      "bytes": 143360,
+      "sha256": "ff1d5980b9937c5f4f04127b4852b5247f4f7d5c90778166708c2836c3248055"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17SIVB_S14_MP_ATT.mseed",
+      "bytes": 126976,
+      "sha256": "d7907648d64e3458b55b2477faabcab7e4cf4489d96acabdc1e3e2f67776875e"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17SIVB_S15_MP_ATT.mseed",
+      "bytes": 131072,
+      "sha256": "0a579bda488efe2f03f19f601f6f0a09a50448f7968048149291c679ff3c0b22"
+    },
+    {
+      "path": "data\\raw\\impact_modern\\A17SIVB_S16_MP_ATT.mseed",
+      "bytes": 122880,
+      "sha256": "260e8990b7995bf9d82c6900ea22a8c269cf3a56f31061b35b6be44729a544b1"
+    }
+  ],
+  "summary": {
+    "raw_file_count": 21,
+    "npz_file_count": 60,
+    "counts_exact_equal_trace_count": 60,
+    "gap_exact_equal_trace_count": 60,
+    "time_exact_att_affine_trace_count": 60,
+    "all_counts_equal": true,
+    "all_gap_masks_equal": true,
+    "all_time_axes_att_affine": true
+  },
+  "excluded_s14_mhz": [
+    {
+      "event_id": "A16SIVB",
+      "station": "S14",
+      "channel": "MHZ",
+      "archive_channel_present": false,
+      "archive_trace_count": 0,
+      "archive_sample_count": 0,
+      "available_channels": [
+        "ATT",
+        "MH1",
+        "MH2"
+      ],
+      "processing_status": "excluded_known_bad_channel_epoch",
+      "npz_present": false
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S14",
+      "channel": "MHZ",
+      "archive_channel_present": false,
+      "archive_trace_count": 0,
+      "archive_sample_count": 0,
+      "available_channels": [
+        "ATT",
+        "MH1",
+        "MH2"
+      ],
+      "processing_status": "excluded_known_bad_channel_epoch",
+      "npz_present": false
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S14",
+      "channel": "MHZ",
+      "archive_channel_present": false,
+      "archive_trace_count": 0,
+      "archive_sample_count": 0,
+      "available_channels": [
+        "ATT",
+        "MH1",
+        "MH2"
+      ],
+      "processing_status": "excluded_known_bad_channel_epoch",
+      "npz_present": false
+    }
+  ],
+  "trace_checks": [
+    {
+      "event_id": "A12LM",
+      "station": "S12",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A12LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A12LM_S12_MH1.npz",
+      "npz_sha256": "bc4bba84b138e33ca67cbe5bf227d783895cbdf17de7cc3f035ee032a89c3c66",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 0,
+      "raw_gap_fraction": 0.0,
+      "velocity_finite_fraction": 0.9952560646900269,
+      "display_raw_gap_fraction": 0.0,
+      "display_velocity_excluded_fraction": 0.0025563560306762724,
+      "original_starttime": "1969-11-20T22:07:17.705005Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.994995,
+        3599.8540616037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -602.8296264188072,
+        3596.8782659538215
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -2.8346314188071347,
+      "att_correction_s_at_window_end": -2.9757956499520333,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -2.8547982940968244,
+        "slope": 0.999966388260806,
+        "residual_p99_s": 0.0007016502745500469,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 7.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A12LM",
+      "station": "S12",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A12LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A12LM_S12_MH2.npz",
+      "npz_sha256": "ccdc2cead76d3610a7470fc925d6d9d77b18bfa1eb6888485f7b0e3c487b708e",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 0,
+      "raw_gap_fraction": 0.0,
+      "velocity_finite_fraction": 0.9952560646900269,
+      "display_raw_gap_fraction": 0.0,
+      "display_velocity_excluded_fraction": 0.0025563560306762724,
+      "original_starttime": "1969-11-20T22:07:17.724005Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.975995,
+        3599.8730616037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -602.8106270574302,
+        3596.8972653151986
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -2.8346320574302126,
+      "att_correction_s_at_window_end": -2.9757962885751112,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -2.8547982940968244,
+        "slope": 0.999966388260806,
+        "residual_p99_s": 0.0007016502745500469,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 905.0
+    },
+    {
+      "event_id": "A12LM",
+      "station": "S12",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A12LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A12LM_S12_MHZ.npz",
+      "npz_sha256": "02e26a813f5a3657f1fa4c0b31a9c844e4b6ed853b348766c663a00c9169cab9",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 45,
+      "raw_gap_fraction": 0.0016172506738544475,
+      "velocity_finite_fraction": 0.9936388140161725,
+      "display_raw_gap_fraction": 0.0017429700209156402,
+      "display_velocity_excluded_fraction": 0.004299326051591913,
+      "original_starttime": "1969-11-20T22:07:17.743005Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.956995,
+        3599.8920616037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -602.7916276960532,
+        3596.9162646765753
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -2.834632696053177,
+      "att_correction_s_at_window_end": -2.9757969271981892,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -2.8547982940968244,
+        "slope": 0.999966388260806,
+        "residual_p99_s": 0.0007016502745500469,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 439.0,
+      "finite_raw_max": 552.0
+    },
+    {
+      "event_id": "A13SIVB",
+      "station": "S12",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A13SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A13SIVB_S12_MH1.npz",
+      "npz_sha256": "9a7eb05085316535a4d7ab5f6f5b988f6ea9f48352870c82f8a973a939503910",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 300,
+      "raw_gap_fraction": 0.01078167115902965,
+      "velocity_finite_fraction": 0.9844743935309973,
+      "display_raw_gap_fraction": 0.011611704598235021,
+      "display_velocity_excluded_fraction": 0.014166279609846726,
+      "original_starttime": "1970-04-15T00:59:41.066132Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.933868,
+        3599.9151886037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.0813481662037,
+        3599.5947035578483
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.14748016620376347,
+      "att_correction_s_at_window_end": -0.3204850459251247,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.17219331309915195,
+        "slope": 0.9999588068815356,
+        "residual_p99_s": 0.0006679498325183886,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A13SIVB",
+      "station": "S12",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A13SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A13SIVB_S12_MH2.npz",
+      "npz_sha256": "9c9687295cfb422fb21f6cd533080557880d460d537822cc96f538e956a247ca",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 318,
+      "raw_gap_fraction": 0.011428571428571429,
+      "velocity_finite_fraction": 0.9838274932614556,
+      "display_raw_gap_fraction": 0.012307930487285675,
+      "display_velocity_excluded_fraction": 0.014862406626156288,
+      "original_starttime": "1970-04-15T00:59:41.085132Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.914868,
+        3599.9341886037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.062348948873,
+        3599.6137027751793
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.14748094887306706,
+      "att_correction_s_at_window_end": -0.3204858285944283,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.17219331309915195,
+        "slope": 0.9999588068815356,
+        "residual_p99_s": 0.0006679498325183886,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A13SIVB",
+      "station": "S12",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A13SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A13SIVB_S12_MHZ.npz",
+      "npz_sha256": "707c742903890311713d979c00dde9fdec68c3e592b5c8933de8d6dd087f0496",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 330,
+      "raw_gap_fraction": 0.011859838274932614,
+      "velocity_finite_fraction": 0.9833962264150944,
+      "display_raw_gap_fraction": 0.01277238069435306,
+      "display_velocity_excluded_fraction": 0.015326856833223672,
+      "original_starttime": "1970-04-15T00:59:41.104132Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.895868,
+        3599.9531886037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.0433497315422,
+        3599.6327019925097
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.14748173154225697,
+      "att_correction_s_at_window_end": -0.3204866112637319,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.17219331309915195,
+        "slope": 0.9999588068815356,
+        "residual_p99_s": 0.0006679498325183886,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A14LM",
+      "station": "S12",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A14LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A14LM_S12_MH1.npz",
+      "npz_sha256": "809fd315568efef82ddd5c7d659369349b02dc4e573007408110b2eb4b0619b6",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 963,
+      "raw_gap_fraction": 0.03460916442048517,
+      "velocity_finite_fraction": 0.8841329739442947,
+      "display_raw_gap_fraction": 0.03727212911715756,
+      "display_velocity_excluded_fraction": 0.12222781282656656,
+      "original_starttime": "1971-02-07T00:35:25.816962Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.883038,
+        3599.9660186037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -599.9557905367553,
+        3599.754262924177
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.07275253675527438,
+      "att_correction_s_at_window_end": -0.21175567959653563,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.09260697116357172,
+        "slope": 0.999966902824133,
+        "residual_p99_s": 0.0007597868748274551,
+        "retained_fraction": 1.0,
+        "n_ATT": 6742
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 449.0,
+      "finite_raw_max": 920.0
+    },
+    {
+      "event_id": "A14LM",
+      "station": "S12",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A14LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A14LM_S12_MH2.npz",
+      "npz_sha256": "c1c38b72c17b2b61f2ad50739bb9f9bd219daa27497335e0004036681798b658",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 916,
+      "raw_gap_fraction": 0.032920035938903865,
+      "velocity_finite_fraction": 0.8857502246181491,
+      "display_raw_gap_fraction": 0.035453032472810314,
+      "display_velocity_excluded_fraction": 0.12048612455006386,
+      "original_starttime": "1971-02-07T00:35:25.835962Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.864038,
+        3599.9850186037734
+      ],
+      "npz_time_range_relative_origin_s": [
+        -599.9367911656017,
+        3599.7732622953304
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.07275316560162537,
+      "att_correction_s_at_window_end": -0.2117563084430003,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.09260697116357172,
+        "slope": 0.999966902824133,
+        "residual_p99_s": 0.0007597868748274551,
+        "retained_fraction": 1.0,
+        "n_ATT": 6742
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 398.0,
+      "finite_raw_max": 569.0
+    },
+    {
+      "event_id": "A14LM",
+      "station": "S12",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A14LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A14LM_S12_MHZ.npz",
+      "npz_sha256": "600a2e3066e4f84565ea42d10bf5c66071d8ea1ad30123f5c870f3bd54141a6b",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 894,
+      "raw_gap_fraction": 0.032129380053908356,
+      "velocity_finite_fraction": 0.886397124887691,
+      "display_raw_gap_fraction": 0.03460287970274036,
+      "display_velocity_excluded_fraction": 0.11979408577179129,
+      "original_starttime": "1971-02-07T00:35:25.704019Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.995981,
+        3599.8530756037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.068729798661,
+        3599.6413236622716
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.07274879866099582,
+      "att_correction_s_at_window_end": -0.211751941501916,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.09260697116357172,
+        "slope": 0.999966902824133,
+        "residual_p99_s": 0.0007597868748274551,
+        "retained_fraction": 1.0,
+        "n_ATT": 6742
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 448.0,
+      "finite_raw_max": 571.0
+    },
+    {
+      "event_id": "A14LM",
+      "station": "S14",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A14LM_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A14LM_S14_MH1.npz",
+      "npz_sha256": "cd990ce5b7d451ce26dd87c3ff145a8bcd117bf1bf5174b3e583bf5ae562de51",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 453,
+      "raw_gap_fraction": 0.016280323450134773,
+      "velocity_finite_fraction": 0.974303683737646,
+      "display_raw_gap_fraction": 0.017533673943334882,
+      "display_velocity_excluded_fraction": 0.02511998761418176,
+      "original_starttime": "1971-02-07T00:35:25.726906Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.973094,
+        3599.8759626037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.1291962491337,
+        3599.4131724393837
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.15610224913370985,
+      "att_correction_s_at_window_end": -0.462790164389844,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.19991441831616466,
+        "slope": 0.9999269764434096,
+        "residual_p99_s": 0.0006282719809570382,
+        "retained_fraction": 1.0,
+        "n_ATT": 6954
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 312.0,
+      "finite_raw_max": 687.0
+    },
+    {
+      "event_id": "A14LM",
+      "station": "S14",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A14LM_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A14LM_S14_MH2.npz",
+      "npz_sha256": "8e52946f6d9890603602523dc599d62a5895b11783c41bd7a54066be8967aedf",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 506,
+      "raw_gap_fraction": 0.018185085354896675,
+      "velocity_finite_fraction": 0.9725786163522012,
+      "display_raw_gap_fraction": 0.019585075089023067,
+      "display_velocity_excluded_fraction": 0.026977860349899366,
+      "original_starttime": "1971-02-07T00:35:25.745905Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.954095,
+        3599.8949616037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.1101986365084,
+        3599.432170052009
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.1561036365083055,
+      "att_correction_s_at_window_end": -0.46279155176443965,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.19991441831616466,
+        "slope": 0.9999269764434096,
+        "residual_p99_s": 0.0006282719809570382,
+        "retained_fraction": 1.0,
+        "n_ATT": 6954
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 297.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A14LM",
+      "station": "S14",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A14LM_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A14LM_S14_MHZ.npz",
+      "npz_sha256": "95836f20b00de68a82fee4bcf30e4eb52a873c548c1c3a6fc88aa53b54406a3f",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 296,
+      "raw_gap_fraction": 0.010637915543575922,
+      "velocity_finite_fraction": 0.9800179694519318,
+      "display_raw_gap_fraction": 0.011456881870258555,
+      "display_velocity_excluded_fraction": 0.018965784177117202,
+      "original_starttime": "1971-02-07T00:35:25.764905Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.935095,
+        3599.9139616037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.0912000239559,
+        3599.451168664562
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.1561050239558881,
+      "att_correction_s_at_window_end": -0.4627929392117949,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.19991441831616466,
+        "slope": 0.9999269764434096,
+        "residual_p99_s": 0.0006282719809570382,
+        "retained_fraction": 1.0,
+        "n_ATT": 6954
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 449.0,
+      "finite_raw_max": 568.0
+    },
+    {
+      "event_id": "A14SIVB",
+      "station": "S12",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A14SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A14SIVB_S12_MH1.npz",
+      "npz_sha256": "11e563dc70b9216739152fdfd21f86981cb53726ad849e083c1cf0f4bf3d023b",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 820,
+      "raw_gap_fraction": 0.029469901168014376,
+      "velocity_finite_fraction": 0.8216352201257862,
+      "display_raw_gap_fraction": 0.03143631436314363,
+      "display_velocity_excluded_fraction": 0.1767324816105304,
+      "original_starttime": "1971-02-04T07:30:55.499391Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.900609,
+        3599.9484476037733
+      ],
+      "npz_time_range_relative_origin_s": [
+        -601.0220130122445,
+        3598.648223788491
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.1214040122445113,
+      "att_correction_s_at_window_end": -1.300223815282152,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.1469463846721126,
+        "slope": 0.9999574223262246,
+        "residual_p99_s": 0.024095820915613332,
+        "retained_fraction": 1.0,
+        "n_ATT": 6858
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A14SIVB",
+      "station": "S12",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A14SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A14SIVB_S12_MH2.npz",
+      "npz_sha256": "80c2d7334ee77cfecbc0a18d84d9902587b90d1a2b13abe47edd4ba49c28793b",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 837,
+      "raw_gap_fraction": 0.030080862533692722,
+      "velocity_finite_fraction": 0.8214914645103324,
+      "display_raw_gap_fraction": 0.032094463801780874,
+      "display_velocity_excluded_fraction": 0.17688734030197445,
+      "original_starttime": "1971-02-04T07:30:55.518392Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.881608,
+        3599.9674486037734
+      ],
+      "npz_time_range_relative_origin_s": [
+        -601.0030128212629,
+        3598.667223979473
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.1214048212628995,
+      "att_correction_s_at_window_end": -1.3002246243004265,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.1469463846721126,
+        "slope": 0.9999574223262246,
+        "residual_p99_s": 0.024095820915613332,
+        "retained_fraction": 1.0,
+        "n_ATT": 6858
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A14SIVB",
+      "station": "S12",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A14SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A14SIVB_S12_MHZ.npz",
+      "npz_sha256": "bc5664c6ffa4fa5487d7aab49c3d67c819f29c42bda972b295695521063700bf",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 875,
+      "raw_gap_fraction": 0.031446540880503145,
+      "velocity_finite_fraction": 0.8207367475292003,
+      "display_raw_gap_fraction": 0.03356562137049942,
+      "display_velocity_excluded_fraction": 0.17770034843205576,
+      "original_starttime": "1971-02-04T07:30:55.537392Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.862608,
+        3599.9864486037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.9840136302387,
+        3598.686223170497
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.1214056302386552,
+      "att_correction_s_at_window_end": -1.3002254332764096,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.1469463846721126,
+        "slope": 0.9999574223262246,
+        "residual_p99_s": 0.024095820915613332,
+        "retained_fraction": 1.0,
+        "n_ATT": 6858
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A15LM",
+      "station": "S12",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15LM_S12_MH1.npz",
+      "npz_sha256": "a1b1c141efbb04d4b81d2cf0a2d245dba6dc8140a5622fe93f823ae9f0a4ed4c",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 0,
+      "raw_gap_fraction": 0.0,
+      "velocity_finite_fraction": 0.9952560646900269,
+      "display_raw_gap_fraction": 0.0,
+      "display_velocity_excluded_fraction": 0.0025546738920069673,
+      "original_starttime": "1971-08-03T02:53:37.107715Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.892285,
+        3599.9567716037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.2206570895999,
+        3599.496554927832
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.32837208959983855,
+      "att_correction_s_at_window_end": -0.46021667594141036,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.3472043259729011,
+        "slope": 0.9999686073036044,
+        "residual_p99_s": 0.0008730220632557458,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 504.0,
+      "finite_raw_max": 572.0
+    },
+    {
+      "event_id": "A15LM",
+      "station": "S12",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15LM_S12_MH2.npz",
+      "npz_sha256": "30a0be48cfdd9c4ef87ae549aa6592c3ae53d6ee6755adc643fd4840a823169e",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 0,
+      "raw_gap_fraction": 0.0,
+      "velocity_finite_fraction": 0.9952560646900269,
+      "display_raw_gap_fraction": 0.0,
+      "display_velocity_excluded_fraction": 0.0025545750116117046,
+      "original_starttime": "1971-08-03T02:53:37.126715Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.873285,
+        3599.9757716037734
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.2016576860611,
+        3599.515554331371
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.32837268606112957,
+      "att_correction_s_at_window_end": -0.4602172724025877,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.3472043259729011,
+        "slope": 0.9999686073036044,
+        "residual_p99_s": 0.0008730220632557458,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 508.0,
+      "finite_raw_max": 552.0
+    },
+    {
+      "event_id": "A15LM",
+      "station": "S12",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15LM_S12_MHZ.npz",
+      "npz_sha256": "09867d78dee3600b9c54be51c86b7407856867d2a2b08e2cb3ab1558bac44657",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 0,
+      "raw_gap_fraction": 0.0,
+      "velocity_finite_fraction": 0.9952560646900269,
+      "display_raw_gap_fraction": 0.0,
+      "display_velocity_excluded_fraction": 0.0025545750116117046,
+      "original_starttime": "1971-08-03T02:53:37.145715Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.854285,
+        3599.9947716037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.1826582825223,
+        3599.53455373491
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.3283732825223069,
+      "att_correction_s_at_window_end": -0.46021786886376503,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.3472043259729011,
+        "slope": 0.9999686073036044,
+        "residual_p99_s": 0.0008730220632557458,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 510.0,
+      "finite_raw_max": 516.0
+    },
+    {
+      "event_id": "A15LM",
+      "station": "S14",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15LM_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15LM_S14_MH1.npz",
+      "npz_sha256": "a9f76548616a3a92344030a956d6efd3e050e5b27c363e41962765c656fa3d93",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 3,
+      "raw_gap_fraction": 0.00010781671159029649,
+      "velocity_finite_fraction": 0.9951482479784367,
+      "display_raw_gap_fraction": 7.742035381101692e-05,
+      "display_velocity_excluded_fraction": 0.002632292029574575,
+      "original_starttime": "1971-08-03T02:53:37.119829Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.880171,
+        3599.9688856037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.6245620251315,
+        3598.9264287573833
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.7443910251314492,
+      "att_correction_s_at_window_end": -1.0424568463904507,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.7869648827669358,
+        "slope": 0.9999290293967136,
+        "residual_p99_s": 0.0010996513347663493,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 376.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A15LM",
+      "station": "S14",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15LM_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15LM_S14_MH2.npz",
+      "npz_sha256": "8bd50d51f1112082213654f39a2b01adf7aa942583ba6734c7bbd461c9357453",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 4,
+      "raw_gap_fraction": 0.00014375561545372867,
+      "velocity_finite_fraction": 0.9951123090745733,
+      "display_raw_gap_fraction": 0.00011613053071652537,
+      "display_velocity_excluded_fraction": 0.0026710022064800835,
+      "original_starttime": "1971-08-03T02:53:37.138829Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.861171,
+        3599.9878856037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.605563373573,
+        3598.9454274089417
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.7443923735729641,
+      "att_correction_s_at_window_end": -1.0424581948318519,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.7869648827669358,
+        "slope": 0.9999290293967136,
+        "residual_p99_s": 0.0010996513347663493,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 344.0,
+      "finite_raw_max": 1008.0
+    },
+    {
+      "event_id": "A15LM",
+      "station": "S14",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15LM_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15LM_S14_MHZ.npz",
+      "npz_sha256": "2be8d2281df821c022583008402a4f8ca13f4f8a34d567c4573895b70f18eddb",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 3,
+      "raw_gap_fraction": 0.00010781671159029649,
+      "velocity_finite_fraction": 0.9951482479784367,
+      "display_raw_gap_fraction": 3.87116754413131e-05,
+      "display_velocity_excluded_fraction": 0.0025936822545679777,
+      "original_starttime": "1971-08-03T02:53:37.006885Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.993115,
+        3599.8559416037733
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.7374980094277,
+        3598.8134927730866
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.7443830094276791,
+      "att_correction_s_at_window_end": -1.0424488306866806,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.7869648827669358,
+        "slope": 0.9999290293967136,
+        "residual_p99_s": 0.0010996513347663493,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 477.0,
+      "finite_raw_max": 557.0
+    },
+    {
+      "event_id": "A15LM",
+      "station": "S15",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15LM_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15LM_S15_MH1.npz",
+      "npz_sha256": "80ba9b136c38c589433989a43a48089fbc3ef3b9855b445b161258523d84dfd9",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 344,
+      "raw_gap_fraction": 0.012362982929020664,
+      "velocity_finite_fraction": 0.9734052111410602,
+      "display_raw_gap_fraction": 0.013315785399086476,
+      "display_velocity_excluded_fraction": 0.02608964929937292,
+      "original_starttime": "1971-08-03T02:53:37.063829Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.936171,
+        3599.9128856037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.5097671666618,
+        3599.1090308104067
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.5735961666619005,
+      "att_correction_s_at_window_end": -0.8038547933670088,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.6064879389574483,
+        "slope": 0.9999451745470844,
+        "residual_p99_s": 0.0006446642701803286,
+        "retained_fraction": 1.0,
+        "n_ATT": 6946
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 371.0,
+      "finite_raw_max": 570.0
+    },
+    {
+      "event_id": "A15LM",
+      "station": "S15",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15LM_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15LM_S15_MH2.npz",
+      "npz_sha256": "5fa551097500b60bbf5b416a4dd8af18148b5e2fc93ba0c6feb8783a2918a3e4",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 424,
+      "raw_gap_fraction": 0.015238095238095238,
+      "velocity_finite_fraction": 0.9705300988319856,
+      "display_raw_gap_fraction": 0.016412479677943796,
+      "display_velocity_excluded_fraction": 0.029186343578230238,
+      "original_starttime": "1971-08-03T02:53:37.082828Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.917172,
+        3599.9318846037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.4907692082908,
+        3599.1280287687778
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.573597208290721,
+      "att_correction_s_at_window_end": -0.8038558349958294,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.6064879389574483,
+        "slope": 0.9999451745470844,
+        "residual_p99_s": 0.0006446642701803286,
+        "retained_fraction": 1.0,
+        "n_ATT": 6946
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 435.0,
+      "finite_raw_max": 640.0
+    },
+    {
+      "event_id": "A15LM",
+      "station": "S15",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15LM_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15LM_S15_MHZ.npz",
+      "npz_sha256": "77854269177ac62fbfe9019537e3f1fba23cd94747b0e525f01d071a140564c2",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 105,
+      "raw_gap_fraction": 0.0037735849056603774,
+      "velocity_finite_fraction": 0.9819946091644205,
+      "display_raw_gap_fraction": 0.004064411241000232,
+      "display_velocity_excluded_fraction": 0.016838275141286677,
+      "original_starttime": "1971-08-03T02:53:37.101828Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.898172,
+        3599.9508846037734
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.4717702499744,
+        3599.1470277270937
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.5735982499743386,
+      "att_correction_s_at_window_end": -0.8038568766796743,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.6064879389574483,
+        "slope": 0.9999451745470844,
+        "residual_p99_s": 0.0006446642701803286,
+        "retained_fraction": 1.0,
+        "n_ATT": 6946
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 462.0,
+      "finite_raw_max": 540.0
+    },
+    {
+      "event_id": "A15SIVB",
+      "station": "S12",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15SIVB_S12_MH1.npz",
+      "npz_sha256": "7571b1ed018d8f5ec3ef16a96bd1399c3ab1feffc40238fc6523461c904e4f6e",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 356,
+      "raw_gap_fraction": 0.012794249775381851,
+      "velocity_finite_fraction": 0.9824618149146451,
+      "display_raw_gap_fraction": 0.013779756144764854,
+      "display_velocity_excluded_fraction": 0.016334430036771822,
+      "original_starttime": "1971-07-29T20:48:42.908418Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.991582,
+        3599.8574746037734
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.3307041337926,
+        3599.506556939244
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.3391221337925572,
+      "att_correction_s_at_window_end": -0.3509176645293337,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.34080724653156935,
+        "slope": 0.9999971914393642,
+        "residual_p99_s": 0.00086401790937316,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 371.0,
+      "finite_raw_max": 661.0
+    },
+    {
+      "event_id": "A15SIVB",
+      "station": "S12",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15SIVB_S12_MH2.npz",
+      "npz_sha256": "5890f220b3f4c8974bf492bb886a0d29ee1979ff8fc84f734df8d55e2dcd7d08",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 362,
+      "raw_gap_fraction": 0.013009883198562444,
+      "velocity_finite_fraction": 0.9822461814914645,
+      "display_raw_gap_fraction": 0.014011999225856397,
+      "display_velocity_excluded_fraction": 0.016566673117863362,
+      "original_starttime": "1971-07-29T20:48:42.927417Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.972583,
+        3599.876473603774
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.3117051871524,
+        3599.5255558858844
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.33912218715238396,
+      "att_correction_s_at_window_end": -0.35091771788938786,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.34080724653156935,
+        "slope": 0.9999971914393642,
+        "residual_p99_s": 0.00086401790937316,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 321.0,
+      "finite_raw_max": 644.0
+    },
+    {
+      "event_id": "A15SIVB",
+      "station": "S12",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15SIVB_S12_MHZ.npz",
+      "npz_sha256": "29f40df9b1a0fd6bc2486f33ff90c1b096f9e86590f326d7bef7a5a4646e27c0",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 375,
+      "raw_gap_fraction": 0.013477088948787063,
+      "velocity_finite_fraction": 0.9817789757412398,
+      "display_raw_gap_fraction": 0.014515192568221405,
+      "display_velocity_excluded_fraction": 0.017069866460228372,
+      "original_starttime": "1971-07-29T20:48:42.946417Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.953583,
+        3599.8954736037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.292705240515,
+        3599.5445558325214
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.3391222405150529,
+      "att_correction_s_at_window_end": -0.3509177712521705,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.34080724653156935,
+        "slope": 0.9999971914393642,
+        "residual_p99_s": 0.00086401790937316,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 341.0,
+      "finite_raw_max": 648.0
+    },
+    {
+      "event_id": "A15SIVB",
+      "station": "S14",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15SIVB_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15SIVB_S14_MH1.npz",
+      "npz_sha256": "0518036841ef1660b227017100e7d7d62cbcd8be272076610d2d3c2109c6b609",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 749,
+      "raw_gap_fraction": 0.02691823899371069,
+      "velocity_finite_fraction": 0.9637017070979335,
+      "display_raw_gap_fraction": 0.029025382677775626,
+      "display_velocity_excluded_fraction": 0.036582057740747916,
+      "original_starttime": "1971-07-29T20:48:42.996911Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.903089,
+        3599.9459676037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -604.8099739967336,
+        3594.7701259129285
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -4.906884996733538,
+      "att_correction_s_at_window_end": -5.175841690845118,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -4.9453025563720825,
+        "slope": 0.9999359603903648,
+        "residual_p99_s": 0.0009079475181295038,
+        "retained_fraction": 1.0,
+        "n_ATT": 6926
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A15SIVB",
+      "station": "S14",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15SIVB_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15SIVB_S14_MH2.npz",
+      "npz_sha256": "8fc9a8e2cdb15a057dfa2232241bb25dca550f6eb047c1a0a49d558117bd453b",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 722,
+      "raw_gap_fraction": 0.025947888589398022,
+      "velocity_finite_fraction": 0.9648517520215634,
+      "display_raw_gap_fraction": 0.027979073822902538,
+      "display_velocity_excluded_fraction": 0.03534198798682426,
+      "original_starttime": "1971-07-29T20:48:43.015912Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.884088,
+        3599.9649686037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -604.7909742135503,
+        3594.789125696112
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -4.906886213550251,
+      "att_correction_s_at_window_end": -5.175842907661718,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -4.9453025563720825,
+        "slope": 0.9999359603903648,
+        "residual_p99_s": 0.0009079475181295038,
+        "retained_fraction": 1.0,
+        "n_ATT": 6926
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A15SIVB",
+      "station": "S14",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A15SIVB_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A15SIVB_S14_MHZ.npz",
+      "npz_sha256": "e831cb1d17efbb646e66dbe2652ca1b97cf7f7275d1e5310ebc98145e5507fe6",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 601,
+      "raw_gap_fraction": 0.02159928122192273,
+      "velocity_finite_fraction": 0.9690925426774484,
+      "display_raw_gap_fraction": 0.023290060065878707,
+      "display_velocity_excluded_fraction": 0.03076923076923077,
+      "original_starttime": "1971-07-29T20:48:43.034911Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.865089,
+        3599.9839676037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -604.7719764302387,
+        3594.808123479423
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -4.906887430238726,
+      "att_correction_s_at_window_end": -5.175844124350533,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -4.9453025563720825,
+        "slope": 0.9999359603903648,
+        "residual_p99_s": 0.0009079475181295038,
+        "retained_fraction": 1.0,
+        "n_ATT": 6926
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 66.0,
+      "finite_raw_max": 950.0
+    },
+    {
+      "event_id": "A16SIVB",
+      "station": "S12",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A16SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A16SIVB_S12_MH1.npz",
+      "npz_sha256": "d695eb4f6fa4d69733444292879961a5d17d7cc70ee0c695feddd63c4bed8125",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 453,
+      "raw_gap_fraction": 0.016280323450134773,
+      "velocity_finite_fraction": 0.9789757412398922,
+      "display_raw_gap_fraction": 0.01753231674278195,
+      "display_velocity_excluded_fraction": 0.020086694016564748,
+      "original_starttime": "1972-04-19T20:52:04.141685Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.858315,
+        3599.9907416037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -599.9153431883311,
+        3599.9275996050674
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.057028188331173624,
+      "att_correction_s_at_window_end": -0.06314199870621451,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.05790141494974662,
+        "slope": 0.9999985442785461,
+        "residual_p99_s": 0.0009762521658331024,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A16SIVB",
+      "station": "S12",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A16SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A16SIVB_S12_MH2.npz",
+      "npz_sha256": "57e31447916d6472dba53e32dba49e347da90c218c7942958f0eaa90c2bed069",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 455,
+      "raw_gap_fraction": 0.016352201257861635,
+      "velocity_finite_fraction": 0.9789398023360287,
+      "display_raw_gap_fraction": 0.017610403684638308,
+      "display_velocity_excluded_fraction": 0.02012617563958664,
+      "original_starttime": "1972-04-19T20:52:04.009742Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.990258,
+        3599.8587986037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.047285996259,
+        3599.7956567971396
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.057027996258966596,
+      "att_correction_s_at_window_end": -0.06314180663412117,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.05790141494974662,
+        "slope": 0.9999985442785461,
+        "residual_p99_s": 0.0009762521658331024,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A16SIVB",
+      "station": "S12",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A16SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A16SIVB_S12_MHZ.npz",
+      "npz_sha256": "3b7a601e1a2fcb1471c6e471a768f2a1953dba5260ae57fd6cc76c379b2f0355",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 432,
+      "raw_gap_fraction": 0.015525606469002695,
+      "velocity_finite_fraction": 0.9797304582210242,
+      "display_raw_gap_fraction": 0.016720207454425824,
+      "display_velocity_excluded_fraction": 0.019274683593296437,
+      "original_starttime": "1972-04-19T20:52:04.028741Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.971259,
+        3599.8777976037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.0282870239163,
+        3599.814655769482
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.05702802391624573,
+      "att_correction_s_at_window_end": -0.0631418342914003,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.05790141494974662,
+        "slope": 0.9999985442785461,
+        "residual_p99_s": 0.0009762521658331024,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A16SIVB",
+      "station": "S14",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A16SIVB_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A16SIVB_S14_MH1.npz",
+      "npz_sha256": "465db6252933c7467a50a8575b44a4032ac2e628654d92159950ee9b0a50dae1",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 674,
+      "raw_gap_fraction": 0.02422282120395328,
+      "velocity_finite_fraction": 0.9710332434860737,
+      "display_raw_gap_fraction": 0.02611593304401736,
+      "display_velocity_excluded_fraction": 0.028673279603223807,
+      "original_starttime": "1972-04-19T20:52:04.002572Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.997428,
+        3599.8516286037734
+      ],
+      "npz_time_range_relative_origin_s": [
+        -604.4088475366683,
+        3595.1883416385645
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -4.411419536668291,
+      "att_correction_s_at_window_end": -4.663286965208954,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -4.44740173681039,
+        "slope": 0.9999400294093559,
+        "residual_p99_s": 0.0009584891095801138,
+        "retained_fraction": 1.0,
+        "n_ATT": 6957
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 72.0,
+      "finite_raw_max": 949.0
+    },
+    {
+      "event_id": "A16SIVB",
+      "station": "S14",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A16SIVB_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A16SIVB_S14_MH2.npz",
+      "npz_sha256": "62e7255777ad94a00f64f239c2d52c725d36a5a09588ee1c0fc0c75652c7d238",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 601,
+      "raw_gap_fraction": 0.02159928122192273,
+      "velocity_finite_fraction": 0.9737286612758311,
+      "display_raw_gap_fraction": 0.023287352758834468,
+      "display_velocity_excluded_fraction": 0.025767203967761936,
+      "original_starttime": "1972-04-19T20:52:04.021571Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.978429,
+        3599.8706276037738
+      ],
+      "npz_time_range_relative_origin_s": [
+        -604.3898496760496,
+        3595.207339499184
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -4.411420676049602,
+      "att_correction_s_at_window_end": -4.66328810458981,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -4.44740173681039,
+        "slope": 0.9999400294093559,
+        "residual_p99_s": 0.0009584891095801138,
+        "retained_fraction": 1.0,
+        "n_ATT": 6957
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 29.0,
+      "finite_raw_max": 978.0
+    },
+    {
+      "event_id": "A16SIVB",
+      "station": "S15",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A16SIVB_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A16SIVB_S15_MH1.npz",
+      "npz_sha256": "4618f1e8b451cefebcb81dd105be2b09b01679594e38049f632b0130864fdc40",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 38,
+      "raw_gap_fraction": 0.0013656783468104223,
+      "velocity_finite_fraction": 0.9938903863432166,
+      "display_raw_gap_fraction": 0.001470758989046716,
+      "display_velocity_excluded_fraction": 0.004025235127917328,
+      "original_starttime": "1972-04-19T20:52:04.016685Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.983315,
+        3599.8657416037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.0522357620196,
+        3599.7902107131194
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.06892076201961572,
+      "att_correction_s_at_window_end": -0.07553089065413587,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.06986507378821036,
+        "slope": 0.9999984261032848,
+        "residual_p99_s": 0.0009755031674757218,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 478.0,
+      "finite_raw_max": 540.0
+    },
+    {
+      "event_id": "A16SIVB",
+      "station": "S15",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A16SIVB_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A16SIVB_S15_MH2.npz",
+      "npz_sha256": "c526962164741a80fd3cbc1be58f82c316ad1df73bfee6504bfeaad9ef43658a",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 73,
+      "raw_gap_fraction": 0.0026235399820305483,
+      "velocity_finite_fraction": 0.9926325247079965,
+      "display_raw_gap_fraction": 0.002825405426326586,
+      "display_velocity_excluded_fraction": 0.005379881565197198,
+      "original_starttime": "1972-04-19T20:52:04.035686Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.964314,
+        3599.8847426037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.0332347919252,
+        3599.809211683214
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.06892079192527945,
+      "att_correction_s_at_window_end": -0.07553092055968591,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.06986507378821036,
+        "slope": 0.9999984261032848,
+        "residual_p99_s": 0.0009755031674757218,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 457.0,
+      "finite_raw_max": 539.0
+    },
+    {
+      "event_id": "A16SIVB",
+      "station": "S15",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A16SIVB_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A16SIVB_S15_MHZ.npz",
+      "npz_sha256": "760e11b6c77135af9fb8f52a2748b8371bed30fb22819a95fe318814699adc67",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 0,
+      "raw_gap_fraction": 0.0,
+      "velocity_finite_fraction": 0.9952560646900269,
+      "display_raw_gap_fraction": 0.0,
+      "display_velocity_excluded_fraction": 0.002554476138870612,
+      "original_starttime": "1972-04-19T20:52:04.054685Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.945315,
+        3599.9037416037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.0142358218277,
+        3599.8282106533115
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.06892082182764625,
+      "att_correction_s_at_window_end": -0.07553095046205272,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.06986507378821036,
+        "slope": 0.9999984261032848,
+        "residual_p99_s": 0.0009755031674757218,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 469.0,
+      "finite_raw_max": 510.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S12",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S12_MH1.npz",
+      "npz_sha256": "ade4c35a3c81ca9f453973a3ef8cc95152e43595a3aae579514bf2c73c007be4",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 8,
+      "raw_gap_fraction": 0.00028751123090745733,
+      "velocity_finite_fraction": 0.9902246181491464,
+      "display_raw_gap_fraction": 0.000309633471378256,
+      "display_velocity_excluded_fraction": 0.00793435770406781,
+      "original_starttime": "1972-12-15T06:40:20.877411Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.922589,
+        3599.9264676037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -599.8192497591549,
+        3600.023710850733
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": 0.10333924084511636,
+      "att_correction_s_at_window_end": 0.09724324695935138,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": 0.10246846563740572,
+        "slope": 0.9999985485207198,
+        "residual_p99_s": 0.003255390694657764,
+        "retained_fraction": 1.0,
+        "n_ATT": 6954
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 391.0,
+      "finite_raw_max": 557.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S12",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S12_MH2.npz",
+      "npz_sha256": "94329376a9595b0acd9b471c95fa3f795026b7ae555489ad24026dbaf9738401",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 9,
+      "raw_gap_fraction": 0.00032345013477088946,
+      "velocity_finite_fraction": 0.990188679245283,
+      "display_raw_gap_fraction": 0.000348337655300538,
+      "display_velocity_excluded_fraction": 0.007973061887990091,
+      "original_starttime": "1972-12-15T06:40:20.896410Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.90359,
+        3599.9454666037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -599.8002507867316,
+        3600.042709823156
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": 0.1033392132684412,
+      "att_correction_s_at_window_end": 0.09724321938256253,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": 0.10246846563740572,
+        "slope": 0.9999985485207198,
+        "residual_p99_s": 0.003255390694657764,
+        "retained_fraction": 1.0,
+        "n_ATT": 6954
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 453.0,
+      "finite_raw_max": 568.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S12",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S12_MHZ.npz",
+      "npz_sha256": "9b02200a31ebf6dab56ba4866a1343da637ea1a93cb24c2b5d47cc011c47f46a",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 9,
+      "raw_gap_fraction": 0.00032345013477088946,
+      "velocity_finite_fraction": 0.990188679245283,
+      "display_raw_gap_fraction": 0.000348337655300538,
+      "display_velocity_excluded_fraction": 0.007973061887990091,
+      "original_starttime": "1972-12-15T06:40:20.915411Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.884589,
+        3599.9644676037733
+      ],
+      "npz_time_range_relative_origin_s": [
+        -599.7812498143111,
+        3600.0617107955763
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": 0.10333918568892386,
+      "att_correction_s_at_window_end": 0.09724319180304519,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": 0.10246846563740572,
+        "slope": 0.9999985485207198,
+        "residual_p99_s": 0.003255390694657764,
+        "retained_fraction": 1.0,
+        "n_ATT": 6954
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 487.0,
+      "finite_raw_max": 673.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S14",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S14_MH1.npz",
+      "npz_sha256": "2b40b89e37122aae17f95fb392e800ff404329be9745ce7ca05fde4967e9fffc",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 942,
+      "raw_gap_fraction": 0.0338544474393531,
+      "velocity_finite_fraction": 0.8152380952380952,
+      "display_raw_gap_fraction": 0.0361637046501723,
+      "display_velocity_excluded_fraction": 0.19107910326402602,
+      "original_starttime": "1972-12-15T06:40:20.869080Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.93092,
+        3599.9181366037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -601.5194248321693,
+        3597.9919786342402
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.588504832169292,
+      "att_correction_s_at_window_end": -1.9261579695335058,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.6367371744771666,
+        "slope": 0.9999196035065039,
+        "residual_p99_s": 0.01155879986359651,
+        "retained_fraction": 1.0,
+        "n_ATT": 6729
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1018.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S14",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S14_MH2.npz",
+      "npz_sha256": "28d5075846334b0f1cbdddc49aa0b63d2b9e5d03f22789fa18bed63bcd0b50ce",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 933,
+      "raw_gap_fraction": 0.033530997304582214,
+      "velocity_finite_fraction": 0.8154177897574124,
+      "display_raw_gap_fraction": 0.03581523212142332,
+      "display_velocity_excluded_fraction": 0.19088550741472102,
+      "original_starttime": "1972-12-15T06:40:20.888080Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.91192,
+        3599.9371366037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -601.5004263597026,
+        3598.010977106707
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.588506359702592,
+      "att_correction_s_at_window_end": -1.926159497066692,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.6367371744771666,
+        "slope": 0.9999196035065039,
+        "residual_p99_s": 0.01155879986359651,
+        "retained_fraction": 1.0,
+        "n_ATT": 6729
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 886.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S15",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S15_MH1.npz",
+      "npz_sha256": "47737ee32f3798300ce17767a8e6f3e90f60985d860ec13bc05fd67b9c1b339a",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 5,
+      "raw_gap_fraction": 0.00017969451931716083,
+      "velocity_finite_fraction": 0.9903324348607367,
+      "display_raw_gap_fraction": 0.0001935808587246893,
+      "display_velocity_excluded_fraction": 0.007859382864222386,
+      "original_starttime": "1972-12-15T06:40:20.882241Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.917759,
+        3599.9312976037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -601.193404335972,
+        3598.4276809932194
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.2756453359719444,
+      "att_correction_s_at_window_end": -1.503616610554218,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.308209367278856,
+        "slope": 0.9999457191743061,
+        "residual_p99_s": 0.016335781087282158,
+        "retained_fraction": 1.0,
+        "n_ATT": 6955
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 399.0,
+      "finite_raw_max": 672.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S15",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S15_MH2.npz",
+      "npz_sha256": "2f2115d605e0fc065a77673f65f8eec1d23d00be4ff69fcc15dd8940fd5f9ddf",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 6,
+      "raw_gap_fraction": 0.00021563342318059299,
+      "velocity_finite_fraction": 0.9902964959568733,
+      "display_raw_gap_fraction": 0.00023229703046962716,
+      "display_velocity_excluded_fraction": 0.007898099035967323,
+      "original_starttime": "1972-12-15T06:40:20.901241Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.898759,
+        3599.9502976037734
+      ],
+      "npz_time_range_relative_origin_s": [
+        -601.1744053673076,
+        3598.4466799618835
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.2756463673075586,
+      "att_correction_s_at_window_end": -1.5036176418898322,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.308209367278856,
+        "slope": 0.9999457191743061,
+        "residual_p99_s": 0.016335781087282158,
+        "retained_fraction": 1.0,
+        "n_ATT": 6955
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 259.0,
+      "finite_raw_max": 667.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S15",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S15_MHZ.npz",
+      "npz_sha256": "2a9115e258c4374cdc8be1a9d43e6cd29be27a178f3797c9e503062b48abed44",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 4,
+      "raw_gap_fraction": 0.00014375561545372867,
+      "velocity_finite_fraction": 0.9903683737646002,
+      "display_raw_gap_fraction": 0.00015486468697975143,
+      "display_velocity_excluded_fraction": 0.007820666692477447,
+      "original_starttime": "1972-12-15T06:40:20.920241Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.879759,
+        3599.9692976037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -601.1554063986433,
+        3598.465678930548
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.2756473986432866,
+      "att_correction_s_at_window_end": -1.5036186732254464,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.308209367278856,
+        "slope": 0.9999457191743061,
+        "residual_p99_s": 0.016335781087282158,
+        "retained_fraction": 1.0,
+        "n_ATT": 6955
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 447.0,
+      "finite_raw_max": 468.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S16",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S16_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S16_MH1.npz",
+      "npz_sha256": "586fdb2a6875cbd2341f907f0f533b51567bbb2db9b196dca357ddfbebad2f1e",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S16.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 3,
+      "raw_gap_fraction": 0.00010781671159029649,
+      "velocity_finite_fraction": 0.9951482479784367,
+      "display_raw_gap_fraction": 0.00011616200727948579,
+      "display_velocity_excluded_fraction": 0.002671726167428173,
+      "original_starttime": "1972-12-15T06:40:20.871298Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.928702,
+        3599.9203546037734
+      ],
+      "npz_time_range_relative_origin_s": [
+        -601.6928180541001,
+        3597.8483134013823
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.7641160541001,
+      "att_correction_s_at_window_end": -2.0720412023911194,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.8081017145459466,
+        "slope": 0.9999266818535283,
+        "residual_p99_s": 0.001605403170754016,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 182.0,
+      "finite_raw_max": 619.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S16",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S16_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S16_MH2.npz",
+      "npz_sha256": "52d0d450735039f12c5bde7264051add40b9f898fa25b8b80d7c0e29c6b22b54",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S16.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 1,
+      "raw_gap_fraction": 3.5938903863432166e-05,
+      "velocity_finite_fraction": 0.9952201257861635,
+      "display_raw_gap_fraction": 3.872066909316193e-05,
+      "display_velocity_excluded_fraction": 0.0025942848292418493,
+      "original_starttime": "1972-12-15T06:40:20.890298Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.909702,
+        3599.9393546037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -601.673819447145,
+        3597.8673120083376
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.7641174471449403,
+      "att_correction_s_at_window_end": -2.07204259543596,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.8081017145459466,
+        "slope": 0.9999266818535283,
+        "residual_p99_s": 0.001605403170754016,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 246.0,
+      "finite_raw_max": 982.0
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S16",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17LM_S16_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17LM_S16_MHZ.npz",
+      "npz_sha256": "1dd88d6708a417bbca0f88a9953e6543f1014613e0cbc3dfdab7fd4bb9e39fec",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S16.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 0,
+      "raw_gap_fraction": 0.0,
+      "velocity_finite_fraction": 0.9952560646900269,
+      "display_raw_gap_fraction": 0.0,
+      "display_velocity_excluded_fraction": 0.0025555641601486875,
+      "original_starttime": "1972-12-15T06:40:20.909297Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.890703,
+        3599.9583536037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -601.6548218401164,
+        3597.886309615366
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -1.764118840116339,
+      "att_correction_s_at_window_end": -2.072043988407586,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -1.8081017145459466,
+        "slope": 0.9999266818535283,
+        "residual_p99_s": 0.001605403170754016,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 440.0,
+      "finite_raw_max": 492.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S12",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S12_MH1.npz",
+      "npz_sha256": "b22efdb02352039289fb8b5d5825d6d20758ebf0fad3af45e69a6892835b7104",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 376,
+      "raw_gap_fraction": 0.013513027852650494,
+      "velocity_finite_fraction": 0.9817430368373765,
+      "display_raw_gap_fraction": 0.014552209923368682,
+      "display_velocity_excluded_fraction": 0.017067884511185075,
+      "original_starttime": "1972-12-10T20:22:42.373308Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.926692,
+        3599.9223646037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -599.7311183657025,
+        3600.1275366432737
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": 0.19557363429748875,
+      "att_correction_s_at_window_end": 0.20517203950021212,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": 0.19694471678259703,
+        "slope": 1.0000022854167074,
+        "residual_p99_s": 0.0007526724784042923,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 367.0,
+      "finite_raw_max": 687.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S12",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S12_MH2.npz",
+      "npz_sha256": "091d9e33abf15301142ef93cf4a12c5f8d12017ae4c5afcb61795019024a015a",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 338,
+      "raw_gap_fraction": 0.012147349505840071,
+      "velocity_finite_fraction": 0.9831087151841869,
+      "display_raw_gap_fraction": 0.01308150785664525,
+      "display_velocity_excluded_fraction": 0.015597182444461646,
+      "original_starttime": "1972-12-10T20:22:42.392308Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.907692,
+        3599.9413646037738
+      ],
+      "npz_time_range_relative_origin_s": [
+        -599.7121183222796,
+        3600.146536686697
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": 0.1955736777204038,
+      "att_correction_s_at_window_end": 0.20517208292312716,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": 0.19694471678259703,
+        "slope": 1.0000022854167074,
+        "residual_p99_s": 0.0007526724784042923,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 280.0,
+      "finite_raw_max": 676.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S12",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S12_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S12_MHZ.npz",
+      "npz_sha256": "25d5f8ca08d040c6914036005a8e1e29fa279a626e36ddf585015b2cb490587f",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S12.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 365,
+      "raw_gap_fraction": 0.01311769991015274,
+      "velocity_finite_fraction": 0.9821383647798743,
+      "display_raw_gap_fraction": 0.014127027131632929,
+      "display_velocity_excluded_fraction": 0.01660409490265898,
+      "original_starttime": "1972-12-10T20:22:42.411308Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.888692,
+        3599.9603646037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -599.6931182788567,
+        3600.1655367301196
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": 0.19557372114331883,
+      "att_correction_s_at_window_end": 0.2051721263460422,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": 0.19694471678259703,
+        "slope": 1.0000022854167074,
+        "residual_p99_s": 0.0007526724784042923,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 327.0,
+      "finite_raw_max": 679.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S14",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S14_MH1.npz",
+      "npz_sha256": "704779217b2edbbf8163291e466f1cde10f8a3f7dd443e30d9dc13189caa73e3",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 5114,
+      "raw_gap_fraction": 0.1837915543575921,
+      "velocity_finite_fraction": 0.6483018867924528,
+      "display_raw_gap_fraction": 0.17797233951884708,
+      "display_velocity_excluded_fraction": 0.34633711695657227,
+      "original_starttime": "1972-12-10T20:22:42.418301Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.881699,
+        3599.9673576037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -603.6407861519441,
+        3595.985352614251
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -3.7590871519440725,
+      "att_correction_s_at_window_end": -3.9820049895224656,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -3.7909274227113654,
+        "slope": 0.9999469224168359,
+        "residual_p99_s": 0.0007026964530177784,
+        "retained_fraction": 1.0,
+        "n_ATT": 5814
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S14",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S14_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S14_MH2.npz",
+      "npz_sha256": "dc97f513ea42cfbe00253a545d26d30b7af556a65fa5024d24bbdbd26edd9e18",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S14.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 5043,
+      "raw_gap_fraction": 0.1812398921832884,
+      "velocity_finite_fraction": 0.6503863432165319,
+      "display_raw_gap_fraction": 0.17522178747142914,
+      "display_velocity_excluded_fraction": 0.34409018711501954,
+      "original_starttime": "1972-12-10T20:22:42.437300Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.8627,
+        3599.9863566037734
+      ],
+      "npz_time_range_relative_origin_s": [
+        -603.6217881603651,
+        3596.00435060583
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -3.7590881603650814,
+      "att_correction_s_at_window_end": -3.982005997943361,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -3.7909274227113654,
+        "slope": 0.9999469224168359,
+        "residual_p99_s": 0.0007026964530177784,
+        "retained_fraction": 1.0,
+        "n_ATT": 5814
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 0.0,
+      "finite_raw_max": 1023.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S15",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S15_MH1.npz",
+      "npz_sha256": "370b0709e721657daf6d438d349b3dde2c6b64392dabf1f61ee9f44ffce884be",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 9,
+      "raw_gap_fraction": 0.00032345013477088946,
+      "velocity_finite_fraction": 0.9949326145552561,
+      "display_raw_gap_fraction": 0.0003483646216373137,
+      "display_velocity_excluded_fraction": 0.002903038513644281,
+      "original_starttime": "1972-12-10T20:22:42.422768Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.877232,
+        3599.9718246037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.352948461353,
+        3599.473781794694
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.4757164613529312,
+      "att_correction_s_at_window_end": -0.4980428090798341,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.4789054015969093,
+        "slope": 0.9999946840118714,
+        "residual_p99_s": 0.0011349124514936193,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 477.0,
+      "finite_raw_max": 533.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S15",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S15_MH2.npz",
+      "npz_sha256": "87cf629491f60d3f80abea930f7dc2f46ca39685f3dd2e147a61ed6b42b13e94",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 56,
+      "raw_gap_fraction": 0.002012578616352201,
+      "velocity_finite_fraction": 0.9932434860736747,
+      "display_raw_gap_fraction": 0.00216760209018773,
+      "display_velocity_excluded_fraction": 0.004722275982194697,
+      "original_starttime": "1972-12-10T20:22:42.441767Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.858233,
+        3599.9908236037736
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.3339495623514,
+        3599.4927806936953
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.47571656235140836,
+      "att_correction_s_at_window_end": -0.49804291007831125,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.4789054015969093,
+        "slope": 0.9999946840118714,
+        "residual_p99_s": 0.0011349124514936193,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 460.0,
+      "finite_raw_max": 558.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S15",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S15_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S15_MHZ.npz",
+      "npz_sha256": "878971d1a637e8e50844a76d499b62de1551fcfd1889a745f9ddf6da962d6db2",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S15.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 0,
+      "raw_gap_fraction": 0.0,
+      "velocity_finite_fraction": 0.9952560646900269,
+      "display_raw_gap_fraction": 0.0,
+      "display_velocity_excluded_fraction": 0.002554772780057289,
+      "original_starttime": "1972-12-10T20:22:42.309824Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.990176,
+        3599.8588806037733
+      ],
+      "npz_time_range_relative_origin_s": [
+        -600.465891860944,
+        3599.3608383951027
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -0.47571586094397844,
+      "att_correction_s_at_window_end": -0.4980422086705403,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -0.4789054015969093,
+        "slope": 0.9999946840118714,
+        "residual_p99_s": 0.0011349124514936193,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 469.0,
+      "finite_raw_max": 511.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S16",
+      "channel": "MH1",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S16_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S16_MH1.npz",
+      "npz_sha256": "1440daf420a202abb164cbb725a8b14d721d3a4fd54488ac58782e790ffff119",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S16.00.MH1"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 136,
+      "raw_gap_fraction": 0.004887690925426774,
+      "velocity_finite_fraction": 0.9903683737646002,
+      "display_raw_gap_fraction": 0.00527070495678797,
+      "display_velocity_excluded_fraction": 0.007828547068170369,
+      "original_starttime": "1972-12-10T20:22:42.400277Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.899723,
+        3599.9493336037735
+      ],
+      "npz_time_range_relative_origin_s": [
+        -605.052836651715,
+        3594.505631239114
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -5.153113651714989,
+      "att_correction_s_at_window_end": -5.443702364659657,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -5.194620878773251,
+        "slope": 0.9999308097245809,
+        "residual_p99_s": 0.0011623221759919022,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 398.0,
+      "finite_raw_max": 611.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S16",
+      "channel": "MH2",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S16_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S16_MH2.npz",
+      "npz_sha256": "ecd8d30fb5042b091e8a616230d3472785a1b3fbc152478a41647a7d94dc48c4",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S16.00.MH2"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 0,
+      "raw_gap_fraction": 0.0,
+      "velocity_finite_fraction": 0.9952560646900269,
+      "display_raw_gap_fraction": 0.0,
+      "display_velocity_excluded_fraction": 0.0025577429855836303,
+      "original_starttime": "1972-12-10T20:22:42.419276Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.880724,
+        3599.9683326037734
+      ],
+      "npz_time_range_relative_origin_s": [
+        -605.033838966261,
+        3594.5246289245674
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -5.1531149662610005,
+      "att_correction_s_at_window_end": -5.44370367920601,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -5.194620878773251,
+        "slope": 0.9999308097245809,
+        "residual_p99_s": 0.0011623221759919022,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 497.0,
+      "finite_raw_max": 517.0
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S16",
+      "channel": "MHZ",
+      "raw_mseed_file": "data\\raw\\impact_modern\\A17SIVB_S16_MP_ATT.mseed",
+      "npz_file": "data\\processed\\impact_reference\\A17SIVB_S16_MHZ.npz",
+      "npz_sha256": "cf124e640e43e24f38afd1e311fbc493469a881ecc1d642164ac5c1da7322429",
+      "npz_schema": [
+        "t",
+        "velocity_m_s",
+        "raw_counts",
+        "original_gap_mask",
+        "metadataJSON"
+      ],
+      "source_trace_ids": [
+        "XA.S16.00.MHZ"
+      ],
+      "source_segment_npts": [
+        27825
+      ],
+      "source_data_dtypes": [
+        "int32"
+      ],
+      "npz_raw_dtype": "float64",
+      "sample_count": 27825,
+      "counts_exact_equal": true,
+      "counts_mismatch_samples": 0,
+      "gap_mask_exact_equal": true,
+      "raw_gap_samples": 1,
+      "raw_gap_fraction": 3.5938903863432166e-05,
+      "velocity_finite_fraction": 0.9952201257861635,
+      "display_raw_gap_fraction": 3.8753681599751974e-05,
+      "display_velocity_excluded_fraction": 0.0025964966671833825,
+      "original_starttime": "1972-12-10T20:22:42.438276Z",
+      "original_delta_s": 0.1509433962264151,
+      "original_time_range_relative_origin_s": [
+        -599.861724,
+        3599.9873326037737
+      ],
+      "npz_time_range_relative_origin_s": [
+        -605.0148402808762,
+        3594.5436276099526
+      ],
+      "time_axis_exact_att_affine": true,
+      "time_max_abs_error_s": 0.0,
+      "att_correction_s_at_window_start": -5.153116280876247,
+      "att_correction_s_at_window_end": -5.443704993821029,
+      "clock": {
+        "status": "local_affine_ATT_corrected",
+        "offset_at_event_s": -5.194620878773251,
+        "slope": 0.9999308097245809,
+        "residual_p99_s": 0.0011623221759919022,
+        "retained_fraction": 1.0,
+        "n_ATT": 6956
+      },
+      "input_units": "raw DU",
+      "output_units": "m/s nominally calibrated",
+      "finite_raw_min": 465.0,
+      "finite_raw_max": 518.0
+    }
+  ],
+  "interpretation": [
+    "NPZ raw_counts are unchanged digital numbers after merging original segments; missing-data sentinel -1 is retained, not waveform amplitude. Mask -1 as NaN for plotting.",
+    "NPZ t is ATT affine-corrected time relative to NASA Earth-received source time, not the original MiniSEED nominal time. Counts have not been time-resampled.",
+    "For strict original archival waveform use raw MiniSEED nominal time; for aligned raw/processed comparison use NPZ ATT time for both and explicitly label this correction.",
+    "Do not present processed velocity as absolute calibrated amplitude until gain history has been reconstructed.",
+    "The stored velocity already includes response removal and 10-second segment-edge exclusion. The older 0.3-0.9 Hz plot adds another edge exclusion; raw gaps and processing exclusions must be separately marked."
+  ]
+}

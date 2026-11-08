@@ -1,0 +1,92 @@
+[
+  {
+    "source_project_path": "results/impact_audit/stations.csv",
+    "sha256": "7cdbe83668ab63be902dfe934b5225398a3cee75b2238b613d0e389497711455",
+    "bytes": 364
+  },
+  {
+    "source_project_path": "results/impact_audit/events_and_domains.csv",
+    "sha256": "ed05f53f5222b07aa37037770ad9bfd954eaa68caeec4175ebf8161ad6da3219",
+    "bytes": 3453
+  },
+  {
+    "source_project_path": "results/impact_audit/combined_event_station_audit.csv",
+    "sha256": "18ec16071d19ba7ee200eb7bb0cb4d7e816224b179e311232db31b7687a0ec62",
+    "bytes": 12830
+  },
+  {
+    "source_project_path": "results/impact_audit/local_simulation_candidates.csv",
+    "sha256": "f914c537ec0dcb5c31d60f6f6e11bf568fe3583b512b81438f50a5311e8c073a",
+    "bytes": 1710
+  },
+  {
+    "source_project_path": "results/impact_audit/modern_band_by_pair.csv",
+    "sha256": "b460d14edc5d889bd93f0dcffbf3483ad96c0b227e0a28f227720ef70e9027ed",
+    "bytes": 2795
+  },
+  {
+    "source_project_path": "results/impact_modern_band_screen.csv",
+    "sha256": "d66bf8bde65eafe0666c29052ead2fbdc55e99fc587f37d5d888742548791b8a",
+    "bytes": 68013
+  },
+  {
+    "source_project_path": "results/impact_modern_trace_audit.csv",
+    "sha256": "c9059a64b5c83c326fcc2d287726908f28b7c3f1e521c2df4f329215d32c6fc7",
+    "bytes": 20969
+  },
+  {
+    "source_project_path": "results/waveform_comparison/trace_stage_comparison.csv",
+    "sha256": "60a54bde255f44c46dcdfe55bf746f263384a6fd5fc599e630c1159815a1d979",
+    "bytes": 37220
+  },
+  {
+    "source_project_path": "results/model_choice_provenance.csv",
+    "sha256": "dcb3319d61a2710396b381912964c1713d72715780c58f4a4d0bf8bb1678cbe8",
+    "bytes": 10173
+  },
+  {
+    "source_project_path": "results/model_family_sources.csv",
+    "sha256": "cc2fa8d5194bb915ce257c0ffffda9aa0beab863e91be48d9f593717823962cb",
+    "bytes": 2986
+  },
+  {
+    "source_project_path": "config/scattering_run_manifest.csv",
+    "sha256": "92757308b77161de6f83cfdcfab1026ee498d14007409a6cfa7c0cef165dc09e",
+    "bytes": 11842
+  },
+  {
+    "source_project_path": "results/impact_terrain/site_height_checks.csv",
+    "sha256": "3e05ebd2c48cd6c36629ffca1e83731f58511540d9af7b4cac7051f610d039be",
+    "bytes": 349
+  },
+  {
+    "source_project_path": "docs/12_LOLA地形底图与散射模型文献依据.md",
+    "sha256": "d53d2b149b1f6654b0810dc764699ba8f492aaec8a6352f8850dfce127be2b33",
+    "bytes": 43429
+  },
+  {
+    "source_project_path": "docs/13_原始波形与处理对照.md",
+    "sha256": "d876aaeaa18af655a48e5ff8a7ef63f6625a70572792662f07555f985d90ca02",
+    "bytes": 24732
+  },
+  {
+    "source_project_path": "docs/14_Zhang2025_Apollo数据清洗论文综述.md",
+    "sha256": "adb88d13e830feeda53c06c62f39d1c02ffac64fc6421964baace4022863b915",
+    "bytes": 22543
+  },
+  {
+    "source_project_path": "config/scattering_model_design_v2_annotated.json",
+    "sha256": "9c59345f191608dcfbcd7ed124e8d92f32d52ddfc86c896b759d2a36c65bf45e",
+    "bytes": 8552
+  },
+  {
+    "source_project_path": "code/build_scattering_models.py",
+    "sha256": "2224de0571133ff20cf1474ea3f8b72e052b30107496d75406f926500a6fc420",
+    "bytes": 6908
+  },
+  {
+    "source_project_path": "code/build_waveform_stage_comparison.py",
+    "sha256": "e99234c784070d11022c3979bd7ffd44b33eb76ca5905b3e3624ff37f7777c64",
+    "bytes": 28511
+  }
+]

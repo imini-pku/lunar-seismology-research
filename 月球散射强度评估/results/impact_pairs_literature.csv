@@ -1,0 +1,22 @@
+event_id,station,distance_published_km,distance_published_deg,nunn2024_clear,component_caveat,source_url,source_locator,evidence_level
+A12LM,S12,73.5,2.4,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A13SIVB,S12,135.9,4.5,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A14SIVB,S12,175.4,5.8,true,MHZ displayed; 2022 Onodera also uses three rotated components,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A14LM,S12,115.3,3.8,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A14LM,S14,65.7,2.2,true,MHZ displayed; 1971 artificial impact used for three-component HVSR by Amrouche 2022,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A15SIVB,S12,355.3,11.7,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A15SIVB,S14,185.5,6.1,true,MHZ displayed; 1971 artificial impact used for three-component HVSR by Amrouche 2022,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A15LM,S12,1128.9,37.2,false,Recorded but low SNR; omitted from Figure 1; component not stated here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 asterisk,published_detection_low_snr
+A15LM,S14,1047.8,34.6,false,Recorded but low SNR; omitted from Figure 1; component not stated here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 asterisk,published_detection_low_snr
+A15LM,S15,92.2,3.0,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A16SIVB,S12,153.9,5.1,true,MHZ displayed; 2022 Onodera also uses three rotated components,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A16SIVB,S14,274.5,9.1,true,MH1 displayed; MHZ unavailable; horizontal components only,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1 caption,published_waveform
+A16SIVB,S15,1102.9,36.4,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A17SIVB,S12,337.5,11.1,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A17SIVB,S14,156.5,5.2,false,Recorded but low SNR; omitted from Figure 1; MHZ was malfunctioning during this epoch,https://doi.org/10.3847/PSJ/ad83d2,Table 1 asterisk; MHZ history from Amrouche 2022 section 4.2,published_detection_low_snr
+A17SIVB,S15,1031.4,34.0,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A17SIVB,S16,850.3,28.0,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A17LM,S12,1748.5,57.7,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A17LM,S14,1597.2,52.7,false,Recorded but low SNR; omitted from Figure 1; MHZ was malfunctioning during this epoch,https://doi.org/10.3847/PSJ/ad83d2,Table 1 asterisk; MHZ history from Amrouche 2022 section 4.2,published_detection_low_snr
+A17LM,S15,771.1,25.4,true,MHZ displayed; other components not audited here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 and Figure 1,published_waveform
+A17LM,S16,984.9,32.5,false,Recorded but low SNR; omitted from Figure 1; component not stated here,https://doi.org/10.3847/PSJ/ad83d2,Table 1 asterisk,published_detection_low_snr

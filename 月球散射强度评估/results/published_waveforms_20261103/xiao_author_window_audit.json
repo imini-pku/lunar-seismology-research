@@ -1,0 +1,135 @@
+[
+  {
+    "event": "A13SIVB",
+    "station": "S12",
+    "channel": "MHZ",
+    "file": "EV_13_S4B_IMP.npy",
+    "sha256": "89eecd1049d4bf73dbb070ba7f634f8d0f023d9e2582956b684993492415ce79",
+    "stored_keys": [
+      "Before_1970.105.S12.MHZ",
+      "After_1970.105.S12.MHZ"
+    ],
+    "removed_sample_percent_0_60min": 97.8909853249476,
+    "author_windows_seconds": [
+      [
+        -41.029469,
+        3521.0837385471696
+      ],
+      [
+        3597.159210245283,
+        3899.3478894905656
+      ],
+      [
+        4728.63090835849,
+        5645.612040433962
+      ]
+    ],
+    "selection": "reject for scattering-coda inversion",
+    "reproduced_function": "remove_detected_windows; unchanged source; no mean removal, spectrum or filtering",
+    "figure": "A13SIVB_S12_MHZ_Xiao_author_exclusion.png"
+  },
+  {
+    "event": "A14SIVB",
+    "station": "S12",
+    "channel": "MHZ",
+    "file": "EV_14_S4B_IMP.npy",
+    "sha256": "6960462cf4544d277d2528a80aa7d43abbfcbb1aa0a0b07cb2e5ce989fc96ee1",
+    "stored_keys": [
+      "Before_1971.35.S12.MHZ",
+      "After_1971.35.S12.MHZ"
+    ],
+    "removed_sample_percent_0_60min": 100.0,
+    "author_windows_seconds": [
+      [
+        -3518.509287622641,
+        -55.414947999990545
+      ],
+      [
+        -55.414948,
+        4265.792599169811
+      ]
+    ],
+    "selection": "reject for scattering-coda inversion",
+    "reproduced_function": "remove_detected_windows; unchanged source; no mean removal, spectrum or filtering",
+    "figure": "A14SIVB_S12_MHZ_Xiao_author_exclusion.png"
+  },
+  {
+    "event": "A15SIVB",
+    "station": "S12",
+    "channel": "MHZ",
+    "file": "EV_15_S4B_IMP.npy",
+    "sha256": "9c807c75c996228f59f3a07f46c854a04f26e709e22f14d78bfd0c72ec31aaf2",
+    "stored_keys": [
+      "Before_1971.210.S12.MHZ",
+      "After_1971.210.S12.MHZ"
+    ],
+    "removed_sample_percent_0_60min": 100.0,
+    "author_windows_seconds": [
+      [
+        -110393.33489003766,
+        77.15567600005306
+      ],
+      [
+        77.155676,
+        157239.72171373584
+      ]
+    ],
+    "selection": "reject for scattering-coda inversion",
+    "reproduced_function": "remove_detected_windows; unchanged source; no mean removal, spectrum or filtering",
+    "figure": "A15SIVB_S12_MHZ_Xiao_author_exclusion.png"
+  },
+  {
+    "event": "A16SIVB",
+    "station": "S12",
+    "channel": "MHZ",
+    "file": "EV_16_S4B_IMP.npy",
+    "sha256": "ae386d2eba9953fa79f62d47cfbed83c8da1eba80fde1cc5c28b7a7b229a4287",
+    "stored_keys": [
+      "Before_1972.110.S12.MHZ",
+      "After_1972.110.S12.MHZ"
+    ],
+    "removed_sample_percent_0_60min": 100.0,
+    "author_windows_seconds": [
+      [
+        -170.95816192461643,
+        56.06070599996019
+      ],
+      [
+        56.060706,
+        4297.872026754717
+      ]
+    ],
+    "selection": "reject for scattering-coda inversion",
+    "reproduced_function": "remove_detected_windows; unchanged source; no mean removal, spectrum or filtering",
+    "figure": "A16SIVB_S12_MHZ_Xiao_author_exclusion.png"
+  },
+  {
+    "event": "A17SIVB",
+    "station": "S12",
+    "channel": "MHZ",
+    "file": "EV_17_S4B_IMP.npy",
+    "sha256": "6b2a75821d71e8e41d7d72018fc7ba386c05b7502fed06b36d699dfbe7207915",
+    "stored_keys": [
+      "Before_1972.345.S12.MHZ",
+      "After_1972.345.S12.MHZ"
+    ],
+    "removed_sample_percent_0_60min": 95.67295597484276,
+    "author_windows_seconds": [
+      [
+        -42.278963,
+        3141.8719803962263
+      ],
+      [
+        3196.664433226415,
+        3498.853112471698
+      ],
+      [
+        4137.9474520943395,
+        4453.419150207547
+      ]
+    ],
+    "selection": "reject for scattering-coda inversion",
+    "reproduced_function": "remove_detected_windows; unchanged source; no mean removal, spectrum or filtering",
+    "figure": "A17SIVB_S12_MHZ_Xiao_author_exclusion.png"
+  }
+]

@@ -1,0 +1,4 @@
+background,contrast,estimate,lower,upper,interval
+Half-space high-resolution profile,Topography / flat,0.029580184040372832,0.01037808569700839,0.07190130656034198,station IQR (800 receivers)
+A16 heterogeneous background,M4 / M3,1.7755250600663808,1.228421583723017,2.115652564973859,95% spatial-block bootstrap CI (57 blocks)
+A16 heterogeneous + low velocity,M6 / M5,0.9853030554144788,0.7571274789521271,1.1854638034255154,95% spatial-block bootstrap CI (57 blocks)

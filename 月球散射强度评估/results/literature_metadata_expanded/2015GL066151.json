@@ -1,0 +1,429 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        17
+      ]
+    ],
+    "date-time": "2026-09-17T20:34:52Z",
+    "timestamp": 1789677292458,
+    "version": "4.0.1"
+  },
+  "reference-count": 27,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "23",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            12,
+            2
+          ]
+        ],
+        "date-time": "2015-12-02T00:00:00Z",
+        "timestamp": 1449014400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100000038",
+      "name": "Natural Sciences and Engineering Research Council of Canada",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100000038",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100000104",
+      "name": "National Aeronautics and Space Administration",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "NNX11AB55G (JFL)"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "NNX11AB55G (JFL)"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000104",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Geophysical Research Letters"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        16
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>We use a modified phonon synthetic seismogram method to investigate the effects of laterally varying megaregolith thickness on the propagation of seismic energy and on the resulting seismic signals recorded at various epicentral distances from the source. We show that receivers located in large impact structures, with thin crust and thinner megaregolith, can record seismic signals that are less affected by high levels of scattering. In particular, receivers located away from the basin edge by a distance greater than or equal to the thickness of the surrounding megaregolith can record seismograms in which secondary arrivals containing important information about interior structure can be more readily identified. Seismic sources located beneath the near‐surface scattering layer, such as deep lunar quakes, are also advantageous because the resulting seismograms are less affected by high levels of scattering than those from sources within the scattering layer or surface impacts.</jats:p>",
+  "DOI": "10.1002/2015gl066151",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        11
+      ]
+    ],
+    "date-time": "2015-11-11T22:24:47Z",
+    "timestamp": 1447280687000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 9,
+  "title": [
+    "Effects of lateral variations in megaregolith thickness on predicted lunar seismic signals"
+  ],
+  "prefix": "10.1029",
+  "volume": "42",
+  "author": [
+    {
+      "given": "J.‐F.",
+      "family": "Blanchette‐Guertin",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Equipe Planétologie et Sciences Spatiales Université Paris Diderot, Sorbonne Paris Cité, Institut de Physique du Globe de Paris, UMR 7154 CNRS  Paris France"
+        },
+        {
+          "name": "Department of Earth, Ocean and Atmospheric Sciences University of British Columbia  Vancouver British Columbia Canada"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C. L.",
+      "family": "Johnson",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Earth, Ocean and Atmospheric Sciences University of British Columbia  Vancouver British Columbia Canada"
+        },
+        {
+          "name": "Planetary Science Institute  Tucson Arizona USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J. F.",
+      "family": "Lawrence",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Geophysics Stanford University  Stanford California USA"
+        },
+        {
+          "name": "Boulder Bits LLC  Boulder Colorado USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "13",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        2
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_6_2_1",
+      "unstructured": "Besserer J. F.Nimmo M.Wieczorek W.Kiefer J.Andrews‐Hanna andM. T.Zuber(2013) Theoretical and observational constraints on lunar mega‐regolith thickness paper presented at 44th Lunar and Planetary Science Conference p. 2463 The Woodlands Tex. 18–22 March."
+    },
+    {
+      "key": "e_1_2_6_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2011JE004042"
+    },
+    {
+      "key": "e_1_2_6_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2014JE004654"
+    },
+    {
+      "key": "e_1_2_6_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2005JE002414"
+    },
+    {
+      "key": "e_1_2_6_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2006JE002847"
+    },
+    {
+      "key": "e_1_2_6_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2011.06.015"
+    },
+    {
+      "key": "e_1_2_6_8_1",
+      "first-page": "62",
+      "volume-title": "The Lunar Sourcebook",
+      "author": "Hörz F.",
+      "year": "1991"
+    },
+    {
+      "key": "e_1_2_6_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1130/2010.2465(03)"
+    },
+    {
+      "key": "e_1_2_6_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0031-9201(77)90175-3"
+    },
+    {
+      "key": "e_1_2_6_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/RG012i001p00001"
+    },
+    {
+      "key": "e_1_2_6_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.167.3918.455"
+    },
+    {
+      "key": "e_1_2_6_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0012-821X(03)00172-9"
+    },
+    {
+      "key": "e_1_2_6_14_1",
+      "unstructured": "Losiak A. D. E.Wilhelms C. J.Byrne K. G.Thaisen S. Z.Weider T.Kohout K.O'Sullivan andD. A.Kring(2009) A new lunar impact crater database paper presented at 40th Lunar and Planetary Science Conference p. 1532 The Woodlands Tex. 23–27 March."
+    },
+    {
+      "key": "e_1_2_6_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0012-821X(73)90162-3"
+    },
+    {
+      "key": "e_1_2_6_16_1",
+      "first-page": "245",
+      "volume-title": "Impact Cratering: A Geologic Process",
+      "author": "Melosh H. J.",
+      "year": "1989"
+    },
+    {
+      "key": "e_1_2_6_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2004JE002332"
+    },
+    {
+      "key": "e_1_2_6_18_1",
+      "unstructured": "Nakamura Y. G. V.Latham H. J.Dorman A.‐B. K.Ibrahim J.Koyama andP.Horvath(1979) Shallow moonquakes: Depth distribution and implications as to the present state of the lunar interior paper presented at 10th Lunar and Planetary Science Conference pp. 2299–2309 19–23 March 1979 in Houston Tex."
+    },
+    {
+      "key": "e_1_2_6_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1945-5100.2008.tb01025.x"
+    },
+    {
+      "key": "e_1_2_6_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0012-821X(74)90114-9"
+    },
+    {
+      "key": "e_1_2_6_21_1",
+      "unstructured": "Schmerr N. E.Matzel andS.Ford(2011) The effect of free‐surface topography on seismic waves in the moon paper presented at 42nd Lunar and Planetary Science Conference p. 1961 The Woodlands Tex. 7–11 March."
+    },
+    {
+      "key": "e_1_2_6_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-246X.2004.02378.x"
+    },
+    {
+      "issue": "2",
+      "key": "e_1_2_6_23_1",
+      "first-page": "69",
+      "article-title": "Thickness of impact crater ejecta on the lunar surface",
+      "volume": "3",
+      "author": "Short N. M.",
+      "year": "1972",
+      "journal-title": "Mod. Geol."
+    },
+    {
+      "key": "e_1_2_6_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF00897360"
+    },
+    {
+      "key": "e_1_2_6_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1199375"
+    },
+    {
+      "key": "e_1_2_6_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2008JE003286"
+    },
+    {
+      "key": "e_1_2_6_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1231530"
+    },
+    {
+      "key": "e_1_2_6_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3133/pp1348"
+    }
+  ],
+  "container-title": [
+    "Geophysical Research Letters"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015GL066151",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015GL066151",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/2015GL066151",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/2015GL066151",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2015GL066151",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        6
+      ]
+    ],
+    "date-time": "2023-09-06T15:56:33Z",
+    "timestamp": 1694015793000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015GL066151"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        2
+      ]
+    ]
+  },
+  "references-count": 27,
+  "journal-issue": {
+    "issue": "23",
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          16
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1002/2015GL066151"
+  ],
+  "URL": "https://doi.org/10.1002/2015gl066151",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0094-8276",
+    "1944-8007"
+  ],
+  "issn-type": [
+    {
+      "value": "0094-8276",
+      "type": "print"
+    },
+    {
+      "value": "1944-8007",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        2
+      ]
+    ]
+  }
+}

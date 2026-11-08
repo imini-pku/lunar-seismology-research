@@ -1,0 +1,380 @@
+[
+  {
+    "event_id": "A12LM",
+    "station": "S12",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S12",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1969-11-20T22:07:17.700000Z",
+      "endtime": "1969-11-20T23:17:17.700000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A12LM_S12_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 126976,
+    "sha256": "ae353fd6163e9173c515e195715d3f2bd5f51b3b33be15a3197de6321a37132a",
+    "traces": 4
+  },
+  {
+    "event_id": "A13SIVB",
+    "station": "S12",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S12",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1970-04-15T00:59:41.000000Z",
+      "endtime": "1970-04-15T02:09:41.000000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A13SIVB_S12_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 155648,
+    "sha256": "b124500bd79881c0108ae9ac36b77ea8bc97892a9db879eb47542fedf2241c63",
+    "traces": 4
+  },
+  {
+    "event_id": "A14SIVB",
+    "station": "S12",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S12",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1971-02-04T07:30:55.400000Z",
+      "endtime": "1971-02-04T08:40:55.400000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A14SIVB_S12_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 159744,
+    "sha256": "b57b96bf4678769829fdac4b6347538d7c324846c3c8322708d303fb5e46901d",
+    "traces": 4
+  },
+  {
+    "event_id": "A14LM",
+    "station": "S12",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S12",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1971-02-07T00:35:25.700000Z",
+      "endtime": "1971-02-07T01:45:25.700000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A14LM_S12_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 122880,
+    "sha256": "faf1a5c0ae781b5d8e1d51b2eda6f8e855fdff66fb73555bd96cae7586ea24bd",
+    "traces": 4
+  },
+  {
+    "event_id": "A14LM",
+    "station": "S14",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S14",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1971-02-07T00:35:25.700000Z",
+      "endtime": "1971-02-07T01:45:25.700000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A14LM_S14_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 139264,
+    "sha256": "aec072cde323f1e0dd2dc7608f2ba76e2e42d014a9140b7c57f1e13160352aaa",
+    "traces": 4
+  },
+  {
+    "event_id": "A15SIVB",
+    "station": "S12",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S12",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1971-07-29T20:48:42.900000Z",
+      "endtime": "1971-07-29T21:58:42.900000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A15SIVB_S12_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 147456,
+    "sha256": "63d5e3d50e905d7ecd5ea19bd0f0b1c3f0273f6361589425aa874af095cc698b",
+    "traces": 4
+  },
+  {
+    "event_id": "A15SIVB",
+    "station": "S14",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S14",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1971-07-29T20:48:42.900000Z",
+      "endtime": "1971-07-29T21:58:42.900000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A15SIVB_S14_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 155648,
+    "sha256": "1947fe2f413a71465df6339c31d12ed514e34b878ffcc166b5d1335d65b042f6",
+    "traces": 4
+  },
+  {
+    "event_id": "A15LM",
+    "station": "S12",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S12",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1971-08-03T02:53:37.000000Z",
+      "endtime": "1971-08-03T04:03:37.000000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A15LM_S12_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 122880,
+    "sha256": "d8de2792da256b165a96a073c27102528a96dce6b7605c1aecd79193a0b413f7",
+    "traces": 4
+  },
+  {
+    "event_id": "A15LM",
+    "station": "S14",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S14",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1971-08-03T02:53:37.000000Z",
+      "endtime": "1971-08-03T04:03:37.000000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A15LM_S14_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 122880,
+    "sha256": "c0351fe91c06ed8deff36c6db28f76a2748c0bd10733f54ef9abc6f748d2c67a",
+    "traces": 4
+  },
+  {
+    "event_id": "A15LM",
+    "station": "S15",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S15",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1971-08-03T02:53:37.000000Z",
+      "endtime": "1971-08-03T04:03:37.000000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A15LM_S15_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 131072,
+    "sha256": "680a62246ee209f41cf05371e98a607317fc1c56b65ae507d033b242a54d82ca",
+    "traces": 4
+  },
+  {
+    "event_id": "A16SIVB",
+    "station": "S12",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S12",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-04-19T20:52:04.000000Z",
+      "endtime": "1972-04-19T22:02:04.000000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A16SIVB_S12_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 159744,
+    "sha256": "433c9bd7c423812074612e83214770ff585c7b4ff848ca64c0ddb77b3ddc013f",
+    "traces": 4
+  },
+  {
+    "event_id": "A16SIVB",
+    "station": "S14",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S14",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-04-19T20:52:04.000000Z",
+      "endtime": "1972-04-19T22:02:04.000000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A16SIVB_S14_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 131072,
+    "sha256": "ced950b7ee302c01f9c3c2b3bd5e3bb3f2dfa1166059265501244c6228ed8526",
+    "traces": 3
+  },
+  {
+    "event_id": "A16SIVB",
+    "station": "S15",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S15",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-04-19T20:52:04.000000Z",
+      "endtime": "1972-04-19T22:02:04.000000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A16SIVB_S15_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 122880,
+    "sha256": "4628dd902628d02473de8e283b02c01aaad6a7d50f9fcc56d99696d94d7d5a36",
+    "traces": 4
+  },
+  {
+    "event_id": "A17SIVB",
+    "station": "S12",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S12",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-12-10T20:22:42.300000Z",
+      "endtime": "1972-12-10T21:32:42.300000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A17SIVB_S12_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 143360,
+    "sha256": "ff1d5980b9937c5f4f04127b4852b5247f4f7d5c90778166708c2836c3248055",
+    "traces": 4
+  },
+  {
+    "event_id": "A17SIVB",
+    "station": "S14",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S14",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-12-10T20:22:42.300000Z",
+      "endtime": "1972-12-10T21:32:42.300000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A17SIVB_S14_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 126976,
+    "sha256": "d7907648d64e3458b55b2477faabcab7e4cf4489d96acabdc1e3e2f67776875e",
+    "traces": 3
+  },
+  {
+    "event_id": "A17SIVB",
+    "station": "S15",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S15",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-12-10T20:22:42.300000Z",
+      "endtime": "1972-12-10T21:32:42.300000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A17SIVB_S15_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 131072,
+    "sha256": "0a579bda488efe2f03f19f601f6f0a09a50448f7968048149291c679ff3c0b22",
+    "traces": 4
+  },
+  {
+    "event_id": "A17SIVB",
+    "station": "S16",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S16",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-12-10T20:22:42.300000Z",
+      "endtime": "1972-12-10T21:32:42.300000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A17SIVB_S16_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 122880,
+    "sha256": "260e8990b7995bf9d82c6900ea22a8c269cf3a56f31061b35b6be44729a544b1",
+    "traces": 4
+  },
+  {
+    "event_id": "A17LM",
+    "station": "S12",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S12",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-12-15T06:40:20.800000Z",
+      "endtime": "1972-12-15T07:50:20.800000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A17LM_S12_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 122880,
+    "sha256": "5976dd4a59017ae67225c4dd62cf47fd376a7c6cddf52a3f60bc179f0a63992b",
+    "traces": 4
+  },
+  {
+    "event_id": "A17LM",
+    "station": "S14",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S14",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-12-15T06:40:20.800000Z",
+      "endtime": "1972-12-15T07:50:20.800000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A17LM_S14_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 106496,
+    "sha256": "baf67dca2a98bf87ed2477a4647f4ec135e8d253e00c95cfcd323d36e1e3db9d",
+    "traces": 3
+  },
+  {
+    "event_id": "A17LM",
+    "station": "S15",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S15",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-12-15T06:40:20.800000Z",
+      "endtime": "1972-12-15T07:50:20.800000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A17LM_S15_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 122880,
+    "sha256": "528387a166590a79ef68be9091b610642e64a02b7ce45e44a775a92e2f26ca5c",
+    "traces": 4
+  },
+  {
+    "event_id": "A17LM",
+    "station": "S16",
+    "endpoint": "https://service.earthscope.org/fdsnws/dataselect/1/query",
+    "params": {
+      "net": "XA",
+      "sta": "S16",
+      "loc": "*",
+      "cha": "MH?,ATT",
+      "starttime": "1972-12-15T06:40:20.800000Z",
+      "endtime": "1972-12-15T07:50:20.800000Z"
+    },
+    "file": "data\\raw\\impact_modern\\A17LM_S16_MP_ATT.mseed",
+    "status": "downloaded",
+    "bytes": 122880,
+    "sha256": "46f5f8402615cd37e00df75170c5912bfe72f6b817a108c84831a18ccf967ce9",
+    "traces": 4
+  }
+]

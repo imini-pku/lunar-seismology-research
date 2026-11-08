@@ -1,0 +1,21 @@
+{
+  "events": 9,
+  "event_station_pairs": 21,
+  "component_slots": 63,
+  "actual_components": 60,
+  "nunn_basic_figures": 13,
+  "xiao_diagnostic_figures": 5,
+  "total_source_missing_samples": 50200,
+  "total_author_filled_samples": 13367,
+  "filled_samples_in_long_gaps": 400,
+  "measured_samples_changed": 0,
+  "new_filters": 0,
+  "deconvolutions": 0,
+  "custom_glitch_fits": 0,
+  "fully_cleaned_qualified_components": 0,
+  "source_util_sha256": "8fa5a2a7da7ddb14dc0ee2c703f872b33f5c9c100308eae03c60530d03fda5bf",
+  "xiao_function_sha256": "6208098dc6b41dcf55c9c1661650d3fa24436d8eda599585f0a75df4fed42250",
+  "numpy": "2.3.5",
+  "pandas": "2.3.2",
+  "scope": "author basic preparation and rejected author exclusion demonstration; not full cleaning"
+}

@@ -1,0 +1,30 @@
+cerinunn-impact_simulations-32f774b/postprocessing_util.py
+844:                         original_mask = linear_interpolation(tr,interpolation_limit=None)
+851:                         tr.remove_response(inventory=inv, pre_filt=pre_filt, zero_mean=True, taper=True, output="DISP",
+852:                                    water_level=None, plot=False)
+1122:                     original_mask = linear_interpolation(tr,interpolation_limit=None)
+1127:                         tr.remove_response(inventory=inv, pre_filt=pre_filt, zero_mean=True, taper=True, output="DISP",
+1128:                                    water_level=None, plot=False)
+1618:             original_mask = linear_interpolation(tr,interpolation_limit=None)
+1623:                 tr.remove_response(inventory=inv, pre_filt=pre_filt, zero_mean=True, taper=True, output="DISP",
+1624:                            water_level=None, plot=False)
+2068:     Qc_calc=False,Qc_after_tmax=50,Qc_length=500,
+2159:                 original_mask = linear_interpolation(tr_obs,interpolation_limit=None)
+2163:                     tr_obs.remove_response(inventory=inv, pre_filt=pre_filt, zero_mean=True, taper=True, output="VEL",
+2164:                                water_level=None, plot=False)
+2208:                             startsecond1 = tmax+Qc_after_tmax
+2209:                             endsecond1 = startsecond1+Qc_length
+2212:                             tr_decay_env.data = np.square(tr_decay_env.data)
+2231:                             # name,distance_in_degree,tmax,smoothing_length,freqmin,freqmax,Qc_after_tmax,Qc_length,td
+2236:                                 Qc_after_tmax,Qc_length,round(td,1)))
+2249:                         #     x = tmax+Qc_after_tmax
+2250:                         #     while x < (endsecond - Qc_length):
+2255:                         #         endsecond1 = startsecond1+Qc_length
+2258:                         #         tr_decay_env.data = np.square(tr_decay_env.data)
+2270:                         #         # name,distance_in_degree,tmax,smoothing_length,freqmin,freqmax,Qc_after_tmax,Qc_length,td
+2275:                         #             Qc_after_tmax,Qc_length,round(td,1),startsecond1))
+2366:                 startsecond1 = tmax+Qc_after_tmax
+2367:                 endsecond1 = startsecond1+Qc_length
+2370:                 tr_decay_env.data = np.square(tr_decay_env.data)
+2386:                 # name,distance_in_degree,tmax,smoothing_length,freqmin,freqmax,Qc_after_tmax,Qc_length,td
+2391:                     Qc_after_tmax,Qc_length,round(td,1)))

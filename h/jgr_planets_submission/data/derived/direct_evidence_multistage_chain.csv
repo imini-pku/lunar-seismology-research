@@ -1,0 +1,21 @@
+stage,scientific_role,transport_test,paper_role
+"1. Controlled
+half-space","Topographic redistribution,
+R/T conversion, and
+numerical convergence","r20–r760:
+linear R preferred
+over simple R²",Mechanism + convergence
+"2. A16 M1–M4
+factorial baseline","Heterogeneity-driven
+broadening and conditional
+nonadditivity","12/12 fits prefer linear
+ΔAIC = 268–672",Regional factorial test
+"3. M5/M6 low-velocity
+extension","Largest simulated delay
+and retained late energy","6/6 censor-safe fits
+prefer linear
+min ΔAIC = 12.79",Conditional extension
+"4. Apollo A16S12
+exclusion test","Observed duration remains
+outside the simulated regime","t95 = 2804.6 s observed
+vs 368–382 s for M5/M6",External validation

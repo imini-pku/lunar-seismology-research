@@ -1,0 +1,601 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        11
+      ]
+    ],
+    "date-time": "2026-06-11T18:02:51Z",
+    "timestamp": 1781200971970,
+    "version": "3.54.1"
+  },
+  "reference-count": 45,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "12",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            26
+          ]
+        ],
+        "date-time": "2025-11-26T00:00:00Z",
+        "timestamp": 1764115200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            26
+          ]
+        ],
+        "date-time": "2025-11-26T00:00:00Z",
+        "timestamp": 1764115200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100002830",
+      "name": "Centre National d’Etudes Spatiales",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "APR‐FSS"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "APR‐FSS"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002830",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100002830",
+      "name": "Centre National d’Etudes Spatiales",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "These_24‐130"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "These_24‐130"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002830",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100000844",
+      "name": "European Space Agency",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "I‐2024‐01380"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "I‐2024‐01380"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100000844",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "agupubs.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "JGR Planets"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        12
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Seismic determination of the Moon's crustal thickness is crucial for understanding its formation, composition, and evolution. Additionally, crustal thicknesses below seismic stations serve as anchoring points for 3D crustal thickness maps derived from gravity and topography field variations. However, strong seismic scattering inside the Moon can prevent seismic waves reflected on, or converted at, crust and upper mantle discontinuities from reaching the surface without interacting with scatterers. This study estimates Auto‐Correlation Functions (ACF) of all channels of Apollo seismometers during the coda of high‐signal‐to‐noise seismic events. As expected for a strongly scattering medium, Apollo stations S12 and S15 do not detect late arrivals in the ACF indicative of waves reflected on internal discontinuities. However, station S16 and, to a lesser extent, station S14 show stable late arrivals in the ACF. Arrivals at 14.2 and 27.1 s and at 23.9 and 50.6 s in the ACF of vertical and horizontal mid‐period channels of station S16 are interpreted as  and  waves reflected at mid‐crustal and crust‐mantle interfaces. A seismic crust and upper mantle model beneath station S16 fits the arrival times of  and  waves with realistic seismic velocities and  ratios ranging from 1.65 to 1.88. The crustal thickness is non‐uniquely estimated at 53 km below station S16. Our results are also compatible with significant variations in the properties of the interfaces, or in strength of seismic scattering between Apollo stations.</jats:p>",
+  "DOI": "10.1029/2025je009090",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        26
+      ]
+    ],
+    "date-time": "2025-11-26T21:15:13Z",
+    "timestamp": 1764191713000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "The Moon's Crust and Upper Mantle Discontinuities Revealed by Seismic Interferometry Methods Applied to Apollo Seismic Data"
+  ],
+  "prefix": "10.1029",
+  "volume": "130",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0004-9872-5647",
+      "authenticated-orcid": false,
+      "given": "Arnau",
+      "family": "Torrent Duch",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Institut Supérieur de l’Aéronautique et de l’Espace (ISAE‐SUPAERO) Université de Toulouse  Toulouse France"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1460-6663",
+      "authenticated-orcid": false,
+      "given": "Raphael F.",
+      "family": "Garcia",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institut Supérieur de l’Aéronautique et de l’Espace (ISAE‐SUPAERO) Université de Toulouse  Toulouse France"
+        },
+        {
+          "name": "Institut de Recherche en Astrophysique et Planétologie Université Toulouse 3 Paul Sabatier CNRS  Toulouse France"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5625-9706",
+      "authenticated-orcid": false,
+      "given": "Mélanie",
+      "family": "Drilleau",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institut Supérieur de l’Aéronautique et de l’Espace (ISAE‐SUPAERO) Université de Toulouse  Toulouse France"
+        },
+        {
+          "name": "Now at Université Paris Cité Institut de Physique du Globe de Paris CNRS  Paris France"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "13",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        26
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_10_1_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/jb080i023p03322"
+    },
+    {
+      "key": "e_1_2_10_1_3_1",
+      "volume-title": "ALSEP termination report",
+      "author": "Bates J. R.",
+      "year": "1979"
+    },
+    {
+      "key": "e_1_2_10_1_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.epsl.2005.12.017"
+    },
+    {
+      "key": "e_1_2_10_1_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365‐246X.2011.05074.x"
+    },
+    {
+      "key": "e_1_2_10_1_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020je006498"
+    },
+    {
+      "key": "e_1_2_10_1_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/gssrl.70.2.154"
+    },
+    {
+      "key": "e_1_2_10_1_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2006.05.009"
+    },
+    {
+      "key": "e_1_2_10_1_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2011.06.015"
+    },
+    {
+      "key": "e_1_2_10_1_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11214‐019‐0613‐y"
+    },
+    {
+      "key": "e_1_2_10_1_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2016.11.001"
+    },
+    {
+      "key": "e_1_2_10_1_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/GL008i001p00029"
+    },
+    {
+      "key": "e_1_2_10_1_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2014je004661"
+    },
+    {
+      "key": "e_1_2_10_1_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.epsl.2006.04.008"
+    },
+    {
+      "key": "e_1_2_10_1_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/bf01449156"
+    },
+    {
+      "key": "e_1_2_10_1_16_1",
+      "volume-title": "Apollo 14 and 16 active seismic experiments, Apollo 17 lunar seismic profiling",
+      "author": "Kovach R.",
+      "year": "1976"
+    },
+    {
+      "key": "e_1_2_10_1_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/jgre.20103"
+    },
+    {
+      "key": "e_1_2_10_1_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2005GL023518"
+    },
+    {
+      "key": "e_1_2_10_1_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.167.3918.455"
+    },
+    {
+      "key": "e_1_2_10_1_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.epsl.2014.10.041"
+    },
+    {
+      "key": "e_1_2_10_1_21_1",
+      "first-page": "593",
+      "article-title": "Seismic energy transmission in the lunar surface zone determined from signals generated by movement of lunar rovers",
+      "volume": "66",
+      "author": "Nakamura Y.",
+      "year": "1976",
+      "journal-title": "Bulletin of the Seismological Society of America"
+    },
+    {
+      "key": "e_1_2_10_1_22_1",
+      "volume-title": "Catalog of lunar seismic data from Apollo passive seismic experiment on 8‐mm video cassette (Exabyte) tapes",
+      "author": "Nakamura Y.",
+      "year": "1992"
+    },
+    {
+      "key": "e_1_2_10_1_23_1",
+      "volume-title": "Catalog of lunar seismic data from Apollo passive seismic experiment on 8‐mm video cassette (Exabyte) tapes",
+      "author": "Nakamura Y.",
+      "year": "1992"
+    },
+    {
+      "key": "e_1_2_10_1_24_1",
+      "volume-title": "Catalog of lunar seismic data from Apollo passive seismic experiment on 8‐mm video cassette (Exabyte) tapes",
+      "author": "Nakamura Y.",
+      "year": "1992"
+    },
+    {
+      "key": "e_1_2_10_1_25_1",
+      "first-page": "A117",
+      "volume-title": "Lunar and Planetary Science Conference Proceedings",
+      "author": "Nakamura Y.",
+      "year": "1982"
+    },
+    {
+      "key": "e_1_2_10_1_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2015JE004975"
+    },
+    {
+      "key": "e_1_2_10_1_27_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Nunn C.(1969).Apollo passive seismic experiments[Dataset].International Federation of Digital Seismograph Networks.https://doi.org/10.7914/SN/XA_1969",
+      "DOI": "10.7914/SN/XA_1969"
+    },
+    {
+      "key": "e_1_2_10_1_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11214‐020‐00709‐3"
+    },
+    {
+      "key": "e_1_2_10_1_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3847/psj/ac87af"
+    },
+    {
+      "key": "e_1_2_10_1_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevE.78.045601"
+    },
+    {
+      "key": "e_1_2_10_1_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2022je007676"
+    },
+    {
+      "key": "e_1_2_10_1_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2007JE003016"
+    },
+    {
+      "key": "e_1_2_10_1_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/rg012i004p00539"
+    },
+    {
+      "key": "e_1_2_10_1_34_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Torrent Duch A.(2025).Supplementary figures for the paper “Moon crust and upper mantle discontinuities revealed by seismic interferometry methods applied to Apollo seismic data”[Dataset].Zenodo.https://doi.org/10.5281/zenodo.15046137",
+      "DOI": "10.5281/zenodo.15046137"
+    },
+    {
+      "key": "e_1_2_10_1_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2001gl012859"
+    },
+    {
+      "key": "e_1_2_10_1_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1121/1.4744516"
+    },
+    {
+      "key": "e_1_2_10_1_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1199375"
+    },
+    {
+      "key": "e_1_2_10_1_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1231530"
+    },
+    {
+      "key": "e_1_2_10_2_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.epsl.2005.04.033"
+    },
+    {
+      "key": "e_1_2_10_2_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/1999je001103"
+    },
+    {
+      "key": "e_1_2_10_2_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0031‐9201(98)00082‐X"
+    },
+    {
+      "key": "e_1_2_10_2_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41550‐022‐01862‐1"
+    },
+    {
+      "key": "e_1_2_10_2_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/gji/ggab394"
+    },
+    {
+      "key": "e_1_2_10_2_7_1",
+      "unstructured": "Taylor S. R.(1982).Planetary science: A lunar perspective."
+    },
+    {
+      "key": "e_1_2_10_2_8_1",
+      "first-page": "649",
+      "volume-title": "Origin of the Moon",
+      "author": "Wanke H.",
+      "year": "1986"
+    },
+    {
+      "key": "e_1_2_10_2_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1945‐5100.2005.tb00395.x"
+    }
+  ],
+  "container-title": [
+    "Journal of Geophysical Research: Planets"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JE009090",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/full-xml/10.1029/2025JE009090",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JE009090",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        11
+      ]
+    ],
+    "date-time": "2026-06-11T17:45:43Z",
+    "timestamp": 1781199943000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JE009090"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        26
+      ]
+    ]
+  },
+  "references-count": 45,
+  "journal-issue": {
+    "issue": "12",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1029/2025JE009090"
+  ],
+  "URL": "https://doi.org/10.1029/2025je009090",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "2169-9097",
+    "2169-9100"
+  ],
+  "issn-type": [
+    {
+      "value": "2169-9097",
+      "type": "print"
+    },
+    {
+      "value": "2169-9100",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        26
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2025-03-18",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-11-13",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-11-26",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "e2025JE009090"
+}

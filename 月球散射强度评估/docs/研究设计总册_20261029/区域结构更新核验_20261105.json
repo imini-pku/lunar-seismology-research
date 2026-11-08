@@ -1,0 +1,117 @@
+{
+  "version": "2026-11-05-regional-v2",
+  "parameter_checks": [
+    {
+      "station": "S12",
+      "layer_table_matches_sources": true,
+      "contiguous_0_100km": true,
+      "positive_bulk_shear_moduli": true,
+      "Q_formula_matches": true,
+      "geometry_matches": true,
+      "sample_count": 1006
+    },
+    {
+      "station": "S14",
+      "layer_table_matches_sources": true,
+      "contiguous_0_100km": true,
+      "positive_bulk_shear_moduli": true,
+      "Q_formula_matches": true,
+      "geometry_matches": true,
+      "sample_count": 1006
+    },
+    {
+      "station": "S15",
+      "layer_table_matches_sources": true,
+      "contiguous_0_100km": true,
+      "positive_bulk_shear_moduli": true,
+      "Q_formula_matches": true,
+      "geometry_matches": true,
+      "sample_count": 1007
+    }
+  ],
+  "local_links_missing": [],
+  "images": [
+    {
+      "file": "S12_区域模型总图.png",
+      "width": 2720,
+      "height": 1870
+    },
+    {
+      "file": "S12_散射深度候选.png",
+      "width": 850,
+      "height": 850
+    },
+    {
+      "file": "S14_区域模型总图.png",
+      "width": 2720,
+      "height": 1870
+    },
+    {
+      "file": "S14_散射深度候选.png",
+      "width": 850,
+      "height": 850
+    },
+    {
+      "file": "S15_区域模型总图.png",
+      "width": 2720,
+      "height": 1870
+    },
+    {
+      "file": "S15_散射深度候选.png",
+      "width": 850,
+      "height": 850
+    },
+    {
+      "file": "三台站区域结构对比.png",
+      "width": 2700,
+      "height": 1800
+    }
+  ],
+  "visual_review": "comparison and S12/S14/S15 six-panel figures reviewed; annotations and unit scales inspected",
+  "PDF_source_audit": [
+    {
+      "doi": "10.1029/2022je007396",
+      "filename": "Amrouche 2022 Effects of Lunar Near-Surface Geology on Moonquakes Ground Motion Amplification.pdf",
+      "bytes": 5864857,
+      "sha256": "bac3cdb744d899ac5bd6429bddc92f10afb62ade78e842cc2fb17b6065397d73",
+      "validation": {
+        "pages": 25,
+        "identity_verified": true,
+        "doi_found_in_first_two_pages": true,
+        "checked_location": "Fig11 PDF p17"
+      }
+    },
+    {
+      "doi": "10.1029/2025je009453",
+      "filename": "Zhang 2026 Lateral Variations in Lunar Crustal Thickness Inferred From Apollo Seismic and GRAIL Gravity Data.pdf",
+      "bytes": 1670972,
+      "sha256": "1388978dc2d8b9c66bd2e4c2791413c17bb325e1f23750d14e9e3c6ec03024ff",
+      "validation": {
+        "pages": 16,
+        "identity_verified": true,
+        "doi_found_in_first_two_pages": true,
+        "checked_location": "Main text and SI Table S8"
+      }
+    },
+    {
+      "parent_doi": "10.1029/2025je009453",
+      "role": "Supporting Information",
+      "filename": "Zhang 2026 SI for Lateral Variations in Lunar Crustal Thickness Inferred From Apollo Seismic and GRAIL Gravity Data.pdf",
+      "pages": 32,
+      "verified_table": "S8, PDF p27",
+      "sha256": "a8049b62f80cf05aa4174f1c3b43661065622802f339b8f8fd80da54fb4c6d93"
+    }
+  ],
+  "numerical_input_consistency_passed": true,
+  "not_completed": [
+    "CGFD3D input adaptation",
+    "waveform fitting",
+    "grid convergence",
+    "physical validation of hybrid shallow layers"
+  ],
+  "limitations": [
+    "S14 published basement ratio implies negative Poisson ratio",
+    "S12/S15 adopted density splice has inversion",
+    "changed densities and shallow correction do not preserve source-paper fits"
+  ]
+}

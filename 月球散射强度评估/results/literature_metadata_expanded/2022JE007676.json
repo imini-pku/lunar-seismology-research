@@ -1,0 +1,820 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        1
+      ]
+    ],
+    "date-time": "2026-09-01T23:22:40Z",
+    "timestamp": 1788304960998,
+    "version": "build-2803163510"
+  },
+  "reference-count": 88,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "8",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            2
+          ]
+        ],
+        "date-time": "2023-08-02T00:00:00Z",
+        "timestamp": 1690934400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 1,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "agupubs.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "JGR Planets"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        8
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>The scattering properties of terrestrial planetary bodies can provide valuable insights into their shallow seismic structure, meteoritic impact history, and geological activity. Scattering properties of the shallow crusts of Earth, Mars, and the Moon are investigated by constructing <jats:italic>P</jats:italic>‐wave receiver functions (PRFs) from teleseismic waveforms with high signal‐to‐noise ratios. The authors’ analysis reveals that strong coda waves lead to significant variations in the PRF waveforms calculated using different time windows, and the stability of the PRF is primarily influenced by the fractional velocity fluctuation. Synthetic PRFs for various scattering media confirm these observations. Comparing the observed and synthetic PRFs, it is found that the fractional velocity fluctuation in the shallow crust is greater than ∼0.2 for the Moon but less than ∼0.2 for Earth and Mars. The authors further discuss possible mechanisms that could have affected the fractional velocity fluctuation and suggest that the distinct fractional velocity fluctuation between the Moon and Earth/Mars is mainly due to differences in the water content of the crustal rocks of the three planetary bodies.</jats:p>",
+  "DOI": "10.1029/2022je007676",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        21
+      ]
+    ],
+    "date-time": "2023-07-21T12:27:43Z",
+    "timestamp": 1689942463000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 7,
+  "title": [
+    "Differences in Scattering Properties of the Shallow Crusts of Earth, Mars, and the Moon Revealed by <i>P</i>‐Wave Receiver Functions"
+  ],
+  "prefix": "10.1029",
+  "volume": "128",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-1147-0975",
+      "authenticated-orcid": false,
+      "given": "Jing",
+      "family": "Shi",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Frontiers Science Center for Critical Earth Material Cycling School of Earth Sciences and Engineering Nanjing University  Nanjing China"
+        },
+        {
+          "name": "Institut de physique du globe de Paris Université Paris Cité CNRS  Paris France"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4898-4892",
+      "authenticated-orcid": false,
+      "given": "Tao",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Frontiers Science Center for Critical Earth Material Cycling School of Earth Sciences and Engineering Nanjing University  Nanjing China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Han",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Frontiers Science Center for Critical Earth Material Cycling School of Earth Sciences and Engineering Nanjing University  Nanjing China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Minghan",
+      "family": "Yang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Frontiers Science Center for Critical Earth Material Cycling School of Earth Sciences and Engineering Nanjing University  Nanjing China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7170-5954",
+      "authenticated-orcid": false,
+      "given": "Ling",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "State Key Laboratory of Lithospheric Evolution Institute of Geology and Geophysics Chinese Academy of Sciences  Beijing China"
+        },
+        {
+          "name": "College of Earth and Planetary Sciences University of Chinese Academy of Sciences  Beijing China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2707-4977",
+      "authenticated-orcid": false,
+      "given": "Hejiu",
+      "family": "Hui",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Frontiers Science Center for Critical Earth Material Cycling School of Earth Sciences and Engineering Nanjing University  Nanjing China"
+        },
+        {
+          "name": "Center for Excellence in Comparative Planetology Chinese Academy of Sciences  Hefei China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5670-6761",
+      "authenticated-orcid": false,
+      "given": "Zongbo",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institut de physique du globe de Paris Université Paris Cité CNRS  Paris France"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1014-920X",
+      "authenticated-orcid": false,
+      "given": "Philippe",
+      "family": "Lognonné",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institut de physique du globe de Paris Université Paris Cité CNRS  Paris France"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5246-5561",
+      "authenticated-orcid": false,
+      "given": "Taichi",
+      "family": "Kawamura",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institut de physique du globe de Paris Université Paris Cité CNRS  Paris France"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "13",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        2
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_8_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB080i023p03322"
+    },
+    {
+      "key": "e_1_2_8_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41561-020-0544-y"
+    },
+    {
+      "key": "e_1_2_8_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2015GL066151"
+    },
+    {
+      "key": "e_1_2_8_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2012JE004145"
+    },
+    {
+      "key": "e_1_2_8_6_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Charalambous C. Pike T. Fernando B. Stott A. Nissen‐Meyer T. &Lognonné P.(2022).Denoising InSight: Determination of Mars’ lateral crustal variations through surface‐wave identification (other). display.https://doi.org/10.5194/epsc2022-1078",
+      "DOI": "10.5194/epsc2022-1078"
+    },
+    {
+      "key": "e_1_2_8_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/95JB03446"
+    },
+    {
+      "key": "e_1_2_8_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1178105"
+    },
+    {
+      "key": "e_1_2_8_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2005RG000184"
+    },
+    {
+      "key": "e_1_2_8_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2022.106851"
+    },
+    {
+      "key": "e_1_2_8_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jafrearsci.2015.07.016"
+    },
+    {
+      "key": "e_1_2_8_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB093iB06p06601"
+    },
+    {
+      "key": "e_1_2_8_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/0120020074"
+    },
+    {
+      "key": "e_1_2_8_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2011.06.015"
+    },
+    {
+      "key": "e_1_2_8_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11214-019-0613-y"
+    },
+    {
+      "key": "e_1_2_8_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2016.11.001"
+    },
+    {
+      "key": "e_1_2_8_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11214-018-0512-7"
+    },
+    {
+      "key": "e_1_2_8_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2020.106522"
+    },
+    {
+      "key": "e_1_2_8_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2138/rmg.2006.60.1"
+    },
+    {
+      "key": "e_1_2_8_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41467-021-26957-7"
+    },
+    {
+      "key": "e_1_2_8_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ngeo1735"
+    },
+    {
+      "key": "e_1_2_8_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/MCSE.2007.55"
+    },
+    {
+      "key": "e_1_2_8_23_1",
+      "volume-title": "Mars seismic catalogue, InSight mission; V12 2022‐10‐01. Bristol: ETHZ, IPGP, JPL, ICL, ISAE‐Supaero",
+      "author": "InSight Marsquake Service",
+      "year": "2022"
+    },
+    {
+      "key": "e_1_2_8_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.18715/SEIS.INSIGHT.XB_2016"
+    },
+    {
+      "key": "e_1_2_8_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/BSSA0670061647"
+    },
+    {
+      "key": "e_1_2_8_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pss.2012.08.019"
+    },
+    {
+      "key": "e_1_2_8_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tecto.2019.06.013"
+    },
+    {
+      "key": "e_1_2_8_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2138/rmg.2006.62.6"
+    },
+    {
+      "key": "e_1_2_8_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2138/rmg.2006.60.0"
+    },
+    {
+      "key": "e_1_2_8_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/maps.13657"
+    },
+    {
+      "key": "e_1_2_8_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-3121.1991.tb00863.x"
+    },
+    {
+      "key": "e_1_2_8_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.abf2966"
+    },
+    {
+      "key": "e_1_2_8_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.abq7157"
+    },
+    {
+      "key": "e_1_2_8_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.abf8966"
+    },
+    {
+      "key": "e_1_2_8_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2018JB015557"
+    },
+    {
+      "key": "e_1_2_8_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1190/1.1440450"
+    },
+    {
+      "key": "e_1_2_8_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1130/2021.2550(29)"
+    },
+    {
+      "key": "e_1_2_8_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB084iB09p04749"
+    },
+    {
+      "key": "e_1_2_8_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.167.3918.455"
+    },
+    {
+      "key": "e_1_2_8_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41586-022-05147-5"
+    },
+    {
+      "key": "e_1_2_8_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.epsl.2022.117654"
+    },
+    {
+      "key": "e_1_2_8_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jseaes.2018.05.020"
+    },
+    {
+      "key": "e_1_2_8_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/BSSA0890051395"
+    },
+    {
+      "key": "e_1_2_8_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11214-018-0574-6"
+    },
+    {
+      "key": "e_1_2_8_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41561-020-0536-y"
+    },
+    {
+      "key": "e_1_2_8_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0012-821X(03)00172-9"
+    },
+    {
+      "key": "e_1_2_8_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s40623-017-0687-2"
+    },
+    {
+      "key": "e_1_2_8_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2021GL093127"
+    },
+    {
+      "key": "e_1_2_8_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-90-481-8702-7_54"
+    },
+    {
+      "key": "e_1_2_8_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/0120210127"
+    },
+    {
+      "key": "e_1_2_8_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/B978-0-12-804191-8.00008-8"
+    },
+    {
+      "key": "e_1_2_8_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/0120080130"
+    },
+    {
+      "key": "e_1_2_8_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2004JE002332"
+    },
+    {
+      "key": "e_1_2_8_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/gji/ggv421"
+    },
+    {
+      "key": "e_1_2_8_55_1",
+      "volume-title": "5‐minute gridded global relief data (ETOPO5)",
+      "author": "National Geophysical Data Center",
+      "year": "1993"
+    },
+    {
+      "key": "e_1_2_8_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/galaxies8020040"
+    },
+    {
+      "key": "e_1_2_8_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2019JE006126"
+    },
+    {
+      "key": "e_1_2_8_58_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Nunn C.(1969).Apollo passive seismic experiments[Dataset].International Federation of Digital Seismograph Networks.https://doi.org/10.7914/SN/XA_1969",
+      "DOI": "10.7914/SN/XA_1969"
+    },
+    {
+      "key": "e_1_2_8_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11214-020-00709-3"
+    },
+    {
+      "key": "e_1_2_8_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020JE006406"
+    },
+    {
+      "key": "e_1_2_8_61_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2022JE007558"
+    },
+    {
+      "key": "e_1_2_8_62_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.icarus.2019.113511"
+    },
+    {
+      "key": "e_1_2_8_63_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2015JB012348"
+    },
+    {
+      "key": "e_1_2_8_64_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2018JE005592"
+    },
+    {
+      "key": "e_1_2_8_65_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2011JE003966"
+    },
+    {
+      "key": "e_1_2_8_66_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/b0-08-043751-6/03016-4"
+    },
+    {
+      "key": "e_1_2_8_67_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/se-10-275-2019"
+    },
+    {
+      "key": "e_1_2_8_68_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-23029-5"
+    },
+    {
+      "key": "e_1_2_8_69_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.abc7717"
+    },
+    {
+      "key": "e_1_2_8_70_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1017/CBO9780511841552.005",
+      "volume-title": "Introduction to seismology",
+      "author": "Shearer P. M.",
+      "year": "2009"
+    },
+    {
+      "key": "e_1_2_8_71_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2022GL101627"
+    },
+    {
+      "key": "e_1_2_8_72_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Shi J. Wang T. Chen H. Yang M. Chen L. Hui H. et al. (2023b).Differences in scattering properties of the shallow crusts of Earth Mars and the Moon revealed by P‐wave receiver functions[Dataset].Zenodo.https://doi.org/10.5281/zenodo.7939796",
+      "DOI": "10.5281/zenodo.7939796"
+    },
+    {
+      "key": "e_1_2_8_73_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1365-246x.2002.01606.x"
+    },
+    {
+      "key": "e_1_2_8_74_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2000je001364"
+    },
+    {
+      "key": "e_1_2_8_75_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/96JE02940"
+    },
+    {
+      "key": "e_1_2_8_76_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.abi7730"
+    },
+    {
+      "key": "e_1_2_8_77_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/epsc2022-612"
+    },
+    {
+      "key": "e_1_2_8_78_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1080497"
+    },
+    {
+      "key": "e_1_2_8_79_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1190/1.1440639"
+    },
+    {
+      "key": "e_1_2_8_80_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/0120190203"
+    },
+    {
+      "key": "e_1_2_8_81_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2001GL012859"
+    },
+    {
+      "key": "e_1_2_8_82_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/CBO9781107300668.013"
+    },
+    {
+      "key": "e_1_2_8_83_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2138/rmg.2006.60.3"
+    },
+    {
+      "key": "e_1_2_8_84_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/94GL00772"
+    },
+    {
+      "key": "e_1_2_8_85_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/0220220288"
+    },
+    {
+      "key": "e_1_2_8_86_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.epsl.2017.11.048"
+    },
+    {
+      "key": "e_1_2_8_87_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2023GL103136"
+    },
+    {
+      "key": "e_1_2_8_88_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2022JE007222"
+    },
+    {
+      "key": "e_1_2_8_89_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/1999JB900322"
+    }
+  ],
+  "container-title": [
+    "Journal of Geophysical Research: Planets"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022JE007676",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        29
+      ]
+    ],
+    "date-time": "2023-12-29T23:41:54Z",
+    "timestamp": 1703893314000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JE007676"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8
+      ]
+    ]
+  },
+  "references-count": 88,
+  "journal-issue": {
+    "issue": "8",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          8
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1029/2022JE007676"
+  ],
+  "URL": "https://doi.org/10.1029/2022je007676",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "2169-9097",
+    "2169-9100"
+  ],
+  "issn-type": [
+    {
+      "value": "2169-9097",
+      "type": "print"
+    },
+    {
+      "value": "2169-9100",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        8
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2022-11-13",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2023-07-13",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2023-08-02",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "e2022JE007676"
+}

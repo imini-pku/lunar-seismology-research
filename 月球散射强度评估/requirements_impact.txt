@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+requests
+obspy
+unlzw3
+netCDF4

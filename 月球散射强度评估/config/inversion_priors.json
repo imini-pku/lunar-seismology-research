@@ -1,0 +1,26 @@
+{
+  "baseline_frequency_band_hz": [0.3, 0.9],
+  "extension_frequency_bands_hz": [[0.1, 0.3], [0.9, 1.5]],
+  "time_windows_s": [[50, 245], [245, 1000], [1000, 3000]],
+  "minimum_independent_events_per_region": 10,
+  "minimum_stations_per_region": 2,
+  "minimum_distance_levels": 3,
+  "max_design_condition_number": 100000000.0,
+  "proxy_parameter": {
+    "name": "g_proxy_km-1",
+    "definition": "negative path-length coefficient in log-energy relative to a matched reference",
+    "physical_mapping": "pending synthetic calibration to reduced scattering coefficient 1/l_star"
+  },
+  "candidate_qc": {
+    "early_window_snr_min": 3.0,
+    "sensitivity_snr_min": 5.0,
+    "clock_or_arrival_error_s_max": 2.0,
+    "max_missing_or_clipped_fraction": 0.01,
+    "right_censor_policy": "retain_flag_and_use_shared_window_or_censored_likelihood"
+  },
+  "weak_ordered_scenarios": {
+    "basin_plain": "surface_topography_low_but_subsurface_scattering_unknown",
+    "crater_wall_rim_ejecta": "topographic_and_interaction_terms_may_be_high",
+    "highland_rough": "topographic_term_may_be_high_but_subsurface_term_is_unresolved"
+  }
+}

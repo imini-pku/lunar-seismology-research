@@ -1,0 +1,10 @@
+figure,file,origin,rebuild_status,primary_evidence
+Figure 1,figures/main/Figure_1_experiment_design.png,New publication figure built from archived station metrics,rebuildable,station_level_metrics.csv
+Figure 2,figures/main/Figure_2_factorial_waveforms.png,Verified REL3 four-model analysis package,archived legacy script included,three_component_factorial_station_metrics and four NetCDF files
+Figure 3,figures/main/Figure_3_component_energy.png,Verified REL3 four-model analysis package,archived legacy script included,three_component_factorial_summary.csv
+Figure 4,figures/main/Figure_4_path_relief.png,New publication figure built from archived station metrics,rebuildable,station_level_metrics.csv
+Figure 5,figures/main/Figure_5_interaction_residual.png,Verified REL3 four-model analysis package,archived legacy script included,three_component_factorial_residual_summary.csv
+Figure 6,figures/main/Figure_6_linear_diffusion.png,Verified REL3 waveform analysis package,archived legacy script included,figure5b_peak_time_fit_summary.csv
+Figure 7,figures/main/Figure_7_observed_models.png,Verified REL3 observation-model analysis package,archived legacy script included,A16S12_observed_model_comparison_metrics.csv
+Figure S1,figures/supporting/Figure_S1_smoothing_sensitivity.png,New publication figure built from sensitivity table,rebuildable,literature_guided_tmax_smoothing_sensitivity.csv
+Figure S2,figures/supporting/Figure_S2_time_frequency.png,Verified REL3 three-component analysis package,archived legacy script included,s12_time_frequency_metrics.csv and waveform files

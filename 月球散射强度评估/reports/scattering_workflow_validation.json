@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "R1_finite_positive_elastic": true,
+    "R1_normalized_eta": true,
+    "R1_coupled_vp_vs": true,
+    "R2_finite_positive_elastic": true,
+    "R2_normalized_eta": true,
+    "R2_coupled_vp_vs": true,
+    "R4_finite_positive_elastic": true,
+    "R4_normalized_eta": true,
+    "R4_coupled_vp_vs": true,
+    "seed_reproducibility": true,
+    "score_identity": true,
+    "common_amplitude_invariance": true,
+    "time_shift_penalty": true,
+    "short_window_rejected": true,
+    "unique_88_planned_runs": true
+  },
+  "all_passed": true,
+  "checks_count": 15,
+  "material_files": 3,
+  "planned_runs": 88,
+  "wave_propagation_runs": 0,
+  "score_test_input": "analytic Gaussian-windowed sinusoids, not Apollo data",
+  "identity_score": 0.0,
+  "shifted_score": 0.9076706027048751
+}

@@ -1,0 +1,69 @@
+{
+  "checked_at": "2026-10-29T20:50:56.043065",
+  "document": "C:\\Users\\Administrator\\Desktop\\月球散射强度评估\\docs\\14_Zhang2025_Apollo数据清洗论文综述.md",
+  "characters": 10004,
+  "checks": {
+    "no_draft_placeholders": true,
+    "all_local_links_resolve": true,
+    "review_has_14_sections": true,
+    "counts_partition_390": true,
+    "treatable_subset_182_of_256": true,
+    "source_sha256_matches_acquisition": true,
+    "readme_has_review_entry": true,
+    "waveform_report_exists": true,
+    "waveform_package_exists": true
+  },
+  "local_links": [
+    {
+      "target": "waveform_cleaning_reference.bib",
+      "exists": true
+    },
+    {
+      "target": "../data/raw/literature/Zhang2025_Cleaning_Apollo/publisher_pdf_web_extracted.txt",
+      "exists": true
+    },
+    {
+      "target": "../data/raw/literature/Zhang2025_Cleaning_Apollo/acquisition_status.json",
+      "exists": true
+    },
+    {
+      "target": "../data/raw/literature/Zhang2025_Cleaning_Apollo/crossref_metadata.json",
+      "exists": true
+    },
+    {
+      "target": "13_原始波形与处理对照.md",
+      "exists": true
+    },
+    {
+      "target": "waveform_cleaning_reference.bib",
+      "exists": true
+    },
+    {
+      "target": "../reports/zhang2025_methods_evidence.md",
+      "exists": true
+    },
+    {
+      "target": "13_原始波形与处理对照.md",
+      "exists": true
+    },
+    {
+      "target": "../reports/waveform_processing_literature_review.md",
+      "exists": true
+    },
+    {
+      "target": "../results/waveform_raw_integrity_audit.json",
+      "exists": true
+    }
+  ],
+  "article_DOI": "10.1029/2025EA004710",
+  "review_basis": "Publisher full-text extraction, figure captions, parseable tables, bibliographic metadata and project-local waveform audit; independent methods audit completed.",
+  "limitations": {
+    "local_pdf_binary_available": false,
+    "article_figure_pixels_visually_checked": false,
+    "supplement_read": false,
+    "author_MATLAB_executed": false,
+    "published_cleaned_dataset_downloaded": false,
+    "new_project_deglitch_completed": false
+  },
+  "manual_review_evidence": "reports/zhang2025_methods_evidence.md"
+}

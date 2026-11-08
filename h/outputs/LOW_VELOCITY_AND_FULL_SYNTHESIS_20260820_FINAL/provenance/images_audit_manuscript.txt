@@ -1,0 +1,11 @@
+﻿IMAGE KINDS
+- inline: 7
+
+ROWS (part | kind | size | target)
+- word/document.xml | inline | 6.45 x 5.51 | media/image1.png
+- word/document.xml | inline | 6.45 x 4.46 | media/image2.png
+- word/document.xml | inline | 6.45 x 4.46 | media/image3.png
+- word/document.xml | inline | 6.45 x 2.37 | media/image4.png
+- word/document.xml | inline | 6.45 x 3.64 | media/image5.png
+- word/document.xml | inline | 6.45 x 4.00 | media/image6.png
+- word/document.xml | inline | 6.45 x 4.05 | media/image7.png

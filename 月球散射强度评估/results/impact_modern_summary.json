@@ -1,0 +1,51 @@
+{
+  "downloaded_pairs": 21,
+  "failed_pairs": 0,
+  "trace_rows": 63,
+  "processed_trace_files": 60,
+  "bad_or_missing": [
+    {
+      "event_id": "A16SIVB",
+      "station": "S14",
+      "channel": "MHZ",
+      "nunn2024_clear": "true",
+      "published_supported_band": "0.3-0.9 Hz general; 0.3-0.5 Hz comparison",
+      "qualified_band": "",
+      "time_reference": "NASA Earth-received origin; no lunar-light-time subtraction",
+      "status": "known_bad_channel_epoch",
+      "npz": "",
+      "reason": "S14 MHZ excluded 1972-03-12 to 1976-11-17"
+    },
+    {
+      "event_id": "A17SIVB",
+      "station": "S14",
+      "channel": "MHZ",
+      "nunn2024_clear": "false",
+      "published_supported_band": "0.3-0.9 Hz general; 0.3-0.5 Hz comparison",
+      "qualified_band": "",
+      "time_reference": "NASA Earth-received origin; no lunar-light-time subtraction",
+      "status": "known_bad_channel_epoch",
+      "npz": "",
+      "reason": "S14 MHZ excluded 1972-03-12 to 1976-11-17"
+    },
+    {
+      "event_id": "A17LM",
+      "station": "S14",
+      "channel": "MHZ",
+      "nunn2024_clear": "false",
+      "published_supported_band": "0.3-0.9 Hz general; 0.3-0.5 Hz comparison",
+      "qualified_band": "",
+      "time_reference": "NASA Earth-received origin; no lunar-light-time subtraction",
+      "status": "known_bad_channel_epoch",
+      "npz": "",
+      "reason": "S14 MHZ excluded 1972-03-12 to 1976-11-17"
+    }
+  ],
+  "band_rows": 240,
+  "provisional_pass_rows": 30,
+  "qualified_band_count": 0,
+  "qualification_note": "Nominal gain only; quantitative gain reconstruction and manual QC remain. No final certified band claimed.",
+  "ATT_corrected_trace_count": 60,
+  "ATT_unresolved_trace_count": 0,
+  "ATT_negative_Unix_fix": "Pre-1970 valid negative Unix time allowed; -1 sentinel excluded and consistency with nominal time checked."
+}

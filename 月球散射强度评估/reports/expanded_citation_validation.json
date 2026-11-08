@@ -1,0 +1,61 @@
+{
+  "filepath": "docs/expanded_lunar_references.bib",
+  "total_entries": 8,
+  "valid_entries": 8,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry BlanchetteGuertin20122011je004042: Missing recommended field \"pages\"",
+      "entry": "BlanchetteGuertin20122011je004042"
+    },
+    {
+      "type": "page_range_format",
+      "field": "pages",
+      "value": "515-537",
+      "severity": "low",
+      "message": "Entry BlanchetteGuertin20152014je004654: Page range uses single hyphen, should use -- (en-dash)",
+      "entry": "BlanchetteGuertin20152014je004654"
+    },
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Zhang20222022je007222: Missing recommended field \"pages\"",
+      "entry": "Zhang20222022je007222"
+    },
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Shi20232022je007676: Missing recommended field \"pages\"",
+      "entry": "Shi20232022je007676"
+    },
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry TorrentDuch20252025je009090: Missing recommended field \"pages\"",
+      "entry": "TorrentDuch20252025je009090"
+    },
+    {
+      "type": "missing_recommended_field",
+      "field": "pages",
+      "severity": "medium",
+      "message": "Entry Shi20252025je009223: Missing recommended field \"pages\"",
+      "entry": "Shi20252025je009223"
+    }
+  ],
+  "duplicates": [],
+  "venue_standard_checked": null,
+  "min_count_checked": null,
+  "manuscript_results": {
+    "checked": false,
+    "manuscript_filepath": null,
+    "cited_keys": [],
+    "missing_keys": [],
+    "unused_keys": []
+  }
+}

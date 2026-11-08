@@ -1,0 +1,19 @@
+context,context_label,outcome,outcome_label,predictor,predictor_label,rho,q_value,block_n
+topography_no_scatter,"Topography effect, no heterogeneity",log_peak_amplitude,Peak amplitude,path_relief_range_km,Cumulative path relief,-0.7363235675395385,8.462802050624439e-09,57
+topography_no_scatter,"Topography effect, no heterogeneity",log_peak_amplitude,Peak amplitude,path_mean_absolute_slope,Mean absolute slope,-0.5994944257194711,1.2992725367952232e-05,57
+topography_no_scatter,"Topography effect, no heterogeneity",log_peak_amplitude,Peak amplitude,elevation_km,Receiver elevation,0.4734249416645061,0.0013351923654144,57
+topography_no_scatter,"Topography effect, no heterogeneity",log_total_energy,Total energy,path_relief_range_km,Cumulative path relief,-0.7308789214415349,8.462802050624439e-09,57
+topography_no_scatter,"Topography effect, no heterogeneity",log_total_energy,Total energy,path_mean_absolute_slope,Mean absolute slope,-0.6319678506611357,3.1544565001523298e-06,57
+topography_no_scatter,"Topography effect, no heterogeneity",log_total_energy,Total energy,elevation_km,Receiver elevation,0.4580632616022816,0.0019875559837321,57
+topography_no_scatter,"Topography effect, no heterogeneity",log_duration_90_s,T90,path_relief_range_km,Cumulative path relief,0.6791547835105004,1.8559520860760254e-07,57
+topography_no_scatter,"Topography effect, no heterogeneity",log_duration_90_s,T90,path_mean_absolute_slope,Mean absolute slope,0.6238656987295826,4.22216007958885e-06,57
+topography_no_scatter,"Topography effect, no heterogeneity",log_duration_90_s,T90,elevation_km,Receiver elevation,-0.3950609281825253,0.0098101373467002,57
+topography_scatter,"Topography effect, heterogeneous background",log_peak_amplitude,Peak amplitude,path_relief_range_km,Cumulative path relief,-0.7105263157894738,2.7962910396031586e-08,57
+topography_scatter,"Topography effect, heterogeneous background",log_peak_amplitude,Peak amplitude,path_mean_absolute_slope,Mean absolute slope,-0.6212730101114856,4.522653271201747e-06,57
+topography_scatter,"Topography effect, heterogeneous background",log_peak_amplitude,Peak amplitude,elevation_km,Receiver elevation,0.4600077780658543,0.001958760888124,57
+topography_scatter,"Topography effect, heterogeneous background",log_total_energy,Total energy,path_relief_range_km,Cumulative path relief,-0.6904329789992222,9.385785565507005e-08,57
+topography_scatter,"Topography effect, heterogeneous background",log_total_energy,Total energy,path_mean_absolute_slope,Mean absolute slope,-0.574410163339383,3.874176699240944e-05,57
+topography_scatter,"Topography effect, heterogeneous background",log_total_energy,Total energy,elevation_km,Receiver elevation,0.437192118226601,0.0034219794978458,57
+topography_scatter,"Topography effect, heterogeneous background",log_duration_90_s,T90,path_relief_range_km,Cumulative path relief,0.7218045112781954,1.3834129402986466e-08,57
+topography_scatter,"Topography effect, heterogeneous background",log_duration_90_s,T90,path_mean_absolute_slope,Mean absolute slope,0.6289862587503241,3.419406031309646e-06,57
+topography_scatter,"Topography effect, heterogeneous background",log_duration_90_s,T90,elevation_km,Receiver elevation,-0.4684988332901219,0.0015017527360377,57

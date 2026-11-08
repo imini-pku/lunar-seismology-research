@@ -1,0 +1,29 @@
+﻿id,description,url,evidence_status,scope_limit
+NASA-I,NASA：Apollo撞击位置、时刻、速度与动能,https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html,数据表及注释；本次官网复核,坐标/源条件，非地震辐射能
+NASA-S,NASA：ALSEP坐标,https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html,ALSEP行；本次官网复核,源站统一参考系
+LOLA,NASA/PDS LOLA数据产品,https://pds-geosciences.wustl.edu/missions/lro/lola.htm,LDEM_64标签及本地溯源,采样约474 m，非绝对有效分辨率保证
+N22,Nunn等2022：Apollo档案恢复,https://doi.org/10.3847/PSJ/ac87af,档案方法及官方示例；已有项目核查,原始计数/时标/响应，不是全部伪信号清洗
+N24,Nunn等2024：人工撞击与三维模拟,https://doi.org/10.3847/PSJ/ad83d2,Table1/2，§2/5；已有正文核查，本轮IOP入口未成功返回,记录覆盖、0.3–0.5 Hz比较、高对比模型
+O21,Onodera等2021：二维人工撞击路径,https://doi.org/10.1029/2020JE006406,§2，Table2–3；已有正文核查,两层尺度与上限幅度，不作RMS换算
+O22,Onodera等2022：三维散射定量评估,https://doi.org/10.1029/2022JE007558,§2.2–2.6、§3.3；已有正文核查，本次出版社入口复核,两条S12路径主参考
+B14,Besserer等2014：月壳密度/孔隙度,https://doi.org/10.1002/2014GL060240,通过O22 §2.3及来源审计引用,背景依据，不是σv来源
+J15,Jiang等2015：月震散射数值模型,https://doi.org/10.6038/cjg20150519,§2–4，Table3–4；中文期刊全文已核查,二维自然月震的低σ长a竞争场景
+D77,Dainty与Toksöz1977：月球扩散包络,https://journal.geophysicsjournal.com/JofG/article/download/102/64,p385–386/Fig6；已有公开原文核查,A14LM/S14、A15LM/S15；D不等于a
+G17,Gillet等2017：深度变化散射与吸收,https://doi.org/10.1016/j.pepi.2016.11.001,扩散/衰减模型；已有核查,D、Q与过渡深度，非随机场唯一映射
+BG15G,Blanchette-Guertin等2015 GRL：侧向层厚,https://doi.org/10.1002/2015GL066151,§1–4/Fig1–3；已有正文核查,"H(x,y)和源区贡献的机制证据"
+BG15J,Blanchette-Guertin等2015 JGR：声子模拟,https://doi.org/10.1002/2014JE004654,Table1；已有正文核查,界面对比、厚度及Q的替代参数化
+SO16,Sollberger等2016：Apollo17浅层主动源,https://doi.org/10.1002/2016GL070883,§3–5/Fig4–5；支持材料未取得,浅部高反差；a和百分比统计定义仍有限制
+KE24,Keil等2024：浅部散射与主动源,https://doi.org/10.1029/2024EA003742,模拟部分/AppendixA；已有正文核查,a=10 m等局部高频场景，不推广到百公里域
+AM22,Amrouche等2022：浅部结构与场地,https://doi.org/10.1029/2022JE007396,§6；已有项目来源审计,浅层场地分支，非a/σ/H区域反演
+SH23,Shi等2023：散射对接收函数的影响,https://doi.org/10.1029/2022JE007676,§2–4/Fig4/6–8；ε归一化待核,长尺度分支；不直接将ε写为RMS
+Z22,Zhang等2022：全球波场浅部非均质,https://doi.org/10.1029/2022JE007222,§2–3/5；已有正文核查,最大扰动/节点尺度与物理a分开
+K25,Kim等2025：转换波与偏振,https://doi.org/10.1029/2024GL114506,§2及SI引用；SI未取得,15%统计定义未升级为RMS
+TD25,Torrent Duch等2025：S16尾波自相关,https://doi.org/10.1029/2025JE009090,§5–6；已有正文核查,弱局地散射与更锐利界面均保留
+E24,Eaton2024：熵与频率相关,https://doi.org/10.1093/gji/ggae098,§3–4/Fig9；已有正文核查,辅助统计，不给a/σ/H三元组
+O25A,Onodera等2025 LPSC会议摘要,https://www.hou.usra.edu/meetings/lpsc2025/pdf/1144.pdf,两页会议模拟；非期刊区域反演,虚拟源站的机制设计
+Z25,Zhang等2025：Methods for Cleaning Apollo Passive Seismic Data,https://doi.org/10.1029/2025EA004710,17页正文已读；SI未核实；作者代码未运行,glitch与S14采集问题，详见附录
+SE18,Sato与Emoto2018：ACF/PSD与波动散射,https://doi.org/10.1093/gji/ggy319,§2/式2a–b；已有来源审计,一般理论；地球数值不转作月球先验
+GA19,Garcia等2019：月球内部结构综述/模型,https://doi.org/10.1007/s11214-019-0613-y,模型及作者数据；新数值表未接入,独立背景；背景不确定性不是短尺度σv
+VP12,Garcia等2012：VPREMOON勘误,https://doi.org/10.1016/j.pepi.2012.03.009,Table6；已有来源审计,背景表须用勘误，QP/QS非散射Q
+Z12,Zhang等2012：曲线网格地震波数值方法,https://doi.org/10.1111/j.1365-246X.2012.05472.x,§2–5；已有方法来源审计,数值基准，不保证本项目具体网格合格
+Z14,Zhang等2014：曲线网格吸收边界,https://doi.org/10.1093/gji/ggu124,理论/测试；已有来源审计,边界方法；50 km等数值仍为项目选择

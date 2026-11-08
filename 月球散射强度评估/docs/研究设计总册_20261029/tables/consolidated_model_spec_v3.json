@@ -1,0 +1,29 @@
+{
+  "version": "2026-10-29-consolidated-scientific-plan-v3",
+  "solver": "CGFD3D",
+  "is_solver_input": false,
+  "propagation_runs_executed": 0,
+  "reference": {
+    "a_m": 650,
+    "sigma_v": 0.1,
+    "H_midpoint_m": 10000,
+    "taper_width_m": 1000,
+    "nu": 0.5,
+    "density_beta_new_baseline": 0,
+    "density_beta_sensitivity": 0.8,
+    "depth": "Dsurf_vertical_below_local_surface",
+    "Qi_proposed": 2400,
+    "Qi_implementation": "pending"
+  },
+  "parent_design": "sources/scattering_model_design_v2_annotated.json",
+  "jobs": "tables/event_baseline_jobs_v3.csv",
+  "jobs_total": 64,
+  "first_stage_subset": 16,
+  "target_pairs": 11,
+  "auxiliary_pairs": [
+    "A17SIVB_S14"
+  ],
+  "legacy_88_not_additive": true,
+  "old_materials_unchanged": true,
+  "numeric_choices_are": "literature inspired starting point plus explicitly labelled project assumptions"
+}

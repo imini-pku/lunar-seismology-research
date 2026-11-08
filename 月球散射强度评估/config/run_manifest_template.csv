@@ -1,0 +1,5 @@
+asset_id,asset_kind,source_path_or_uri,sha256,size_bytes,coordinate_system,units,workflow_rule,source_or_receiver_geometry,random_seed,grid_spacing_km,time_step_s,domain_km,output_duration_s,frequency_band_hz,q_model,notes,status
+apollo_event_station,observed_waveform,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,orientation_rule_v1,TO_BE_FILLED,NA,NA,NA,NA,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,待补Apollo多事件多台站记录,provisional
+lola_dem,dem,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,planetocentric_latlon,m,dem_sampling_rule_v1,NA,NA,NA,NA,NA,NA,NA,NA,记录版本与下载日期,provisional
+geologic_units,geology_map,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,planetocentric_latlon,NA,polygon_priority_rule_v1,NA,NA,NA,NA,NA,NA,NA,NA,盆地/陨石坑/高地分类来源,provisional
+synthetic_run,synthetic_waveform,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,model_coordinates,model_units,run_specific_rule,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,TO_BE_FILLED,必须包含四因子单元和随机种子,provisional

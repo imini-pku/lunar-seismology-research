@@ -1,0 +1,2 @@
+﻿index,raw_DU,corrected_DU,bit_zero_based,neighbour_prediction_DU,local_diff_scale_DU,rule,record,time_s
+24466,790.0,534.0,8,532.0,15.0,unique_single_bit_reversal; project_conservative_rule,A14SIVB_S12_MH2,3091.820880708309

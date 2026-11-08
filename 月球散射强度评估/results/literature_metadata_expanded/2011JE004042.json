@@ -1,0 +1,460 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        27
+      ]
+    ],
+    "date-time": "2026-09-27T10:48:56Z",
+    "timestamp": 1790506136568,
+    "version": "4.1.0"
+  },
+  "reference-count": 43,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "E6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2012,
+            6,
+            20
+          ]
+        ],
+        "date-time": "2012-06-20T00:00:00Z",
+        "timestamp": 1340150400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 19,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "J. Geophys. Res."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2012,
+        6
+      ]
+    ]
+  },
+  "abstract": "<jats:p>We investigate the intrinsic attenuation and scattering properties of the Moon by parameterizing the coda decay of 369 higher‐quality lunar seismograms from 72 events via their characteristic rise and decay times. We investigate any dependence of the decay times on source type, frequency, and epicentral distance. Intrinsic attenuation, scattering, and possible focusing of energy in a near‐surface, low‐velocity layer all contribute to the coda decay. Although it is not possible to quantify the exact contribution of each of these effects in the seismograms, results suggest that scattering in a near‐surface global layer dominates the records of shallow events (∼0–200 km depth), particularly at frequencies above 2 Hz, and for increasing epicentral distance. We propose that the scattering layer is the megaregolith and that energy from shallow sources encounters more scatterers as it travels longer distances in the layer, increasing the coda decay times. A size distribution of ejecta blocks that has more small‐scale than large‐scale scatterers intensifies this effect for increasing frequencies. Deep moonquakes (700–1100 km depth) exhibit no dependence of the decay time on epicentral distance. We suggest that because of their large depths and small amplitudes, deep moonquakes from any distance sample a similar region near a given receiver. Near‐station structure and geology may also control the decay times of local events, as evidenced by two natural impact records. This study provides constraints and testable hypotheses for waveform modeling of the lunar interior that includes the effects of intense scattering and shallow, low‐velocity layers.</jats:p>",
+  "DOI": "10.1029/2011je004042",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2012,
+        5,
+        11
+      ]
+    ],
+    "date-time": "2012-05-11T08:07:16Z",
+    "timestamp": 1336723636000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 48,
+  "title": [
+    "Investigation of scattering in lunar seismic coda"
+  ],
+  "prefix": "10.1029",
+  "volume": "117",
+  "author": [
+    {
+      "given": "J.‐F.",
+      "family": "Blanchette‐Guertin",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C. L.",
+      "family": "Johnson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J. F.",
+      "family": "Lawrence",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "13",
+  "published-online": {
+    "date-parts": [
+      [
+        2012,
+        6,
+        20
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_8_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB074i002p00615"
+    },
+    {
+      "key": "e_1_2_8_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB080i023p03322"
+    },
+    {
+      "key": "e_1_2_8_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2005JE002414"
+    },
+    {
+      "key": "e_1_2_8_5_1",
+      "first-page": "11",
+      "article-title": "Seismic scattering and shallow structure of the Moon in Oceanus Procellarum",
+      "volume": "9",
+      "author": "Dainty A. M.",
+      "year": "1974",
+      "journal-title": "Earth, Moon, Planets"
+    },
+    {
+      "key": "e_1_2_8_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1785/0120000285"
+    },
+    {
+      "key": "e_1_2_8_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2006.05.009"
+    },
+    {
+      "key": "e_1_2_8_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pepi.2011.06.015"
+    },
+    {
+      "key": "e_1_2_8_9_1",
+      "unstructured": "Goldstein P. andA.Snoke(2005) SAC availability for the IRIS community report contract W‐7405‐Eng‐48 Lawrence Livermore Natl. Lab. U.S. Dep. of Energy Livermore Calif."
+    },
+    {
+      "key": "e_1_2_8_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0074-6142(03)80284-X"
+    },
+    {
+      "key": "e_1_2_8_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0019-1035(73)90066-3"
+    },
+    {
+      "key": "e_1_2_8_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB085iB11p06572"
+    },
+    {
+      "key": "e_1_2_8_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB088iB03p02485"
+    },
+    {
+      "issue": "2",
+      "key": "e_1_2_8_14_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "741",
+      "DOI": "10.1785/BSSA0780020741",
+      "article-title": "Spatial and temporal correlation between coda Q and seismicity in China",
+      "volume": "78",
+      "author": "Jin A.",
+      "year": "1988",
+      "journal-title": "Bull. Seismol. Soc. Am."
+    },
+    {
+      "key": "e_1_2_8_15_1",
+      "series-title": "NASA SP‐272",
+      "first-page": "163",
+      "volume-title": "Apollo 14 Preliminary Science Report",
+      "author": "Kovach R. L.",
+      "year": "1971"
+    },
+    {
+      "key": "e_1_2_8_16_1",
+      "series-title": "NASA SP‐235",
+      "first-page": "39",
+      "volume-title": "Apollo 12 Preliminary Science Report",
+      "author": "Latham G. V.",
+      "year": "1970"
+    },
+    {
+      "key": "e_1_2_8_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.167.3918.455"
+    },
+    {
+      "key": "e_1_2_8_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.174.4010.687"
+    },
+    {
+      "key": "e_1_2_8_19_1",
+      "first-page": "2515",
+      "article-title": "Moonquakes, meteroids, and the state of the lunar interior",
+      "volume": "4",
+      "author": "Latham G.",
+      "year": "1973",
+      "journal-title": "Proc. Lunar. Sci. Conf."
+    },
+    {
+      "key": "e_1_2_8_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0012-821X(03)00172-9"
+    },
+    {
+      "key": "e_1_2_8_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-246X.1998.tb07142.x"
+    },
+    {
+      "key": "e_1_2_8_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1365-246X.1999.00897.x"
+    },
+    {
+      "key": "e_1_2_8_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0012-821X(73)90162-3"
+    },
+    {
+      "key": "e_1_2_8_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/95RG02074"
+    },
+    {
+      "key": "e_1_2_8_25_1",
+      "first-page": "389",
+      "article-title": "Seismic energy transmission in an intensively scattering environment",
+      "volume": "43",
+      "author": "Nakamura Y.",
+      "year": "1977",
+      "journal-title": "J. Geophys."
+    },
+    {
+      "key": "e_1_2_8_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB088iB01p00677"
+    },
+    {
+      "key": "e_1_2_8_27_1",
+      "unstructured": "Nakamura Y.(1992) Catalog of lunar seismic data from Apollo Passive Seismic Experiment on 8‐mm video cassette (exabyte) tapes Univ. Tex. Inst. Geophys. Tech. Rep. 118 Inst. for Geophys. Univ. of Tex. at Austin Austin."
+    },
+    {
+      "key": "e_1_2_8_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2004JE002332"
+    },
+    {
+      "key": "e_1_2_8_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/JB087iB06p04855"
+    },
+    {
+      "key": "e_1_2_8_30_1",
+      "first-page": "57",
+      "article-title": "Shallow lunar structure determined from the Passive Seismic Experiment",
+      "volume": "13",
+      "author": "Nakamura Y.",
+      "year": "1975",
+      "journal-title": "Earth, Moon, Planets"
+    },
+    {
+      "key": "e_1_2_8_31_1",
+      "first-page": "3113",
+      "article-title": "Seismic structure of the Moon: A summary of current status",
+      "volume": "7",
+      "author": "Nakamura Y.",
+      "year": "1976",
+      "journal-title": "Proc. Lunar Sci. Conf."
+    },
+    {
+      "key": "e_1_2_8_32_1",
+      "first-page": "2299",
+      "article-title": "Shallow moonquakes: Depth, distribution and implications as to the present state of the lunar interior",
+      "volume": "10",
+      "author": "Nakamura Y.",
+      "year": "1979",
+      "journal-title": "Proc. Lunar Planet. Sci. Conf."
+    },
+    {
+      "key": "e_1_2_8_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2003JE002182"
+    },
+    {
+      "key": "e_1_2_8_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1945-5100.2008.tb01025.x"
+    },
+    {
+      "key": "e_1_2_8_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0012-821X(74)90114-9"
+    },
+    {
+      "key": "e_1_2_8_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/icar.1998.5915"
+    },
+    {
+      "key": "e_1_2_8_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-1-4612-2202-6"
+    },
+    {
+      "key": "e_1_2_8_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/B978-044452748-6/00021-3"
+    },
+    {
+      "key": "e_1_2_8_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/icar.2000.6545"
+    },
+    {
+      "key": "e_1_2_8_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1130/G25565A.1"
+    },
+    {
+      "key": "e_1_2_8_41_1",
+      "first-page": "1",
+      "article-title": "Spectral analysis of the coda waves from local earthquakes",
+      "volume": "53",
+      "author": "Tsujiura M.",
+      "year": "1978",
+      "journal-title": "Bull. Earthquake Res. Inst. Univ. Tokyo"
+    },
+    {
+      "key": "e_1_2_8_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2001GL012859"
+    },
+    {
+      "key": "e_1_2_8_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1199375"
+    },
+    {
+      "key": "e_1_2_8_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0065‐2687(08)00010‐1"
+    }
+  ],
+  "container-title": [
+    "Journal of Geophysical Research: Planets"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2011JE004042",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2011JE004042",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        30
+      ]
+    ],
+    "date-time": "2023-10-30T07:56:17Z",
+    "timestamp": 1698652577000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011JE004042"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2012,
+        6
+      ]
+    ]
+  },
+  "references-count": 43,
+  "journal-issue": {
+    "issue": "E6",
+    "published-print": {
+      "date-parts": [
+        [
+          2012,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1029/2011JE004042"
+  ],
+  "URL": "https://doi.org/10.1029/2011je004042",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0148-0227"
+  ],
+  "issn-type": [
+    {
+      "value": "0148-0227",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2012,
+        6
+      ]
+    ]
+  },
+  "article-number": "2011JE004042"
+}

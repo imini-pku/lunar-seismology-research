@@ -1,0 +1,37 @@
+﻿choice_id,category,current_or_proposed_setting,evidence_class,source_doi_or_url,source_location,what_source_supports,project_choice_or_limit,recommendation
+C01,背景密度,rho=2308+786*(1-exp(-z/9800)) kg/m3,月球路径参考模型,10.1029/2022JE007558;10.1002/2014GL060240,Onodera2022 §2.3 Eq1–3; Besserer2014 density model,S12参考背景密度及孔隙度关系,不是四区域各自实测背景,S12主参考；其他走廊与独立背景整组对比
+C02,背景Vp,Vp0=7150; xi=7; porosity-dependent Vp,月球路径参考模型,10.1029/2022JE007558,"§2.3 Eq4, Fig3",孔隙度经验关系和参考路径到时选择xi,该关系不独立决定散射a和sigma,保持背景与随机扰动可区分；用到时检查
+C03,背景Vs,"Vp/Vs=2 to sqrt(3), transition 10–12 km",文献设定+项目选择,10.1029/2022JE007558,§2.3,破碎层2和固结层sqrt3的设定,10–12 km平滑属于本项目,记录过渡区并整组检验背景敏感性
+C04,背景竞争,Garcia M1/M2/M3 means and ±1SD,月球背景反演+公开数据,10.1007/s11214-019-0613-y;10.5281/zenodo.21476963,2026v2 Description and file manifest,完整径向均值与逐深度不确定性数据,±1SD不是短尺度RMS也不是独立联合样本,下载数值表、保持版本与单位、用完整模型作敏感性
+C05,背景竞争,VPREMOON corrected model,月球背景反演+勘误,10.1016/j.pepi.2011.06.015;10.1016/j.pepi.2012.03.009,2012 Erratum Table6 and caption,经修正的背景及部分作者固定参数身份,QP/QS不是Qsc；勿用未勘误表,核对密度单位、半径、层界和Q身份
+C06,场地层,Station-specific shallow Vs and interfaces,月球场地响应,10.1029/2022JE007396,§6.2–6.3,四台站浅层场地结构的候选解释,不直接给公里级a/sigma/H,独立场地分支且检查网格可解析性
+C07,主ACF,Exponential C(r)=exp(-r/a),月球路径模型+一般理论,10.1029/2022JE007558;10.1093/gji/ggy319,Onodera§2.4 Eq5; Sato&Emoto§2 Eq2,指数是von Karman nu=1/2特例,作为四区域主框架是迁移假设,保留主模型并对离散ACF/PSD验收
+C08,谱形竞争,Gaussian exp(-(r/aG)^2),一般理论+项目选择,10.1093/gji/ggy319,§2 Fig1 Gaussian comparator,不同ACF谱尾不同,高斯不是候选区观测支持的优选,仅在主模型稳定后作等RMS和明确等尺度对照
+C09,谱形竞争,von Karman nu=0.25/0.5/0.75,一般理论+项目选择,10.1093/gji/ggy319,§2 Eq2a–b,参数nu改变三维谱尾及ACF,三个nu点为项目设计,后移优先级；输出a和实测r_1/e
+C10,尺度定义,a for angular-wavenumber PSD,一般理论,10.1093/gji/ggy319,§2 Eq2a–b,a为谱转折尺度；指数特例a=r_1/e,任意nu下a不必等1/e距离,写明角波数与2pi、各向方向、网格截止
+C11,参考相关尺度,a=0.65 km,月球两条S12路径,10.1029/2022JE007558,§2.4; supporting TextS4 referenced by paper,三维参考模型尺度,不是四区域的独立测量,先在A14/A16 SIVB到S12复现
+C12,相关尺度网格,0.30/0.65/1.30 km; expansion0.2–2 km,项目围绕文献设计,10.1029/2022JE007558;10.1029/2020JE006406,2022§2.4;2021§2.3.1,提供参考尺度和二维两尺度启发,完整网格及上下限是项目选择,勿标注文献置信区间；新独立文献可新增竞争分支
+C13,速度扰动定义,sigma_v=actual fractional RMS,一般统计定义+月球参考,10.1093/gji/ggy319;10.1029/2022JE007558,Sato&Emoto§2;Onodera§2.4,零均值场方差及文献1sigma身份,Onodera epsilon不能未经生成器核对直接替换RMS,输出生成后上层RMS、范围、谱与分深度统计
+C14,速度扰动网格,5/10/15%; expansion2–15%,月球参考+项目设计,10.1029/2022JE007558,§2.4 Fig3,5–10%参考场的1sigma,15%、2%边界是项目扩展而非区域测值,先对原参考范围复现再扩展
+C15,深度定义,H=strong layer base; local-depth convention,项目定义,10.1029/2022JE007558;10.1016/j.pepi.2016.11.001,Onodera§3.3;Gillet diffusion interpretation,强层与输运散射深度不同,随局地地表或固定参考面会改变结构,明确H中心、归零深度和地形深度基准
+C16,深度网格,H=3.5/10/20 km,文献启发+项目组合,10.1029/2022JE007558;10.1029/2020JE006406,2022§2.3 and §3.3;2021Table3/§4,不同论文的试验与路径参考深度,并非同一三维研究的统一后验,看多距和晚时灵敏度；贴边界只报界限
+C17,R1平滑,1 km cosine taper around H,项目数值控制,10.1029/2022JE007558,Reference inspiration only; no direct value,提供强层参考思想,1 km余弦宽度未由该文约束,固定规则并以少量宽度对照测试伪界面反射
+C18,R2渐弱,sigma=0.1 exp(-z/5km); zero23–24km,项目结构假设,10.1016/j.pepi.2016.11.001,Depth-dependent transport motivation only,支持考虑随深度变化而非具体函数,5km和24km无当前直接区域数值依据,后移；固定一个深度参数避免全自由
+C19,R3分层,a0.2/0.6km; interface7.5km; sigma10/5%,二维月球参考+项目改写,10.1029/2020JE006406,§2.3.1 Table2–3,两尺度、层界和路径深度,10/5%RMS不是文献28/14%上限换算,标记新三维竞争结构而非逐参数复现
+C20,R4统计各向异性,ah=1.3km az=0.65km,项目结构假设,10.1093/gji/ggy319,ACF/PSD theory; isotropic source paper,统计参数化框架,该比例未由Apollo区域观测确定；不等于弹性各向异性,仅开一个尺度比，不同时放开方位/nu/三尺度
+C21,R5高对比,"max±50%, linear zero at20/50/80km",月球数值竞争模型,10.3847/PSJ/ad83d2,Table2 §5.1.1,节点最大幅度与深度试验,最大值不是RMS；节点尺度可能随网格变化,记录分布及离散谱；与低RMS族单列
+C22,VpVs耦合,same random field; sigmaP=sigmaS,项目降维控制,10.1093/gji/ggy319,General random-media statistical framework only,随机场定义方法,无文献证明区域VpVs扰动完全相关,先固定；部分相关分支单独检验实际相关系数
+C23,密度耦合,delta_rho/rho=0.8 delta_v/v,项目控制假设,none: project design,config reference_model.density_scale and docs09,无当前直接月球数值依据,0.8不可附相邻Onodera引用冒充其反演值,保留历史预览；新设计固定密度/0.8成对比较
+C24,内禀Qi,reference2400; search2000–6500,多研究参考+项目包络,10.1016/j.pepi.2016.11.001;10.1002/2014JE004654,Gillet attenuation model;BG2015 parameter tests,吸收影响包络及与散射的权衡,不同频率/模型数字不是统一置信区间,逐频带固定背景，Qi独立敏感性而非同时全放开
+C25,撞击源,isotropic MT vs directional force; LM separate,月球模拟+撞击物理资料,10.1029/2022JE007558;https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html,Onodera§2.5;NASA angle/momentum/time table,两种等效源和人工撞击条件,源族起点由项目选择，不等于真实机制已知,同事件所有站共享源，源持续时间/方向单独控制
+C26,源谱干扰,source cutoff and duration sensitivity,月球自然撞击证据,10.1016/j.epsl.2015.06.037,Abstract; source cutoff and momentum/porosity discussion,自然撞击谱随动量和被撞击介质变化,自然撞击数值标度不能直接套人工源,检查LM/SIVB谱差异，避免全部归于散射
+C27,地形,LOLA true amplitude plus flat counterpart,数据来源+项目控制,10.1007/s11214-009-9512-y;10.1093/gji/ggv038,Smith instrument paper;Takemura§2–4 AppendixA,月球高程来源、地形与随机介质对照方法,Takemura日本数值不得迁移为月球先验,保存DEM产品与处理；相同物理随机场配对
+C28,2km展示尺度,no narrow landform labels below2km,用户展示要求+项目解释,10.1093/gji/ggy319;10.1007/s11214-009-9512-y,Random ACF and LOLA topography measure different fields,地表h和地下eta不同,2km不是a下限也不是自动DEM低通阈值,模型分辨率由波长、网格、数据质量确定
+C29,频带,baseline0.3–0.5; extend0.5–0.9/0.9–1.5Hz,月球比较频带+项目扩展,10.3847/PSJ/ad83d2;10.1029/2022JE007558,Nunn§2;Onodera§2.6.1,已发表比较频带,不是台站永久有效通带；配置旧0.3–0.9需同步,逐分量事件时窗QC；两S12路径另做原频带复现
+C30,网格,10points/lambda_min and5points/a,项目预检查+数值方法,10.1111/j.1365-246X.2012.05472.x;10.1093/gji/ggaf504,Zhang§2–5;Bracale§1–2,数值误差与长时强散射验证必要性,10和5不是普适收敛证据,检查最小Vs、曲线网格、随机谱并收敛测试
+C31,边界,50km planning buffer; PML pending,项目几何设计+方法依据,10.1111/j.1365-246X.2012.05472.x;10.1093/gji/ggu124,Zhang2012§5;Zhang2014 theory/tests,自由表面与曲线网格吸收边界方法,50km和PML层数尚未验证充分,扩大横向/底界/PML做波形与指标收敛
+C32,随机种子,3 initial seeds20261029–31,理论动机+项目计算预算,10.1093/gji/ggaf504,§1 ensemble vs spatial average,应对随机介质实现的统计平均,3不是经文献证明的充分实现数,筛查后增加种子至排名和离散度稳定
+C33,目标函数,envelopes peak energy decay spectra component partition,文献指标+项目组合,10.1016/j.pepi.2016.11.001;10.1111/j.1365-246X.2012.05472.x,Gillet abstract/method;Zhang§5.1,峰值/尾波和包络相位分开验证,组合权重及阈值不是文献统一值,先报单项；训练噪声定尺度；保持共同分量归一化
+C34,留出与复杂度,hold out entire event; shared vs regional model,项目统计验证设计,none: project design,docs11 §7–9,避免共享源泄漏与区域过拟合的项目策略,不应伪称现有区域论文已这样证实,同源多站整组；优先其他S12事件做预测
+C35,长时窗口,debug600s; target3600s analyse3000s,项目计算目标,10.1093/gji/ggaf504;10.1029/2022JE007558,Bracale§1;Onodera§1 limited duration,强散射累计误差和已有短时模拟限制,600/3600/3000是项目设定,仅用观测和数值均合格窗；未到峰值记录右删失
+C36,88计划运行,7settings*3seeds*2paths*2terrain+4R0,项目任务编排,none: project design,config/scattering_run_manifest.csv (88 rows),本地计划清单,只覆盖A14/A16 SIVB→S12；执行数0,新增事件另编清单；先少量基准，不批量盲跑

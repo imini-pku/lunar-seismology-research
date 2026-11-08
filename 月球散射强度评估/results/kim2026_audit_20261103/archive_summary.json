@@ -1,0 +1,27 @@
+{
+  "source": "C:\\Users\\Administrator\\Downloads\\dataset.zip",
+  "size_bytes": 383502828,
+  "sha256": "8e598213b8bc2283018205578e6d01b489cfb70c8094f7bd4b329d017d1b8376",
+  "zip_crc_error": null,
+  "zip_entries": 597,
+  "waveform_pairs": 22,
+  "components": 66,
+  "project_overlap": 20,
+  "extra_pairs": [
+    [
+      "A14LM",
+      "S15"
+    ],
+    [
+      "A15SIVB",
+      "S15"
+    ]
+  ],
+  "missing_project_pairs": [
+    [
+      "A17SIVB",
+      "S16"
+    ]
+  ],
+  "identical_component_arrays": []
+}

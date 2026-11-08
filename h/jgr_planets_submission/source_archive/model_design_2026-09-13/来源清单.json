@@ -1,0 +1,30 @@
+[
+  {
+    "source": "C:\\Users\\Administrator\\Desktop\\起伏月表影响数值模拟\\rel模拟部分交流文件 (2)\\rel模拟部分交流文件\\设计说明.docx",
+    "archive": "C:\\Users\\Administrator\\Desktop\\起伏月表影响数值模拟\\投稿文件\\项目背景文件\\模型设计与参数_2026-09-13\\设计说明.docx",
+    "project_archive": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\source_archive\\model_design_2026-09-13\\设计说明.docx",
+    "sha256": "6c42b83b686896aae2b080d829b8c43dcb2224a718c0b447cde13951c9d93509",
+    "bytes": 3021766
+  },
+  {
+    "source": "C:\\Users\\Administrator\\Desktop\\起伏月表影响数值模拟\\rel模拟部分交流文件 (2)\\rel模拟部分交流文件\\cgfd3d.revise.use1.topo.0.125.sh",
+    "archive": "C:\\Users\\Administrator\\Desktop\\起伏月表影响数值模拟\\投稿文件\\项目背景文件\\模型设计与参数_2026-09-13\\cgfd3d.revise.use1.topo.0.125.sh",
+    "project_archive": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\source_archive\\model_design_2026-09-13\\cgfd3d.revise.use1.topo.0.125.sh",
+    "sha256": "65a73370f89c0d2e25078f35ab1dfb1529dbac1ce0f9f04112765e1d4b08cd30",
+    "bytes": 18306
+  },
+  {
+    "source": "C:\\Users\\Administrator\\Desktop\\起伏月表影响数值模拟\\rel模拟部分交流文件 (2)\\rel模拟部分交流文件\\cgfd3d.revise.rel3.flat.noscatter.1500.300.sh",
+    "archive": "C:\\Users\\Administrator\\Desktop\\起伏月表影响数值模拟\\投稿文件\\项目背景文件\\模型设计与参数_2026-09-13\\cgfd3d.revise.rel3.flat.noscatter.1500.300.sh",
+    "project_archive": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\source_archive\\model_design_2026-09-13\\cgfd3d.revise.rel3.flat.noscatter.1500.300.sh",
+    "sha256": "0b99534c64110ddf34565566de1e11129f5444a34bcf9435dd5934e2d4e51eb3",
+    "bytes": 25231
+  },
+  {
+    "source": "C:\\Users\\Administrator\\Desktop\\起伏月表影响数值模拟\\rel模拟部分交流文件 (2)\\rel模拟部分交流文件\\prep_medium\\gen_eliso_grid_rel3_flat_noscatter_1500_300.m",
+    "archive": "C:\\Users\\Administrator\\Desktop\\起伏月表影响数值模拟\\投稿文件\\项目背景文件\\模型设计与参数_2026-09-13\\prep_medium\\gen_eliso_grid_rel3_flat_noscatter_1500_300.m",
+    "project_archive": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\source_archive\\model_design_2026-09-13\\prep_medium\\gen_eliso_grid_rel3_flat_noscatter_1500_300.m",
+    "sha256": "3364e5a2a854921d65945bffc590143000714e023f28f171be1c90e7cfdf5320",
+    "bytes": 5080
+  }
+]

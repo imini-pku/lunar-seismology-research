@@ -1,0 +1,26 @@
+[
+  {
+    "region": "A12",
+    "elevation_min_m": -4153.6591796875,
+    "elevation_max_m": 7524.794921875,
+    "local_relief_m": 11678.4541015625
+  },
+  {
+    "region": "A14",
+    "elevation_min_m": -4112.3125,
+    "elevation_max_m": 7302.8095703125,
+    "local_relief_m": 11415.1220703125
+  },
+  {
+    "region": "A15",
+    "elevation_min_m": -4200.6513671875,
+    "elevation_max_m": 6488.7451171875,
+    "local_relief_m": 10689.396484375
+  },
+  {
+    "region": "A16",
+    "elevation_min_m": -4952.24755859375,
+    "elevation_max_m": 10755.861328125,
+    "local_relief_m": 15708.109375
+  }
+]

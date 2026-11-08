@@ -1,0 +1,107 @@
+{
+  "checked_date": "2026-10-29",
+  "doi": "10.1029/2025EA004710",
+  "title": "Methods for Cleaning Apollo Passive Seismic Data",
+  "journal": "Earth and Space Science",
+  "volume": "12",
+  "issue": "12",
+  "article_number": "e2025EA004710",
+  "publication_date": "2025-12-17",
+  "publisher_html_url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025EA004710",
+  "publisher_pdf_url": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025EA004710",
+  "publisher_pdf_web_readable": true,
+  "publisher_pdf_web_page_count": 17,
+  "pdf_binary_downloaded": false,
+  "pdf_binary_sha256": null,
+  "pdf_binary_status": "HTTP 403, Cloudflare Just a moment challenge; no circumvention attempted",
+  "local_text_file": "publisher_pdf_web_extracted.txt",
+  "text_extraction_source": "Web tool extraction from publisher PDF; complete lines 0-724 with zero-based PDF page markers, not extracted from a locally downloaded PDF",
+  "text_all_725_lines_present_in_order": true,
+  "text_sha256": "455a4ec4208679fd04e0b9bd12acf093a9dd6628d0bc0349ab2cf8dba5cf7b6a",
+  "license": {
+    "name": "Creative Commons Attribution 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence": [
+      "Crossref work license entry for version of record",
+      "Publisher PDF first page Creative Commons Attribution statement"
+    ]
+  },
+  "supporting_information": {
+    "url": "https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2025EA004710&file=2025EA004710-sup-0001-Supporting+Information+SI-S01.pdf",
+    "filename": "2025EA004710-sup-0001-Supporting Information SI-S01.pdf",
+    "publisher_reported_size": "5.9 MB",
+    "binary_downloaded": false,
+    "web_readable": false,
+    "status": "HTTP 403 for both public download and web tool; content and page count not verified",
+    "sha256": null,
+    "license_verified": false
+  },
+  "legal_alternative_checks": [
+    {
+      "url": "https://www.ipgp.fr/~samuel/publications.html",
+      "status": "Read successfully; lists article citation but no PDF link in its entry"
+    },
+    {
+      "url": "https://api.archives-ouvertes.fr/search/?q=doiId_s:%2210.1029/2025EA004710%22&fl=title_s,uri_s,fileMain_s,docid,halId_s&wt=json",
+      "status": "No records found by exact DOI"
+    },
+    {
+      "url": "https://okayama.elsevierpure.com/en/publications/methods-for-cleaning-apollo-passive-seismic-data/",
+      "status": "Institutional record verified; only DOI access link, no downloadable PDF listed"
+    }
+  ],
+  "figure_page_locations": [
+    {
+      "figure": 2,
+      "printed_page": 4,
+      "web_screenshot_pageno": 3
+    },
+    {
+      "figure": 7,
+      "printed_page": 10,
+      "web_screenshot_pageno": 9
+    },
+    {
+      "figure": 8,
+      "printed_page": 12,
+      "web_screenshot_pageno": 11
+    },
+    {
+      "figure": 9,
+      "printed_page": 13,
+      "web_screenshot_pageno": 12
+    },
+    {
+      "figure": 10,
+      "printed_page": 14,
+      "web_screenshot_pageno": 13
+    }
+  ],
+  "saved_files": [
+    {
+      "filename": "author_publications.html",
+      "bytes": 74813,
+      "sha256": "05733395ede66dfc14a457901ff0abc6ca1cfba720eaf8c9414e1ba4616dda3e"
+    },
+    {
+      "filename": "crossref_metadata.json",
+      "bytes": 14414,
+      "sha256": "78575f2ccc4abe689d179edc5825cf0030881fcae3b3f067169eb4a35988d073"
+    },
+    {
+      "filename": "download_attempts.json",
+      "bytes": 1368,
+      "sha256": "280db1274f0a263738aee365339bcdccdbca45fa0ac3a38be578e1f82b474731"
+    },
+    {
+      "filename": "hal_metadata.json",
+      "bytes": 116,
+      "sha256": "316b596864c92e18c8f6688107ad49ecfc3fe632ebdc85efe82c65ed28ba8064"
+    },
+    {
+      "filename": "publisher_pdf_web_extracted.txt",
+      "bytes": 76150,
+      "sha256": "455a4ec4208679fd04e0b9bd12acf093a9dd6628d0bc0349ab2cf8dba5cf7b6a"
+    }
+  ]
+}

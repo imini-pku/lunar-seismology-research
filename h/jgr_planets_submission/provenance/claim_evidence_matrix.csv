@@ -1,0 +1,11 @@
+claim_id,manuscript_claim,evidence_file,evidence_columns,status,limitation
+C01,M3/M1 peak amplitude factor 0.293,data/derived/station_level_metrics.csv,scatter_flat__log_peak_amplitude,verified,575 trimmed profile receivers
+C02,M3/M1 total energy factor 0.259,data/derived/station_level_metrics.csv,scatter_flat__log_total_energy,verified,finite 250 s record
+C03,M3/M1 T90 factor 18.170,data/derived/station_level_metrics.csv,scatter_flat__log_duration_90_s,verified,large factor partly reflects short M1 duration
+C04,M2/M1 T90 factor 5.309,data/derived/station_level_metrics.csv,topography_no_scatter__log_duration_90_s,verified,added energy is often low amplitude
+C05,Path relief correlations on profiles 2 and 3,data/derived/strongest_path_relationships.csv,rho and ray-specific rho,verified,does not generalize to profile 1
+C06,Z/R/T energy fractions,data/derived/three_component_factorial_summary.csv,component_fraction,verified,component partition is not intrinsic attenuation
+C07,All 12 distance fits prefer linear form,data/derived/figure5b_peak_time_fit_summary.csv,RMSE AIC preferred_form,verified,tests only 250 s peak propagation
+C08,Apollo peak and cumulative-energy mismatch,data/derived/A16S12_observed_model_comparison_metrics.csv,peak_energy_time and energy_t95,verified,single impact-station pair
+C09,Exact random-medium strength and scale,production run manifest,not available,not claimed,must be resolved before repository deposit
+C10,Topography explains Apollo long coda,observation-model comparison,not applicable,rejected,current simulations are insufficient

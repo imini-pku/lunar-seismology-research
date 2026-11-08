@@ -1,0 +1,4 @@
+﻿ray,station_count,median_endpoint_elevation_km,median_path_mean_elevation_km,median_path_mean_absolute_slope,median_path_relief_range_km
+1,203,-2.490578,-2.457364,0.007907,0.333141
+2,230,-2.530074,-2.460654,0.025577,0.845387
+3,142,-1.824524,-2.057327,0.073534,1.295859

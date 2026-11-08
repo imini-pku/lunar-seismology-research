@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-29",
+  "radius_km": 1737.4,
+  "station_reference": "ALSEP, ME/PA DE421",
+  "impact_reference": "NASA table; SIVB LRO Wagner 2017, LM legacy locations; mixed precision retained",
+  "source_urls": [
+    "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html"
+  ],
+  "time_reference": "NASA Earth-received; do not silently subtract 1.3 seconds from legacy SAC",
+  "map_projection": "geographic longitude/latitude; local aspect corrections; distances spherical, not ruler measurements",
+  "geographic_buffer_km": 50,
+  "sphere_effect": "chord sag is a geometry diagnostic, not a correction to data",
+  "differences_to_old_catalog": [
+    "A16SIVB absent in Nakamura1983 AI coordinate CSV",
+    "A14LM old CSV time 00:45:26.7 versus NASA 00:45:25.7; retain both in audit",
+    "SIVB coordinates updated by LRO; old SAC source coordinates retained in raw files",
+    "A15 ALSEP longitude is positive 3.62991 E"
+  ],
+  "pairs": 21,
+  "events": 9,
+  "clear_pairs_literature": 16
+}
