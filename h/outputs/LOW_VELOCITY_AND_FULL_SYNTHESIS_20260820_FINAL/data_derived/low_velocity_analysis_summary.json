@@ -38,7 +38,7 @@
     {
       "model": "M1",
       "model_label": "Flat / no heterogeneity",
-      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\data\\raw\\M1_flat_no_heterogeneity_station.nc",
+      "path": "h/jgr_planets_submission/data/raw/M1_flat_no_heterogeneity_station.nc",
       "size_bytes": 95829014,
       "sha256": "D0714E05DCEAAA7A4357D63EA5236D96C37566A6656915147959DAE748C83D78",
       "time_start_s": 0.0,
@@ -55,7 +55,7 @@
     {
       "model": "M2",
       "model_label": "Flat / heterogeneity",
-      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\data\\raw\\M2_flat_heterogeneity_station.nc",
+      "path": "h/jgr_planets_submission/data/raw/M2_flat_heterogeneity_station.nc",
       "size_bytes": 95829014,
       "sha256": "55E738A98A2651191D80219031E5FE6BD5E6FC355B159B7F7B86E69575CBAA7A",
       "time_start_s": 0.0,
@@ -72,7 +72,7 @@
     {
       "model": "M3",
       "model_label": "Topography / no heterogeneity",
-      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\data\\raw\\M3_topography_no_heterogeneity_station.nc",
+      "path": "h/jgr_planets_submission/data/raw/M3_topography_no_heterogeneity_station.nc",
       "size_bytes": 121360498,
       "sha256": "485DEB23798450B90315FB4EBE83340E2004EFCF9113504E435B56BADFD18AD8",
       "time_start_s": 0.0,
@@ -89,7 +89,7 @@
     {
       "model": "M4",
       "model_label": "Topography / heterogeneity",
-      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\data\\raw\\M4_topography_heterogeneity_station.nc",
+      "path": "h/jgr_planets_submission/data/raw/M4_topography_heterogeneity_station.nc",
       "size_bytes": 121360498,
       "sha256": "270E1D5D64D926C4EB8A98AD2E6DAFEFEE10D745FE148F7B7C10CCB73B3D8C16",
       "time_start_s": 0.0,
@@ -106,7 +106,7 @@
     {
       "model": "M5",
       "model_label": "Flat / heterogeneity / low-V",
-      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\data\\raw\\M5_flat_heterogeneity_low_velocity_station.nc",
+      "path": "h/jgr_planets_submission/data/raw/M5_flat_heterogeneity_low_velocity_station.nc",
       "size_bytes": 153273034,
       "sha256": "E2E49715DC7D92AB2034A5302AB730D89E659F31211033705A637CD3FF451D31",
       "time_start_s": 0.0,
@@ -123,7 +123,7 @@
     {
       "model": "M6",
       "model_label": "Topography / heterogeneity / low-V",
-      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\data\\raw\\M6_topography_heterogeneity_low_velocity_station.nc",
+      "path": "h/jgr_planets_submission/data/raw/M6_topography_heterogeneity_low_velocity_station.nc",
       "size_bytes": 194120498,
       "sha256": "DC1F95129B0A93DC49EB7D3D3B1A62D22471DA248979CBCC6531BE3772E76E76",
       "time_start_s": 0.0,
@@ -4516,7 +4516,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV01_input_audit.png",
       "takeaway": "All six files contain the same r1-r606 sequence and finite Vx/Vy/Vz samples; M5-M6 extend to 400 s, so 50-245 s and 50-395 s have different inferential roles.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV01_input_audit.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV01_input_audit.png"
     },
     {
       "conclusion_id": "LV02",
@@ -4524,7 +4524,7 @@
       "evidence_class": "exclusion",
       "figure_file": "Figure_LV02_identifiable_design.png",
       "takeaway": "M2/M4/M5/M6 identify four conditional contrasts; missing low-velocity/no-heterogeneity cells and unverified random seeds prevent a complete three-factor interaction.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV02_identifiable_design.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV02_identifiable_design.png"
     },
     {
       "conclusion_id": "LV03",
@@ -4532,7 +4532,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV03_s12_common_waveforms.png",
       "takeaway": "Shared-scale S12 traces show that the change is not a scalar amplitude correction.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV03_s12_common_waveforms.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV03_s12_common_waveforms.png"
     },
     {
       "conclusion_id": "LV04",
@@ -4540,7 +4540,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV04_s12_extended_energy.png",
       "takeaway": "The low-velocity S12 records continue accumulating energy through the extended window; M5 and M6 t95 are 368.2 and 381.9 s.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV04_s12_extended_energy.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV04_s12_extended_energy.png"
     },
     {
       "conclusion_id": "LV05",
@@ -4548,7 +4548,7 @@
       "evidence_class": "conditional",
       "figure_file": "Figure_LV05_low_effect_distributions.png",
       "takeaway": "Spatial-block median energy factors are 19.72 (flat) and 12.04 (topography), while T90 factors are 1.50 and 1.41; absolute amplitude/energy attribution assumes unchanged source and run settings.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV05_low_effect_distributions.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV05_low_effect_distributions.png"
     },
     {
       "conclusion_id": "LV06",
@@ -4556,7 +4556,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV06_low_effect_by_ray.png",
       "takeaway": "Ray-specific medians differ substantially; a single global multiplier would hide propagation-direction dependence.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV06_low_effect_by_ray.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV06_low_effect_by_ray.png"
     },
     {
       "conclusion_id": "LV07",
@@ -4564,7 +4564,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV07_component_fractions.png",
       "takeaway": "The new models reduce median Z fraction and increase horizontal/transverse fractions relative to their M2/M4 baselines.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV07_component_fractions.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV07_component_fractions.png"
     },
     {
       "conclusion_id": "LV08",
@@ -4572,7 +4572,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV08_transverse_conversion.png",
       "takeaway": "T-fraction changes differ between flat and topographic backgrounds and cannot be represented by a universal conversion factor.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV08_transverse_conversion.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV08_transverse_conversion.png"
     },
     {
       "conclusion_id": "LV09",
@@ -4580,7 +4580,7 @@
       "evidence_class": "conditional",
       "figure_file": "Figure_LV09_conditional_factorial_cells.png",
       "takeaway": "The spatial-block median topographic energy factor changes from 1.78 without low velocity to 0.99 with low velocity; causal attribution remains conditional on unverified run equivalence.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV09_conditional_factorial_cells.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV09_conditional_factorial_cells.png"
     },
     {
       "conclusion_id": "LV10",
@@ -4588,7 +4588,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV10_interaction_distributions.png",
       "takeaway": "Interactions are supported for selected amplitude, energy, timing, late-energy and T-fraction metrics, while T90, tmax, t95, Z and R intervals include zero; the effect is not uniformly nonadditive.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV10_interaction_distributions.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV10_interaction_distributions.png"
     },
     {
       "conclusion_id": "LV11",
@@ -4596,7 +4596,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV11_topography_signature_persistence.png",
       "takeaway": "Distance-controlled block correlation for total-energy topographic effects is rho=0.53 (q=0.00011), whereas T90 is not significant (q=0.095).",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV11_topography_signature_persistence.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV11_topography_signature_persistence.png"
     },
     {
       "conclusion_id": "LV12",
@@ -4604,7 +4604,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV12_path_relief_low_velocity.png",
       "takeaway": "The report tests the relationship directly rather than importing the no-low-velocity result.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV12_path_relief_low_velocity.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV12_path_relief_low_velocity.png"
     },
     {
       "conclusion_id": "LV13",
@@ -4612,7 +4612,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV13_low_velocity_tmax_distance.png",
       "takeaway": "Spatial-block median common-window tmax shifts are 111.7 s and 101.0 s; boundary-affected stations are explicitly marked and excluded in sensitivity slopes.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV13_low_velocity_tmax_distance.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV13_low_velocity_tmax_distance.png"
     },
     {
       "conclusion_id": "LV14",
@@ -4620,7 +4620,7 @@
       "evidence_class": "exclusion",
       "figure_file": "Figure_LV14_linear_vs_diffusion.png",
       "takeaway": "All ray-model fits prefer the linear form in the full and censor-safe samples; minimum Delta AIC favoring linear is 51.9 and 12.8, respectively. These are descriptive 400 s-window tests.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV14_linear_vs_diffusion.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV14_linear_vs_diffusion.png"
     },
     {
       "conclusion_id": "LV15",
@@ -4628,7 +4628,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV15_waveform_envelope_similarity.png",
       "takeaway": "Zero-lag three-component correlation and lag-tolerant energy-envelope correlation measure different properties and are reported together.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV15_waveform_envelope_similarity.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV15_waveform_envelope_similarity.png"
     },
     {
       "conclusion_id": "LV16",
@@ -4636,7 +4636,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV16_representative_station_atlas.png",
       "takeaway": "Representative stations are selected by effect quantiles and matched distance, not by visual preference.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV16_representative_station_atlas.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV16_representative_station_atlas.png"
     },
     {
       "conclusion_id": "LV17",
@@ -4644,7 +4644,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV17_observed_six_model_envelopes.png",
       "takeaway": "M5/M6 peak-energy times (213.2/272.5 s) are later than M1-M4 but remain far earlier than the observed 658.3 s.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV17_observed_six_model_envelopes.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV17_observed_six_model_envelopes.png"
     },
     {
       "conclusion_id": "LV18",
@@ -4652,7 +4652,7 @@
       "evidence_class": "exclusion",
       "figure_file": "Figure_LV18_observed_metric_comparison.png",
       "takeaway": "M5/M6 early 3C waveform correlations are -0.058/0.080; observed t95 is 2804.6 s.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV18_observed_metric_comparison.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV18_observed_metric_comparison.png"
     },
     {
       "conclusion_id": "LV19",
@@ -4660,7 +4660,7 @@
       "evidence_class": "exclusion",
       "figure_file": "Figure_LV19_time_frequency.png",
       "takeaway": "Low-velocity synthetics prolong band-limited energy to 400 s, whereas observed energy remains strong over much longer times.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV19_time_frequency.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV19_time_frequency.png"
     },
     {
       "conclusion_id": "LV20",
@@ -4668,7 +4668,7 @@
       "evidence_class": "uncertain",
       "figure_file": "Figure_LV20_tail_censoring.png",
       "takeaway": "Primary stations with t95 in the final 20 s: M5=118, M6=132.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV20_tail_censoring.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV20_tail_censoring.png"
     },
     {
       "conclusion_id": "LV21",
@@ -4676,7 +4676,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV21_low_velocity_delay_distance.png",
       "takeaway": "The delay grows, saturates or declines over different distance intervals and rays, ruling out one constant static correction.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV21_low_velocity_delay_distance.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV21_low_velocity_delay_distance.png"
     },
     {
       "conclusion_id": "LV22",
@@ -4684,7 +4684,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV22_effect_forest.png",
       "takeaway": "Bootstrap intervals use 57 nonoverlapping 10-station spatial blocks rather than treating 575 neighboring stations as independent.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV22_effect_forest.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV22_effect_forest.png"
     },
     {
       "conclusion_id": "LV23",
@@ -4692,7 +4692,7 @@
       "evidence_class": "positive",
       "figure_file": "Figure_LV23_transverse_fraction_profiles.png",
       "takeaway": "M5/M6 T-fraction profiles show that conversion is spatially structured rather than a single model-wide percentage.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV23_transverse_fraction_profiles.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV23_transverse_fraction_profiles.png"
     },
     {
       "conclusion_id": "LV24",
@@ -4700,7 +4700,7 @@
       "evidence_class": "exclusion",
       "figure_file": "Figure_LV24_common_vs_extended.png",
       "takeaway": "Cross-model effects use 50-245 s; extended tmax/t95/T90 values are reported separately and flagged near the 395 s boundary.",
-      "figure_path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-21\\h\\jgr_planets_submission\\figures\\low_velocity\\Figure_LV24_common_vs_extended.png"
+      "figure_path": "h/jgr_planets_submission/figures/low_velocity/Figure_LV24_common_vs_extended.png"
     }
   ],
   "representative_stations": {

@@ -12,6 +12,21 @@
       "sha256": "3be169a1102e03bdad3edad07f89237257864f99ee3520cb725cf31e265ad6a9"
     },
     {
+      "path": "NOTICE.md",
+      "bytes": 1493,
+      "sha256": "6477204f57b7e37f8d7d1706351fc329f830ef4f9bed2fea4e7bb8ad3b4c0161"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4728,
+      "sha256": "080fdd12e1500d9567e88d5c0e7eb38faebb2581ccc6140d95026147128bef1f"
+    },
+    {
+      "path": "h/LITERATURE_OUTPUTS_INDEX.md",
+      "bytes": 7470,
+      "sha256": "ec9c64fb2464cb9d08ef91f1629b9a1b2749cfc570a319676315e6402b68cf97"
+    },
+    {
       "path": "h/add_absolute_energy_panels.py",
       "bytes": 11341,
       "sha256": "3493817f489da5efa5f6f3a7fa5cf2f10e8778f0984f5c37f03686a5f3dfdc6f"
@@ -20,6 +35,21 @@
       "path": "h/build_annual_summary.js",
       "bytes": 11095,
       "sha256": "45c4cd3ebca2f7becd4af52f6366c7d7c994b48898a26fed3e2169cbd8563017"
+    },
+    {
+      "path": "h/jgr_planets_submission/FIGURE_SELECTION_CATALOG.md",
+      "bytes": 14781,
+      "sha256": "9d62835e42f571014261eb3700631f516d887ac3b1199a3e1013b4f637ec1689"
+    },
+    {
+      "path": "h/jgr_planets_submission/README.md",
+      "bytes": 6785,
+      "sha256": "4dbd9e9ee4304b74edd1bfd78b803d2adfd288d141cf48334ab014ee85aab1fd"
+    },
+    {
+      "path": "h/jgr_planets_submission/TERRAIN_RESTORATION_2026-09-09.md",
+      "bytes": 1355,
+      "sha256": "9031d7946f4574a8af5ea9588b9cb342e4ef0ef915a196def6ad9a317ae939e6"
     },
     {
       "path": "h/jgr_planets_submission/code/analyze_halfspace_models.py",
@@ -133,8 +163,8 @@
     },
     {
       "path": "h/jgr_planets_submission/code/verified_legacy/audit_lunar_five_paper_synthesis_docx.py",
-      "bytes": 4874,
-      "sha256": "9149b9a7c4ccbc7b098a5e169b63150e79aba7ee6c8ab056c66aeea82a4a8b79"
+      "bytes": 4895,
+      "sha256": "9a0e90556c6c4737c952204facaf7c4c9150f4ee4dc32c8a1e2fe8ba103abdf7"
     },
     {
       "path": "h/jgr_planets_submission/code/verified_legacy/build_complete_rel3_report.py",
@@ -143,8 +173,8 @@
     },
     {
       "path": "h/jgr_planets_submission/code/verified_legacy/build_lunar_five_paper_synthesis_docx.py",
-      "bytes": 66434,
-      "sha256": "340c2a86dee7072e9303e303862fdf35ef7a9c7ba41e52f930aa7e4d72f6ee95"
+      "bytes": 66455,
+      "sha256": "6f537ab4afb6ece26f82e7dddd8d7df1565e2fbaf742b019c09c6ba1feb3d211"
     },
     {
       "path": "h/jgr_planets_submission/code/verified_legacy/generate_conclusion_evidence_atlas.py",
@@ -367,16 +397,6 @@
       "sha256": "918a5cda966c4016dea1f7f6933a41e60f40b6929a6b849797545e2114cd28bd"
     },
     {
-      "path": "h/jgr_planets_submission/data/derived/A16_M1_M6_unified_summary.csv",
-      "bytes": 733,
-      "sha256": "726e29c5dd074e0c7ab3517fb70d0fe0ad86c68ca6eddb9fd70f5677b49af50e"
-    },
-    {
-      "path": "h/jgr_planets_submission/data/derived/A16_M5_M6_rise_time_diagnostic_summary.csv",
-      "bytes": 2652,
-      "sha256": "ccd314419e785047832086952d3d80eed79a53afe695c5a022c2af8e2e8c9e52"
-    },
-    {
       "path": "h/jgr_planets_submission/data/derived/A16S12_observed_model_comparison_metrics.csv",
       "bytes": 2508,
       "sha256": "495f48168ccdd3f78c1994cc6884381087392124ad00dbb204cfb263932cf459"
@@ -390,6 +410,16 @@
       "path": "h/jgr_planets_submission/data/derived/A16S12_s12_time_frequency_metrics.csv",
       "bytes": 2580,
       "sha256": "a76982ed19a7735553718430f2f4f743494dbb3c08144903bd897a757f915199"
+    },
+    {
+      "path": "h/jgr_planets_submission/data/derived/A16_M1_M6_unified_summary.csv",
+      "bytes": 733,
+      "sha256": "726e29c5dd074e0c7ab3517fb70d0fe0ad86c68ca6eddb9fd70f5677b49af50e"
+    },
+    {
+      "path": "h/jgr_planets_submission/data/derived/A16_M5_M6_rise_time_diagnostic_summary.csv",
+      "bytes": 2652,
+      "sha256": "ccd314419e785047832086952d3d80eed79a53afe695c5a022c2af8e2e8c9e52"
     },
     {
       "path": "h/jgr_planets_submission/data/derived/depression_crossing_analysis_summary.json",
@@ -573,13 +603,13 @@
     },
     {
       "path": "h/jgr_planets_submission/data/derived/low_velocity_analysis_summary.json",
-      "bytes": 153756,
-      "sha256": "ca13d258794b6d0103b826d744d9c9f10100bfa6b7aaa402b829780f1fa23c77"
+      "bytes": 151956,
+      "sha256": "995b2abed78c9a61e3c093d2f43ab3136dc4f542c7bcb5cc5e5f53b801eef325"
     },
     {
       "path": "h/jgr_planets_submission/data/derived/low_velocity_conclusion_evidence_index.csv",
-      "bytes": 9465,
-      "sha256": "03883482c6960a405b59a2e9c203d1f4bde0b0ffb93ae9b52487388136670dc7"
+      "bytes": 8265,
+      "sha256": "4e7db0fd7a942638f90ff9e98bcdcccea081824993f2c166c86ab6b21c4b39af"
     },
     {
       "path": "h/jgr_planets_submission/data/derived/low_velocity_effect_station_metrics.csv",
@@ -740,11 +770,6 @@
       "path": "h/jgr_planets_submission/data/raw/rel3_Z_300_1500_topo.txt",
       "bytes": 17909093,
       "sha256": "b440e5c59bf27e925d398bba65f0ba2cae9be349caa517b4086b3622d37fcf9c"
-    },
-    {
-      "path": "h/jgr_planets_submission/FIGURE_SELECTION_CATALOG.md",
-      "bytes": 14781,
-      "sha256": "9d62835e42f571014261eb3700631f516d887ac3b1199a3e1013b4f637ec1689"
     },
     {
       "path": "h/jgr_planets_submission/figures/halfspace/Figure_HS00_true_800_geometry.png",
@@ -1082,11 +1107,6 @@
       "sha256": "fb63701b5a36fe9e7956354de1262e5831c2f080735f989998ddc9b462654cd3"
     },
     {
-      "path": "h/jgr_planets_submission/manuscript/manuscript.md",
-      "bytes": 36768,
-      "sha256": "11f6bd1ec144589ce3ac7028fedf276e6264a21e83137ccd9cd142123e010165"
-    },
-    {
       "path": "h/jgr_planets_submission/manuscript/Wu_et_al_JGR_Planets_bilingual_revised_manuscript.docx",
       "bytes": 6581786,
       "sha256": "907b2bcf89c4dbba031a32081b4fa06a0fb9d82af081258cd8797b984c49db0a"
@@ -1102,14 +1122,44 @@
       "sha256": "3295b16af7ba6534976cdc8b60a856b236bc09d20dbc43d23daee2ff1dc879b5"
     },
     {
+      "path": "h/jgr_planets_submission/manuscript/manuscript.md",
+      "bytes": 36768,
+      "sha256": "11f6bd1ec144589ce3ac7028fedf276e6264a21e83137ccd9cd142123e010165"
+    },
+    {
+      "path": "h/jgr_planets_submission/provenance/HALFSPACE_DATA_AUDIT.md",
+      "bytes": 4424,
+      "sha256": "3cbe95a3d29239b9ca923b3970e0a7767002e6f7aa0414fdb229957e6b4a7227"
+    },
+    {
+      "path": "h/jgr_planets_submission/provenance/LOW_VELOCITY_DATA_AUDIT.md",
+      "bytes": 1974,
+      "sha256": "899b8146b75cab7038b3c2ba5dbd937f8d15843effc1530af8b5c1643eea1b99"
+    },
+    {
+      "path": "h/jgr_planets_submission/provenance/MODEL_BACKGROUND_2026-09-13.md",
+      "bytes": 4432,
+      "sha256": "6b911491b85ca42bf9823785ac0f86b39af9803279d69b161c85add55d6aea7b"
+    },
+    {
+      "path": "h/jgr_planets_submission/provenance/PROJECT_REVIEW.md",
+      "bytes": 3902,
+      "sha256": "4e539976038662b7048016442379288d9ed3763ab4558d778d8baecc5b448340"
+    },
+    {
+      "path": "h/jgr_planets_submission/provenance/TERRAIN_DATA_AUDIT.md",
+      "bytes": 2613,
+      "sha256": "02093b6dca1ad5092a46cd37278c64d1499ef7e5d902de7a53cdf803a9507031"
+    },
+    {
       "path": "h/jgr_planets_submission/provenance/a11y_manuscript.json",
-      "bytes": 239,
-      "sha256": "f944aaa2ef402b6507355edbd861e36f60e8a4beba99edc94ad18a5a40728be9"
+      "bytes": 180,
+      "sha256": "8055322850c7e83958c76998a80890a8a1a72e819a91bfa932c31f705b450446"
     },
     {
       "path": "h/jgr_planets_submission/provenance/a11y_supporting_information.json",
-      "bytes": 263,
-      "sha256": "88e5494d8d41fd65746597e55e7230f5f6518f7f3340d3fd1ee86e475db045c9"
+      "bytes": 204,
+      "sha256": "ddccea1e566cb5b3f23084ac564fa0f8575a92b16bca038d9c4a503a1b107b3d"
     },
     {
       "path": "h/jgr_planets_submission/provenance/cgfd3d.revise.rel3.flat.noscatter.1500.300.sh",
@@ -1142,11 +1192,6 @@
       "sha256": "b5c412b1f5c9f450b2655f083556a754dc4cd4a09ae030f83dabe5b6a005cdda"
     },
     {
-      "path": "h/jgr_planets_submission/provenance/HALFSPACE_DATA_AUDIT.md",
-      "bytes": 4424,
-      "sha256": "3cbe95a3d29239b9ca923b3970e0a7767002e6f7aa0414fdb229957e6b4a7227"
-    },
-    {
       "path": "h/jgr_planets_submission/provenance/halfspace_input_audit.csv",
       "bytes": 9080,
       "sha256": "b92eb44d72e533f7ecfb05ec82de7cad49ae290ec36487a3cfd85dc239eb1dce"
@@ -1162,19 +1207,9 @@
       "sha256": "bc4159f3f428790dd1716542985b2076b5feaa46389c0f6040c89137c3204d13"
     },
     {
-      "path": "h/jgr_planets_submission/provenance/LOW_VELOCITY_DATA_AUDIT.md",
-      "bytes": 1974,
-      "sha256": "899b8146b75cab7038b3c2ba5dbd937f8d15843effc1530af8b5c1643eea1b99"
-    },
-    {
       "path": "h/jgr_planets_submission/provenance/low_velocity_input_audit.csv",
-      "bytes": 2269,
-      "sha256": "227d94b4a4f1c6c5723c55b142166017339d6534924c1b2810d17205765a4240"
-    },
-    {
-      "path": "h/jgr_planets_submission/provenance/MODEL_BACKGROUND_2026-09-13.md",
-      "bytes": 4432,
-      "sha256": "6b911491b85ca42bf9823785ac0f86b39af9803279d69b161c85add55d6aea7b"
+      "bytes": 1969,
+      "sha256": "c14ece6f7d916b291f940344b8842c386353a5c119e7f3abdf5650b682499310"
     },
     {
       "path": "h/jgr_planets_submission/provenance/post_scrub_render_comparison.json",
@@ -1185,21 +1220,6 @@
       "path": "h/jgr_planets_submission/provenance/preflight_report.txt",
       "bytes": 256,
       "sha256": "c3644e5eccdc6fad1c2e497549a67fd6ca621c188bef2884cfb9b6aed2d34ff3"
-    },
-    {
-      "path": "h/jgr_planets_submission/provenance/PROJECT_REVIEW.md",
-      "bytes": 3902,
-      "sha256": "4e539976038662b7048016442379288d9ed3763ab4558d778d8baecc5b448340"
-    },
-    {
-      "path": "h/jgr_planets_submission/provenance/TERRAIN_DATA_AUDIT.md",
-      "bytes": 2613,
-      "sha256": "02093b6dca1ad5092a46cd37278c64d1499ef7e5d902de7a53cdf803a9507031"
-    },
-    {
-      "path": "h/jgr_planets_submission/README.md",
-      "bytes": 6785,
-      "sha256": "4dbd9e9ee4304b74edd1bfd78b803d2adfd288d141cf48334ab014ee85aab1fd"
     },
     {
       "path": "h/jgr_planets_submission/references/rise_time_diffusion_figures.md",
@@ -1288,8 +1308,8 @@
     },
     {
       "path": "h/jgr_planets_submission/source_archive/model_design_2026-09-13/来源清单.json",
-      "bytes": 2736,
-      "sha256": "16d6404cf0297ed6d6ca28eb89dc0725e71512235d541dc27b6cf4d69c8b4855"
+      "bytes": 2495,
+      "sha256": "e6c320a7243807491ac705260fd327c4ee3e22ac1ad25ab5782c501e49281083"
     },
     {
       "path": "h/jgr_planets_submission/source_archive/model_design_2026-09-13/设计说明_提取文字.txt",
@@ -1312,11 +1332,6 @@
       "sha256": "7ca33218d69c773cf085ea04e66ba7a2787b3fc891442fb8ea30624d9519cdfe"
     },
     {
-      "path": "h/jgr_planets_submission/supporting_information/supporting_information.md",
-      "bytes": 5035,
-      "sha256": "687351427ba3b37098adec633660eae6577db9683a18d662fb7a96a92e0e6f0f"
-    },
-    {
       "path": "h/jgr_planets_submission/supporting_information/Wu_et_al_JGR_Planets_supporting_information.docx",
       "bytes": 460675,
       "sha256": "d15d062e91e2a62c58ff001e2e406f4fb59f620372fa992dc0fb9ab68473d868"
@@ -1327,19 +1342,14 @@
       "sha256": "6972eff6171649a1f6e53aed869fcc9aabba7046491ae47cf90e483adc013e97"
     },
     {
-      "path": "h/jgr_planets_submission/TERRAIN_RESTORATION_2026-09-09.md",
-      "bytes": 1355,
-      "sha256": "9031d7946f4574a8af5ea9588b9cb342e4ef0ef915a196def6ad9a317ae939e6"
+      "path": "h/jgr_planets_submission/supporting_information/supporting_information.md",
+      "bytes": 5035,
+      "sha256": "687351427ba3b37098adec633660eae6577db9683a18d662fb7a96a92e0e6f0f"
     },
     {
       "path": "h/jgr_planets_submission/最终交付说明.md",
       "bytes": 1800,
       "sha256": "6ed391427072437cb5b5d494ce5ae02b451097171b27a97a7a1bffd63a393a46"
-    },
-    {
-      "path": "h/LITERATURE_OUTPUTS_INDEX.md",
-      "bytes": 7470,
-      "sha256": "ec9c64fb2464cb9d08ef91f1629b9a1b2749cfc570a319676315e6402b68cf97"
     },
     {
       "path": "h/manuscript_build.py",
@@ -1362,59 +1372,9 @@
       "sha256": "b7105c4321ffa94a8cdb9bb56f38cbd152ff2c954beb40aeb9944842f3f8d65c"
     },
     {
-      "path": "h/outputs/analyze_releasy_literature_guided.py",
-      "bytes": 55985,
-      "sha256": "650864bee27b24b368525d5ea366dcb76555e6b8bf6e83b0e4bb75c51a28cc7e"
-    },
-    {
-      "path": "h/outputs/analyze_releasy_relationships.py",
-      "bytes": 39922,
-      "sha256": "3b63ba6850d93a9f30a66836b8d076840279fed813967bbc6a24d86efee5615b"
-    },
-    {
-      "path": "h/outputs/analyze_three_component_psvsh.py",
-      "bytes": 83383,
-      "sha256": "a29d424bde9ba9209f83c77d2e8f06a75bae906ddca75f807cf425cf028ba526"
-    },
-    {
-      "path": "h/outputs/audit_lunar_five_paper_synthesis_docx.py",
-      "bytes": 4874,
-      "sha256": "9149b9a7c4ccbc7b098a5e169b63150e79aba7ee6c8ab056c66aeea82a4a8b79"
-    },
-    {
-      "path": "h/outputs/build_complete_rel3_report.py",
-      "bytes": 79253,
-      "sha256": "1925a63fbc339b5ed43a23b3f21b08ae845c65f387c97b1ff0b2eb10e53dd352"
-    },
-    {
-      "path": "h/outputs/build_lunar_five_paper_synthesis_docx.py",
-      "bytes": 66434,
-      "sha256": "340c2a86dee7072e9303e303862fdf35ef7a9c7ba41e52f930aa7e4d72f6ee95"
-    },
-    {
-      "path": "h/outputs/conclusion_evidence/conclusion_evidence_guide_zh.md",
-      "bytes": 11533,
-      "sha256": "ae523ab17c7e3a0b771c5561256f9bba6b18a939fc67e742c142e30b73f77da8"
-    },
-    {
-      "path": "h/outputs/conclusion_evidence/conclusion_evidence_index.csv",
-      "bytes": 10436,
-      "sha256": "dab14de37319d2ecf00f8ff2c8070bf3a6275b559fee1eb1506262e56bfb7364"
-    },
-    {
-      "path": "h/outputs/generate_conclusion_evidence_atlas.py",
-      "bytes": 166,
-      "sha256": "0d214f5a1bb70d712aaf6caecf4d76f8841ca66c3ecd4df0694601a50557fc42"
-    },
-    {
-      "path": "h/outputs/generate_conclusion_waveform_atlas.py",
-      "bytes": 72586,
-      "sha256": "e5bbf16e9868e51861c4dcfc465425b7c97473e535b29cb8acda2cef5dfe5ab2"
-    },
-    {
-      "path": "h/outputs/generate_path_based_ray_analysis.py",
-      "bytes": 17948,
-      "sha256": "ad9dfc67f945d743ae6ddb8dfba4eb5090ecf10effcc32608532161383479601"
+      "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/README.md",
+      "bytes": 3430,
+      "sha256": "71b2cf173be68f8f0d09a97e8b99a5ab146fac206bbada1327f963b80f8ad16c"
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/code/analyze_halfspace_models.py",
@@ -1498,8 +1458,8 @@
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/code/verified_legacy/audit_lunar_five_paper_synthesis_docx.py",
-      "bytes": 4874,
-      "sha256": "9149b9a7c4ccbc7b098a5e169b63150e79aba7ee6c8ab056c66aeea82a4a8b79"
+      "bytes": 4895,
+      "sha256": "9a0e90556c6c4737c952204facaf7c4c9150f4ee4dc32c8a1e2fe8ba103abdf7"
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/code/verified_legacy/build_complete_rel3_report.py",
@@ -1508,8 +1468,8 @@
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/code/verified_legacy/build_lunar_five_paper_synthesis_docx.py",
-      "bytes": 66434,
-      "sha256": "340c2a86dee7072e9303e303862fdf35ef7a9c7ba41e52f930aa7e4d72f6ee95"
+      "bytes": 66455,
+      "sha256": "6f537ab4afb6ece26f82e7dddd8d7df1565e2fbaf742b019c09c6ba1feb3d211"
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/code/verified_legacy/generate_conclusion_evidence_atlas.py",
@@ -1668,13 +1628,13 @@
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/data_derived/low_velocity_analysis_summary.json",
-      "bytes": 153366,
-      "sha256": "3d55ff52c6105adfb67663b5f316d1bdaf2a867443deeae37ab8fa64a3e82dcc"
+      "bytes": 151566,
+      "sha256": "d50bb718184c4f9b87dc3e466c84eebd059f7dd4ed824b19a6c2fa71be323545"
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/data_derived/low_velocity_conclusion_evidence_index.csv",
-      "bytes": 9465,
-      "sha256": "0eaf7c4b5354540c25224e30e512f59234cc1105f8dbab36ff274b055ecc3b8b"
+      "bytes": 8265,
+      "sha256": "d1c2edad554f3e1cb308e697882b1aafec136f5e12e4625840cb488d60b14bb5"
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/data_derived/low_velocity_effect_station_metrics.csv",
@@ -1812,14 +1772,29 @@
       "sha256": "af7b65accca2f112007280ba33f0c1fa54909bddfe571d49a48714c05ad3d30a"
     },
     {
+      "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/HALFSPACE_DATA_AUDIT.md",
+      "bytes": 3510,
+      "sha256": "78dc5de46548dae25ba47ef696472db4a72d70ae872287d932ed67c1a7a22b71"
+    },
+    {
+      "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/LOW_VELOCITY_DATA_AUDIT.md",
+      "bytes": 1974,
+      "sha256": "cf8a329311037d04aed1b3588367c9c6f32f0857506e4bfe553b9f6cdb6f1a19"
+    },
+    {
+      "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/PROJECT_REVIEW.md",
+      "bytes": 3902,
+      "sha256": "a71a14011e89491b650a0252943e456cbf20b8cb0e1a22d54ef8fe9b13af6483"
+    },
+    {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/a11y_manuscript.json",
-      "bytes": 239,
-      "sha256": "f944aaa2ef402b6507355edbd861e36f60e8a4beba99edc94ad18a5a40728be9"
+      "bytes": 180,
+      "sha256": "8055322850c7e83958c76998a80890a8a1a72e819a91bfa932c31f705b450446"
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/a11y_supporting_information.json",
-      "bytes": 263,
-      "sha256": "88e5494d8d41fd65746597e55e7230f5f6518f7f3340d3fd1ee86e475db045c9"
+      "bytes": 204,
+      "sha256": "ddccea1e566cb5b3f23084ac564fa0f8575a92b16bca038d9c4a503a1b107b3d"
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/cgfd3d.revise.rel3.flat.noscatter.1500.300.sh",
@@ -1852,11 +1827,6 @@
       "sha256": "b5c412b1f5c9f450b2655f083556a754dc4cd4a09ae030f83dabe5b6a005cdda"
     },
     {
-      "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/HALFSPACE_DATA_AUDIT.md",
-      "bytes": 3510,
-      "sha256": "78dc5de46548dae25ba47ef696472db4a72d70ae872287d932ed67c1a7a22b71"
-    },
-    {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/halfspace_input_audit.csv",
       "bytes": 8549,
       "sha256": "5dfa3df58d80ee96ea93099ef3436d06025eff1ae21ea2dd3da8612a46c08ea8"
@@ -1872,14 +1842,9 @@
       "sha256": "c63336f217895d18334dfd2b80fa78a2c4c5fdf585a3d7635da8752a5343cbe1"
     },
     {
-      "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/LOW_VELOCITY_DATA_AUDIT.md",
-      "bytes": 1974,
-      "sha256": "cf8a329311037d04aed1b3588367c9c6f32f0857506e4bfe553b9f6cdb6f1a19"
-    },
-    {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/low_velocity_input_audit.csv",
-      "bytes": 2269,
-      "sha256": "056285a524a950ae72a04fcc8c2f9cce777388ac6521988ea7aee05b7e91c009"
+      "bytes": 1969,
+      "sha256": "aa80458be23e508ca707a0b6bf87403cb815e9dded19b9b92113f5f71c104d83"
     },
     {
       "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/post_scrub_render_comparison.json",
@@ -1892,84 +1857,9 @@
       "sha256": "867593fac2b0c922db6f25cf431c857ce5797216d7bc46a704da1d5f6449393e"
     },
     {
-      "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/provenance/PROJECT_REVIEW.md",
-      "bytes": 3902,
-      "sha256": "a71a14011e89491b650a0252943e456cbf20b8cb0e1a22d54ef8fe9b13af6483"
-    },
-    {
-      "path": "h/outputs/LOW_VELOCITY_AND_FULL_SYNTHESIS_20260820_FINAL/README.md",
-      "bytes": 3430,
-      "sha256": "71b2cf173be68f8f0d09a97e8b99a5ab146fac206bbada1327f963b80f8ad16c"
-    },
-    {
-      "path": "h/outputs/lunar_five_papers_reading_guide_zh.md",
-      "bytes": 30155,
-      "sha256": "5b033aaf4cb12645932e22dd8505073bd2eb863ab28690c3a83e1d505e9e696c"
-    },
-    {
-      "path": "h/outputs/lunar_papers_chinese_translation/01_2012_JGR_月震尾波散射研究_中文对应稿.md",
-      "bytes": 17388,
-      "sha256": "5438123f9ac44a64221f0f9e23b9969d907e3129eb7854f1fef3c25c420377bb"
-    },
-    {
-      "path": "h/outputs/lunar_papers_chinese_translation/02_2015_JGR_强散射环境地震能传播建模_中文对应稿.md",
-      "bytes": 18292,
-      "sha256": "8476bcde74b892ad691aaaf77424be3cdf9294436f19282116c691e26780e7d6"
-    },
-    {
-      "path": "h/outputs/lunar_papers_chinese_translation/03_2015_GRL_巨厚风化层横向变化_中文对应稿.md",
-      "bytes": 9968,
-      "sha256": "0973a86d6809816d454ec7c2f5262b6bee5d2dfafaa894513966352395b29101"
-    },
-    {
-      "path": "h/outputs/lunar_papers_chinese_translation/04_2016_PSS_月球地震振铃性质_中文对应稿.md",
-      "bytes": 8986,
-      "sha256": "d7a2d0c9cf1bef3739378fff495085e9ee469d96523927a0502a1b1ee895c11a"
-    },
-    {
-      "path": "h/outputs/lunar_papers_chinese_translation/05_2017_PEPI_月球散射衰减剖面_中文对应稿.md",
-      "bytes": 19678,
-      "sha256": "75ca55bf1a0459ebc0f8584258a6b37b26fb90a817fec73bb4b208ecc13fa3a1"
-    },
-    {
-      "path": "h/outputs/lunar_papers_chinese_translation/README.md",
-      "bytes": 2180,
-      "sha256": "0b45bee8bbdc6008f551bb90807172f18122620844ceddc85442bec0fbfcd494"
-    },
-    {
-      "path": "h/outputs/path_based_ray_analysis/matched_distance_path_examples.csv",
-      "bytes": 661,
-      "sha256": "42431c39ac719d075750b05d584e6e56b9f86c0616c9c03f1eb988978dc4d3fd"
-    },
-    {
-      "path": "h/outputs/path_based_ray_analysis/path_based_analysis_report_zh.md",
-      "bytes": 5176,
-      "sha256": "07879556a87a98e03e75a4454632a504e4aaa070a93a0e53a41da82e4939c32d"
-    },
-    {
-      "path": "h/outputs/path_based_ray_analysis/path_profile_samples.csv",
-      "bytes": 30456,
-      "sha256": "80f735f6de78e13fc8c13b98dd3fdd7c3771482dcbd5052d49135eb4cb93b75a"
-    },
-    {
-      "path": "h/outputs/path_based_ray_analysis/path_ray_summary.csv",
-      "bytes": 276,
-      "sha256": "e2207489617c8058e4a4b594bdeb6b625ef93644a4973d306cbaec7ef83df094"
-    },
-    {
-      "path": "h/outputs/path_based_ray_analysis/strongest_path_relationships.csv",
-      "bytes": 2131,
-      "sha256": "147ed74373fea88f781b9d0d1e991d2a3a37029a03ac17a5fa0376af89f33272"
-    },
-    {
-      "path": "h/outputs/plot_releasy_waveform_comparison.m",
-      "bytes": 8030,
-      "sha256": "99ef392c823f1ef15b1698cf4c5fd6023f274d4cccc9dd8bf3ad5ee6ca012269"
-    },
-    {
-      "path": "h/outputs/plot_releasy_waveform_comparison.py",
-      "bytes": 49754,
-      "sha256": "f444cebc2ce824d51a27dadcc31c0b4524bc8d98d6fa22e986f04f041228e66b"
+      "path": "h/outputs/REL3_complete_analysis_package/README.md",
+      "bytes": 1070,
+      "sha256": "2268485dff14fbfccff1fa1e2fa56202450106ce73790dd1e8e66834713d8ef8"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package/analyze_releasy_literature_guided.py",
@@ -1988,8 +1878,8 @@
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package/audit_lunar_five_paper_synthesis_docx.py",
-      "bytes": 4874,
-      "sha256": "9149b9a7c4ccbc7b098a5e169b63150e79aba7ee6c8ab056c66aeea82a4a8b79"
+      "bytes": 4895,
+      "sha256": "9a0e90556c6c4737c952204facaf7c4c9150f4ee4dc32c8a1e2fe8ba103abdf7"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package/build_complete_rel3_report.py",
@@ -1998,8 +1888,8 @@
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package/build_lunar_five_paper_synthesis_docx.py",
-      "bytes": 66434,
-      "sha256": "340c2a86dee7072e9303e303862fdf35ef7a9c7ba41e52f930aa7e4d72f6ee95"
+      "bytes": 66455,
+      "sha256": "6f537ab4afb6ece26f82e7dddd8d7df1565e2fbaf742b019c09c6ba1feb3d211"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package/document/REL3月震四模型_完整综合报告_文本版.md",
@@ -2025,11 +1915,6 @@
       "path": "h/outputs/REL3_complete_analysis_package/plot_releasy_waveform_comparison.py",
       "bytes": 49754,
       "sha256": "f444cebc2ce824d51a27dadcc31c0b4524bc8d98d6fa22e986f04f041228e66b"
-    },
-    {
-      "path": "h/outputs/REL3_complete_analysis_package/README.md",
-      "bytes": 1070,
-      "sha256": "2268485dff14fbfccff1fa1e2fa56202450106ce73790dd1e8e66834713d8ef8"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package/reports_source/analysis_report_literature_guided_zh.md",
@@ -2247,6 +2132,11 @@
       "sha256": "8321de746734e4ec862bd4363963896eee128b8e06afd6c70a300f6775c02d00"
     },
     {
+      "path": "h/outputs/REL3_complete_analysis_package_rendered/README.md",
+      "bytes": 1070,
+      "sha256": "2268485dff14fbfccff1fa1e2fa56202450106ce73790dd1e8e66834713d8ef8"
+    },
+    {
       "path": "h/outputs/REL3_complete_analysis_package_rendered/analyze_releasy_literature_guided.py",
       "bytes": 55985,
       "sha256": "650864bee27b24b368525d5ea366dcb76555e6b8bf6e83b0e4bb75c51a28cc7e"
@@ -2263,8 +2153,8 @@
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_rendered/audit_lunar_five_paper_synthesis_docx.py",
-      "bytes": 4874,
-      "sha256": "9149b9a7c4ccbc7b098a5e169b63150e79aba7ee6c8ab056c66aeea82a4a8b79"
+      "bytes": 4895,
+      "sha256": "9a0e90556c6c4737c952204facaf7c4c9150f4ee4dc32c8a1e2fe8ba103abdf7"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_rendered/build_complete_rel3_report.py",
@@ -2273,8 +2163,8 @@
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_rendered/build_lunar_five_paper_synthesis_docx.py",
-      "bytes": 66434,
-      "sha256": "340c2a86dee7072e9303e303862fdf35ef7a9c7ba41e52f930aa7e4d72f6ee95"
+      "bytes": 66455,
+      "sha256": "6f537ab4afb6ece26f82e7dddd8d7df1565e2fbaf742b019c09c6ba1feb3d211"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_rendered/document/REL3月震四模型_完整综合报告_文本版.md",
@@ -2300,11 +2190,6 @@
       "path": "h/outputs/REL3_complete_analysis_package_rendered/plot_releasy_waveform_comparison.py",
       "bytes": 49754,
       "sha256": "f444cebc2ce824d51a27dadcc31c0b4524bc8d98d6fa22e986f04f041228e66b"
-    },
-    {
-      "path": "h/outputs/REL3_complete_analysis_package_rendered/README.md",
-      "bytes": 1070,
-      "sha256": "2268485dff14fbfccff1fa1e2fa56202450106ce73790dd1e8e66834713d8ef8"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_rendered/reports_source/analysis_report_literature_guided_zh.md",
@@ -2517,6 +2402,11 @@
       "sha256": "8321de746734e4ec862bd4363963896eee128b8e06afd6c70a300f6775c02d00"
     },
     {
+      "path": "h/outputs/REL3_complete_analysis_package_证据分级终审版/README.md",
+      "bytes": 1372,
+      "sha256": "2363bc21c2ae39aec8cdd42ecf49ca2b7e5fa9a9706d225a7b524d1ec76bc668"
+    },
+    {
       "path": "h/outputs/REL3_complete_analysis_package_证据分级终审版/analyze_releasy_literature_guided.py",
       "bytes": 55985,
       "sha256": "650864bee27b24b368525d5ea366dcb76555e6b8bf6e83b0e4bb75c51a28cc7e"
@@ -2533,8 +2423,8 @@
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_证据分级终审版/audit_lunar_five_paper_synthesis_docx.py",
-      "bytes": 4874,
-      "sha256": "9149b9a7c4ccbc7b098a5e169b63150e79aba7ee6c8ab056c66aeea82a4a8b79"
+      "bytes": 4895,
+      "sha256": "9a0e90556c6c4737c952204facaf7c4c9150f4ee4dc32c8a1e2fe8ba103abdf7"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_证据分级终审版/build_complete_rel3_report.py",
@@ -2543,8 +2433,8 @@
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_证据分级终审版/build_lunar_five_paper_synthesis_docx.py",
-      "bytes": 66434,
-      "sha256": "340c2a86dee7072e9303e303862fdf35ef7a9c7ba41e52f930aa7e4d72f6ee95"
+      "bytes": 66455,
+      "sha256": "6f537ab4afb6ece26f82e7dddd8d7df1565e2fbaf742b019c09c6ba1feb3d211"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_证据分级终审版/document/REL3月震四模型_完整综合报告_证据分级终审版.md",
@@ -2570,11 +2460,6 @@
       "path": "h/outputs/REL3_complete_analysis_package_证据分级终审版/plot_releasy_waveform_comparison.py",
       "bytes": 49754,
       "sha256": "f444cebc2ce824d51a27dadcc31c0b4524bc8d98d6fa22e986f04f041228e66b"
-    },
-    {
-      "path": "h/outputs/REL3_complete_analysis_package_证据分级终审版/README.md",
-      "bytes": 1372,
-      "sha256": "2363bc21c2ae39aec8cdd42ecf49ca2b7e5fa9a9706d225a7b524d1ec76bc668"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_证据分级终审版/reports_source/conclusion_evidence_guide_zh.md",
@@ -2767,6 +2652,11 @@
       "sha256": "8321de746734e4ec862bd4363963896eee128b8e06afd6c70a300f6775c02d00"
     },
     {
+      "path": "h/outputs/REL3_complete_analysis_package_路径相关修订版/README.md",
+      "bytes": 1078,
+      "sha256": "6c089e3328b294849d60b6feb564dd61c6d6f2e70e431719879cfaeb4a67b094"
+    },
+    {
       "path": "h/outputs/REL3_complete_analysis_package_路径相关修订版/analyze_releasy_literature_guided.py",
       "bytes": 55985,
       "sha256": "650864bee27b24b368525d5ea366dcb76555e6b8bf6e83b0e4bb75c51a28cc7e"
@@ -2783,8 +2673,8 @@
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_路径相关修订版/audit_lunar_five_paper_synthesis_docx.py",
-      "bytes": 4874,
-      "sha256": "9149b9a7c4ccbc7b098a5e169b63150e79aba7ee6c8ab056c66aeea82a4a8b79"
+      "bytes": 4895,
+      "sha256": "9a0e90556c6c4737c952204facaf7c4c9150f4ee4dc32c8a1e2fe8ba103abdf7"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_路径相关修订版/build_complete_rel3_report.py",
@@ -2793,8 +2683,8 @@
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_路径相关修订版/build_lunar_five_paper_synthesis_docx.py",
-      "bytes": 66434,
-      "sha256": "340c2a86dee7072e9303e303862fdf35ef7a9c7ba41e52f930aa7e4d72f6ee95"
+      "bytes": 66455,
+      "sha256": "6f537ab4afb6ece26f82e7dddd8d7df1565e2fbaf742b019c09c6ba1feb3d211"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_路径相关修订版/document/REL3月震四模型_完整综合报告_路径相关修订版.md",
@@ -2820,11 +2710,6 @@
       "path": "h/outputs/REL3_complete_analysis_package_路径相关修订版/plot_releasy_waveform_comparison.py",
       "bytes": 49754,
       "sha256": "f444cebc2ce824d51a27dadcc31c0b4524bc8d98d6fa22e986f04f041228e66b"
-    },
-    {
-      "path": "h/outputs/REL3_complete_analysis_package_路径相关修订版/README.md",
-      "bytes": 1078,
-      "sha256": "6c089e3328b294849d60b6feb564dd61c6d6f2e70e431719879cfaeb4a67b094"
     },
     {
       "path": "h/outputs/REL3_complete_analysis_package_路径相关修订版/reports_source/analysis_report_literature_guided_zh.md",
@@ -3035,6 +2920,131 @@
       "path": "h/outputs/REL3_complete_analysis_package_路径相关修订版/update_reviewer_response_docx.py",
       "bytes": 11178,
       "sha256": "8321de746734e4ec862bd4363963896eee128b8e06afd6c70a300f6775c02d00"
+    },
+    {
+      "path": "h/outputs/analyze_releasy_literature_guided.py",
+      "bytes": 55985,
+      "sha256": "650864bee27b24b368525d5ea366dcb76555e6b8bf6e83b0e4bb75c51a28cc7e"
+    },
+    {
+      "path": "h/outputs/analyze_releasy_relationships.py",
+      "bytes": 39922,
+      "sha256": "3b63ba6850d93a9f30a66836b8d076840279fed813967bbc6a24d86efee5615b"
+    },
+    {
+      "path": "h/outputs/analyze_three_component_psvsh.py",
+      "bytes": 83383,
+      "sha256": "a29d424bde9ba9209f83c77d2e8f06a75bae906ddca75f807cf425cf028ba526"
+    },
+    {
+      "path": "h/outputs/audit_lunar_five_paper_synthesis_docx.py",
+      "bytes": 4895,
+      "sha256": "9a0e90556c6c4737c952204facaf7c4c9150f4ee4dc32c8a1e2fe8ba103abdf7"
+    },
+    {
+      "path": "h/outputs/build_complete_rel3_report.py",
+      "bytes": 79253,
+      "sha256": "1925a63fbc339b5ed43a23b3f21b08ae845c65f387c97b1ff0b2eb10e53dd352"
+    },
+    {
+      "path": "h/outputs/build_lunar_five_paper_synthesis_docx.py",
+      "bytes": 66455,
+      "sha256": "6f537ab4afb6ece26f82e7dddd8d7df1565e2fbaf742b019c09c6ba1feb3d211"
+    },
+    {
+      "path": "h/outputs/conclusion_evidence/conclusion_evidence_guide_zh.md",
+      "bytes": 11533,
+      "sha256": "ae523ab17c7e3a0b771c5561256f9bba6b18a939fc67e742c142e30b73f77da8"
+    },
+    {
+      "path": "h/outputs/conclusion_evidence/conclusion_evidence_index.csv",
+      "bytes": 10436,
+      "sha256": "dab14de37319d2ecf00f8ff2c8070bf3a6275b559fee1eb1506262e56bfb7364"
+    },
+    {
+      "path": "h/outputs/generate_conclusion_evidence_atlas.py",
+      "bytes": 166,
+      "sha256": "0d214f5a1bb70d712aaf6caecf4d76f8841ca66c3ecd4df0694601a50557fc42"
+    },
+    {
+      "path": "h/outputs/generate_conclusion_waveform_atlas.py",
+      "bytes": 72586,
+      "sha256": "e5bbf16e9868e51861c4dcfc465425b7c97473e535b29cb8acda2cef5dfe5ab2"
+    },
+    {
+      "path": "h/outputs/generate_path_based_ray_analysis.py",
+      "bytes": 17948,
+      "sha256": "ad9dfc67f945d743ae6ddb8dfba4eb5090ecf10effcc32608532161383479601"
+    },
+    {
+      "path": "h/outputs/lunar_five_papers_reading_guide_zh.md",
+      "bytes": 30155,
+      "sha256": "5b033aaf4cb12645932e22dd8505073bd2eb863ab28690c3a83e1d505e9e696c"
+    },
+    {
+      "path": "h/outputs/lunar_papers_chinese_translation/01_2012_JGR_月震尾波散射研究_中文对应稿.md",
+      "bytes": 17388,
+      "sha256": "5438123f9ac44a64221f0f9e23b9969d907e3129eb7854f1fef3c25c420377bb"
+    },
+    {
+      "path": "h/outputs/lunar_papers_chinese_translation/02_2015_JGR_强散射环境地震能传播建模_中文对应稿.md",
+      "bytes": 18292,
+      "sha256": "8476bcde74b892ad691aaaf77424be3cdf9294436f19282116c691e26780e7d6"
+    },
+    {
+      "path": "h/outputs/lunar_papers_chinese_translation/03_2015_GRL_巨厚风化层横向变化_中文对应稿.md",
+      "bytes": 9968,
+      "sha256": "0973a86d6809816d454ec7c2f5262b6bee5d2dfafaa894513966352395b29101"
+    },
+    {
+      "path": "h/outputs/lunar_papers_chinese_translation/04_2016_PSS_月球地震振铃性质_中文对应稿.md",
+      "bytes": 8986,
+      "sha256": "d7a2d0c9cf1bef3739378fff495085e9ee469d96523927a0502a1b1ee895c11a"
+    },
+    {
+      "path": "h/outputs/lunar_papers_chinese_translation/05_2017_PEPI_月球散射衰减剖面_中文对应稿.md",
+      "bytes": 19678,
+      "sha256": "75ca55bf1a0459ebc0f8584258a6b37b26fb90a817fec73bb4b208ecc13fa3a1"
+    },
+    {
+      "path": "h/outputs/lunar_papers_chinese_translation/README.md",
+      "bytes": 2180,
+      "sha256": "0b45bee8bbdc6008f551bb90807172f18122620844ceddc85442bec0fbfcd494"
+    },
+    {
+      "path": "h/outputs/path_based_ray_analysis/matched_distance_path_examples.csv",
+      "bytes": 661,
+      "sha256": "42431c39ac719d075750b05d584e6e56b9f86c0616c9c03f1eb988978dc4d3fd"
+    },
+    {
+      "path": "h/outputs/path_based_ray_analysis/path_based_analysis_report_zh.md",
+      "bytes": 5176,
+      "sha256": "07879556a87a98e03e75a4454632a504e4aaa070a93a0e53a41da82e4939c32d"
+    },
+    {
+      "path": "h/outputs/path_based_ray_analysis/path_profile_samples.csv",
+      "bytes": 30456,
+      "sha256": "80f735f6de78e13fc8c13b98dd3fdd7c3771482dcbd5052d49135eb4cb93b75a"
+    },
+    {
+      "path": "h/outputs/path_based_ray_analysis/path_ray_summary.csv",
+      "bytes": 276,
+      "sha256": "e2207489617c8058e4a4b594bdeb6b625ef93644a4973d306cbaec7ef83df094"
+    },
+    {
+      "path": "h/outputs/path_based_ray_analysis/strongest_path_relationships.csv",
+      "bytes": 2131,
+      "sha256": "147ed74373fea88f781b9d0d1e991d2a3a37029a03ac17a5fa0376af89f33272"
+    },
+    {
+      "path": "h/outputs/plot_releasy_waveform_comparison.m",
+      "bytes": 8030,
+      "sha256": "99ef392c823f1ef15b1698cf4c5fd6023f274d4cccc9dd8bf3ad5ee6ca012269"
+    },
+    {
+      "path": "h/outputs/plot_releasy_waveform_comparison.py",
+      "bytes": 49754,
+      "sha256": "f444cebc2ce824d51a27dadcc31c0b4524bc8d98d6fa22e986f04f041228e66b"
     },
     {
       "path": "h/outputs/releasy_relationship_analysis/analysis_report_literature_guided_zh.md",
@@ -3288,23 +3298,18 @@
     },
     {
       "path": "h/年度总结_月球散射强度评估.pptx",
-      "bytes": 3127192,
-      "sha256": "854c9ed7fda4813b958d0e7e4c7a2bf111e8dfac15eb08bb26bba48c4d8d61ac"
-    },
-    {
-      "path": "NOTICE.md",
-      "bytes": 1493,
-      "sha256": "6477204f57b7e37f8d7d1706351fc329f830ef4f9bed2fea4e7bb8ad3b4c0161"
-    },
-    {
-      "path": "publication/release_assets_manifest.json",
-      "bytes": 1141,
-      "sha256": "5ddfbc876b8f334317f238c5e2bbd1844d7376dc0225a8e1a92c5595b65a5584"
+      "bytes": 3126728,
+      "sha256": "d53294e52e202639a86e87f600df3419eb77e9ee3bd43a7ee881f71d5609fdc1"
     },
     {
       "path": "publication/SHA256SUMS.txt",
       "bytes": 302,
-      "sha256": "beedfa3184730632f19d4db26c5fb7d3801d6cbf4d347c19af9dedc11bfbf24e"
+      "sha256": "d02a5fc17281c94682ccd0b70b7f0feb043f852e80c0241e3173d4bdf8892818"
+    },
+    {
+      "path": "publication/release_assets_manifest.json",
+      "bytes": 1141,
+      "sha256": "61af8117de7233ff1bedf857a2bfd1a55d6fa5d8315c144f43b8a5c44d0dc50d"
     },
     {
       "path": "publication/排除与保留说明.md",
@@ -3312,9 +3317,9 @@
       "sha256": "2aee27c9253f3c75abec385b34ec6b98a43a935830a8878d66bcf84a54c0cd6a"
     },
     {
-      "path": "README.md",
-      "bytes": 4570,
-      "sha256": "bbf27dd8ffc2928efbc2e1f50bd197e20c67b119e14f91ac89f831e0a9246dd5"
+      "path": "月球散射强度评估/README.md",
+      "bytes": 15810,
+      "sha256": "b0a93308209c6f16a1204adf64d1103ed295bf594367a2793874819da5854f99"
     },
     {
       "path": "月球散射强度评估/code/assemble_research_design_dossier.py",
@@ -3527,6 +3532,11 @@
       "sha256": "3b6c6ae3f471a896874a77de4ae4d04cfb0719850313f7311c32b5166a8a1d83"
     },
     {
+      "path": "月球散射强度评估/data/raw/README.md",
+      "bytes": 480,
+      "sha256": "d32ac727d44321629b670a54f85067182e399297928cf2c056592df6e6b39ebb"
+    },
+    {
       "path": "月球散射强度评估/data/raw/apollo_event_catalog/README.md",
       "bytes": 687,
       "sha256": "b8553073eb93f1b95a5e50a288a434d7b1861491e24743be31e0bb927dc723ef"
@@ -3547,19 +3557,14 @@
       "sha256": "2e98cb8323dbd568b597fc1901fa14b5bb62bb473cc4f38c2f160d10f7ebb47f"
     },
     {
+      "path": "月球散射强度评估/data/raw/literature/Zhang2025_Cleaning_Apollo/README.md",
+      "bytes": 2273,
+      "sha256": "fa142461ab5629846551f0d6edb741b309edf6d90d7d0cadbb6def3f72af68a7"
+    },
+    {
       "path": "月球散射强度评估/data/raw/literature/Zhang2025_Cleaning_Apollo/author_code/Apollo_deglitch_single.m",
       "bytes": 6758,
       "sha256": "8f72744cccc8709acd866b761eefefc6125176b6498cdd828baa401e00f8b95a"
-    },
-    {
-      "path": "月球散射强度评估/data/raw/literature/Zhang2025_Cleaning_Apollo/author_code/rdmseed.m",
-      "bytes": 35085,
-      "sha256": "76e99cad887300d9fa7a54acf4fcec8eb73521a68853a0f33b56f0f4f4c5c208"
-    },
-    {
-      "path": "月球散射强度评估/data/raw/literature/Zhang2025_Cleaning_Apollo/author_code/Readme.txt",
-      "bytes": 1255,
-      "sha256": "0792dc62f7dff70c87039e4de0572edb4c2c156dd30b202bb0a9544ff3c46163"
     },
     {
       "path": "月球散射强度评估/data/raw/literature/Zhang2025_Cleaning_Apollo/author_code/README_deglitch_code.md",
@@ -3567,14 +3572,19 @@
       "sha256": "d3cfb16df773055b6351e8992c843403f39f1cd87a9ed89f4e6b047905dc9e96"
     },
     {
+      "path": "月球散射强度评估/data/raw/literature/Zhang2025_Cleaning_Apollo/author_code/Readme.txt",
+      "bytes": 1255,
+      "sha256": "0792dc62f7dff70c87039e4de0572edb4c2c156dd30b202bb0a9544ff3c46163"
+    },
+    {
       "path": "月球散射强度评估/data/raw/literature/Zhang2025_Cleaning_Apollo/author_code/Transfer_Function.m",
       "bytes": 11023,
       "sha256": "a84e173cd617a89417ffb3b80e645525538e3a27edc190d9e9b571f2a30f1535"
     },
     {
-      "path": "月球散射强度评估/data/raw/literature/Zhang2025_Cleaning_Apollo/README.md",
-      "bytes": 2273,
-      "sha256": "fa142461ab5629846551f0d6edb741b309edf6d90d7d0cadbb6def3f72af68a7"
+      "path": "月球散射强度评估/data/raw/literature/Zhang2025_Cleaning_Apollo/author_code/rdmseed.m",
+      "bytes": 35085,
+      "sha256": "76e99cad887300d9fa7a54acf4fcec8eb73521a68853a0f33b56f0f4f4c5c208"
     },
     {
       "path": "月球散射强度评估/data/raw/lola_impact_64/README.md",
@@ -3582,34 +3592,14 @@
       "sha256": "c0bb2479569b2bbc4a19ff566db8395c85a4d80b329f2879d2ea311f30d43725"
     },
     {
-      "path": "月球散射强度评估/data/raw/published_waveform_sources/cerinunn_impact_simulations/postprocessing_util.py",
-      "bytes": 105815,
-      "sha256": "adbf8587a6c21ba36883c08bf303d70b98a2943a7c394906deac21642f9e9a21"
-    },
-    {
-      "path": "月球散射强度评估/data/raw/published_waveform_sources/cerinunn_impact_simulations/postprocessing_util_observations.py",
-      "bytes": 17491,
-      "sha256": "1bff4696ef0736ce16bcf01f1f1b0fed578e875ecbf9da28829906aa466d97dc"
-    },
-    {
-      "path": "月球散射强度评估/data/raw/published_waveform_sources/cerinunn_impact_simulations/README.md",
-      "bytes": 3059,
-      "sha256": "fa6de3da6882daf287048a865c820974c2808454f01118b0baa60a7a38e7e071"
-    },
-    {
-      "path": "月球散射强度评估/data/raw/published_waveform_sources/cerinunn_impact_simulations/util.py",
-      "bytes": 3186,
-      "sha256": "8fa5a2a7da7ddb14dc0ee2c703f872b33f5c9c100308eae03c60530d03fda5bf"
-    },
-    {
-      "path": "月球散射强度评估/data/raw/published_waveform_sources/cerinunn_impact_simulations/write_local_data.helper.py",
-      "bytes": 2341,
-      "sha256": "395cb0e4bddcd92138e8361b0638ddd7a6a79841da411fe1d17bc4e9b517bf27"
-    },
-    {
       "path": "月球散射强度评估/data/raw/published_waveform_sources/Kim2026/code/polarisation.m",
       "bytes": 22920,
       "sha256": "e1e9b71e89b6e2c93c74660baecdebac1b142b7ebbf90d0e5ddb7e38a65a9aaf"
+    },
+    {
+      "path": "月球散射强度评估/data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/AutoProcessWorkflow/PickNet.py",
+      "bytes": 4997,
+      "sha256": "56e50f12e40eaf40ff8a310957fd9414f90a2f306ebacfb17f0aae5b695407ae"
     },
     {
       "path": "月球散射强度评估/data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/AutoProcessWorkflow/custom_layers.py",
@@ -3622,11 +3612,6 @@
       "sha256": "48b9e6fde741312e1b0d29a02f9ca9aeed8230ba0da499b3f8b9abfb530ff5e5"
     },
     {
-      "path": "月球散射强度评估/data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/AutoProcessWorkflow/PickNet.py",
-      "bytes": 4997,
-      "sha256": "56e50f12e40eaf40ff8a310957fd9414f90a2f306ebacfb17f0aae5b695407ae"
-    },
-    {
       "path": "月球散射强度评估/data/raw/published_waveform_sources/MrXiaoXiao_Apollo_Disturbance_Detection/MannalAnnotateInterface/Apollo_annotator.py",
       "bytes": 22748,
       "sha256": "f5ff347d2ccd35da0165b34dbb0c0f9f7bbd3c024ce135020551d585725d1da6"
@@ -3637,9 +3622,29 @@
       "sha256": "6e5382387ee2a5bd505985cf4fee9ff88439993494719a25f6211683e14081bd"
     },
     {
-      "path": "月球散射强度评估/data/raw/README.md",
-      "bytes": 480,
-      "sha256": "d32ac727d44321629b670a54f85067182e399297928cf2c056592df6e6b39ebb"
+      "path": "月球散射强度评估/data/raw/published_waveform_sources/cerinunn_impact_simulations/README.md",
+      "bytes": 3059,
+      "sha256": "fa6de3da6882daf287048a865c820974c2808454f01118b0baa60a7a38e7e071"
+    },
+    {
+      "path": "月球散射强度评估/data/raw/published_waveform_sources/cerinunn_impact_simulations/postprocessing_util.py",
+      "bytes": 105815,
+      "sha256": "adbf8587a6c21ba36883c08bf303d70b98a2943a7c394906deac21642f9e9a21"
+    },
+    {
+      "path": "月球散射强度评估/data/raw/published_waveform_sources/cerinunn_impact_simulations/postprocessing_util_observations.py",
+      "bytes": 17491,
+      "sha256": "1bff4696ef0736ce16bcf01f1f1b0fed578e875ecbf9da28829906aa466d97dc"
+    },
+    {
+      "path": "月球散射强度评估/data/raw/published_waveform_sources/cerinunn_impact_simulations/util.py",
+      "bytes": 3186,
+      "sha256": "8fa5a2a7da7ddb14dc0ee2c703f872b33f5c9c100308eae03c60530d03fda5bf"
+    },
+    {
+      "path": "月球散射强度评估/data/raw/published_waveform_sources/cerinunn_impact_simulations/write_local_data.helper.py",
+      "bytes": 2341,
+      "sha256": "395cb0e4bddcd92138e8361b0638ddd7a6a79841da411fe1d17bc4e9b517bf27"
     },
     {
       "path": "月球散射强度评估/docs/00_项目路线图.md",
@@ -3783,8 +3788,8 @@
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/02_散射模型与参数设计.md",
-      "bytes": 24606,
-      "sha256": "53b25e28ef5c9e714dac01b4cc266f48c3600e6466cfadf3b541a419bd59a44f"
+      "bytes": 24565,
+      "sha256": "e1e0e2fa44671e185d9bc8adb78985a662ecbb05a5f2860f25060ecb09e84ee2"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/03_波形处理与反演准入.md",
@@ -3822,6 +3827,11 @@
       "sha256": "e224571f4da3d1eff92eac9494b32cccdc2e55def038fefd3d438b29c7ace383"
     },
     {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A12LM_S12_three_stages.png",
+      "bytes": 443616,
+      "sha256": "7de27882f441e13ca812aa0fc600167c3814ac793fa0d8e8debc90c99258770f"
+    },
+    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A12LM_literature_displacement_03_05_overview.png",
       "bytes": 196105,
       "sha256": "71ebe9abe226a425cdb9ac7bf485bc75b439120f2699bba05d71a7081c04f99b"
@@ -3842,14 +3852,14 @@
       "sha256": "338d072bf2a98d50983480ed5f4e83fba5729ea22e4c230518b209f434830abe"
     },
     {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A12LM_S12_three_stages.png",
-      "bytes": 443616,
-      "sha256": "7de27882f441e13ca812aa0fc600167c3814ac793fa0d8e8debc90c99258770f"
-    },
-    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A12LM_terrain_domain.png",
       "bytes": 302859,
       "sha256": "e0a47a98a0568f1eedf19f103502bbff75eb50b78cd55e0260733175d2cb5587"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A13SIVB_S12_three_stages.png",
+      "bytes": 429824,
+      "sha256": "d81e866da65a0fc857889d8e25d6fcad3add79f980cb50e8566c582a2c16c43d"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A13SIVB_literature_displacement_03_05_overview.png",
@@ -3872,14 +3882,19 @@
       "sha256": "103dc04719633c9a81b852a4938048cf6cc670e423f870327a102f505d9f908a"
     },
     {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A13SIVB_S12_three_stages.png",
-      "bytes": 429824,
-      "sha256": "d81e866da65a0fc857889d8e25d6fcad3add79f980cb50e8566c582a2c16c43d"
-    },
-    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A13SIVB_terrain_domain.png",
       "bytes": 336773,
       "sha256": "cb59fedff0ff9ab2cd7dff68d349bb31790f8b96f5b0f8ecf23c025cd3e02e0d"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14LM_S12_three_stages.png",
+      "bytes": 413208,
+      "sha256": "aa6a790b6faf8151a0accf398f51e41e19274c31c4b57563f4d172adf00c5c89"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14LM_S14_three_stages.png",
+      "bytes": 407120,
+      "sha256": "f46952a08ec228947fdc75dcb04eaf0960289b681bb6cde19c2909a80f44fdb3"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14LM_literature_displacement_03_05_overview.png",
@@ -3902,19 +3917,19 @@
       "sha256": "b19d62677f6b8c5d8d03b96e90d24fca0c93a1f1373d5db846418319551ff08e"
     },
     {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14LM_S12_three_stages.png",
-      "bytes": 413208,
-      "sha256": "aa6a790b6faf8151a0accf398f51e41e19274c31c4b57563f4d172adf00c5c89"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14LM_S14_three_stages.png",
-      "bytes": 407120,
-      "sha256": "f46952a08ec228947fdc75dcb04eaf0960289b681bb6cde19c2909a80f44fdb3"
-    },
-    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14LM_terrain_domain.png",
       "bytes": 393603,
       "sha256": "6f8a7cc7113838797ca82b5dae63ebaf51595c789ba1741075233d6e6f3738e1"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14SIVB_S12_MHZ_gap_zoom.png",
+      "bytes": 559997,
+      "sha256": "982c560c6a7588b8e4aac03a088b1466261cf9b2893d1ae5a15a0d7cf9ef84a4"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14SIVB_S12_three_stages.png",
+      "bytes": 479816,
+      "sha256": "14cf4ce698947850b204f5b4809b90db7be5fb5347ec438e55c12d82484f93d5"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14SIVB_literature_displacement_03_05_overview.png",
@@ -3937,39 +3952,9 @@
       "sha256": "7c73311db1e401f06d4bedfa48e2e8cdbfff3bdcd7a538a6890d5b328fde3ef8"
     },
     {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14SIVB_S12_MHZ_gap_zoom.png",
-      "bytes": 559997,
-      "sha256": "982c560c6a7588b8e4aac03a088b1466261cf9b2893d1ae5a15a0d7cf9ef84a4"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14SIVB_S12_three_stages.png",
-      "bytes": 479816,
-      "sha256": "14cf4ce698947850b204f5b4809b90db7be5fb5347ec438e55c12d82484f93d5"
-    },
-    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A14SIVB_terrain_domain.png",
       "bytes": 423818,
       "sha256": "7aa7c9ac17ca04790f52b241eef1f45b978834e35f9b8aec5dc0d7d7fe641ffd"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15LM_literature_displacement_03_05_overview.png",
-      "bytes": 388999,
-      "sha256": "79f41dd1268e3f926c3cf620f2471a4c3ae8ef35e12222011f650fcc8938b63d"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15LM_local_terrain_domain.png",
-      "bytes": 383230,
-      "sha256": "5b7927cb28f03dad2455c985642566f9b773a18d96e7871d48cf8733aa808b9c"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15LM_processed_03_09_overview.png",
-      "bytes": 392548,
-      "sha256": "95a4e81383f5e66d0623a8ad639bc9ce7b6a9a34a58b2e1cba467dc275ad733d"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15LM_raw_archive_overview.png",
-      "bytes": 363713,
-      "sha256": "3a2f4ed139952b4ffeb45af37e24e839d964f5f62ca2cd7f810c6e42c41f9d63"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15LM_S12_three_stages.png",
@@ -3992,9 +3977,39 @@
       "sha256": "f0287400d2706ec1cb7a395de7c305f5df7b26a5e7ce1109ebe7196e9acc7373"
     },
     {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15LM_literature_displacement_03_05_overview.png",
+      "bytes": 388999,
+      "sha256": "79f41dd1268e3f926c3cf620f2471a4c3ae8ef35e12222011f650fcc8938b63d"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15LM_local_terrain_domain.png",
+      "bytes": 383230,
+      "sha256": "5b7927cb28f03dad2455c985642566f9b773a18d96e7871d48cf8733aa808b9c"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15LM_processed_03_09_overview.png",
+      "bytes": 392548,
+      "sha256": "95a4e81383f5e66d0623a8ad639bc9ce7b6a9a34a58b2e1cba467dc275ad733d"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15LM_raw_archive_overview.png",
+      "bytes": 363713,
+      "sha256": "3a2f4ed139952b4ffeb45af37e24e839d964f5f62ca2cd7f810c6e42c41f9d63"
+    },
+    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15LM_terrain_domain.png",
       "bytes": 1383793,
       "sha256": "40771836da187a2af6ef4cd222a2716b51d5979c78741b1f2d2b04564ac47673"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15SIVB_S12_three_stages.png",
+      "bytes": 481236,
+      "sha256": "9bb648dd8791a28ecabb0f072b785ce5b9cfcf951a27caaf3dbd46e407e2823c"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15SIVB_S14_three_stages.png",
+      "bytes": 449471,
+      "sha256": "b6f83450e67af9002e53a356084a07ad14eee79c2777209a8ea715bf57505177"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15SIVB_literature_displacement_03_05_overview.png",
@@ -4017,19 +4032,24 @@
       "sha256": "402b9809d44b7aca6290f6883dea0b152303018dc5e79cf27bd54578b60694b9"
     },
     {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15SIVB_S12_three_stages.png",
-      "bytes": 481236,
-      "sha256": "9bb648dd8791a28ecabb0f072b785ce5b9cfcf951a27caaf3dbd46e407e2823c"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15SIVB_S14_three_stages.png",
-      "bytes": 449471,
-      "sha256": "b6f83450e67af9002e53a356084a07ad14eee79c2777209a8ea715bf57505177"
-    },
-    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A15SIVB_terrain_domain.png",
       "bytes": 620156,
       "sha256": "2ddd4f802e1bbf67f6a3aa2931895c22b472ce446bab69c82f1d2d96bbeccfdd"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A16SIVB_S12_three_stages.png",
+      "bytes": 459427,
+      "sha256": "5e64a751274e927fb0c0da02d0af9698aa069786114c182c2100d94d890083fc"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A16SIVB_S14_three_stages.png",
+      "bytes": 379328,
+      "sha256": "b0002a243f5a8a4764d7b93112c64b3f411803ab849382cc55334f57db77a098"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A16SIVB_S15_three_stages.png",
+      "bytes": 430797,
+      "sha256": "6adb44c3d4e5e31bb7d8c58afd03e3fcd5ad866c8e595007878ae4d11255eb2f"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A16SIVB_literature_displacement_03_05_overview.png",
@@ -4052,39 +4072,9 @@
       "sha256": "6b476e6428dcefb066174f7f66a0a9512f8cf7b1c5be280a410ea302b5e36087"
     },
     {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A16SIVB_S12_three_stages.png",
-      "bytes": 459427,
-      "sha256": "5e64a751274e927fb0c0da02d0af9698aa069786114c182c2100d94d890083fc"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A16SIVB_S14_three_stages.png",
-      "bytes": 379328,
-      "sha256": "b0002a243f5a8a4764d7b93112c64b3f411803ab849382cc55334f57db77a098"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A16SIVB_S15_three_stages.png",
-      "bytes": 430797,
-      "sha256": "6adb44c3d4e5e31bb7d8c58afd03e3fcd5ad866c8e595007878ae4d11255eb2f"
-    },
-    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A16SIVB_terrain_domain.png",
       "bytes": 1422714,
       "sha256": "ccdeb5607cf23f5b431726cbfec9b737ce1b94abf09a6aa96d93109cec649a85"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17LM_literature_displacement_03_05_overview.png",
-      "bytes": 451920,
-      "sha256": "3a2bc7c84522bbbf535bd46359a68b7380c05e3829859e0dc8197edc75de49ad"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17LM_processed_03_09_overview.png",
-      "bytes": 450157,
-      "sha256": "52618b3d5065238da4b65c2759fde8381367f8af23e32ed67110a84670dcdab9"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17LM_raw_archive_overview.png",
-      "bytes": 471548,
-      "sha256": "16affa055bb4d500f069a31ab7579d2f9735b955b503aefc5cdc1bd5c887775c"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17LM_S12_three_stages.png",
@@ -4107,29 +4097,24 @@
       "sha256": "4c03f60243f8fcdda4feda79c61051c7ecff4b1299c47a888a3a659ff68a26ec"
     },
     {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17LM_literature_displacement_03_05_overview.png",
+      "bytes": 451920,
+      "sha256": "3a2bc7c84522bbbf535bd46359a68b7380c05e3829859e0dc8197edc75de49ad"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17LM_processed_03_09_overview.png",
+      "bytes": 450157,
+      "sha256": "52618b3d5065238da4b65c2759fde8381367f8af23e32ed67110a84670dcdab9"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17LM_raw_archive_overview.png",
+      "bytes": 471548,
+      "sha256": "16affa055bb4d500f069a31ab7579d2f9735b955b503aefc5cdc1bd5c887775c"
+    },
+    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17LM_terrain_domain.png",
       "bytes": 1886102,
       "sha256": "455ec057312c46502c412afc6db8cc52ebe2ad9cb2a38dcae21dfc83e06debea"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_literature_displacement_03_05_overview.png",
-      "bytes": 591275,
-      "sha256": "5039cc54fc95c5d3e797a27ef1da78a228b85de6bef73bd76bf219462b374b14"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_local_terrain_domain.png",
-      "bytes": 457848,
-      "sha256": "18901f56627b92c0f5fd55418085b60f1dd78045b82d0fa02eb4ab6ec5d9e1b7"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_processed_03_09_overview.png",
-      "bytes": 585585,
-      "sha256": "da197676efe0da0b6e9edce4866ddd6e2876dbb2e73dfc41cdbfb095a9ec1c97"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_raw_archive_overview.png",
-      "bytes": 563639,
-      "sha256": "b0dd520f93198f003980dda7f4730e09327eddef398bb9c082d5c95377ad0959"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_S12_three_stages.png",
@@ -4150,6 +4135,26 @@
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_S16_three_stages.png",
       "bytes": 454988,
       "sha256": "f38dfe4556ce477feb5b452032c3bb7634d7e99f799c545c0bb7a3dc64a737fc"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_literature_displacement_03_05_overview.png",
+      "bytes": 591275,
+      "sha256": "5039cc54fc95c5d3e797a27ef1da78a228b85de6bef73bd76bf219462b374b14"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_local_terrain_domain.png",
+      "bytes": 457848,
+      "sha256": "18901f56627b92c0f5fd55418085b60f1dd78045b82d0fa02eb4ab6ec5d9e1b7"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_processed_03_09_overview.png",
+      "bytes": 585585,
+      "sha256": "da197676efe0da0b6e9edce4866ddd6e2876dbb2e73dfc41cdbfb095a9ec1c97"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_raw_archive_overview.png",
+      "bytes": 563639,
+      "sha256": "b0dd520f93198f003980dda7f4730e09327eddef398bb9c082d5c95377ad0959"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/assets/A17SIVB_terrain_domain.png",
@@ -4207,14 +4212,14 @@
       "sha256": "b2944119629510259a80cde775d1b428bb465b9a1ffe9813267ae4d901a382c4"
     },
     {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/references/expanded_lunar_references.bib",
-      "bytes": 3661,
-      "sha256": "fd7bee6a1806b9a14e5a9b775d1505af8d1b6630ad0beee7c36a2c31ab6a502b"
-    },
-    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/references/README.md",
       "bytes": 455,
       "sha256": "6868ba288915c7b2c48ef338d727cd842e7445e610c850f1fdb63170f26f263e"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/references/expanded_lunar_references.bib",
+      "bytes": 3661,
+      "sha256": "fd7bee6a1806b9a14e5a9b775d1505af8d1b6630ad0beee7c36a2c31ab6a502b"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/references/recent_lunar_references.bib",
@@ -4233,8 +4238,8 @@
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/sources/02_20261105_收敛研究范围前.md",
-      "bytes": 19413,
-      "sha256": "f1a96381e6cae62c0158c00b4a8cdd03bffea202c5c6108a535f37f3a6dbe8d8"
+      "bytes": 19375,
+      "sha256": "ae9bccb815a57579813fb6e18eaffcdb4537883702c328dbdae26dc0af46da54"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/sources/02_散射模型与参数设计_20261029历史版.md",
@@ -4243,8 +4248,8 @@
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/sources/02_散射模型与参数设计_20261105修订源.md",
-      "bytes": 19215,
-      "sha256": "3ae1c4ece795f51e48091526f8956d5e72862b7826cc5b6d6ab34d83fb546e9d"
+      "bytes": 19177,
+      "sha256": "b6e9e43e7b1d04ceb0df48858908f49289d2396eea3c8a20b0f13a83c4cdb157"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/sources/acquisition_status.json",
@@ -4307,6 +4312,16 @@
       "sha256": "a856d54be853618818321456ec2f964405c7f1429bd153a1787a982d480c000a"
     },
     {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/tables/M1_mean_velocity_0_100km.csv",
+      "bytes": 862,
+      "sha256": "724534429d084ce261ed6a04a032807ce91b4048e20f00de8efa43f7c7f85f9b"
+    },
+    {
+      "path": "月球散射强度评估/docs/研究设计总册_20261029/tables/M1_median_0_100km.csv",
+      "bytes": 1858,
+      "sha256": "b1ffebb46e7645f30556b2ceee9736acc4eecd4cd161dc477e31d90fe833b325"
+    },
+    {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/tables/combined_event_station_audit.csv",
       "bytes": 12830,
       "sha256": "18ec16071d19ba7ee200eb7bb0cb4d7e816224b179e311232db31b7687a0ec62"
@@ -4340,16 +4355,6 @@
       "path": "月球散射强度评估/docs/研究设计总册_20261029/tables/local_simulation_candidates.csv",
       "bytes": 1710,
       "sha256": "f914c537ec0dcb5c31d60f6f6e11bf568fe3583b512b81438f50a5311e8c073a"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/tables/M1_mean_velocity_0_100km.csv",
-      "bytes": 862,
-      "sha256": "724534429d084ce261ed6a04a032807ce91b4048e20f00de8efa43f7c7f85f9b"
-    },
-    {
-      "path": "月球散射强度评估/docs/研究设计总册_20261029/tables/M1_median_0_100km.csv",
-      "bytes": 1858,
-      "sha256": "b1ffebb46e7645f30556b2ceee9736acc4eecd4cd161dc477e31d90fe833b325"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/tables/model_choice_provenance.csv",
@@ -4613,8 +4618,8 @@
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/月球散射研究设计_完整合订本.md",
-      "bytes": 181756,
-      "sha256": "8d27499b7a54af92f58059c424b54177ed318eeb1be08f3bbca4a24cb4fef9cf"
+      "bytes": 181715,
+      "sha256": "60a5f930aca624b9b49cc5931f9a709aab2e89f86054d58aa739fb7bd2db3366"
     },
     {
       "path": "月球散射强度评估/docs/研究设计总册_20261029/详细方案核验_20261105.json",
@@ -4637,14 +4642,14 @@
       "sha256": "1c71e10a7674e7c3fe06a2dd8c72c8bcd65acf104acd84769af3668c3847f5b3"
     },
     {
-      "path": "月球散射强度评估/figures/kim_nunn_comparison_20261103/comparison_windows.csv",
-      "bytes": 1097,
-      "sha256": "67363cedd13f4b4927cea63954af4a4223f7071c65ee8c71f6e0a0eae8325ecc"
-    },
-    {
       "path": "月球散射强度评估/figures/kim_nunn_comparison_20261103/Kim2026_vs_Nunn2024_五组对比.pdf",
       "bytes": 734073,
       "sha256": "a6b1e05ddc948127bbb4a9ac41af80965b564910628d1f3c366b00a97ff6237f"
+    },
+    {
+      "path": "月球散射强度评估/figures/kim_nunn_comparison_20261103/comparison_windows.csv",
+      "bytes": 1097,
+      "sha256": "67363cedd13f4b4927cea63954af4a4223f7071c65ee8c71f6e0a0eae8325ecc"
     },
     {
       "path": "月球散射强度评估/figures/kim_nunn_comparison_20261103/nunn_archived_code_evidence.txt",
@@ -4662,14 +4667,14 @@
       "sha256": "dc65176544543c13650b42cb7f593a3e39d048949a42b6e4809de0d701555691"
     },
     {
-      "path": "月球散射强度评估/figures/published_waveforms_20261103/A13SIVB_S12_author_basic.pdf",
-      "bytes": 127932,
-      "sha256": "cc6caa0d9103cb61f968bc9559233dc8ef15397d95d08919bc872574230c79d7"
-    },
-    {
       "path": "月球散射强度评估/figures/published_waveforms_20261103/A13SIVB_S12_MHZ_Xiao_author_exclusion.pdf",
       "bytes": 243419,
       "sha256": "4c90313655d1bdec47ca96db647343886d70a2972458725841d03166e95430c8"
+    },
+    {
+      "path": "月球散射强度评估/figures/published_waveforms_20261103/A13SIVB_S12_author_basic.pdf",
+      "bytes": 127932,
+      "sha256": "cc6caa0d9103cb61f968bc9559233dc8ef15397d95d08919bc872574230c79d7"
     },
     {
       "path": "月球散射强度评估/figures/published_waveforms_20261103/A14LM_S12_S14_author_basic.pdf",
@@ -4677,14 +4682,14 @@
       "sha256": "9321c6cd0d38ec760e87d184805fa64786a6de9fb9e4d1e88f1f6e41777252e9"
     },
     {
-      "path": "月球散射强度评估/figures/published_waveforms_20261103/A14SIVB_S12_author_basic.pdf",
-      "bytes": 132995,
-      "sha256": "70c8236e2cbf8e62154ea2171b5164b418c02deeaa7f741df209b5da2a5a15d9"
-    },
-    {
       "path": "月球散射强度评估/figures/published_waveforms_20261103/A14SIVB_S12_MHZ_Xiao_author_exclusion.pdf",
       "bytes": 264701,
       "sha256": "d005c90cc56ff3fc2273d8cc0cf74d1d3ce6486915ac47ecaad6d06373a3b844"
+    },
+    {
+      "path": "月球散射强度评估/figures/published_waveforms_20261103/A14SIVB_S12_author_basic.pdf",
+      "bytes": 132995,
+      "sha256": "70c8236e2cbf8e62154ea2171b5164b418c02deeaa7f741df209b5da2a5a15d9"
     },
     {
       "path": "月球散射强度评估/figures/published_waveforms_20261103/A15LM_S12_S14_author_basic.pdf",
@@ -4777,11 +4782,6 @@
       "sha256": "131a1248377634bba8a5227516fea2d4eeb6405f61a64bbfb182095890b85b1e"
     },
     {
-      "path": "月球散射强度评估/outputs/撞击记录与散射建模_20261029/PPT结构验证.json",
-      "bytes": 5190,
-      "sha256": "8ad4a360918f2c05f5abed1a5f979a7aaf9a09cf6ec5d98746ea3ac058a8e859"
-    },
-    {
       "path": "月球散射强度评估/outputs/撞击记录与散射建模_20261029/交付完整性验证.json",
       "bytes": 886,
       "sha256": "11b244768e569358bf4a174c73a0d5f372e5fe2d54e33a8d44936448b68d77e8"
@@ -4817,9 +4817,14 @@
       "sha256": "bbaa041a0a94f7cde8d8f1c9280110193af288f26464bb009922efcbc23484ba"
     },
     {
-      "path": "月球散射强度评估/README.md",
-      "bytes": 15810,
-      "sha256": "b0a93308209c6f16a1204adf64d1103ed295bf594367a2793874819da5854f99"
+      "path": "月球散射强度评估/reports/P0_current_status.md",
+      "bytes": 2203,
+      "sha256": "cbc142d96be10d26f70f47ac467e50cc03e38febae49518947418cc6ffe4d016"
+    },
+    {
+      "path": "月球散射强度评估/reports/P1_apollo_coverage_audit.md",
+      "bytes": 4844,
+      "sha256": "84e3d4e7e17b0a4089f39d83aa29b9e125ecf35be98d86d63ea4241a406390b6"
     },
     {
       "path": "月球散射强度评估/reports/expanded_citation_validation.json",
@@ -4875,16 +4880,6 @@
       "path": "月球散射强度评估/reports/model_choice_provenance_audit.md",
       "bytes": 17965,
       "sha256": "446eeb59c77c8c16cf83c0abe9be4bb8b6c743f7364c263cac26ecba9022fd96"
-    },
-    {
-      "path": "月球散射强度评估/reports/P0_current_status.md",
-      "bytes": 2203,
-      "sha256": "cbc142d96be10d26f70f47ac467e50cc03e38febae49518947418cc6ffe4d016"
-    },
-    {
-      "path": "月球散射强度评估/reports/P1_apollo_coverage_audit.md",
-      "bytes": 4844,
-      "sha256": "84e3d4e7e17b0a4089f39d83aa29b9e125ecf35be98d86d63ea4241a406390b6"
     },
     {
       "path": "月球散射强度评估/reports/recent_citation_validation.json",
@@ -4945,6 +4940,11 @@
       "path": "月球散射强度评估/requirements_impact.txt",
       "bytes": 68,
       "sha256": "287354b4eb6fc1ceffb02e1532b1d024ca0318aa8a67d20cc96e64e8f388aaf1"
+    },
+    {
+      "path": "月球散射强度评估/results/README.md",
+      "bytes": 277,
+      "sha256": "d1c4b480971403fd41b916aea4ce6709f988acad7c2ddbeb3946a091e65db616"
     },
     {
       "path": "月球散射强度评估/results/apollo_located_events_deduplicated.csv",
@@ -5022,14 +5022,14 @@
       "sha256": "d4d924dae2e0101847cbb1fd1adad48421266eadc92bf9ffe5fa2b17ff5af87a"
     },
     {
-      "path": "月球散射强度评估/results/impact_terrain/lola_data_provenance.json",
-      "bytes": 7961,
-      "sha256": "0273445e9514e8787c8eb32f3ac3592fc0fca5bf1b363b91ba6589563cff4065"
-    },
-    {
       "path": "月球散射强度评估/results/impact_terrain/README.md",
       "bytes": 2698,
       "sha256": "af96b7981d035943833b5a331fbf1d24de52e72714a4b7319448154375046f0f"
+    },
+    {
+      "path": "月球散射强度评估/results/impact_terrain/lola_data_provenance.json",
+      "bytes": 7961,
+      "sha256": "0273445e9514e8787c8eb32f3ac3592fc0fca5bf1b363b91ba6589563cff4065"
     },
     {
       "path": "月球散射强度评估/results/impact_terrain/site_height_checks.csv",
@@ -5287,11 +5287,6 @@
       "sha256": "c25dd30ada99904b5e1836c840494d925230855fe0c2506734cd9bccd50b64d4"
     },
     {
-      "path": "月球散射强度评估/results/README.md",
-      "bytes": 277,
-      "sha256": "d1c4b480971403fd41b916aea4ce6709f988acad7c2ddbeb3946a091e65db616"
-    },
-    {
       "path": "月球散射强度评估/results/recent_reference_metadata.json",
       "bytes": 10783,
       "sha256": "9d54e1e61878aa314184d7c1f00064046dc6e38fd9503a23c17022a2fdc38c3f"
@@ -5393,8 +5388,8 @@
     },
     {
       "path": "月球散射强度评估/scripts/download_reference_pdfs.py",
-      "bytes": 5126,
-      "sha256": "ff756e537e6028a82a3adfe9948ae8290a3e07af9482ceb079f7b53d7dff537e"
+      "bytes": 5046,
+      "sha256": "3092857dd94608a0c4c8e069318e5d3a6a835dc587d7c5fe422e9724365d4747"
     },
     {
       "path": "月球散射强度评估/scripts/finalize_reference_library.py",

@@ -36,7 +36,7 @@ def run(r):
         return False
     local=[]
     if r['doi']=='10.1029/2025ea004710':local=list(OUT.glob('*Zhang*pdf'))
-    if r['doi']=='10.1029/2022je007558':local=[Path(r'C:\Users\Administrator\Documents\Codex\2026-07-21\h\tmp\pdfs\onodera2022_check\Onodera_JGR_2022.pdf')]
+    if r['doi']=='10.1029/2022je007558':local=list(OUT.glob('*Onodera*pdf'))
     for p in local:
         if p.exists() and save(p.read_bytes(),str(p)):break
     urls=[]

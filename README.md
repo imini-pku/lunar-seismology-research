@@ -45,4 +45,6 @@
 
 恢复目录后，按原项目说明安装依赖并调整本机路径配置，再运行对应脚本。仅克隆仓库中的可浏览文件，不包含大型 NetCDF、MiniSEED、NPZ 和 DEM。
 
+派生结果表与来源记录中以 `h/` 开头的文件路径，均相对于上述共同解压父目录；数值列和原始数据校验值保留原值。
+
 完整包的大小与校验值见 [资产清单](publication/release_assets_manifest.json) 和 [SHA256SUMS](publication/SHA256SUMS.txt)；每包内另有逐文件校验清单。[来源与权利说明](NOTICE.md)记录外部数据和代码的归属。

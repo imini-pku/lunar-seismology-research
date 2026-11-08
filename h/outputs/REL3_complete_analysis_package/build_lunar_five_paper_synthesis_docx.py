@@ -12,7 +12,7 @@ from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
 
 
-ROOT = Path(r"C:\Users\Administrator\Documents\Codex\2026-07-21\h")
+ROOT = next(parent for parent in Path(__file__).resolve().parents if parent.name == "h")
 OUTPUT_DIR = ROOT / "outputs"
 ASSET_DIR = ROOT / "tmp" / "lunar_synthesis_docx_assets"
 RENDERED_PAPERS = ROOT / "tmp" / "pdfs" / "lunar_papers" / "rendered"

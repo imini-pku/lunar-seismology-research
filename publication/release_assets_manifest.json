@@ -4,21 +4,21 @@
   "assets": [
     {
       "filename": "lunar-h-original-project.zip",
-      "bytes": 1723214188,
-      "sha256": "16967d98b3677f412b585c70ebbebb556ccb58c240128cc5e0ba2f3cff60661c",
+      "bytes": 1723212610,
+      "sha256": "d1df73d7128cbc91ac36ec47b0d14513c2650bd130c67eef16110002deb01926",
       "source_file_count": 1230,
-      "source_bytes": 1940690220,
+      "source_bytes": 1940682961,
       "zip_entries": 1231,
       "crc_check": "passed",
       "edition": "research-results"
     },
     {
       "filename": "lunar-scattering-original-project.zip",
-      "bytes": 1395125886,
-      "sha256": "368e30be900661b48300aafd293d7f16bcc450cd48806534e441f0d9a6714f30",
-      "source_file_count": 1379,
-      "source_bytes": 1932234787,
-      "zip_entries": 1380,
+      "bytes": 1395092445,
+      "sha256": "3c51c418a933bcc225f81da3e2c7d843ca6be960bc29a59d61207301d7a709c2",
+      "source_file_count": 1378,
+      "source_bytes": 1932197695,
+      "zip_entries": 1379,
       "crc_check": "passed",
       "edition": "research-results"
     },

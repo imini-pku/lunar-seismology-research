@@ -6,7 +6,7 @@ from docx import Document
 from docx.oxml.ns import qn
 
 
-ROOT = Path(r"C:\Users\Administrator\Documents\Codex\2026-07-21\h")
+ROOT = next(parent for parent in Path(__file__).resolve().parents if parent.name == "h")
 DOCX_PATH = ROOT / "outputs" / "月震散射与低速层_五篇论文综合精读.docx"
 REPORT_PATH = ROOT / "tmp" / "lunar_synthesis_structure_audit.json"
 
